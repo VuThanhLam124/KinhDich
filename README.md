@@ -1,5 +1,5 @@
 # KinhDich
-Dự án cá nhân về hệ thống quản trị tri thức về Kinh Dịch
+Dự án cá nhân về hệ thống quản trị tri thức về Kinh Dịch. Hiện chưa xong.
 
 ## Mô tả chi tiết
 
