@@ -3,7 +3,7 @@ Dự án cá nhân về hệ thống quản trị tri thức về Kinh Dịch. H
 
 ## Mô tả chi tiết
 
-[Thêm mô tả chi tiết về dự án ở đây. Mục tiêu của dự án là gì? Nó giải quyết vấn đề gì? Đối tượng người dùng là ai?]
+Hệ thống hỗ trợ người dùng tra cứu, tìm hiểu về nội dung kinh dịch như gieo quẻ,...
 
 ## Tính năng
 
