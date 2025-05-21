@@ -52,12 +52,6 @@ Nếu bạn muốn đóng góp cho dự án, vui lòng làm theo các bước sa
 4.  Push lên nhánh (`git push origin feature/AmazingFeature`).
 5.  Mở một Pull Request.
 
-## Giấy phép
-
-Dự án này được cấp phép theo Giấy phép [Tên Giấy Phép - ví dụ: MIT]. Xem tệp `LICENSE` để biết chi tiết.
 
 ## Liên hệ
-
-[Tên của bạn] - [Email của bạn hoặc liên kết đến trang cá nhân]
-
-Link dự án: [https://github.com/your-username/KinhDich](https://github.com/your-username/KinhDich)
+Vũ Thành Lâm - vuthanhlam848@gmail.com
