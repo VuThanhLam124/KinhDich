@@ -21,7 +21,7 @@ def _score(query: str, docs: List[Dict], hex_code: str|None) -> np.ndarray:
     embs  = np.array([d["embedding"] for d in docs])
     sem   = cosine_similarity([qvec], embs)[0]
     bonus = np.array([1.0 if hex_code and d["hexagram"] == hex_code else 0.0 for d in docs])
-    return 0.25*kw + 0.5*sem + 0.25*bonus
+    return 0.25*kw + 0.25*sem + 0.5*bonus
 
 def smart_search(query: str) -> List[Dict[str, Any]]:
     hex_code = detect_hexagram(query)

@@ -10,7 +10,7 @@ def build_prompt(query: str, docs: List[Dict], name: str|None=None) -> str:
     return (
         f"{hello}Người dùng hỏi: “{query}”\n\n"
         f"Tài liệu:\n{ctx}\n\n"
-        "Trả lời ≤200 chữ, dẫn nguồn."
+        "Trả lời ≤400 chữ, dẫn nguồn. Tập trung vào kiến thức trong tài liệu."
     )
 
 def answer(query: str, user_name: str|None=None) -> str:

@@ -29,4 +29,4 @@ STOP_WORDS = {
     "có","này","để","cũng","thì","như","lại","nếu","sẽ","được"
 }
 TOP_K_RETRIEVE = 30
-TOP_K_RERANK   = 5
+TOP_K_RERANK   = 10

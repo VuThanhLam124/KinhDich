@@ -7,6 +7,6 @@ _model = genai.GenerativeModel(GEMINI_MODEL)
 def generate(prompt: str) -> str:
     resp = _model.generate_content(
         prompt,
-        generation_config={"temperature":0.3, "max_output_tokens":300}
+        generation_config={"temperature":0.3, "max_output_tokens":500}
     )
     return resp.text.strip()
