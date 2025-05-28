@@ -27,7 +27,9 @@ Hướng dẫn cách cài đặt dự án trên máy cục bộ.
 # Ví dụ các bước cài đặt
 git clone https://your-repository-url/KinhDich.git
 cd KinhDich
+pip install -r requirements
 # Thêm các lệnh cài đặt khác (ví dụ: pip install -r requirements.txt, npm install)
+python -m Source.main_cli.py
 ```
 
 ## Sử dụng
