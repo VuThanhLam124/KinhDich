@@ -1,0 +1,46 @@
+# Ignore Python cache
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Ignore virtual environments
+.env/
+.venv/
+env/
+venv/
+kinhdich/
+*.env
+
+# Ignore Jupyter notebook checkpoints
+.ipynb_checkpoints/
+
+# Ignore VSCode settings
+.vscode/
+
+# Ignore system files
+.DS_Store
+Thumbs.db
+
+# Ignore model & embedding cache
+hf_cache/
+*.cache/
+*.pt
+*.ckpt
+*.onnx
+
+# Ignore logs and temp files
+*.log
+*.tmp
+*.bak
+
+# Ignore HuggingFace cache
+~/.cache/
+~/.huggingface/
+
+# Ignore Mongo dumps
+*.bson
+*.json
+
+# Ignore Git lock
+.git/index.lock
