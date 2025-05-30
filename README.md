@@ -8,7 +8,7 @@ Hệ thống AI chatbot Kinh Dịch được thiết kế để:
 - Trả lời các câu hỏi về nội dung Kinh Dịch một cách thông minh và chính xác
 - Tìm kiếm thông tin từ cơ sở dữ liệu bao gồm Chu Dịch Hạ Kinh, Chu Dịch Thượng Kinh và các tài liệu liên quan
 - Sử dụng công nghệ embedding và reranking để tìm kiếm semantic tối ưu
-- Tích hợp AI generative (Gemini) để tạo ra câu trả lời tự nhiên và dễ hiểu
+- Tích hợp AI generative (Gemini, OpenAI hoặc các mô hình ngôn ngữ lớn-có thể tự config trong source code) để tạo ra câu trả lời tự nhiên và dễ hiểu
 
 ## Tính năng
 
