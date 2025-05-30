@@ -42,7 +42,6 @@ except ImportError:
 # ──────────────────────────────────────────────────────────────
 # MỤC LỤC – start_page & end_page đã có sẵn
 # ──────────────────────────────────────────────────────────────
-# Danh sách mục lục
 sections = [
     ("NHUNG_DIEU_NEN_BIET", 7, 17),
     ("TUA_CUA_TRINH_DI", 18, 19),
@@ -74,9 +73,9 @@ sections = [
     ("CHU_DICH_THUONG_KINH/QUE_PHUC", 419, 431),
     ("CHU_DICH_THUONG_KINH/QUE_VO_VONG", 433, 445),
     ("CHU_DICH_THUONG_KINH/QUE_DAI_SUC", 446, 458),
-    ("CHU_DICH_THUONG_KINH/QUE_DI", 459, 470),  # Thêm quẻ DI
-    ("CHU_DICH_THUONG_KINH/QUE_DAI_QUA", 471, 482),  # Thêm quẻ DAI QUA
-    ("CHU_DICH_THUONG_KINH/QUE_TAP_KHAM", 483, 497),  # Thêm quẻ TẬP KHẢM
+    ("CHU_DICH_THUONG_KINH/QUE_DI", 459, 470),
+    ("CHU_DICH_THUONG_KINH/QUE_DAI_QUA", 471, 482),
+    ("CHU_DICH_THUONG_KINH/QUE_TAP_KHAM", 483, 497),
     ("CHU_DICH_HA_KINH/QUE_HAM", 508, 520),
     ("CHU_DICH_HA_KINH/QUE_HANG", 521, 533),
     ("CHU_DICH_HA_KINH/QUE_DON", 534, 545),
@@ -209,7 +208,11 @@ def _parse_loi_kinh_block(block: str) -> Dict[str, Optional[str]]:
     for k, pat in pats.items():
         m = re.search(pat, block, flags=re.S | re.I)
         if m:
-            fields[k] = re.sub(r"\s+", " ", m.group(1)).strip()
+            text = re.sub(r"\s+", " ", m.group(1)).strip()
+            # loại bỏ “LỜI KINH” đầu khối nếu dính
+            if k == "lời_kinh":
+                text = re.sub(r"(?i)^\s*LỜI\s+KINH\s*", "", text)
+            fields[k] = text
     return fields
 
 
@@ -222,12 +225,11 @@ def parse_hexagram_text(raw_text: str, hexagram: str,
     chunks = []
 
     # 1. Lấy dòng biểu đồ quẻ (ví dụ '☱ Đoái trên ; ☲ Ly dưới')
-    que_match = re.search(r"^[☰☱☲☳☴☵☶☷].+$",
-                          raw_text, flags=re.M)
+    que_match = re.search(r"^\s*[☰☱☲☳☴☵☶☷].+$", raw_text, flags=re.M)
     que_str = que_match.group(0).strip() if que_match else None
 
     # 2. Tách phần mở đầu (trước LỜI KINH)
-    split = re.split(r"\nLỜI\s+KINH", raw_text, maxsplit=1, flags=re.I)
+    split = re.split(r"\bLỜI\s+KINH", raw_text, maxsplit=1, flags=re.I)
     preface = split[0]
     rest    = "LỜI KINH" + split[1] if len(split) > 1 else ""
 
@@ -278,6 +280,7 @@ def parse_hexagram_text(raw_text: str, hexagram: str,
             **fields
         })
         idx += 1
+
     return chunks
 
 # ═════════════════════════════════════════════════════════════
@@ -358,9 +361,8 @@ def load_raw_data(data_dir="Kinh_Dich_Data"):
 # ═════════════════════════════════════════════════════════════
 # 8. SAVE TO MongoDB (FULLY FIXED)
 # ═════════════════════════════════════════════════════════════
-
 def generate_text_for_embedding(chunk: dict) -> str:
-    """Ghép nội dung các trường văn bản để tạo embedding."""
+    """Ghép nội dụng các trường văn bản để tạo embedding."""
     return " ".join([
         str(chunk.get(field)) for field in [
             "lời_kinh",
@@ -383,7 +385,6 @@ def save_to_mongodb(chunks: List[Dict], mongo_uri: str,
         col.delete_many({})
         logger.info("Đã làm sạch collection cũ")
 
-        # Dùng mô hình embedding ổn định
         embedder = HuggingFaceEmbeddings(model_name="all-MiniLM-L6-v2")
         total = 0
 
@@ -420,7 +421,6 @@ def save_to_mongodb(chunks: List[Dict], mongo_uri: str,
         client.close()
         raise
 
-
 # ═════════════════════════════════════════════════════════════
 # 9. MAIN
 # ═════════════════════════════════════════════════════════════
@@ -436,7 +436,6 @@ def main():
 
     raw = load_raw_data(data_dir)
 
-    # Gom tất cả chunks của mọi quẻ
     all_chunks = []
     for hexagram, data in raw.items():
         sec_info = next((s for s in sections
@@ -453,7 +452,6 @@ def main():
 
     save_to_mongodb(all_chunks, mongo_uri, db_name, col_name)
 
-    # Kiểm tra
     client = MongoClient(mongo_uri)
     sample = client[db_name][col_name].find_one()
     logger.info("Sample document:\n" +
