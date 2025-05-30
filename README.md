@@ -1,4 +1,4 @@
-# KinhDich - Hệ thống AI Chatbot Kinh Dịch
+# KinhDich - Hệ thống AI Chatbot Kinh Dịch (chưa xong)
 
 Dự án xây dựng hệ thống AI chatbot thông minh để tra cứu và tư vấn về Kinh Dịch (I Ching). Hệ thống sử dụng công nghệ RAG (Retrieval-Augmented Generation) để cung cấp thông tin chính xác từ kho dữ liệu Kinh Dịch phong phú.
 
@@ -44,7 +44,7 @@ Hệ thống AI chatbot Kinh Dịch được thiết kế để:
 
 1. **Clone repository:**
 ```bash
-git clone https://github.com/your-username/KinhDich.git
+git clone https://github.com/VuThanhLam124/KinhDich.git
 cd KinhDich
 ```
 
@@ -134,4 +134,4 @@ Dự án này được phân phối dưới giấy phép MIT. Xem file `LICENSE`
 
 Vũ Thành Lâm - [vuthanhlam848@gmail.com](mailto:vuthanhlam848@gmail.com)
 
-Project Link: [(https://github.com/VuThanhLam124/KinhDich)]
+Project Link: (https://github.com/VuThanhLam124/KinhDich)
