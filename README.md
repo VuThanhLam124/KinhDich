@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/86bfd6b6-9972-49d6-923f-5a0ddecf90e0)# KinhDich - Hệ thống AI Chatbot Kinh Dịch
+# KinhDich - Hệ thống AI Chatbot Kinh Dịch
 
 Dự án xây dựng hệ thống AI chatbot thông minh để tra cứu và tư vấn về Kinh Dịch (I Ching). Hệ thống sử dụng công nghệ RAG (Retrieval-Augmented Generation) để cung cấp thông tin chính xác từ kho dữ liệu Kinh Dịch phong phú.
 
