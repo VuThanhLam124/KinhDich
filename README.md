@@ -134,4 +134,4 @@ Dự án này được phân phối dưới giấy phép MIT. Xem file `LICENSE`
 
 Vũ Thành Lâm - [vuthanhlam848@gmail.com](mailto:vuthanhlam848@gmail.com)
 
-Project Link: [https://github.com/your-username/KinhDich](https://github.com/your-username/KinhDich)
+Project Link: [[https://github.com/your-username/KinhDich](https://github.com/your-username/KinhDich)](https://github.com/VuThanhLam124/KinhDich)
