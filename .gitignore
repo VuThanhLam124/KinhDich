@@ -40,7 +40,6 @@ hf_cache/
 
 # Ignore Mongo dumps
 *.bson
-*.json
 
 # Ignore Git lock
 .git/index.lock
