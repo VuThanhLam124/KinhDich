@@ -3,6 +3,7 @@
     "chunk_id": "QUE_KY_TE_001",
     "hexagram": "QUE_KY_TE",
     "que": null,
+    "content_type": "preface",
     "lời_kinh": null,
     "dịch_âm": null,
     "dịch_nghĩa": null,
@@ -18,255 +19,272 @@
     "chunk_id": "QUE_KY_TE_002",
     "hexagram": "QUE_KY_TE",
     "que": null,
-    "lời_kinh": "既濟.亨.⼩利貞.初吉終亂.",
-    "dịch_âm": "Ký Tế hanh, tiểu lợi trinh, sơ cát, chung loạn.",
-    "dịch_nghĩa": "Quẻ ký tế hanh, nhỏ lợi về chính bền, đầu tốt, chót loạn. GIẢI NGHĨA",
-    "truyện_của_Trình_Di": null,
-    "bản_nghĩa_của_Chu_Hy": "Đã sang là việc đã nên. Nó là quẻ nước lửa giao nhau, thứ nào được dùng của thứ ấy. Ngôi của sau hào đều được chính đinh, cho nên đã sang. Chữ “hanh nhỏ” nên đổi ra làm “nhỏ hanh”. Đại đẻ quẻ này và lời Chiêm của sau hào đều có ý răn dỗ, thì nên thế vậy.",
-    "lời_bàn_của_tiên_nho": null,
+    "content_type": "interpretation",
     "notes": {
       "1": "Chữ 既濟 (ký tế) nghĩa là sang sông, đã nên việc, hay đã xong việc.",
       "2": "Dịch theo Trình Di. Theo Chu Hy thì chữ 茀 (phất) nghĩa là mui xe."
-    }
+    },
+    "lời_kinh": "既濟.亨.⼩利貞.初吉終亂.",
+    "dịch_âm": "Ký Tế hanh, tiểu lợi trinh, sơ cát, chung loạn.",
+    "dịch_nghĩa": "Quẻ ký tế hanh, nhỏ lợi về chính bền, đầu tốt, chót loạn.",
+    "truyện_của_Trình_Di": "Trong thì đã sang, cái lớn đã hanh thông rồi, cái nhỏ còn chưa hanh thông. Tuy là trong thì đã sang, không thẻ không có cái nhỏ chưa hanh thông. Chữ “nhỏ” ở duwois, lời nói lên thế. Nếu nói”nhỏ hanh” thì sự hanh thông nho. Lợi về chính bền là vì ở thì sang, lợi ở gìn giữ bằng cách chinh bền. Đầu tốt là lúc đương sang, chót loạn là tại sang đà dùng cực thì phải trái lại.",
+    "bản_nghĩa_của_Chu_Hy": "Đã sang là việc đã nên. Nó là quẻ nước lửa giao nhau, thứ nào được dùng của thứ ấy. Ngôi của sau hào đều được chính đinh, cho nên đã sang. Chữ “hanh nhỏ” nên đổi ra làm “nhỏ hanh”. Đại đẻ quẻ này và lời Chiêm của sau hào đều có ý răn dỗ, thì nên thế vậy.",
+    "lời_bàn_của_tiên_nho": null
   },
   {
     "chunk_id": "QUE_KY_TE_003",
     "hexagram": "QUE_KY_TE",
     "que": null,
-    "lời_kinh": "彖⽈.既濟.亨.⼩者亨也.",
-    "dịch_âm": "Thoán viết:Ký tế hanh, tiểu giả hanh dã.",
-    "dịch_nghĩa": "Lời Thoán nói rằng: Quẻ Ký tế hanh, cái nhỏ hanh vậy. GIẢI NGHĨA",
-    "truyện_của_Trình_Di": null,
-    "bản_nghĩa_của_Chu_Hy": null,
-    "lời_bàn_của_tiên_nho": null,
+    "content_type": "interpretation",
     "notes": {
       "1": "Chữ 既濟 (ký tế) nghĩa là sang sông, đã nên việc, hay đã xong việc.",
       "2": "Dịch theo Trình Di. Theo Chu Hy thì chữ 茀 (phất) nghĩa là mui xe."
-    }
+    },
+    "lời_kinh": "彖⽈.既濟.亨.⼩者亨也.",
+    "dịch_âm": "Thoán viết:Ký tế hanh, tiểu giả hanh dã.",
+    "dịch_nghĩa": "Lời Thoán nói rằng: Quẻ Ký tế hanh, cái nhỏ hanh vậy.",
+    "truyện_của_Trình_Di": "Dưới chữ 濟 (tế) ngờ sót chữ ⼩ (tiểu).",
+    "bản_nghĩa_của_Chu_Hy": null,
+    "lời_bàn_của_tiên_nho": null
   },
   {
     "chunk_id": "QUE_KY_TE_004",
     "hexagram": "QUE_KY_TE",
     "que": null,
-    "lời_kinh": "利貞.剛柔正⽽位當也.",
-    "dịch_âm": "Lợi trinh, cương nhu chính nhi vị đáng dã.",
-    "dịch_nghĩa": "Lợi về chính bền, cứng mềm chính mà ngôi đáng vậy. GIẢI NGHĨA",
-    "truyện_của_Trình_Di": null,
-    "bản_nghĩa_của_Chu_Hy": null,
-    "lời_bàn_của_tiên_nho": null,
+    "content_type": "interpretation",
     "notes": {
       "1": "Chữ 既濟 (ký tế) nghĩa là sang sông, đã nên việc, hay đã xong việc.",
       "2": "Dịch theo Trình Di. Theo Chu Hy thì chữ 茀 (phất) nghĩa là mui xe."
-    }
+    },
+    "lời_kinh": "利貞.剛柔正⽽位當也.",
+    "dịch_âm": "Lợi trinh, cương nhu chính nhi vị đáng dã.",
+    "dịch_nghĩa": "Lợi về chính bền, cứng mềm chính mà ngôi đáng vậy.",
+    "truyện_của_Trình_Di": "Trong thì đã sang, cái lớn chỉn đã hanh thông rồi, chỉ có cái nhỏ chưa hanh thông. Thì đã hanh thông, chỉn nên chính bền mà giữ. Tài quẻ cứng mềm cứng đáng với ngôi của nó đang ngôi là sự thường, đó tức là nghĩa chính bên, lời về nết chinh, như thế, Âm Dương đều được chính ngôi, cho nên mới là đã sang.",
+    "bản_nghĩa_của_Chu_Hy": null,
+    "lời_bàn_của_tiên_nho": null
   },
   {
     "chunk_id": "QUE_KY_TE_005",
     "hexagram": "QUE_KY_TE",
     "que": null,
-    "lời_kinh": "初吉.柔得中也.終⽌則亂.其道窮也.",
-    "dịch_âm": "Sơ cát, nhu đắc trung dã; chung chỉ tắc loạn, kỳ đạo cùng dã.",
-    "dịch_nghĩa": "Đầu tốt, mềm được giữa vậy; chót đậu thì loạn, thửa đạo cùng vậy. GIẢI NGHĨA",
-    "truyện_của_Trình_Di": null,
-    "bản_nghĩa_của_Chu_Hy": null,
-    "lời_bàn_của_tiên_nho": null,
+    "content_type": "interpretation",
     "notes": {
       "1": "Chữ 既濟 (ký tế) nghĩa là sang sông, đã nên việc, hay đã xong việc.",
       "2": "Dịch theo Trình Di. Theo Chu Hy thì chữ 茀 (phất) nghĩa là mui xe."
-    }
+    },
+    "lời_kinh": "初吉.柔得中也.終⽌則亂.其道窮也.",
+    "dịch_âm": "Sơ cát, nhu đắc trung dã; chung chỉ tắc loạn, kỳ đạo cùng dã.",
+    "dịch_nghĩa": "Đầu tốt, mềm được giữa vậy; chót đậu thì loạn, thửa đạo cùng vậy.",
+    "truyện_của_Trình_Di": "Hào Hai là chất mềm thuận, văn vẻ, sáng lang mà được chỗ giữa, cho nên mới làm nên công “đã sang”. Hào hai ở thể duwois, là lúc đầu cuộc “đương sang” mà lại khéo xư, cho nên mới tốt. Việc trong thiên hạ, không tiến thì lùi, không có cái lẽ nhất định. Đến chót cuộc sang, chẳng tiên mà đâu, tức là sự đậu bất thường, suy loạn đến rồi, vì là đạo nó đã cùng cực rồi. Tài hào Chín Năm, không phải không hai, chỉ vì thời cực, đạo cùng, lẽ ắt phải biến.",
+    "bản_nghĩa_của_Chu_Hy": null,
+    "lời_bàn_của_tiên_nho": null
   },
   {
     "chunk_id": "QUE_KY_TE_006",
     "hexagram": "QUE_KY_TE",
     "que": null,
-    "lời_kinh": "象⽈.⽔在⽕上.既濟.君⼦以思患⽽預防之.",
-    "dịch_âm": "Tượng viết: Thủy tại hỏa thượng, Ký tế, quan tử dĩ tư hoạn nhi dự phòng chi.",
-    "dịch_nghĩa": "Lời Tượng nói rằng: Nước ở trên lửa là quẻ Ký tế, đáng quan tử coi đó để nghĩ sự lo mà ngừa sẵn đấy. GIẢI NGHĨA",
-    "truyện_của_Trình_Di": null,
-    "bản_nghĩa_của_Chu_Hy": null,
-    "lời_bàn_của_tiên_nho": null,
+    "content_type": "interpretation",
     "notes": {
       "1": "Chữ 既濟 (ký tế) nghĩa là sang sông, đã nên việc, hay đã xong việc.",
       "2": "Dịch theo Trình Di. Theo Chu Hy thì chữ 茀 (phất) nghĩa là mui xe."
-    }
+    },
+    "lời_kinh": "象⽈.⽔在⽕上.既濟.君⼦以思患⽽預防之.",
+    "dịch_âm": "Tượng viết: Thủy tại hỏa thượng, Ký tế, quan tử dĩ tư hoạn nhi dự phòng chi.",
+    "dịch_nghĩa": "Lời Tượng nói rằng: Nước ở trên lửa là quẻ Ký tế, đáng quan tử coi đó để nghĩ sự lo mà ngừa sẵn đấy.",
+    "truyện_của_Trình_Di": "Nước lừa đã giao nhua, thứ nào được dùng của thứ ấy, tức là đã sang. Gặp thì “đã sang”. Chỉ sợ vạ hại sinh ra, cho nên nghĩ cách ngừa sẵn đi, khiên cho không đến phải lo. Từ xưa thiên hạ yên rồi mà lại đến phải vạ loạn, đều tại không biết lo nghĩ mà ngừa sẵn cả.",
+    "bản_nghĩa_của_Chu_Hy": null,
+    "lời_bàn_của_tiên_nho": null
   },
   {
     "chunk_id": "QUE_KY_TE_007",
     "hexagram": "QUE_KY_TE",
     "que": null,
-    "lời_kinh": "初九.曳其輪.濡其尾.無咎.",
-    "dịch_âm": "Sơ Cửu: Duệ kỳ luân, nhu kỳ vy, vô cữu.",
-    "dịch_nghĩa": "Hào Chín Đầu: Kéo thửa bánh xe, ướt thửa đuôi không lỗi. GIẢI NGHĨA",
-    "truyện_của_Trình_Di": null,
-    "bản_nghĩa_của_Chu_Hy": "Bánh xe ở dưới, đuôi ở đăng sau là Tượng hào Đầu. Kéo bánh xe lại thì xe không thể đi lên được, ướt đuôi thì con cáo không sang sông được, đầu thì sang, cẩn thận răn đỗ như vậy là cách không lỗi đó. Kẻ xem như thế thì không có lỗi.",
-    "lời_bàn_của_tiên_nho": null,
+    "content_type": "interpretation",
     "notes": {
       "1": "Chữ 既濟 (ký tế) nghĩa là sang sông, đã nên việc, hay đã xong việc.",
       "2": "Dịch theo Trình Di. Theo Chu Hy thì chữ 茀 (phất) nghĩa là mui xe."
-    }
+    },
+    "lời_kinh": "初九.曳其輪.濡其尾.無咎.",
+    "dịch_âm": "Sơ Cửu: Duệ kỳ luân, nhu kỳ vy, vô cữu.",
+    "dịch_nghĩa": "Hào Chín Đầu: Kéo thửa bánh xe, ướt thửa đuôi không lỗi.",
+    "truyện_của_Trình_Di": "Hào Đầu lấy chất Dương ở chỗ duwois, phía trên ứng nhau với hào Tư, lại là thể lửa, cái chí tiên lên của nó đương mạnh, nhưng thì đã sang rồi, tiên lên không thôi, thì đến hối cữu, cho nên phải kéo bánh xe, ướt đuôi, mới không có lỗi. Bánh xe là vật để đi , kéo ngược trở lại, tức là khiến nó khỏi tiến. Con thú lội nước ắt phải ngỏng đuôi, ướt đuôi thì không thể sang. Đầu thì đã sang, biết ngăn sự tiến mới được không lỗi. Nếu không biết thooi thì đến phải lỗi.",
+    "bản_nghĩa_của_Chu_Hy": "Bánh xe ở dưới, đuôi ở đăng sau là Tượng hào Đầu. Kéo bánh xe lại thì xe không thể đi lên được, ướt đuôi thì con cáo không sang sông được, đầu thì sang, cẩn thận răn đỗ như vậy là cách không lỗi đó. Kẻ xem như thế thì không có lỗi.",
+    "lời_bàn_của_tiên_nho": null
   },
   {
     "chunk_id": "QUE_KY_TE_008",
     "hexagram": "QUE_KY_TE",
     "que": null,
-    "lời_kinh": "象⽈.曳其輪.義無咎也.",
-    "dịch_âm": "Tượng viết: Duệ kỳ luân, nghĩa vô cữu dã.",
-    "dịch_nghĩa": "Lời Tượng nói rằng: Kéo thửa bánh xe, nghĩa không lỗi vậy. GIẢI NGHĨA",
-    "truyện_của_Trình_Di": null,
-    "bản_nghĩa_của_Chu_Hy": null,
-    "lời_bàn_của_tiên_nho": null,
+    "content_type": "interpretation",
     "notes": {
       "1": "Chữ 既濟 (ký tế) nghĩa là sang sông, đã nên việc, hay đã xong việc.",
       "2": "Dịch theo Trình Di. Theo Chu Hy thì chữ 茀 (phất) nghĩa là mui xe."
-    }
+    },
+    "lời_kinh": "象⽈.曳其輪.義無咎也.",
+    "dịch_âm": "Tượng viết: Duệ kỳ luân, nghĩa vô cữu dã.",
+    "dịch_nghĩa": "Lời Tượng nói rằng: Kéo thửa bánh xe, nghĩa không lỗi vậy.",
+    "truyện_của_Trình_Di": "Đầu lúc đã sang, biết ngăn sự tiến thì không lỗi cùng cực, nghĩa đó tự nhiên không lỗi.",
+    "bản_nghĩa_của_Chu_Hy": null,
+    "lời_bàn_của_tiên_nho": null
   },
   {
     "chunk_id": "QUE_KY_TE_009",
     "hexagram": "QUE_KY_TE",
     "que": null,
-    "lời_kinh": "六⼆.婦喪其茀.勿逐.七⽇得.",
-    "dịch_âm": "Lục Nhị: Phụ táng kỳ phất, vật trục, thất nhật đắc. [2]",
-    "dịch_nghĩa": "Hào Sáu Hai: Đàn bà mất thửa khăn trùm chớ đuổi bảy ngày được. GIẢI NGHĨA",
-    "truyện_của_Trình_Di": null,
-    "bản_nghĩa_của_Chu_Hy": "Hào Hai lấy đức văn vẻ sang sủa giữa chính, phía trên ứng nhau với hào Chin năm là ông vua Dương Cứng giữa chính, đang được thực hành chính mình, mà hào Chín Năm ở thì đã sang, không chịu trong đãi người hiền để thi hành cái đạo của mình, cho nên hào Hai có Tượng là “đàn bà mấ cái khăn trùm” khăm trùm là đồ che của đàn bà, ý nói mất cái để di vậy. Nhưng đạo giữa chinh không thể bỏ mãi mãi, thì qua sẽ được thực hành, cho nên lại có lời răn “chớ đuổi tự nhiên sẽ được”.",
-    "lời_bàn_của_tiên_nho": null,
+    "content_type": "interpretation",
     "notes": {
       "1": "Chữ 既濟 (ký tế) nghĩa là sang sông, đã nên việc, hay đã xong việc.",
       "2": "Dịch theo Trình Di. Theo Chu Hy thì chữ 茀 (phất) nghĩa là mui xe."
-    }
+    },
+    "lời_kinh": "六⼆.婦喪其茀.勿逐.七⽇得.",
+    "dịch_âm": "Lục Nhị: Phụ táng kỳ phất, vật trục, thất nhật đắc. [2]",
+    "dịch_nghĩa": "Hào Sáu Hai: Đàn bà mất thửa khăn trùm chớ đuổi bảy ngày được.",
+    "truyện_của_Trình_Di": "Hào Hai là âm, cho nên lấy đàn bà mà nói khăn trùm là đồ của đàn bà khi ra khỏi cửa, dùng để tự che, mất khăn trùm thì không thể đi. Hào Hai không được hào năm tìm kiếm mà dùng, thì không được đi cũng như đàn bà mất khăn trùm vậy. Nhưng đạo trung chính, há có thể bỏ? Thì đã qua rồi thì sẽ đi được. Đuổi là chạy theo vật khác. Chạy theo vật khác thì mất cái sơ thủ cuarminhf, cho nên răn rằng chớ đuôi. Tự giữ không mất, thì bây ngày lại được. Quẻ có sau ngôi đến bảy thì biến đổi rồi. Bẩy ngày chỉ về thì biến đổi vậy. Tuy chẳng được người trên dùng đen, nhưng đạo trung chính, không có lẽ bị bỏ mãi, tuy chẳng thi hành trong lúc này, ắt được thi hành ở lúc khác, lời răn của thanh nhân thật là sâu xa.",
+    "bản_nghĩa_của_Chu_Hy": "Hào Hai lấy đức văn vẻ sang sủa giữa chính, phía trên ứng nhau với hào Chin năm là ông vua Dương Cứng giữa chính, đang được thực hành chính mình, mà hào Chín Năm ở thì đã sang, không chịu trong đãi người hiền để thi hành cái đạo của mình, cho nên hào Hai có Tượng là “đàn bà mấ cái khăn trùm” khăm trùm là đồ che của đàn bà, ý nói mất cái để di vậy. Nhưng đạo giữa chinh không thể bỏ mãi mãi, thì qua sẽ được thực hành, cho nên lại có lời răn “chớ đuổi tự nhiên sẽ được”.",
+    "lời_bàn_của_tiên_nho": null
   },
   {
     "chunk_id": "QUE_KY_TE_010",
     "hexagram": "QUE_KY_TE",
     "que": null,
-    "lời_kinh": "象⽈.七⽇得.以中道也.",
-    "dịch_âm": "Tượng viết: Thất nhật đắc, di trung đạo dã.",
-    "dịch_nghĩa": "Lời Tượng nói rằng: bây ngày được, vì đạo giữa vậy. GIẢI NGHĨA",
-    "truyện_của_Trình_Di": null,
-    "bản_nghĩa_của_Chu_Hy": null,
-    "lời_bàn_của_tiên_nho": null,
+    "content_type": "interpretation",
     "notes": {
       "1": "Chữ 既濟 (ký tế) nghĩa là sang sông, đã nên việc, hay đã xong việc.",
       "2": "Dịch theo Trình Di. Theo Chu Hy thì chữ 茀 (phất) nghĩa là mui xe."
-    }
+    },
+    "lời_kinh": "象⽈.七⽇得.以中道也.",
+    "dịch_âm": "Tượng viết: Thất nhật đắc, di trung đạo dã.",
+    "dịch_nghĩa": "Lời Tượng nói rằng: bây ngày được, vì đạo giữa vậy.",
+    "truyện_của_Trình_Di": "Cái đạo giữa chính tuy chẳng dược dùng đến, nhưng không có lẽ đến cùng không được thi hành, cho nên mất khăn trùm, bây ngày sẽ lại được, nghĩa là tự giữ đạo giữa, lúc khác ắt được thi hành. Không mất mực giữa thì là chính rồi.",
+    "bản_nghĩa_của_Chu_Hy": null,
+    "lời_bàn_của_tiên_nho": null
   },
   {
     "chunk_id": "QUE_KY_TE_011",
     "hexagram": "QUE_KY_TE",
     "que": null,
-    "lời_kinh": "九三.⾼宗伐⿁⽅.三年克之.⼩⼈勿⽤.",
-    "dịch_âm": "Cửu Tam: Cao Tông phạt Quỷ Phương, tam nhiên khắc chi, tiểu nhân vật dụng.",
-    "dịch_nghĩa": "Hào Chín Ba: Vua Cao Tông đánh nước Quỷ Phương, ba năm được đấy, kẻ tiểu nhân chờ dùng. GIẢI NGHĨA",
-    "truyện_của_Trình_Di": null,
-    "bản_nghĩa_của_Chu_Hy": "Thời đã sang, lấy chất cứng ở ngôi cứng, là Tương vua Cao Tông đánh nước Quỷ Phuong. “Ba năm được đấy” tức là phải lâu mới được, đó là ý răn kẻ xem không nên hành đông, bằng cách khinh suất. Câu “Tiểu nhân chờ dùng” phép xem giống hào Sáu Trên quẻ Sư .",
-    "lời_bàn_của_tiên_nho": null,
+    "content_type": "interpretation",
     "notes": {
       "1": "Chữ 既濟 (ký tế) nghĩa là sang sông, đã nên việc, hay đã xong việc.",
       "2": "Dịch theo Trình Di. Theo Chu Hy thì chữ 茀 (phất) nghĩa là mui xe."
-    }
+    },
+    "lời_kinh": "九三.⾼宗伐⿁⽅.三年克之.⼩⼈勿⽤.",
+    "dịch_âm": "Cửu Tam: Cao Tông phạt Quỷ Phương, tam nhiên khắc chi, tiểu nhân vật dụng.",
+    "dịch_nghĩa": "Hào Chín Ba: Vua Cao Tông đánh nước Quỷ Phương, ba năm được đấy, kẻ tiểu nhân chờ dùng.",
+    "truyện_của_Trình_Di": "Hào Chín ba đương thì đả sang, lấy chất cứng ở ngôi cứng, là kẻ dùng đạo cứng đến tột bậc vậy. Đã sang mà dùng đạo cứng như thế , tức là việc vua Cao Tông đánh nước Quỷ Phương. Cao Tông ắt là Cao Tông nhà Thương, việc trong thiên hạ đã xong, mà đi xa đánh kẻ bao loạn. Oai vũ tới được, mà lấy được sự cứu dân làm lòng, đó là việc của đấng vương giả, chỉ có ông vua thánh hiền thì được. Nếu sinh ra oai vũ, tức là kẻ bất phục, tham đát cát, thì là tàn dân động lòng ham muốn, cho nên răn rằng: chớ dùng kẻ tiểu nhân. Vì kẻ tiểu nhân mà làm việc đó chỉ cáo ý tham lam tức tôi riêng tây , nếu không tham lam tức tối thì họ không chịu làm. “ba năm được đấy” thấy rằng nhọc mệt tệ lắm. Đấng thánh nhân, nhân hào Chín Ba đương thời đã sang mà dùng cách cứng, mới phát nghĩa đó để làm phép và làm răn, kẻ kiến thức nông nổi không thể nghĩ tới.",
+    "bản_nghĩa_của_Chu_Hy": "Thời đã sang, lấy chất cứng ở ngôi cứng, là Tương vua Cao Tông đánh nước Quỷ Phuong. “Ba năm được đấy” tức là phải lâu mới được, đó là ý răn kẻ xem không nên hành đông, bằng cách khinh suất. Câu “Tiểu nhân chờ dùng” phép xem giống hào Sáu Trên quẻ Sư .",
+    "lời_bàn_của_tiên_nho": null
   },
   {
     "chunk_id": "QUE_KY_TE_012",
     "hexagram": "QUE_KY_TE",
     "que": null,
-    "lời_kinh": "象⽈.三年克之.憊也",
-    "dịch_âm": "Tượng viết: Tam niên khắc chi, bại dã.",
-    "dịch_nghĩa": "Lời của Tượng nói rằng: Ba năm được đó, mệt vậy. GIẢI NGHĨA",
-    "truyện_của_Trình_Di": null,
-    "bản_nghĩa_của_Chu_Hy": null,
-    "lời_bàn_của_tiên_nho": null,
+    "content_type": "interpretation",
     "notes": {
       "1": "Chữ 既濟 (ký tế) nghĩa là sang sông, đã nên việc, hay đã xong việc.",
       "2": "Dịch theo Trình Di. Theo Chu Hy thì chữ 茀 (phất) nghĩa là mui xe."
-    }
+    },
+    "lời_kinh": "象⽈.三年克之.憊也",
+    "dịch_âm": "Tượng viết: Tam niên khắc chi, bại dã.",
+    "dịch_nghĩa": "Lời của Tượng nói rằng: Ba năm được đó, mệt vậy.",
+    "truyện_của_Trình_Di": "Nói mệt cho thấy việc đó rất khó, vua Cao Tông làm thì được, nếu không có bụng như vua Cao Tông, thì là tham lam tức tôi, để làm hại dân.",
+    "bản_nghĩa_của_Chu_Hy": null,
+    "lời_bàn_của_tiên_nho": null
   },
   {
     "chunk_id": "QUE_KY_TE_013",
     "hexagram": "QUE_KY_TE",
     "que": null,
-    "lời_kinh": "六四.繻有⾐袽.終⽇戒.",
-    "dịch_âm": "Lục Tứ: Nhu hữu y như, chung nhật giới.",
-    "dịch_nghĩa": "Hào Sáu Tư: ướt có áo giẻ, trọn ngày răn. GIẢI NGHĨA",
-    "truyện_của_Trình_Di": null,
-    "bản_nghĩa_của_Chu_Hy": "Đương thì đã sang, lấy chất mềm ở ngôi mềm, là kẻ biết dự bị lo sợ, cho nên Tượng nó như thế.",
-    "lời_bàn_của_tiên_nho": null,
+    "content_type": "interpretation",
     "notes": {
       "1": "Chữ 既濟 (ký tế) nghĩa là sang sông, đã nên việc, hay đã xong việc.",
       "2": "Dịch theo Trình Di. Theo Chu Hy thì chữ 茀 (phất) nghĩa là mui xe."
-    }
+    },
+    "lời_kinh": "六四.繻有⾐袽.終⽇戒.",
+    "dịch_âm": "Lục Tứ: Nhu hữu y như, chung nhật giới.",
+    "dịch_nghĩa": "Hào Sáu Tư: ướt có áo giẻ, trọn ngày răn.",
+    "truyện_của_Trình_Di": "Hào Tư ở quẻ Tế mà thể nước, cho nên lấy thuyên làm nghĩa. Hào Tư ở ngôi gần vua là kẻ gánh vác trách nhiệm. Đương thì đã sang, lấy sự ngừa vạ lo biến làm gấp, chữ 繻 (nhu) đổi làm chữ 濡 (nhu) đọc là thăm dò vậy. Thuyền có hẻ dò thì nhét bằng áo giẻ. Có áo giẻ để phòng bị sự dò mà lại trọn ngày răn sợ, không nhắc, lo vạ nên như thế vậy.",
+    "bản_nghĩa_của_Chu_Hy": "Đương thì đã sang, lấy chất mềm ở ngôi mềm, là kẻ biết dự bị lo sợ, cho nên Tượng nó như thế.",
+    "lời_bàn_của_tiên_nho": null
   },
   {
     "chunk_id": "QUE_KY_TE_014",
     "hexagram": "QUE_KY_TE",
     "que": null,
-    "lời_kinh": "象⽈.終⽇戒.有所疑也.",
-    "dịch_âm": "Tượng viết: Chung nhật giới, hữu sơ nghĩ dã.",
-    "dịch_nghĩa": "Lời Tượng nói rằng: Trọn ngày răn, có thửa ngờ vậy. GIẢI NGHĨA",
-    "truyện_của_Trình_Di": null,
-    "bản_nghĩa_của_Chu_Hy": null,
-    "lời_bàn_của_tiên_nho": null,
+    "content_type": "interpretation",
     "notes": {
       "1": "Chữ 既濟 (ký tế) nghĩa là sang sông, đã nên việc, hay đã xong việc.",
       "2": "Dịch theo Trình Di. Theo Chu Hy thì chữ 茀 (phất) nghĩa là mui xe."
-    }
+    },
+    "lời_kinh": "象⽈.終⽇戒.有所疑也.",
+    "dịch_âm": "Tượng viết: Chung nhật giới, hữu sơ nghĩ dã.",
+    "dịch_nghĩa": "Lời Tượng nói rằng: Trọn ngày răn, có thửa ngờ vậy.",
+    "truyện_của_Trình_Di": "Trọn ngày răn sợ, là thường ngờ rằng vạ lo sắp tới. Ở thì đã sang, nên răn sợ như thế.",
+    "bản_nghĩa_của_Chu_Hy": null,
+    "lời_bàn_của_tiên_nho": null
   },
   {
     "chunk_id": "QUE_KY_TE_015",
     "hexagram": "QUE_KY_TE",
     "que": null,
-    "lời_kinh": "九五.東鄰殺⽜.不如西鄰之祭.實受其福.",
-    "dịch_âm": "Cửu ngũ: Đông lân sát ngưu, bất như tây lân chi thược tế, thật thụ kỳ phúc.",
-    "dịch_nghĩa": "Hào Chín Năm: Láng giềng bên Đông giết trâu, chẳng bằng láng giềng bên Tây tế Thược, thật chịu thửa phúc. GIẢI NGHĨA",
-    "truyện_của_Trình_Di": null,
-    "bản_nghĩa_của_Chu_Hy": "Đông là Dương, Tây là Âm, ý nói hào Năm ở ngôi tôn mà thời quá rồi, chẳng bào hào Hai ở dưới mà mới được thời. Lại đường vòa thời vua Văn và vua Trụ, cho nên Tượng, Chiêm của nó như thế. Lời Thoán trước tốt sau loạn cũng là ý đó.",
-    "lời_bàn_của_tiên_nho": null,
+    "content_type": "interpretation",
     "notes": {
       "1": "Chữ 既濟 (ký tế) nghĩa là sang sông, đã nên việc, hay đã xong việc.",
       "2": "Dịch theo Trình Di. Theo Chu Hy thì chữ 茀 (phất) nghĩa là mui xe."
-    }
+    },
+    "lời_kinh": "九五.東鄰殺⽜.不如西鄰之祭.實受其福.",
+    "dịch_âm": "Cửu ngũ: Đông lân sát ngưu, bất như tây lân chi thược tế, thật thụ kỳ phúc.",
+    "dịch_nghĩa": "Hào Chín Năm: Láng giềng bên Đông giết trâu, chẳng bằng láng giềng bên Tây tế Thược, thật chịu thửa phúc.",
+    "truyện_của_Trình_Di": "Hào Năm giữa đặc là có đức tin, hào Hài giữa rỗng là có đức thành, cho nên đều lấy việc tế tự làm nghĩa. Láng giềng bên đông là Dương, chỉ vào hào năm; Láng giềng bên tây là Âm, chỉ vào hào Hai, giết trâu là cuộc tế thịnh soạn. Thược là thức tế đơn sợ. Thịnh soan không bằng đơn sơ, là tịa thời không giống nhau. Hào Hai hào Năm đều có đức tin thành giữa chính, hào Hai ở duwois cuộc sang, còn có cơ lên, cho nên chịu phúc; Hào Năm ở chỗ cùng tột cuộc sang, không thể tiến nữa, nếu giữ bằng cách chí thành giữa chính, chỉ không đếu nỗi trái lại mà thôi; lý không khi nào cùng cực làm thế nào được, cho nên tượng của hào này chỉ nói về thời.",
+    "bản_nghĩa_của_Chu_Hy": "Đông là Dương, Tây là Âm, ý nói hào Năm ở ngôi tôn mà thời quá rồi, chẳng bào hào Hai ở dưới mà mới được thời. Lại đường vòa thời vua Văn và vua Trụ, cho nên Tượng, Chiêm của nó như thế. Lời Thoán trước tốt sau loạn cũng là ý đó.",
+    "lời_bàn_của_tiên_nho": null
   },
   {
     "chunk_id": "QUE_KY_TE_016",
     "hexagram": "QUE_KY_TE",
     "que": null,
-    "lời_kinh": "象⽈.東鄰殺⽜.不如西鄰之時也.實受其福.吉⼤來也.",
-    "dịch_âm": "Tượng viết: Đông lân sát ngưu bất như tây lân chi thì dã; thậ thụ kỳ phúc, cát đại lai dã.",
-    "dịch_nghĩa": "Lời Tượng nói rằng: Láng giềng bên Đông giết trâu, chằng bằng láng giềng bên Tây phải thời vậy; thật chịu thửa phúc, tốt cả lại vậy. GIẢI NGHĨA",
-    "truyện_của_Trình_Di": null,
-    "bản_nghĩa_của_Chu_Hy": null,
-    "lời_bàn_của_tiên_nho": null,
+    "content_type": "interpretation",
     "notes": {
       "1": "Chữ 既濟 (ký tế) nghĩa là sang sông, đã nên việc, hay đã xong việc.",
       "2": "Dịch theo Trình Di. Theo Chu Hy thì chữ 茀 (phất) nghĩa là mui xe."
-    }
+    },
+    "lời_kinh": "象⽈.東鄰殺⽜.不如西鄰之時也.實受其福.吉⼤來也.",
+    "dịch_âm": "Tượng viết: Đông lân sát ngưu bất như tây lân chi thì dã; thậ thụ kỳ phúc, cát đại lai dã.",
+    "dịch_nghĩa": "Lời Tượng nói rằng: Láng giềng bên Đông giết trâu, chằng bằng láng giềng bên Tây phải thời vậy; thật chịu thửa phúc, tốt cả lại vậy.",
+    "truyện_của_Trình_Di": "Tài đến hào năm không phải chẳng hay, nhưng khong phải thì bằng hào Hai. Hào Hai ở dưới là thời có tiến, cho nên giữa chính mà tin, thì sự tốt cả lại, thế gọi là chịu phúc. “Tốt cả lại” nghĩa là thời đang sang, tức là “cả lại” tức là “hanh nhỏ, đầu tốt” vậy.",
+    "bản_nghĩa_của_Chu_Hy": null,
+    "lời_bàn_của_tiên_nho": null
   },
   {
     "chunk_id": "QUE_KY_TE_017",
     "hexagram": "QUE_KY_TE",
     "que": null,
-    "lời_kinh": "上六.濡其⾸.厲.",
-    "dịch_âm": "Thượng lục: Nhu kỳ thủ, lệ!",
-    "dịch_nghĩa": "Hào Sáu Trên: Ướt thửa đầu, nguy! GIẢI NGHĨA",
-    "truyện_của_Trình_Di": null,
-    "bản_nghĩa_của_Chu_Hy": "chót cuộc đã sang, trên thể hiểm, mà lấy tài Âm mềm ở vào chỗ đó, là Tượng con cáo lội nước mà ướt đầu. Kẻ xem không biết răn sợ, tức là đạo nguy.",
-    "lời_bàn_của_tiên_nho": null,
+    "content_type": "interpretation",
     "notes": {
       "1": "Chữ 既濟 (ký tế) nghĩa là sang sông, đã nên việc, hay đã xong việc.",
       "2": "Dịch theo Trình Di. Theo Chu Hy thì chữ 茀 (phất) nghĩa là mui xe."
-    }
+    },
+    "lời_kinh": "上六.濡其⾸.厲.",
+    "dịch_âm": "Thượng lục: Nhu kỳ thủ, lệ!",
+    "dịch_nghĩa": "Hào Sáu Trên: Ướt thửa đầu, nguy!",
+    "truyện_của_Trình_Di": "Chót cuộc đã sang vẫn là chẳng yên mà nguy. Lại kẻ mềm ở ngôi đó mà đứng trên thể hiêm, khảm là nước, sang cũng lấy nghĩa là nước, cho nên nói cùng cực đến nỗi ướt đầu, đủ biết là nguy. Chót cuộc đã sang mà kẻ tiểu nhân ở vào ngôi đó, sự bại hoại của nó có thể đứng mà đợi được.",
+    "bản_nghĩa_của_Chu_Hy": "chót cuộc đã sang, trên thể hiểm, mà lấy tài Âm mềm ở vào chỗ đó, là Tượng con cáo lội nước mà ướt đầu. Kẻ xem không biết răn sợ, tức là đạo nguy.",
+    "lời_bàn_của_tiên_nho": null
   },
   {
     "chunk_id": "QUE_KY_TE_018",
     "hexagram": "QUE_KY_TE",
     "que": null,
-    "lời_kinh": "象⽈.濡其⾸厲.何可久也.",
-    "dịch_âm": "Tượng viết: Nhu kỳ thủ, lệ, hà khả cửu dã?",
-    "dịch_nghĩa": "Lời Tượng nói rằng: Ướt thửa đầu, nguy, sao khá dài vậy? GIẢI NGHĨA",
-    "truyện_của_Trình_Di": null,
-    "bản_nghĩa_của_Chu_Hy": null,
-    "lời_bàn_của_tiên_nho": null,
+    "content_type": "interpretation",
     "notes": {
       "1": "Chữ 既濟 (ký tế) nghĩa là sang sông, đã nên việc, hay đã xong việc.",
       "2": "Dịch theo Trình Di. Theo Chu Hy thì chữ 茀 (phất) nghĩa là mui xe."
-    }
+    },
+    "lời_kinh": "象⽈.濡其⾸厲.何可久也.",
+    "dịch_âm": "Tượng viết: Nhu kỳ thủ, lệ, hà khả cửu dã?",
+    "dịch_nghĩa": "Lời Tượng nói rằng: Ướt thửa đầu, nguy, sao khá dài vậy?",
+    "truyện_của_Trình_Di": "Đã sang mà cùng đến nỗi ướt đầu, có thể dài lâu được chăng?",
+    "bản_nghĩa_của_Chu_Hy": null,
+    "lời_bàn_của_tiên_nho": null
   }
 ]

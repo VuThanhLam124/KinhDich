@@ -3,6 +3,7 @@
     "chunk_id": "QUE_PHE_HAP_001",
     "hexagram": "QUE_PHE_HAP",
     "que": null,
+    "content_type": "preface",
     "lời_kinh": null,
     "dịch_âm": null,
     "dịch_nghĩa": null,
@@ -11,277 +12,295 @@
     "lời_bàn_của_tiên_nho": null,
     "notes": {
       "1": "Phệ hạp nghĩa là cắn hợp.",
-      "2": "Chỉ về"
+      "2": "Chỉ về quẻ Ly ."
     }
   },
   {
     "chunk_id": "QUE_PHE_HAP_002",
     "hexagram": "QUE_PHE_HAP",
     "que": null,
-    "lời_kinh": "噬嗑亨,利⽤獄. Dich âm. - Phệ hạp hanh, lợi dụng ngục.",
-    "dịch_âm": null,
-    "dịch_nghĩa": "Quẻ Phệ hạp hanh, lợi dùng việc ngục. GIẢI NGHĨA",
-    "truyện_của_Trình_Di": null,
-    "bản_nghĩa_của_Chu_Hy": "Phệ là cắn, hạp là hợp, vật có chỗ cách, phải cắn mới hợp lại được. Quẻ này trên dưới hai hào Dương mà giữa trống rỗng, là Tượng cái miệng. Chín Tư là một hào Dương ngăn cách ở giữa, phải cắn mới hợp lại được, cho nên là quẻ Phệ hạp. Lời Chiêm của nó nên được hanh thông, là vì bị có chỗ cách, cho nên mới không hanh thông, cắn chỗ cách đó mà hợp lại được thì hanh thông rồi. Lại, ba hào Âm, ba hào Dương, cứng mềm vừa nửa, trên động dưới sáng, dưới sấm trên chớp, vốn là từ hào Sáu Tư của quẻ Ích , là một hào mềm đi lên đến ngôi thứ năm mà được chỗ giữa. Coi đó biết rằng: Lấy hào Âm ở ngôi Dương tuy không đáng ngôi mà lợi về sự dùng ngục. Bởi vì trong việc trị ngục, quý có oai có sáng mà được vừa phải. Cho nên kẻ nào bói được quẻ này , nếu có đức ấy, thì ứng với lời chiêm ấy.",
-    "lời_bàn_của_tiên_nho": null,
+    "content_type": "interpretation",
     "notes": {
       "1": "Phệ hạp nghĩa là cắn hợp.",
-      "2": "Chỉ về"
-    }
+      "2": "Chỉ về quẻ Ly ."
+    },
+    "lời_kinh": "噬嗑亨,利⽤獄. Dich âm. - Phệ hạp hanh, lợi dụng ngục. Dịch nghĩa. - Quẻ Phệ hạp hanh, lợi dùng việc ngục.",
+    "dịch_âm": null,
+    "dịch_nghĩa": "Quẻ Phệ hạp hanh, lợi dùng việc ngục.",
+    "truyện_của_Trình_Di": "Quẻ Phệ hạp hanh, vì quẻ tự có nghĩa hanh. Việc trong thiên hạ, sở dĩ không được hanh thông là vì có chỗ ngăn cách; cắn mà hợp lại, thì hanh thông rồi. Lợi dùng việc ngục, nghĩa là cái đạo “cắn mà hợp lại” nên dùng về việc hình ngục vậy. Lại, ngăn cách ở thiên hạ, phi hình ngục lấy gì mà trừ bỏ được? Không nói “lợi dùng việc hình” mà nói “lợi dùng việc ngục” là vì trong quẻ có tượng sáng soi, lợi về sự xét ngục vậy. Ngục là để xét trị sự thật sự dối. Biết được tình thật, thì biết cái đạo làm cho ngăn cách, rồi mới có thể đặt ngăn ngừa và dùng hình phạt.",
+    "bản_nghĩa_của_Chu_Hy": "Phệ là cắn, hạp là hợp, vật có chỗ cách, phải cắn mới hợp lại được. Quẻ này trên dưới hai hào Dương mà giữa trống rỗng, là Tượng cái miệng. Chín Tư là một hào Dương ngăn cách ở giữa, phải cắn mới hợp lại được, cho nên là quẻ Phệ hạp. Lời Chiêm của nó nên được hanh thông, là vì bị có chỗ cách, cho nên mới không hanh thông, cắn chỗ cách đó mà hợp lại được thì hanh thông rồi. Lại, ba hào Âm, ba hào Dương, cứng mềm vừa nửa, trên động dưới sáng, dưới sấm trên chớp, vốn là từ hào Sáu Tư của quẻ Ích , là một hào mềm đi lên đến ngôi thứ năm mà được chỗ giữa. Coi đó biết rằng: Lấy hào Âm ở ngôi Dương tuy không đáng ngôi mà lợi về sự dùng ngục. Bởi vì trong việc trị ngục, quý có oai có sáng mà được vừa phải. Cho nên kẻ nào bói được quẻ này , nếu có đức ấy, thì ứng với lời chiêm ấy.",
+    "lời_bàn_của_tiên_nho": null
   },
   {
     "chunk_id": "QUE_PHE_HAP_003",
     "hexagram": "QUE_PHE_HAP",
     "que": null,
-    "lời_kinh": "彖⽈: 巧中有物⽈噬嗑.",
-    "dịch_âm": "Thoán viết: Dị trung hữu vật, viết Phệ hạp.",
-    "dịch_nghĩa": "Lời Thoán nói rằng: Trong mép có vật là quẻ Phệ hạp. GIẢI NGHĨA",
-    "truyện_của_Trình_Di": null,
-    "bản_nghĩa_của_Chu_Hy": "Đây dùng thể quẻ để thích nghĩa tên quẻ.",
-    "lời_bàn_của_tiên_nho": null,
+    "content_type": "interpretation",
     "notes": {
       "1": "Phệ hạp nghĩa là cắn hợp.",
-      "2": "Chỉ về"
-    }
+      "2": "Chỉ về quẻ Ly ."
+    },
+    "lời_kinh": "彖⽈: 巧中有物⽈噬嗑.",
+    "dịch_âm": "Thoán viết: Dị trung hữu vật, viết Phệ hạp.",
+    "dịch_nghĩa": "Lời Thoán nói rằng: Trong mép có vật là quẻ Phệ hạp.",
+    "truyện_của_Trình_Di": null,
+    "bản_nghĩa_của_Chu_Hy": "Đây dùng thể quẻ để thích nghĩa tên quẻ.",
+    "lời_bàn_của_tiên_nho": null
   },
   {
     "chunk_id": "QUE_PHE_HAP_004",
     "hexagram": "QUE_PHE_HAP",
     "que": null,
-    "lời_kinh": "嗤嗔⽽亨.",
-    "dịch_âm": "Phệ hạp nhi hanh.",
-    "dịch_nghĩa": "cắn hợp mà hanh. GIẢI NGHĨA",
-    "truyện_của_Trình_Di": null,
-    "bản_nghĩa_của_Chu_Hy": null,
-    "lời_bàn_của_tiên_nho": null,
+    "content_type": "interpretation",
     "notes": {
       "1": "Phệ hạp nghĩa là cắn hợp.",
-      "2": "Chỉ về"
-    }
+      "2": "Chỉ về quẻ Ly ."
+    },
+    "lời_kinh": "嗤嗔⽽亨.",
+    "dịch_âm": "Phệ hạp nhi hanh.",
+    "dịch_nghĩa": "cắn hợp mà hanh.",
+    "truyện_của_Trình_Di": "Trong mép có vật, cho nên là quẻ Phệ hạp. Có vật ngăn cách trong mép thì là sự hại. Cắn mà hợp lại, thì sự hại đó phải mất, mới là hanh thông, cho nên nói rằng: “Cắn hợp mà hanh”.",
+    "bản_nghĩa_của_Chu_Hy": null,
+    "lời_bàn_của_tiên_nho": null
   },
   {
     "chunk_id": "QUE_PHE_HAP_005",
     "hexagram": "QUE_PHE_HAP",
     "que": null,
-    "lời_kinh": "剛柔分動⽽明,雷電合⽽章.",
-    "dịch_âm": "Cương nhu phân động nhi minh, lôi điện hợp nhi chương.",
-    "dịch_nghĩa": "Cứng mềm chia động mà sáng, sấm chớp hợp lại mà rõ. GIẢI NGHĨA",
-    "truyện_của_Trình_Di": null,
-    "bản_nghĩa_của_Chu_Hy": null,
-    "lời_bàn_của_tiên_nho": null,
+    "content_type": "interpretation",
     "notes": {
       "1": "Phệ hạp nghĩa là cắn hợp.",
-      "2": "Chỉ về"
-    }
+      "2": "Chỉ về quẻ Ly ."
+    },
+    "lời_kinh": "剛柔分動⽽明,雷電合⽽章.",
+    "dịch_âm": "Cương nhu phân động nhi minh, lôi điện hợp nhi chương.",
+    "dịch_nghĩa": "Cứng mềm chia động mà sáng, sấm chớp hợp lại mà rõ.",
+    "truyện_của_Trình_Di": "Đây là nói về tài quẻ. Hào cứng và hào mềm xen nhau, cứng mềm chia ra mà không lẫn lộn, là tượng minh biện, tức là cái gốc của sự xét ngục. Động mà sáng: dưới Trấn trên Ly, tác là “động mà sáng”. Sấm chớp hợp lại mà rõ: sấm động mà chớp lòe, chờ nhau cùng hiện, tức là “hợp lại mà rõ”. Sự soi và oai cùng đi, đó là cái đạo dùng ngục. Soi được thì không kẻ nào có sự ẩn tình, có oai thì chẳng kẻ nào còn dám chẳng sợ. Câu trên đã lấy hai Tượng để nói sự động mà sáng của nó, cho nên câu dưới lại nói về ý “oai và sự soi cùng dùng”",
+    "bản_nghĩa_của_Chu_Hy": null,
+    "lời_bàn_của_tiên_nho": null
   },
   {
     "chunk_id": "QUE_PHE_HAP_006",
     "hexagram": "QUE_PHE_HAP",
     "que": null,
-    "lời_kinh": "柔得中⽽上⾏,雖不當位,利⽤獄也.",
-    "dịch_âm": "Nhu đắc trung nhi thượng hành, tuy bất đáng vị, lợi dùng ngục dã.",
-    "dịch_nghĩa": "Mềm được giữa mà đi lên, tuy không đáng ngôi, lợi về sự dùng ngục vậy. GIẢI NGHĨA",
-    "truyện_của_Trình_Di": null,
-    "bản_nghĩa_của_Chu_Hy": "Các đoạn này dùng tên quẻ, thể quẻ, đức quẻ hai tượng và sự biến đổi của quẻ để thích lời quẻ.",
-    "lời_bàn_của_tiên_nho": "Hồ Vân Phong nói rằng: Động không như sấm, không thể đoán ngục; sáng không như điện, không thể xét ngục, không mềm thì lỗi về bạo; mềm mà không giữa thì lỗi về phóng túng, nói sự cực dụng ngục là khó vậy.",
+    "content_type": "interpretation",
     "notes": {
       "1": "Phệ hạp nghĩa là cắn hợp.",
-      "2": "Chỉ về"
-    }
+      "2": "Chỉ về quẻ Ly ."
+    },
+    "lời_kinh": "柔得中⽽上⾏,雖不當位,利⽤獄也.",
+    "dịch_âm": "Nhu đắc trung nhi thượng hành, tuy bất đáng vị, lợi dùng ngục dã.",
+    "dịch_nghĩa": "Mềm được giữa mà đi lên, tuy không đáng ngôi, lợi về sự dùng ngục vậy.",
+    "truyện_của_Trình_Di": "Hào Sáu Năm lấy chất mềm ở ngôi giữa, là nghĩa “dùng ngục được vừa phải”. Đi lên nghĩa là ở ngôi tôn; tuy không đáng ngôi, nghĩa là lấy chất mềm mà ở ngôi Năm là không xứng đáng, thế mà lợi về sự dùng ngục, là vì cái đạo trị ngục, cứng cả thì hại về nghiêm bạo, mềm quá thì hỏng về khoan hoãn, hào Năm là chủ việc dùng ngục, lấy chất mềm, ở ngôi cứng mà được chỗ giữa, tức là được sự thích nghi của việc dùng ngục.",
+    "bản_nghĩa_của_Chu_Hy": "Các đoạn này dùng tên quẻ, thể quẻ, đức quẻ hai tượng và sự biến đổi của quẻ để thích lời quẻ.",
+    "lời_bàn_của_tiên_nho": "Hồ Vân Phong nói rằng: Động không như sấm, không thể đoán ngục; sáng không như điện, không thể xét ngục, không mềm thì lỗi về bạo; mềm mà không giữa thì lỗi về phóng túng, nói sự cực dụng ngục là khó vậy."
   },
   {
     "chunk_id": "QUE_PHE_HAP_007",
     "hexagram": "QUE_PHE_HAP",
     "que": null,
-    "lời_kinh": "象⽈: 雷電噬嗔,先王以明罰敕去",
-    "dịch_âm": "Tượng viết: Lôi điện Phệ hạp, tiên vương dĩ minh phạt sắc pháp.",
-    "dịch_nghĩa": "Lời Tượng nói rằng: Sấm chớp là quẻ Phệ hạp, đấng Tiên vương coi đó để tỏ phạt truyền phép. GIẢI NGHĨA",
-    "truyện_của_Trình_Di": null,
-    "bản_nghĩa_của_Chu_Hy": "Hai chữ “lôi điện” nên đổi ra làm “điện lôi”.",
-    "lời_bàn_của_tiên_nho": null,
+    "content_type": "interpretation",
     "notes": {
       "1": "Phệ hạp nghĩa là cắn hợp.",
-      "2": "Chỉ về"
-    }
+      "2": "Chỉ về quẻ Ly ."
+    },
+    "lời_kinh": "象⽈: 雷電噬嗔,先王以明罰敕去",
+    "dịch_âm": "Tượng viết: Lôi điện Phệ hạp, tiên vương dĩ minh phạt sắc pháp.",
+    "dịch_nghĩa": "Lời Tượng nói rằng: Sấm chớp là quẻ Phệ hạp, đấng Tiên vương coi đó để tỏ phạt truyền phép.",
+    "truyện_của_Trình_Di": "Lời Tượng không đặt đảo, chỗ này ngờ là lộn nhau. Sấm chớp là vật chờ nhau cùng hiện, cũng có tượng hợp. Chớp sáng mà sấm oai, đấng Tiên vương coi tượng sấm chớp, bắt chước cái sáng cái oai của nó để tỏ hình phạt và sức pháp lệnh. Pháp là tỏ rõ sự lý mà đặt ra cách ngăn ngừa.",
+    "bản_nghĩa_của_Chu_Hy": "Hai chữ “lôi điện” nên đổi ra làm “điện lôi”.",
+    "lời_bàn_của_tiên_nho": null
   },
   {
     "chunk_id": "QUE_PHE_HAP_008",
     "hexagram": "QUE_PHE_HAP",
     "que": null,
-    "lời_kinh": "#九: 履校滅趾,無咎.",
-    "dịch_âm": "Sơ Cửu: Lý hiệu, diệt chỉ, vô cữu.",
-    "dịch_nghĩa": "Hào Chín Đầu; Xéo xiềng, đứt ngón chân, không lỗi. GIẢI NGHĨA",
-    "truyện_của_Trình_Di": null,
-    "bản_nghĩa_của_Chu_Hy": "Hào Đầu, hào Trên không ngôi là tượng bi hình, bốn hào giữa là tượng dụng hình, Hào Đầu ở đầu quẻ, tội nhẹ, lỗi nhỏ, lại ở dưới quẻ, cho nên là tượng xéo xiềng đứt chân. Ngăn điều ác trong lúc mới đầu, cho nên được không lỗi. Kẻ xem bị thương nhỏ mà không cỏ lỗi.",
-    "lời_bàn_của_tiên_nho": null,
+    "content_type": "interpretation",
     "notes": {
       "1": "Phệ hạp nghĩa là cắn hợp.",
-      "2": "Chỉ về"
-    }
+      "2": "Chỉ về quẻ Ly ."
+    },
+    "lời_kinh": "#九: 履校滅趾,無咎.",
+    "dịch_âm": "Sơ Cửu: Lý hiệu, diệt chỉ, vô cữu.",
+    "dịch_nghĩa": "Hào Chín Đầu; Xéo xiềng, đứt ngón chân, không lỗi.",
+    "truyện_của_Trình_Di": "Hào Chín ở đầu, rất thấp, tức kẻ không ngôi, là tượng hạ dân, người phải chịu hình phạt, trong lúc bắt đầu dụng hình, tội nhỏ mà hình nhẹ. Hiện là xiềng gỗ, tội nhỏ, cho nên xéo nó vào chân để đến bị thương ngón chân. Người ta có lỗi nhỏ, bị xiềng mà đứt ngón chân, thì nên răn sợ, không tiến về đường ác nữa, cho nên mới được không lỗi.",
+    "bản_nghĩa_của_Chu_Hy": "Hào Đầu, hào Trên không ngôi là tượng bi hình, bốn hào giữa là tượng dụng hình, Hào Đầu ở đầu quẻ, tội nhẹ, lỗi nhỏ, lại ở dưới quẻ, cho nên là tượng xéo xiềng đứt chân. Ngăn điều ác trong lúc mới đầu, cho nên được không lỗi. Kẻ xem bị thương nhỏ mà không cỏ lỗi.",
+    "lời_bàn_của_tiên_nho": null
   },
   {
     "chunk_id": "QUE_PHE_HAP_009",
     "hexagram": "QUE_PHE_HAP",
     "que": null,
-    "lời_kinh": "象⽈: 履消滅趾,不⾏也.",
-    "dịch_âm": "Tượng viết: Lý hiệu, diệt chỉ, bất hành dã.",
-    "dịch_nghĩa": "Lời Tượng nói rằng: Xéo xiềng, đứt ngón chân, không đi vậy. GIẢI NGHĨA",
-    "truyện_của_Trình_Di": null,
-    "bản_nghĩa_của_Chu_Hy": null,
-    "lời_bàn_của_tiên_nho": null,
+    "content_type": "interpretation",
     "notes": {
       "1": "Phệ hạp nghĩa là cắn hợp.",
-      "2": "Chỉ về"
-    }
+      "2": "Chỉ về quẻ Ly ."
+    },
+    "lời_kinh": "象⽈: 履消滅趾,不⾏也.",
+    "dịch_âm": "Tượng viết: Lý hiệu, diệt chỉ, bất hành dã.",
+    "dịch_nghĩa": "Lời Tượng nói rằng: Xéo xiềng, đứt ngón chân, không đi vậy.",
+    "truyện_của_Trình_Di": "Xéo vào xiềng mà bị đứt đau ngón chân, thì biết răn sợ mà không gây lớn điều ác, cho nên nói là không đi. Người đời xưa đặt ra hình phạt, có tội nhỏ thì xiềng ngón chân, đó là nghĩa ngăn cấm sự đi, không cho tiến về đường ác. Bán nghĩa của Chu Hy. - Đứt ngón chân lại có tượng “không tiến về đường ác”.",
+    "bản_nghĩa_của_Chu_Hy": null,
+    "lời_bàn_của_tiên_nho": null
   },
   {
     "chunk_id": "QUE_PHE_HAP_010",
     "hexagram": "QUE_PHE_HAP",
     "que": null,
-    "lời_kinh": "六⼆: 噬廣,滅⿐,無咎.",
-    "dịch_âm": "Lục Nhị: Phệ phu, diệt ty, vô cữu.",
-    "dịch_nghĩa": "Hào Sáu Hai: Cắn da, dứt mũi, không lỗi. GIẢI NGHĨA",
-    "truyện_của_Trình_Di": null,
-    "bản_nghĩa_của_Chu_Hy": "Tế có vạc da, đó là thứ da mềm dòn cắn mà dễ hợp. Sáu hai là hào trung chính, cho nên việc của nó trị, dễ như cắn da. Nhưng vì nó là hào mềm mà lại cưỡi lên hào cứng, nên tuy rất dễ mà cũng không khỏi bị thương cụt mũi. Kẻ xem tuy là đau mà không có lỗi.",
-    "lời_bàn_của_tiên_nho": null,
+    "content_type": "interpretation",
     "notes": {
       "1": "Phệ hạp nghĩa là cắn hợp.",
-      "2": "Chỉ về"
-    }
+      "2": "Chỉ về quẻ Ly ."
+    },
+    "lời_kinh": "六⼆: 噬廣,滅⿐,無咎.",
+    "dịch_âm": "Lục Nhị: Phệ phu, diệt ty, vô cữu.",
+    "dịch_nghĩa": "Hào Sáu Hai: Cắn da, dứt mũi, không lỗi.",
+    "truyện_của_Trình_Di": "Hào Hai ứng với ngôi hào Năm, là kẻ dùng sự hình phạt. Bốn hào đều lấy nghĩa “cắn”, hào Hai ở giữa, được chỗ chính, là kẻ dụng hình mà được trung chính. Dụng hình được trung chính. Dụng hình được trung chính, thì kẻ tội ác dễ phục, cho nên lấy sự cắn da làm tượng, cắn ngoạm da dẻ người ta thì nó dễ vào. Diệt nghĩa là ngập, tức là vào sâu đến ngập cả mũi. Hào Hai lấy đạo trung chính mà dụng hình, thì sự trừng phạt của nó dễ phục. Nhtmg vì cưỡi lên hào Đầu là hào cứng, ấy là dụng hình với người cương cường. Hình phạt những kẻ cương cường, ắt phải đau sâu, cho nên đến ngập mũi mà không có lỗi.",
+    "bản_nghĩa_của_Chu_Hy": "Tế có vạc da, đó là thứ da mềm dòn cắn mà dễ hợp. Sáu hai là hào trung chính, cho nên việc của nó trị, dễ như cắn da. Nhưng vì nó là hào mềm mà lại cưỡi lên hào cứng, nên tuy rất dễ mà cũng không khỏi bị thương cụt mũi. Kẻ xem tuy là đau mà không có lỗi.",
+    "lời_bàn_của_tiên_nho": null
   },
   {
     "chunk_id": "QUE_PHE_HAP_011",
     "hexagram": "QUE_PHE_HAP",
     "que": null,
-    "lời_kinh": "象⽈: 噬膚滅⿐,乘剛也.",
-    "dịch_âm": "Tượng viết: Phệ phu diệt ty, thừa cương dã.",
-    "dịch_nghĩa": "Lời Tượng nói rằng: cắn da cụt mũi, vì cưỡi cứng vậy. GIẢI NGHĨA",
-    "truyện_của_Trình_Di": null,
-    "bản_nghĩa_của_Chu_Hy": null,
-    "lời_bàn_của_tiên_nho": null,
+    "content_type": "interpretation",
     "notes": {
       "1": "Phệ hạp nghĩa là cắn hợp.",
-      "2": "Chỉ về"
-    }
+      "2": "Chỉ về quẻ Ly ."
+    },
+    "lời_kinh": "象⽈: 噬膚滅⿐,乘剛也.",
+    "dịch_âm": "Tượng viết: Phệ phu diệt ty, thừa cương dã.",
+    "dịch_nghĩa": "Lời Tượng nói rằng: cắn da cụt mũi, vì cưỡi cứng vậy.",
+    "truyện_của_Trình_Di": "Sâu đến ngập mũi, là vì cưỡi lên kẻ cứng. Cưỡi lên kẻ cứng tức là dụng hình với người cương trường, không thể không nghiêm. Nghiêm thì được sự thích nghỉ, đó là trung đạo.",
+    "bản_nghĩa_của_Chu_Hy": null,
+    "lời_bàn_của_tiên_nho": null
   },
   {
     "chunk_id": "QUE_PHE_HAP_012",
     "hexagram": "QUE_PHE_HAP",
     "que": null,
-    "lời_kinh": "六三: #臘⾁,遇毒,⼩吝,無咎.",
-    "dịch_âm": "Lục Tam: Phệ tích nhục, ngộ độc tiểu lận, vô cữu.",
-    "dịch_nghĩa": "Hào Sáu Ba: cắn mắm khô, gặp độc, hơi tiếc, không lỗi. GIẢI NGHĨA",
-    "truyện_của_Trình_Di": null,
-    "bản_nghĩa_của_Chu_Hy": "Thịt khô là thịt giống thú để cả thịt xương mà làm ra tức là một vật rắn dẻo, Âm nhu không trung chính, trị người mà người không phục, là Tượng “cắn thịt khô gặp độc”. Lời chiêm tuy hơi đáng tiếc, song mà đương buổi “cắn hợp”, về nghĩa vẫn không có lỗi.",
-    "lời_bàn_của_tiên_nho": null,
+    "content_type": "interpretation",
     "notes": {
       "1": "Phệ hạp nghĩa là cắn hợp.",
-      "2": "Chỉ về"
-    }
+      "2": "Chỉ về quẻ Ly ."
+    },
+    "lời_kinh": "六三: #臘⾁,遇毒,⼩吝,無咎.",
+    "dịch_âm": "Lục Tam: Phệ tích nhục, ngộ độc tiểu lận, vô cữu.",
+    "dịch_nghĩa": "Hào Sáu Ba: cắn mắm khô, gặp độc, hơi tiếc, không lỗi.",
+    "truyện_của_Trình_Di": "Hào Ba ở trên quẻ dưới , là kẻ dụng hình. Là hào Sáu mà ở ngôi Ba, tức là ở không đáng ngôi. Tự xử không đáng mà lại hình phạt người, thì người không phục, mà còn oán giận trái phạm thêm vào, như cắn những vật khô kiệt rắn dẻo mà gặp phải vị độc xấu, lại làm cho miệng bị đau. Dụng hình mà người ta không phục, lại dám oán xót, là đáng bỉ thẹn. Nhưng mà trong lời “cắn hợp”,điều cốt yếu lớn là cắn những cái ngăn cách mà hợp nó lại, tuy là thân mình ở ngôi không đáng, mà kẻ cường ngạnh khó phục, đến phải gặp độc, nhưng sự dung hình không phải không đáng, cho nên dẫu là đáng tiếc, cũng là cắn nhỏ mà hợp nó lại, không phải có lỗi.",
+    "bản_nghĩa_của_Chu_Hy": "Thịt khô là thịt giống thú để cả thịt xương mà làm ra tức là một vật rắn dẻo, Âm nhu không trung chính, trị người mà người không phục, là Tượng “cắn thịt khô gặp độc”. Lời chiêm tuy hơi đáng tiếc, song mà đương buổi “cắn hợp”, về nghĩa vẫn không có lỗi.",
+    "lời_bàn_của_tiên_nho": null
   },
   {
     "chunk_id": "QUE_PHE_HAP_013",
     "hexagram": "QUE_PHE_HAP",
     "que": null,
-    "lời_kinh": "象⽈: 遇毒,位不當也.",
-    "dịch_âm": "Tượng viết: Ngộ độc, vị bất đáng dã.",
-    "dịch_nghĩa": "Lời Tượng nói rằng: Gặp độc, ngôi không đáng vậy. GIẢI NGHĨA",
-    "truyện_của_Trình_Di": null,
-    "bản_nghĩa_của_Chu_Hy": null,
-    "lời_bàn_của_tiên_nho": null,
+    "content_type": "interpretation",
     "notes": {
       "1": "Phệ hạp nghĩa là cắn hợp.",
-      "2": "Chỉ về"
-    }
+      "2": "Chỉ về quẻ Ly ."
+    },
+    "lời_kinh": "象⽈: 遇毒,位不當也.",
+    "dịch_âm": "Tượng viết: Ngộ độc, vị bất đáng dã.",
+    "dịch_nghĩa": "Lời Tượng nói rằng: Gặp độc, ngôi không đáng vậy.",
+    "truyện_của_Trình_Di": "Hào Sáu Ba là chất Âm, ở ngôi Dương, tức là ngôi ở không đáng. Bởi nó tự xử không đáng, cho nên những kẻ mà nó vô hình phạt khó phục mà lại làm độc cho nó.",
+    "bản_nghĩa_của_Chu_Hy": null,
+    "lời_bàn_của_tiên_nho": null
   },
   {
     "chunk_id": "QUE_PHE_HAP_014",
     "hexagram": "QUE_PHE_HAP",
     "que": null,
-    "lời_kinh": "九四:#秭,得⾦⽮,利艱貞,吉.",
-    "dịch_âm": "Cửu Tứ: Phệ can tỷ, đắc kim thỉ, lợi gian trình, cát!",
-    "dịch_nghĩa": "Hào Chín Tư: Cắn chạo khô, được tên vàng, lợi về khó nhọc, chính bền tốt. GIẢI NGHĨA",
-    "truyện_của_Trình_Di": null,
-    "bản_nghĩa_của_Chu_Hy": "Chữ # (tỷ) là thịt dính xương, thông với chữ # (sy) là thịt thái. Sách Chu Lễ kẻ kiện phải nộp cân vàng bó tên, mà sau mới xét; hào Tư lấy chất cứng ở ngôi mềm được đạo dụng hình, cho nên có tượng ấy. Ý nói có cắn càng sâu, được sự thích nghi của việc xét kiện, nhưng ắt lợi về gian nan, chính bền thì tốt. Răn kẻ xem nên như thế vậy.",
-    "lời_bàn_của_tiên_nho": null,
+    "content_type": "interpretation",
     "notes": {
       "1": "Phệ hạp nghĩa là cắn hợp.",
-      "2": "Chỉ về"
-    }
+      "2": "Chỉ về quẻ Ly ."
+    },
+    "lời_kinh": "九四:#秭,得⾦⽮,利艱貞,吉.",
+    "dịch_âm": "Cửu Tứ: Phệ can tỷ, đắc kim thỉ, lợi gian trình, cát!",
+    "dịch_nghĩa": "Hào Chín Tư: Cắn chạo khô, được tên vàng, lợi về khó nhọc, chính bền tốt.",
+    "truyện_của_Trình_Di": "Hào Chín Tư ở ngôi gần vua, là kẻ đương vào trách nhiệm “cắn hợp”. Ngôi Tư đã quá bậc giữa, đó là sự cách càng lớn mà sự dụng hình càng nghiêm, cho nên nói là “cắn chạo khô”. Chạo là thứ thịt hãy còn dính xương, thịt khô mà kèm xương, là vật rắn khó cắn. Cắn vật rất rắn mà được tên vàng: vàng lấy nghĩa rắn, tên lấy nghĩa thẳng; hào Chín Tư đức Dương cứng thẳng tức là được đạo cương trực; tuy dùng đạo cương trực, lợi ở chịu khó với việc mà cố lấy chính bền thì tốt. Chín Tư là hào cứng mà sáng, thể Dương mà ở ngôi mềm; cứng sáng thì hại về sự quả quyết, cho nên phải răn bằng sự biết khó nhọc; mềm thì giữ gìn không bền, cho nên phải răn bằng sự kiên trinh. Cứng mà không trinh là sự thường có, phàm kẻ quá cứng đều là không trinh. Ở quẻ Phệ hạp, hào Tư là hay nhất.",
+    "bản_nghĩa_của_Chu_Hy": "Chữ # (tỷ) là thịt dính xương, thông với chữ # (sy) là thịt thái. Sách Chu Lễ kẻ kiện phải nộp cân vàng bó tên, mà sau mới xét; hào Tư lấy chất cứng ở ngôi mềm được đạo dụng hình, cho nên có tượng ấy. Ý nói có cắn càng sâu, được sự thích nghi của việc xét kiện, nhưng ắt lợi về gian nan, chính bền thì tốt. Răn kẻ xem nên như thế vậy.",
+    "lời_bàn_của_tiên_nho": null
   },
   {
     "chunk_id": "QUE_PHE_HAP_015",
     "hexagram": "QUE_PHE_HAP",
     "que": null,
-    "lời_kinh": "象⽈: 利艱貞吉,未光也.",
-    "dịch_âm": "Tượng viết: Lợi gian trinh, cát, vị quang dã.",
-    "dịch_nghĩa": "Lời Tượng nói rằng: Lợi về khó nhọc, chính bền tốt, là chưa sáng vậy. GIẢI NGHĨA",
-    "truyện_của_Trình_Di": null,
-    "bản_nghĩa_của_Chu_Hy": null,
-    "lời_bàn_của_tiên_nho": null,
+    "content_type": "interpretation",
     "notes": {
       "1": "Phệ hạp nghĩa là cắn hợp.",
-      "2": "Chỉ về"
-    }
+      "2": "Chỉ về quẻ Ly ."
+    },
+    "lời_kinh": "象⽈: 利艱貞吉,未光也.",
+    "dịch_âm": "Tượng viết: Lợi gian trinh, cát, vị quang dã.",
+    "dịch_nghĩa": "Lời Tượng nói rằng: Lợi về khó nhọc, chính bền tốt, là chưa sáng vậy.",
+    "truyện_của_Trình_Di": "Phàm những chỗ nói “chưa sáng” đều là đạo chưa sáng lớn. Răn bằng câu “lợi về khó nhọc chính bền”, đó là chỗ nó không đủ. Bồi vì nó không được trung chính, cho nên như thế.",
+    "bản_nghĩa_của_Chu_Hy": null,
+    "lời_bàn_của_tiên_nho": null
   },
   {
     "chunk_id": "QUE_PHE_HAP_016",
     "hexagram": "QUE_PHE_HAP",
     "que": null,
-    "lời_kinh": "六五: 禮乾⾁,得黄⾦厲,無咎.",
-    "dịch_âm": "Lục Ngũ, Phệ can nhục, đắc hoàng kim, trinh lệ, vô cữu.",
-    "dịch_nghĩa": "Hào Sáu Năm: Cắn thịt khô, được vàng vàng, chính bền, lo sợ, không lỗi. GIẢI NGHĨA",
-    "truyện_của_Trình_Di": null,
-    "bản_nghĩa_của_Chu_Hy": "cắn thịt khô khó hơn cắn da mà dễ hơn cắn mắm, cắn chạo. “Hoàng” là màu trung bình. “Kim” cũng chỉ về cân vàng. Hào năm mềm thuận mà trung độ, lại ở ngôi tôn, dùng hình với người, không ai không phục, chữ nên có Tượng ấy. Nhưng mà ắt phải chính bền lo sợ, mới được không lỗi. Đó cũng là lời răn kẻ xem.",
-    "lời_bàn_của_tiên_nho": null,
+    "content_type": "interpretation",
     "notes": {
       "1": "Phệ hạp nghĩa là cắn hợp.",
-      "2": "Chỉ về"
-    }
+      "2": "Chỉ về quẻ Ly ."
+    },
+    "lời_kinh": "六五: 禮乾⾁,得黄⾦厲,無咎.",
+    "dịch_âm": "Lục Ngũ, Phệ can nhục, đắc hoàng kim, trinh lệ, vô cữu.",
+    "dịch_nghĩa": "Hào Sáu Năm: Cắn thịt khô, được vàng vàng, chính bền, lo sợ, không lỗi.",
+    "truyện_của_Trình_Di": "Hào Năm ở quẻ càng cao mà “cắn thịt khô”, còn dễ hơn chạo khô của hào Tư, bởi vì hào Năm ở ngôi tôn, nhân thế ở trên, để hình phạt kẻ dưới, thế nó dễ hơn. Ở quẻ, đã sắp cùng cực, chỗ cách càng lớn, không phải dễ hợp cho nên là “cắn thịt khô được vàng vàng” tức là vàng tốt. Màu vàng là màu trung bình, loài vàng là vật cứng rắn. Hào Năm ở giữa quẻ là được đạo trung bình, ở ngôi cứng mà có hào Tư giúp cho, là được vàng vàng. Hào Năm không có ứng mà hào Tư ở ngôi đại thần, tức là được nó giúp đỡ. “Trinh lệ vô cữu” nghĩa là hào Sáu Năm tuy ở chỗ chính giữa, kỳ thật vẫn là thể mềm, cho nên răn nố ắt phải chính bền và nhớ lo sợ, thì được không lỗi. Là chất mềm ở ngôi tôn, lại đương thời buổi “cắn hợp”, há lại có thể không chính bền mà nhớ lo sợ?",
+    "bản_nghĩa_của_Chu_Hy": "cắn thịt khô khó hơn cắn da mà dễ hơn cắn mắm, cắn chạo. “Hoàng” là màu trung bình. “Kim” cũng chỉ về cân vàng. Hào năm mềm thuận mà trung độ, lại ở ngôi tôn, dùng hình với người, không ai không phục, chữ nên có Tượng ấy. Nhưng mà ắt phải chính bền lo sợ, mới được không lỗi. Đó cũng là lời răn kẻ xem.",
+    "lời_bàn_của_tiên_nho": null
   },
   {
     "chunk_id": "QUE_PHE_HAP_017",
     "hexagram": "QUE_PHE_HAP",
     "que": null,
-    "lời_kinh": "象⽈: 專属無咎,得當也.",
-    "dịch_âm": "Tượng viết: Trinh lệ vô cữu, đắc đáng dã.",
-    "dịch_nghĩa": "Lời Tượng nói rằng: Chính bền, lo sợ, không lỗi, vì được đáng vậy. GIẢI NGHĨA",
-    "truyện_của_Trình_Di": null,
-    "bản_nghĩa_của_Chu_Hy": null,
-    "lời_bàn_của_tiên_nho": null,
+    "content_type": "interpretation",
     "notes": {
       "1": "Phệ hạp nghĩa là cắn hợp.",
-      "2": "Chỉ về"
-    }
+      "2": "Chỉ về quẻ Ly ."
+    },
+    "lời_kinh": "象⽈: 專属無咎,得當也.",
+    "dịch_âm": "Tượng viết: Trinh lệ vô cữu, đắc đáng dã.",
+    "dịch_nghĩa": "Lời Tượng nói rằng: Chính bền, lo sợ, không lỗi, vì được đáng vậy.",
+    "truyện_của_Trình_Di": "Sở dĩ có thể không lỗi, là vì việc của nó làm xứng đáng. Gọi là “đáng” tức là ngôi giữa, dùng kẻ cứng, mà biết giữ đường chính đính, lo sự hiểm nghèo.",
+    "bản_nghĩa_của_Chu_Hy": null,
+    "lời_bàn_của_tiên_nho": null
   },
   {
     "chunk_id": "QUE_PHE_HAP_018",
     "hexagram": "QUE_PHE_HAP",
     "que": null,
-    "lời_kinh": "上#: 何校,滅⽿,凶.",
-    "dịch_âm": "Thượng Cửu, Hạ hiệu, diệt nhĩ, hung!",
-    "dịch_nghĩa": "Hào Chín trên: Đội xiềng, đứt tai, hung! GIẢI NGHĨA",
-    "truyện_của_Trình_Di": null,
-    "bản_nghĩa_của_Chu_Hy": "Hạ nghĩa là đội. Hào Dương quá cực ở về trên quẻ, đó là cái đạo tội lớn án cực, cho nên tượng Chiêm như thế.",
-    "lời_bàn_của_tiên_nho": null,
+    "content_type": "interpretation",
     "notes": {
       "1": "Phệ hạp nghĩa là cắn hợp.",
-      "2": "Chỉ về"
-    }
+      "2": "Chỉ về quẻ Ly ."
+    },
+    "lời_kinh": "上#: 何校,滅⽿,凶.",
+    "dịch_âm": "Thượng Cửu, Hạ hiệu, diệt nhĩ, hung!",
+    "dịch_nghĩa": "Hào Chín trên: Đội xiềng, đứt tai, hung!",
+    "truyện_của_Trình_Di": "Hào Trên ở quá ngôi tôn, tức là không ngôi, cho nên là kẻ bị hình. Nó ở chót quẻ, là sự ngăn cách lớn hơn, và là cùng tột của cuộc cắn. Hệ từ bảo là “ác chứa mà không thể che, tội lớn mà không thể cởi”, cho nên đội xiềng mà ngập mất tai, đủ biết là hung.",
+    "bản_nghĩa_của_Chu_Hy": "Hạ nghĩa là đội. Hào Dương quá cực ở về trên quẻ, đó là cái đạo tội lớn án cực, cho nên tượng Chiêm như thế.",
+    "lời_bàn_của_tiên_nho": null
   },
   {
     "chunk_id": "QUE_PHE_HAP_019",
     "hexagram": "QUE_PHE_HAP",
     "que": null,
-    "lời_kinh": "#⽈: 何校滅⽿,聰不明也.",
-    "dịch_âm": "Tượng viết: Hạ hiệu, diệt nhĩ, thông bất minh dã.",
-    "dịch_nghĩa": "Lời Tượng nói rằng: Đội xiềng dứt tai, sự nghe không sáng vậy. GIẢI NGHĨA",
-    "truyện_của_Trình_Di": null,
-    "bản_nghĩa_của_Chu_Hy": "Dứt tai là tại sự nghe không suốt. Nếu biết nghe tỏ mà lo sớm đi, thì không có sự hung ấy.",
-    "lời_bàn_của_tiên_nho": "Khấu Kiến An nói rằng: Phệ hạp là quẻ trừ sự ngăn cách, cho nên sau hào đều nói về việc dụng hình. Hào Đầu hào Trên không ngôi là người chịu hình: hào Đầu lỗi nhỏ mà ở dưới, tức là lúc đầu việc ngục, cho nên lấy sự “xéo xiềng dứt ngón chân” làm Tượng; hào Trên ác cực mà cậy thế làm càn tới cùng, tức là lúc chót việc ngục; cho nên lấy sự “đội xiềng dứt tai” làm Tượng. Bốn hào giữa có ngôi, là người trị việc ngục, nhưng vì tài quẻ cứng mềm không giống nhau cho nên sự cắn của nó cũng có khó dễ khác nhau: hào Sáu Hai lấy chất mềm ở ngôi mềm, tức là kẻ thuần mềm cho nên Tượng là cắn da, da tức là vật dễ cắn; hào Sáu Năm lấy chất mềm ở ngôi cứng, tức cứng mềm vừa phải, cho nên Tượng là cắn thịt khô, thịt khô so với da thì khó cắn hơn; hào Sáu Ba trong chất mềm có tính cứng, cho nên là cắn mắm khô, mắm thì có xương, so với thịt khô lại khó cắn hơn; hào Chín Tư trong chất cứng có tính mềm cho nên là cắn chạo khô, chạo thì xương lớn hơn mắm, là thứ rất khó cắn. Nhưng hào Hai cắn da dứt mũi, hào Ba cắn mắm gặp độc, hào Tư cắn chạo khó nhọc chính bền, hào Năm cắn thịt khô chính bền lo sợ, đều là nói đạo trị ngục, không thể không cẩn thận. Đến như lời Chiêm, ba hào kia không lỗi, riêng hào Tư được tốt, thì việc trị ngục, lại nên chuộng sự cương quyết, mềm mỏng há là cách trừ cái ngăn cách. Chú thích: [1] Phệ hạp nghĩa là cắn hợp. [2] Chỉ về quẻ Ly .",
+    "content_type": "interpretation",
     "notes": {
       "1": "Phệ hạp nghĩa là cắn hợp.",
-      "2": "Chỉ về"
-    }
+      "2": "Chỉ về quẻ Ly ."
+    },
+    "lời_kinh": "#⽈: 何校滅⽿,聰不明也.",
+    "dịch_âm": "Tượng viết: Hạ hiệu, diệt nhĩ, thông bất minh dã.",
+    "dịch_nghĩa": "Lời Tượng nói rằng: Đội xiềng dứt tai, sự nghe không sáng vậy.",
+    "truyện_của_Trình_Di": "Người ta điếc tối không biết, chứa mãi tội ác cho đến cùng cực. Người xưa đặt phép, tội lớn thì bắt đội xiềng, vì nó không thửa nghe biết, chữa nên tội ác, cho nên dùng xiềng mà làm dứt đau tai nó, để răn sự nghe của nó không sáng vậy.",
+    "bản_nghĩa_của_Chu_Hy": "Dứt tai là tại sự nghe không suốt. Nếu biết nghe tỏ mà lo sớm đi, thì không có sự hung ấy.",
+    "lời_bàn_của_tiên_nho": "Khấu Kiến An nói rằng: Phệ hạp là quẻ trừ sự ngăn cách, cho nên sau hào đều nói về việc dụng hình. Hào Đầu hào Trên không ngôi là người chịu hình: hào Đầu lỗi nhỏ mà ở dưới, tức là lúc đầu việc ngục, cho nên lấy sự “xéo xiềng dứt ngón chân” làm Tượng; hào Trên ác cực mà cậy thế làm càn tới cùng, tức là lúc chót việc ngục; cho nên lấy sự “đội xiềng dứt tai” làm Tượng. Bốn hào giữa có ngôi, là người trị việc ngục, nhưng vì tài quẻ cứng mềm không giống nhau cho nên sự cắn của nó cũng có khó dễ khác nhau: hào Sáu Hai lấy chất mềm ở ngôi mềm, tức là kẻ thuần mềm cho nên Tượng là cắn da, da tức là vật dễ cắn; hào Sáu Năm lấy chất mềm ở ngôi cứng, tức cứng mềm vừa phải, cho nên Tượng là cắn thịt khô, thịt khô so với da thì khó cắn hơn; hào Sáu Ba trong chất mềm có tính cứng, cho nên là cắn mắm khô, mắm thì có xương, so với thịt khô lại khó cắn hơn; hào Chín Tư trong chất cứng có tính mềm cho nên là cắn chạo khô, chạo thì xương lớn hơn mắm, là thứ rất khó cắn. Nhưng hào Hai cắn da dứt mũi, hào Ba cắn mắm gặp độc, hào Tư cắn chạo khó nhọc chính bền, hào Năm cắn thịt khô chính bền lo sợ, đều là nói đạo trị ngục, không thể không cẩn thận. Đến như lời Chiêm, ba hào kia không lỗi, riêng hào Tư được tốt, thì việc trị ngục, lại nên chuộng sự cương quyết, mềm mỏng há là cách trừ cái ngăn cách."
   }
 ]

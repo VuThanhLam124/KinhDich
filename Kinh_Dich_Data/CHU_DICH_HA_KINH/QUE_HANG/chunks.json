@@ -3,6 +3,7 @@
     "chunk_id": "QUE_HANG_001",
     "hexagram": "QUE_HANG",
     "que": null,
+    "content_type": "preface",
     "lời_kinh": null,
     "dịch_âm": null,
     "dịch_nghĩa": null,
@@ -17,266 +18,285 @@
     "chunk_id": "QUE_HANG_002",
     "hexagram": "QUE_HANG",
     "que": null,
-    "lời_kinh": "恆亨,無咎,利貞,利有攸往.",
-    "dịch_âm": "Hằng hanh, vô cữu, lợi trinh, lợi hữu du vãng.",
-    "dịch_nghĩa": "Quẻ Hằng hanh, lợi về sự chính, lợi có thửa đi. GIẢI NGHĨA",
-    "truyện_của_Trình_Di": null,
-    "bản_nghĩa_của_Chu_Hy": "Hằng là thường lâu. Là quẻ Chấn cứng ở trên, Tốn mềm ở dưới. Chấn sấm, Tốn gió, hai vật cùng nhau, Tốn nhún, Chấn động, là nhún mà động, hai thể sau hào đều ứng với nhau. Cả bốn điều đó đều là lẽ thường, cho nên mới là quẻ Hằng . Lời Chiêm của nó thì là hễ mà có thể giữ lâu đạo ấy thì hanh mà không lỗi, lại ắt lợi về giữ được nết trinh, mới là được cái đạo mình vẫn thường thường theo giữ mà lợi có thửa đi.",
-    "lời_bàn_của_tiên_nho": null,
+    "content_type": "interpretation",
     "notes": {
       "1": "Chữ 恒(hằng) nghĩa là thường thường lúc nào cùng như lúc nào."
-    }
+    },
+    "lời_kinh": "恆亨,無咎,利貞,利有攸往.",
+    "dịch_âm": "Hằng hanh, vô cữu, lợi trinh, lợi hữu du vãng.",
+    "dịch_nghĩa": "Quẻ Hằng hanh, lợi về sự chính, lợi có thửa đi.",
+    "truyện_của_Trình_Di": "Hằng là thường lâu, đạo hằng có thể hanh thông, hễ thường thường theo giữ đạo ấy mà có thể hanh thông mới là không lỗi, nếu thường thường theo giữ đạo ấy mà không thể hanh thông, thì không phải là đạo có thể thường thường theo giữ, tức là có lỗi. Ví như đấng quân tử thường thường theo giữ điều thiện, đó là cái đạo có thể thường thường theo giữ; kẻ tiểu nhân thường thường theo giữ điều ác, đó là lỗi với cái đạo có thể thường thường, Đạo hằng sở dĩ hanh được, là vì trinh chính, cho nên nói là “lợi trinh”. Ôi gọi là hằng, tức là cái đạo có thể thường thường, không phải chỉ giữ một bề mà không thay đổi, cho nên mới lợi về có thửa đi.",
+    "bản_nghĩa_của_Chu_Hy": "Hằng là thường lâu. Là quẻ Chấn cứng ở trên, Tốn mềm ở dưới. Chấn sấm, Tốn gió, hai vật cùng nhau, Tốn nhún, Chấn động, là nhún mà động, hai thể sau hào đều ứng với nhau. Cả bốn điều đó đều là lẽ thường, cho nên mới là quẻ Hằng . Lời Chiêm của nó thì là hễ mà có thể giữ lâu đạo ấy thì hanh mà không lỗi, lại ắt lợi về giữ được nết trinh, mới là được cái đạo mình vẫn thường thường theo giữ mà lợi có thửa đi.",
+    "lời_bàn_của_tiên_nho": null
   },
   {
     "chunk_id": "QUE_HANG_003",
     "hexagram": "QUE_HANG",
     "que": null,
-    "lời_kinh": "彖⽈:恒,九也.",
-    "dịch_âm": "Thoán viết: Hằng cửu dã.",
-    "dịch_nghĩa": "Lời Thoán nói rằng: - Hằng là lâu vậy. GIẢI NGHĨA",
-    "truyện_của_Trình_Di": null,
-    "bản_nghĩa_của_Chu_Hy": null,
-    "lời_bàn_của_tiên_nho": null,
+    "content_type": "interpretation",
     "notes": {
       "1": "Chữ 恒(hằng) nghĩa là thường thường lúc nào cùng như lúc nào."
-    }
+    },
+    "lời_kinh": "彖⽈:恒,九也.",
+    "dịch_âm": "Thoán viết: Hằng cửu dã.",
+    "dịch_nghĩa": "Lời Thoán nói rằng: - Hằng là lâu vậy.",
+    "truyện_của_Trình_Di": "Hằng tức là nghĩa dài lâu.",
+    "bản_nghĩa_của_Chu_Hy": null,
+    "lời_bàn_của_tiên_nho": null
   },
   {
     "chunk_id": "QUE_HANG_004",
     "hexagram": "QUE_HANG",
     "que": null,
-    "lời_kinh": "剛上⽽柔下,雷⾵相與,巽⽽動,剛柔皆應,恆.",
-    "dịch_âm": "Cương thượng nhi nhu hạ, lôi phong tương dữ, tốn nhi động, cương nhu giai ứng, Hằng. GIẢI NGHĨA",
-    "dịch_nghĩa": null,
-    "truyện_của_Trình_Di": null,
-    "bản_nghĩa_của_Chu_Hy": "Đây lấy thể quẻ, tượng quẻ, đức quẻ để thích nghĩa tên quẻ. Có người lấy sự biến đổi của quẻ giải nghĩa mấy chữ “cứng lên mềm xuống mà rằng: “ Quẻ Hằng do ở quẻ Phong mà lại, hào cứng lên ngôi Hai, hào mềm xuống ở ngôi Đầu” cũng thông.",
-    "lời_bàn_của_tiên_nho": null,
+    "content_type": "interpretation",
     "notes": {
       "1": "Chữ 恒(hằng) nghĩa là thường thường lúc nào cùng như lúc nào."
-    }
+    },
+    "lời_kinh": "剛上⽽柔下,雷⾵相與,巽⽽動,剛柔皆應,恆.",
+    "dịch_âm": "Cương thượng nhi nhu hạ, lôi phong tương dữ, tốn nhi động, cương nhu giai ứng, Hằng.",
+    "dịch_nghĩa": null,
+    "truyện_của_Trình_Di": "Tài quẻ có bốn điều đó, tức là cái nghĩa làm nên quẻ Hằng . Cứng lên mà xuống, nghĩa là hào Đầu quẻ Kiền lên ngôi Tư, hào Đầu quẻ Khôn , xuống ở ngôi đầu, hào cứng lên mà hào mềm xuống, hai hào đổi chỗ thì thành Chấn Tốn, Chấn trên Tốn dưới, cũng là cứng lên mềm xuống. Cứng ở trên mà mềm ở dưới, tức là đạo hằng. Sấm gió cùng nhau, nghĩa là sấm động thì gió nổi, hai đàng chờ nhau, giữ lẫn cho nhau, cho nên nói là “cùng nhau”, đó cũng là sự thường của nó. Nhún mà động, nghĩa là dưới Tốn thuận mà trên Chấn động, tức là lấy đức nhún mà động. Trời đất tạo hóa thường lâu không thôi, cũng là động bằng cách thuận mà thôi. Nhún mà động tức là đạo thường lâu vậy. Động mà không thuận, có thể thường thường mãi chăng? Bốn điều đó tức là đạo hằng, vì vậy quẻ này mới là quẻ Hằng .",
+    "bản_nghĩa_của_Chu_Hy": "Đây lấy thể quẻ, tượng quẻ, đức quẻ để thích nghĩa tên quẻ. Có người lấy sự biến đổi của quẻ giải nghĩa mấy chữ “cứng lên mềm xuống mà rằng: “ Quẻ Hằng do ở quẻ Phong mà lại, hào cứng lên ngôi Hai, hào mềm xuống ở ngôi Đầu” cũng thông.",
+    "lời_bàn_của_tiên_nho": null
   },
   {
     "chunk_id": "QUE_HANG_005",
     "hexagram": "QUE_HANG",
     "que": null,
-    "lời_kinh": "恆亨,利貞,無咎,久於其道也.",
-    "dịch_âm": "Hằng hanh, lei trinh, vô cữu, cửu ưkỳ đạo dã.",
-    "dịch_nghĩa": "Quẻ Hằng hanh, lợi về sự chính, không lỗi, là vì lâu với thửa đạo vậy. GIẢI NGHĨA",
-    "truyện_của_Trình_Di": null,
-    "bản_nghĩa_của_Chu_Hy": null,
-    "lời_bàn_của_tiên_nho": null,
+    "content_type": "interpretation",
     "notes": {
       "1": "Chữ 恒(hằng) nghĩa là thường thường lúc nào cùng như lúc nào."
-    }
+    },
+    "lời_kinh": "恆亨,利貞,無咎,久於其道也.",
+    "dịch_âm": "Hằng hanh, lei trinh, vô cữu, cửu ưkỳ đạo dã.",
+    "dịch_nghĩa": "Quẻ Hằng hanh, lợi về sự chính, không lỗi, là vì lâu với thửa đạo vậy.",
+    "truyện_của_Trình_Di": "Đạo Hằng có thể đem lại sự hanh thông mà không tội lỗi, nhưng cái mà mình vẫn thường giữ; nên được chính đính, nếu không chính đính thì không phải là đạo có thể thường giữ, cho nên nói là lâu với thửa đạo. Thửa đạo tức là cái đạo có thể thường giữ vậy. Không giữ được đều thường thường và thường thường giữ đạo bất chính, đều không thể hanh thông mà có lỗi vậy.",
+    "bản_nghĩa_của_Chu_Hy": null,
+    "lời_bàn_của_tiên_nho": null
   },
   {
     "chunk_id": "QUE_HANG_006",
     "hexagram": "QUE_HANG",
     "que": null,
-    "lời_kinh": "天地之道,恆久⽽不已也.",
-    "dịch_âm": "Thiên địa chi đặo, hằng cửu nhi bất dĩ dã.",
-    "dịch_nghĩa": "Đạo của trời đất, thường lâu mà không thôi vậy. GIẢI NGHĨA",
-    "truyện_của_Trình_Di": null,
-    "bản_nghĩa_của_Chu_Hy": "Đạo hằng vẫn có thể hanh và không lỗi nữa, nhưng ắt lợi về sự chính mới là lâu với thửa đạo, không chính thì là cái giữ lâu đó không phải chính đạo. Đạo của trời đất sở dĩ lâu dài được, cũng vì sự chính mà thôi.",
-    "lời_bàn_của_tiên_nho": null,
+    "content_type": "interpretation",
     "notes": {
       "1": "Chữ 恒(hằng) nghĩa là thường thường lúc nào cùng như lúc nào."
-    }
+    },
+    "lời_kinh": "天地之道,恆久⽽不已也.",
+    "dịch_âm": "Thiên địa chi đặo, hằng cửu nhi bất dĩ dã.",
+    "dịch_nghĩa": "Đạo của trời đất, thường lâu mà không thôi vậy.",
+    "truyện_của_Trình_Di": "Trời đất sở dĩ không bị ngừng tắt, là vì có đạo thường lâu, người mà thường giữ được cái đạo có thể thường giữ, thì hợp với lẽ trời đất.",
+    "bản_nghĩa_của_Chu_Hy": "Đạo hằng vẫn có thể hanh và không lỗi nữa, nhưng ắt lợi về sự chính mới là lâu với thửa đạo, không chính thì là cái giữ lâu đó không phải chính đạo. Đạo của trời đất sở dĩ lâu dài được, cũng vì sự chính mà thôi.",
+    "lời_bàn_của_tiên_nho": null
   },
   {
     "chunk_id": "QUE_HANG_007",
     "hexagram": "QUE_HANG",
     "que": null,
-    "lời_kinh": "利有攸往,終則有始也.",
-    "dịch_âm": "Lợi hữu du vẵng, chung tắc hữu thủy dã.",
-    "dịch_nghĩa": "Lợi có thửa đi, chót thì có đầu vậy. GIẢI NGHĨA",
-    "truyện_của_Trình_Di": null,
-    "bản_nghĩa_của_Chu_Hy": "“Lâu với thủ đạo” là chót, “lợi có thửa đi” là đầu. Động tĩnh sinh lẫn cho nhau, đó là lẽ tuần hoàn, nhưng phải lấy tĩnh làm chủ.",
-    "lời_bàn_của_tiên_nho": null,
+    "content_type": "interpretation",
     "notes": {
       "1": "Chữ 恒(hằng) nghĩa là thường thường lúc nào cùng như lúc nào."
-    }
+    },
+    "lời_kinh": "利有攸往,終則有始也.",
+    "dịch_âm": "Lợi hữu du vẵng, chung tắc hữu thủy dã.",
+    "dịch_nghĩa": "Lợi có thửa đi, chót thì có đầu vậy.",
+    "truyện_của_Trình_Di": "Lý trong thiên hạ, chưa có khi nào không động mà lại có thể thường thường. Động thì chót rồi lại đầu vì vậy mới thường thường mà không cùng tận. Phàm những vật do ở trời đất sinh ra, dẫu đến núi non rắn dầy, cũng phải biến đổi, cho nên “hằng” không phải là nhất định, nhất định thì không phải hằng, chỉ có tùy thời biến đổi, mới là đạo thường, cho nên nói rằng “lợi có thửa đi”. Tỏ ra là phải như thế, là sợ người ta câu nệ về thói thường.",
+    "bản_nghĩa_của_Chu_Hy": "“Lâu với thủ đạo” là chót, “lợi có thửa đi” là đầu. Động tĩnh sinh lẫn cho nhau, đó là lẽ tuần hoàn, nhưng phải lấy tĩnh làm chủ.",
+    "lời_bàn_của_tiên_nho": null
   },
   {
     "chunk_id": "QUE_HANG_008",
     "hexagram": "QUE_HANG",
     "que": null,
-    "lời_kinh": "⽇⽉得天⽽能久照,四時變化⽽能久成,擎⼈久於其道⽽天下化成.觀其所 恆⽽天地情物之情可⾒矣.",
-    "dịch_âm": "Nhật nguyệt đắc thiên nhi năng cửu chiếu, tứ thì biến hóa nhi năng cửu thành, thánh nhân cửu ư kỳ đạo nhi thiên hạ hóa thành, quan kỳ sở hằng, nhi thiên địa vạn vật chi tình khả kiến hỹ.",
-    "dịch_nghĩa": "Mặt trời mặt trăng được trời mà có thể soi lâu, bốn mùa biến hóa mà có thể nên lâu, đấng thánh nhân lâu với thửa đạo mà thiên hạ hóa nên; xem cái thửa thường, mà tình trời đất muôn vật có thể thấy vậy. GIẢI NGHĨA",
-    "truyện_của_Trình_Di": null,
-    "bản_nghĩa_của_Chu_Hy": "Đây là nói thật cùng cực cái đạo thường lâu.",
-    "lời_bàn_của_tiên_nho": null,
+    "content_type": "interpretation",
     "notes": {
       "1": "Chữ 恒(hằng) nghĩa là thường thường lúc nào cùng như lúc nào."
-    }
+    },
+    "lời_kinh": "⽇⽉得天⽽能久照,四時變化⽽能久成,擎⼈久於其道⽽天下化成.觀其所 恆⽽天地情物之情可⾒矣.",
+    "dịch_âm": "Nhật nguyệt đắc thiên nhi năng cửu chiếu, tứ thì biến hóa nhi năng cửu thành, thánh nhân cửu ư kỳ đạo nhi thiên hạ hóa thành, quan kỳ sở hằng, nhi thiên địa vạn vật chi tình khả kiến hỹ.",
+    "dịch_nghĩa": "Mặt trời mặt trăng được trời mà có thể soi lâu, bốn mùa biến hóa mà có thể nên lâu, đấng thánh nhân lâu với thửa đạo mà thiên hạ hóa nên; xem cái thửa thường, mà tình trời đất muôn vật có thể thấy vậy.",
+    "truyện_của_Trình_Di": "Đây là nói cho cùng cực lẽ thường. Mặt trời mặt trăng chỉ là tính khí Âm Dương mà thôi, vì nó thuận đạo trời mà đi lại đầy vơi, cho nên có thể soi lâu không thôi, “được trời”, là thuận lẽ trời vậy; bốn mùa chỉ là khí của Âm Dương mà thôi, đi lại biến hóa, sinh nên muôn vật, cũng vì được lẽ trời, cho nên có thể thường lâu không thôi; đấng thánh nhân đem đạo thường lâu, thực hành có thường độ, mà thiên hạ hóa theo, thành ra tục tốt. “Xem cái thửa thường”, nghĩa là xem mặt trời mặt trăng lâu soi, bốn mùa lâu nên và cái lẽ thánh nhân sở đĩ thường lầu, xem những cái đó thì tình lý của trời đất muôn vật có thể thấy được. Cái đạo thường lâu của trời đất, cái lý thường lâu của thiên hạ, nếu không phải kẻ biết đạo, ai mà hiểu được?",
+    "bản_nghĩa_của_Chu_Hy": "Đây là nói thật cùng cực cái đạo thường lâu.",
+    "lời_bàn_của_tiên_nho": null
   },
   {
     "chunk_id": "QUE_HANG_009",
     "hexagram": "QUE_HANG",
     "que": null,
-    "lời_kinh": "象⽈:雷⾵恆,君⼦以⽴不易⽅.",
-    "dịch_âm": "Tượng viết: Lôi phong Hằng, quân tử dĩ lập bất dịch phương.",
-    "dịch_nghĩa": "Lời Tượng nói rằng: Sấm gió là quẻ Hằng , đấng quân tử coi đó mà đứng chẳng đổi phương. GIẢI NGHĨA",
-    "truyện_của_Trình_Di": null,
-    "bản_nghĩa_của_Chu_Hy": "Hào Đầu với hào Tư là chính ứng, đó là lẽ thường, nhưng hào Đầu ở thể dưới mà đóng ngôi Đầu, chưa thể cầu cạnh sự gì một cách sâu sắc, hào Tư thể Chấn, tính Dương, chỉ lên không xuống, lại bị hào Hai hào Bá ngăn cách, cái ý ứng với hào Đầu đã khác thường rồi, hào Đầu là hạng nhu ám không biết đo đắn tình thế, lại lấy chất Âm ở thể Tốn là chủ sự nhún, tính chỉ vụ nhập, cho nên cứ theo lẽ thường mà cầu cạnh nó một cách sâu sắc, đó là tượng “đào sâu sự thường”. Kẻ xem như thế, tuy chính cũng hung, mà không lợi về điều gì.",
-    "lời_bàn_của_tiên_nho": null,
+    "content_type": "interpretation",
     "notes": {
       "1": "Chữ 恒(hằng) nghĩa là thường thường lúc nào cùng như lúc nào."
-    }
+    },
+    "lời_kinh": "象⽈:雷⾵恆,君⼦以⽴不易⽅.",
+    "dịch_âm": "Tượng viết: Lôi phong Hằng, quân tử dĩ lập bất dịch phương.",
+    "dịch_nghĩa": "Lời Tượng nói rằng: Sấm gió là quẻ Hằng , đấng quân tử coi đó mà đứng chẳng đổi phương.",
+    "truyện_của_Trình_Di": "Đấng quân tử coi tượng sấm gió cùng nhau làm thành quẻ Hằng , để giữ cho đức của mình thường lâu, tự đứng trên đường trung chính thường lâu, không đổi phương sở. LỜI KNH 初六:泼情,員凶,無攸利. Dịch âm. - Sơ Lục: Tuấn Hằng, trinh hung, vô du lợi. Dịch nghĩa. - Hào Sáu Đầu: Đào sâu sự thường, trinh cũng hung, không thửa lợi. GIẢI NGHĨA Truyện của Trình Di. - Hào Đầu ở dưới mà hào Tư là chính ứng của nó, là người biết thủ thường mà không biết đo đắn tình thế: hào Tư là thể Chấn mà tính Dương, lấy chất cứng ở chỗ cao, chí nó muốn lên không muốn xuống, lại bị hào Hai, hào Ba ngăn cách, cái chí ứng với hào Đầu của nó đã khác thường rồi, thế mà hào Đầu còn cầu mong một cách sâu sắc, ấy là chỉ biết lẽ thường, không biết lẽ biến: Tuấn nghĩa là đào cho sâu, “đào sâu sự thường” nghĩa là cầu sự thường một cách sâu sắc. Thủ thường mà không biết đo đắn tình, thế, cầu mong người trên một cách sâu bền, chặt chẽ, đó là đạo hung. Câu lệ thói thường như thế, thì không đi đâu mà lợi.",
+    "bản_nghĩa_của_Chu_Hy": "Hào Đầu với hào Tư là chính ứng, đó là lẽ thường, nhưng hào Đầu ở thể dưới mà đóng ngôi Đầu, chưa thể cầu cạnh sự gì một cách sâu sắc, hào Tư thể Chấn, tính Dương, chỉ lên không xuống, lại bị hào Hai hào Bá ngăn cách, cái ý ứng với hào Đầu đã khác thường rồi, hào Đầu là hạng nhu ám không biết đo đắn tình thế, lại lấy chất Âm ở thể Tốn là chủ sự nhún, tính chỉ vụ nhập, cho nên cứ theo lẽ thường mà cầu cạnh nó một cách sâu sắc, đó là tượng “đào sâu sự thường”. Kẻ xem như thế, tuy chính cũng hung, mà không lợi về điều gì.",
+    "lời_bàn_của_tiên_nho": null
   },
   {
     "chunk_id": "QUE_HANG_010",
     "hexagram": "QUE_HANG",
     "que": null,
-    "lời_kinh": "象⽈:浚情志凶,始求深也.",
-    "dịch_âm": "Tượng viết: Tuấn hằng chi hung, thủy cầu thâm dã.",
-    "dịch_nghĩa": "Lời Tượng nói rằng: Đào sâu sự thường mà hung, mới cầu sâu vậy. GIẢI NGHĨA",
-    "truyện_của_Trình_Di": null,
-    "bản_nghĩa_của_Chu_Hy": null,
-    "lời_bàn_của_tiên_nho": null,
+    "content_type": "interpretation",
     "notes": {
       "1": "Chữ 恒(hằng) nghĩa là thường thường lúc nào cùng như lúc nào."
-    }
+    },
+    "lời_kinh": "象⽈:浚情志凶,始求深也.",
+    "dịch_âm": "Tượng viết: Tuấn hằng chi hung, thủy cầu thâm dã.",
+    "dịch_nghĩa": "Lời Tượng nói rằng: Đào sâu sự thường mà hung, mới cầu sâu vậy.",
+    "truyện_của_Trình_Di": "Ở lúc mới đầu của đạo Hằng, mà cầu mong người trên một cách sâu sắc, ấy chỉ là biết thói thường mà không biết đo đắn tình thế, vì vậy mới hung.",
+    "bản_nghĩa_của_Chu_Hy": null,
+    "lời_bàn_của_tiên_nho": null
   },
   {
     "chunk_id": "QUE_HANG_011",
     "hexagram": "QUE_HANG",
     "que": null,
-    "lời_kinh": "九⼆:悔亡.",
-    "dịch_âm": "Cửu Nhị: Hối vong.",
-    "dịch_nghĩa": "Hào Chín Hai: Sự ăn năn mất. GIẢI NGHĨA",
-    "truyện_của_Trình_Di": null,
-    "bản_nghĩa_của_Chu_Hy": "Lấy chất Dương, ở ngôi Âm, đáng lẽ có sự ăn năn, vì nó giữ lâu đức “giữa”, cho nên mới mất sự ăn năn.",
-    "lời_bàn_của_tiên_nho": null,
+    "content_type": "interpretation",
     "notes": {
       "1": "Chữ 恒(hằng) nghĩa là thường thường lúc nào cùng như lúc nào."
-    }
+    },
+    "lời_kinh": "九⼆:悔亡.",
+    "dịch_âm": "Cửu Nhị: Hối vong.",
+    "dịch_nghĩa": "Hào Chín Hai: Sự ăn năn mất.",
+    "truyện_của_Trình_Di": "Trong nghĩa quẻ Hằng , mà ở được chỗ chính thì là đạo thường, Chín là hào Dương mà ở ngôi Âm, đó là trái với lẽ thường, ở chỗ trái thường, đáng lẽ thì có ăn năn, vì hào Chín Hai lấy đức “giữa” ứng với hào Năm, hào Năm lại ở ngôi giữa, lấy đức “giữa” ứng với đức “giữa”, thì nó ở yên hay cử động đều được mực giữa; ấy là kẻ thường lâu được với đạo “giữa”. Thường lâu được với đạo “giữa” thì không sai mất sự chính. “Giữa” trọng hơn “chính”, “giữa” thì “chính” rồi, “chính” thì chưa ắt là “giữa”. Hào Chín Hai lấy đức cứng giữa mà ứng nhau với kẻ “đức giữa”, đó là nói trội về đức, đủ để làm mất sự ăn năn. Người ta hễ biết được trọng, khinh, thì có thể nói chuyện Kinh Dịch.",
+    "bản_nghĩa_của_Chu_Hy": "Lấy chất Dương, ở ngôi Âm, đáng lẽ có sự ăn năn, vì nó giữ lâu đức “giữa”, cho nên mới mất sự ăn năn.",
+    "lời_bàn_của_tiên_nho": null
   },
   {
     "chunk_id": "QUE_HANG_012",
     "hexagram": "QUE_HANG",
     "que": null,
-    "lời_kinh": "象⽈:龙⼆悔亡,能九中也",
-    "dịch_âm": "Tượng viết: Cửu Nhị hối vong, năng cửu trung dã.",
-    "dịch_nghĩa": "Lời Tượng nói rằng: Hào Chín Hai, ăn năn mất, vì giữ lâu được đức giữa vậy. GIẢI NGHĨA",
-    "truyện_của_Trình_Di": null,
-    "bản_nghĩa_của_Chu_Hy": null,
-    "lời_bàn_của_tiên_nho": null,
+    "content_type": "interpretation",
     "notes": {
       "1": "Chữ 恒(hằng) nghĩa là thường thường lúc nào cùng như lúc nào."
-    }
+    },
+    "lời_kinh": "象⽈:龙⼆悔亡,能九中也",
+    "dịch_âm": "Tượng viết: Cửu Nhị hối vong, năng cửu trung dã.",
+    "dịch_nghĩa": "Lời Tượng nói rằng: Hào Chín Hai, ăn năn mất, vì giữ lâu được đức giữa vậy.",
+    "truyện_của_Trình_Di": "Sở dĩ được khỏi ăn năn, vì nó có thể thường lâu với đức giữa vậy. Người ta có thể thường lâu với đức giữa, há chỉ mất sự ăn năn mà thôi, còn là đức hay nữa.",
+    "bản_nghĩa_của_Chu_Hy": null,
+    "lời_bàn_của_tiên_nho": null
   },
   {
     "chunk_id": "QUE_HANG_013",
     "hexagram": "QUE_HANG",
     "que": null,
-    "lời_kinh": "九三:不恆其德,或承之羞,貞吝.",
-    "dịch_âm": "Cửu Tam: Bất hằng kỳ đức, hoặc thừa chi tu, trinh lận.",
-    "dịch_nghĩa": "Hào Chín Ba: Chẳng thường thửa đức, hoặc vâng đây thẹn, trinh cùng đáng tiếc. GIẢI NGHĨA",
-    "truyện_của_Trình_Di": null,
-    "bản_nghĩa_của_Chu_Hy": "Ngôi tuy chính, nhưng nó quá cứng không giữa, chỉ lại muốn theo hào Trên, không thể ở lâu cái chỗ của mình, cho nên là tuợng “chẳng hằng thửa sức, hoặc vâng đấy thẹn”. “Hoặc” là không biết người nào, “thửa” là vâng, ý nói người ta đều được vâng (sự hổ thẹn) mà tiến cho, không biết là ở đâu lại. Trinh lận nghĩa là chính mà không giữ đức hằng thì là đáng tiếc, đó là lời răn lại kẻ xem.",
-    "lời_bàn_của_tiên_nho": null,
+    "content_type": "interpretation",
     "notes": {
       "1": "Chữ 恒(hằng) nghĩa là thường thường lúc nào cùng như lúc nào."
-    }
+    },
+    "lời_kinh": "九三:不恆其德,或承之羞,貞吝.",
+    "dịch_âm": "Cửu Tam: Bất hằng kỳ đức, hoặc thừa chi tu, trinh lận.",
+    "dịch_nghĩa": "Hào Chín Ba: Chẳng thường thửa đức, hoặc vâng đây thẹn, trinh cùng đáng tiếc.",
+    "truyện_của_Trình_Di": "Ba là hào Dương ở ngôi Dương, ở được phải ngôi, đó là chỗ ở thường, thế mà nó lại muốn theo hào Sáu Trên, chẳng những Âm Dương theo nhau, gió lại theo sấm, được chỗ thường mà không chịu ở, đó là người không có đức hằng. Đức đã không thường, thì sự hổ nhục hoặc cũng theo tới. “Hoặc vâng đấy” nghĩa là có lúc sẽ đến. “Trinh cũng đáng tiếc”: nghĩa là cố giữ đức bất hằng để làm đức hằng, há là chẳng đáng thẹn tiếc?",
+    "bản_nghĩa_của_Chu_Hy": "Ngôi tuy chính, nhưng nó quá cứng không giữa, chỉ lại muốn theo hào Trên, không thể ở lâu cái chỗ của mình, cho nên là tuợng “chẳng hằng thửa sức, hoặc vâng đấy thẹn”. “Hoặc” là không biết người nào, “thửa” là vâng, ý nói người ta đều được vâng (sự hổ thẹn) mà tiến cho, không biết là ở đâu lại. Trinh lận nghĩa là chính mà không giữ đức hằng thì là đáng tiếc, đó là lời răn lại kẻ xem.",
+    "lời_bàn_của_tiên_nho": null
   },
   {
     "chunk_id": "QUE_HANG_014",
     "hexagram": "QUE_HANG",
     "que": null,
-    "lời_kinh": "象⽈:不恆其德,無所容也.",
-    "dịch_âm": "Tượng viết: Bất hằng kỳ đức, vô sở dung dã.",
-    "dịch_nghĩa": "Lời Tượng nói rằng: Chẳng thường thửa đức, không có chỗ dung vậy. GIẢI NGHĨA",
-    "truyện_của_Trình_Di": null,
-    "bản_nghĩa_của_Chu_Hy": null,
-    "lời_bàn_của_tiên_nho": null,
+    "content_type": "interpretation",
     "notes": {
       "1": "Chữ 恒(hằng) nghĩa là thường thường lúc nào cùng như lúc nào."
-    }
+    },
+    "lời_kinh": "象⽈:不恆其德,無所容也.",
+    "dịch_âm": "Tượng viết: Bất hằng kỳ đức, vô sở dung dã.",
+    "dịch_nghĩa": "Lời Tượng nói rằng: Chẳng thường thửa đức, không có chỗ dung vậy.",
+    "truyện_của_Trình_Di": "Người đã chẳng thường, thì còn dung ở vào đâu? Cái chỗ nên ở, đã không thường thường yên ở, mà lại ở vào chỗ không phải sở cứ, thì há có thể thường ở? Đó là cái người bất hằng không có chỗ nào để dung thân mình.",
+    "bản_nghĩa_của_Chu_Hy": null,
+    "lời_bàn_của_tiên_nho": null
   },
   {
     "chunk_id": "QUE_HANG_015",
     "hexagram": "QUE_HANG",
     "que": null,
-    "lời_kinh": "九四:⽥無禽.",
-    "dịch_âm": "Cửu Tứ: Điền vô cầm.",
-    "dịch_nghĩa": "Hào Chín Tư: Săn không loài cầm. GIẢI NGHĨA",
-    "truyện_của_Trình_Di": null,
-    "bản_nghĩa_của_Chu_Hy": "Lấy chất Dương ở ngôi Âm tức là ở lâu chỗ không phải ngôi, cho nên mới là tượng ấy. Kẻ xem nếu đi săn thì không được gì, mà cái việc khác, cũng không được cái sở cầu của mình.",
-    "lời_bàn_của_tiên_nho": null,
+    "content_type": "interpretation",
     "notes": {
       "1": "Chữ 恒(hằng) nghĩa là thường thường lúc nào cùng như lúc nào."
-    }
+    },
+    "lời_kinh": "九四:⽥無禽.",
+    "dịch_âm": "Cửu Tứ: Điền vô cầm.",
+    "dịch_nghĩa": "Hào Chín Tư: Săn không loài cầm.",
+    "truyện_của_Trình_Di": "Lấy chất Dương ở ngôi Âm, tức là ở không phải ngôi, ở không phải chỗ, dẫu thường theo giữ mà có ích gì? Sự làm của người ta hễ mà phải đạo thì lâu mãi sẽ thành công, nếu không phải đạo, dù lâu mà có ích gì? Cho nên lấy sự đi săn làm thí dụ, ý nói hào Chín ở ngôi Tư, dẫu rằng thường lâu, cùng như săn bắn không được cầm thú, nghĩa là uổng phí sức mà không có công.",
+    "bản_nghĩa_của_Chu_Hy": "Lấy chất Dương ở ngôi Âm tức là ở lâu chỗ không phải ngôi, cho nên mới là tượng ấy. Kẻ xem nếu đi săn thì không được gì, mà cái việc khác, cũng không được cái sở cầu của mình.",
+    "lời_bàn_của_tiên_nho": null
   },
   {
     "chunk_id": "QUE_HANG_016",
     "hexagram": "QUE_HANG",
     "que": null,
-    "lời_kinh": "象⽈:久⾮其位,安得禽也.",
-    "dịch_âm": "Tượng viết: Cửu phi kỳ vị, an đắc cầm dã.",
-    "dịch_nghĩa": "Lời Tượng nói rằng: Ở lâu không phải ngôi, sao được con cầm vậy? GIẢI NGHĨA",
-    "truyện_của_Trình_Di": null,
-    "bản_nghĩa_của_Chu_Hy": null,
-    "lời_bàn_của_tiên_nho": null,
+    "content_type": "interpretation",
     "notes": {
       "1": "Chữ 恒(hằng) nghĩa là thường thường lúc nào cùng như lúc nào."
-    }
+    },
+    "lời_kinh": "象⽈:久⾮其位,安得禽也.",
+    "dịch_âm": "Tượng viết: Cửu phi kỳ vị, an đắc cầm dã.",
+    "dịch_nghĩa": "Lời Tượng nói rằng: Ở lâu không phải ngôi, sao được con cầm vậy?",
+    "truyện_của_Trình_Di": "Ở không phải ngôi, dẫu lâu được gì? Vì lấy sự đi săn làm thí dụ, cho nên nói là “sao được con cầm”.",
+    "bản_nghĩa_của_Chu_Hy": null,
+    "lời_bàn_của_tiên_nho": null
   },
   {
     "chunk_id": "QUE_HANG_017",
     "hexagram": "QUE_HANG",
     "que": null,
-    "lời_kinh": "六五: 恆其德,負,婦⼈吉,夫⼦凶.",
-    "dịch_âm": "Lục Ngũ: Hằng kỳ đức, trinh, phụ nhân cát, phu tử hung.",
-    "dịch_nghĩa": "Hào Sáu Năm: Thường thửa đức, chính, đàn bà tốt, đàn ông hung. GIẢI NGHĨA",
-    "truyện_của_Trình_Di": null,
-    "bản_nghĩa_của_Chu_Hy": "Lấy chất mềm giữa mà ứng với kẻ cứng giữa, thường lâu không đổi, tức ià chính mà bền rồi. Nhưng đó là đạo đàn bà, không phải điều của đàn ông nên làm, cho nên Tượng, Chiêm như thế.",
-    "lời_bàn_của_tiên_nho": null,
+    "content_type": "interpretation",
     "notes": {
       "1": "Chữ 恒(hằng) nghĩa là thường thường lúc nào cùng như lúc nào."
-    }
+    },
+    "lời_kinh": "六五: 恆其德,負,婦⼈吉,夫⼦凶.",
+    "dịch_âm": "Lục Ngũ: Hằng kỳ đức, trinh, phụ nhân cát, phu tử hung.",
+    "dịch_nghĩa": "Hào Sáu Năm: Thường thửa đức, chính, đàn bà tốt, đàn ông hung.",
+    "truyện_của_Trình_Di": "Hào Năm ứng với hào Hai, là Âm mềm mà ứng Dương cứng, ở giữa mà kẻ ứng với cũng giữa, ấy là sự chính của kẻ Âm mềm, cho nên hễ thường lâu được với đức ấy thì là chính bền. Lấy sự thuận theo làm nết thường, tức là đạo đàn bà, với đàn bà như thế là chính, cho nên mới tốt. Nếu đấng trượng phu cũng lấy sự thuận theo người ta làm nết thường, thì là mất sự chính đính của kẻ Dương cương, tức là lung. Hào Năm là ngôi vua mà không nói về đạo vua, là vì như nghĩa của hào Sáu Năm, ở kẻ trượng phu còn hung, huống chi đạo kẻ làm vua. Ở kẻ khác, hào Sáu ở ngôi vua mà ứng với kẻ cứng, cùng chưa là hỏng, vì ở quẻ Hằng , cho nên không thể như thế. Đạo làm vua há lại có thể lấy sự mềm thuận làm nết thường ư?",
+    "bản_nghĩa_của_Chu_Hy": "Lấy chất mềm giữa mà ứng với kẻ cứng giữa, thường lâu không đổi, tức ià chính mà bền rồi. Nhưng đó là đạo đàn bà, không phải điều của đàn ông nên làm, cho nên Tượng, Chiêm như thế.",
+    "lời_bàn_của_tiên_nho": null
   },
   {
     "chunk_id": "QUE_HANG_018",
     "hexagram": "QUE_HANG",
     "que": null,
-    "lời_kinh": "象⽈:婦⼈吉,從⼀⽽终也.夫⼦制義,從婦凶也.",
-    "dịch_âm": "Tượng viết: Phụ nhân cát, tòng nhất nhi chung dã; phu tử chế nghĩa, tòng phụ hung dã.",
-    "dịch_nghĩa": "Lời Tượng nói rằng: Đàn bà tốt, theo một bề đến trọn đời vậy; đàn ông đặt ra nghĩa, theo đằn bà thì hung. GIẢI NGHĨA",
-    "truyện_của_Trình_Di": null,
-    "bản_nghĩa_của_Chu_Hy": null,
-    "lời_bàn_của_tiên_nho": "Cốc Kiêm Sơn nói rằng: Mềm mà ở giữa, tức là ngôi có dư mà tài không đủ xứng. Đàn bà tốt, đàn ông hung, là sao? Là vì đàn bà có thể theo một bề đến trọn đời, đàn ông là kẻ tự đặt ra nghĩa, mà lại theo nghĩa của đàn bà được sao? Cho nên Bá Di là bậc thánh trong sạch, ông Mạnh Tử chê là hẹp, Bá Cơ giữ lề không đi, đức Khổng Tử bảo là Kinh, coi đó đủ biết.",
+    "content_type": "interpretation",
     "notes": {
       "1": "Chữ 恒(hằng) nghĩa là thường thường lúc nào cùng như lúc nào."
-    }
+    },
+    "lời_kinh": "象⽈:婦⼈吉,從⼀⽽终也.夫⼦制義,從婦凶也.",
+    "dịch_âm": "Tượng viết: Phụ nhân cát, tòng nhất nhi chung dã; phu tử chế nghĩa, tòng phụ hung dã.",
+    "dịch_nghĩa": "Lời Tượng nói rằng: Đàn bà tốt, theo một bề đến trọn đời vậy; đàn ông đặt ra nghĩa, theo đằn bà thì hung.",
+    "truyện_của_Trình_Di": "Như hào Năm theo hào Hai, với đàn bà là chính đáng mà tốt, bởi vì đàn bà lấy sự theo làm đạo chinh, lấy sự thuận làm nết thường, phải nên trọn đời giữ theo một bề, đàn ông là kẻ theo lẽ phải mà làm việc, nếu theo đạo đàn bà thì là hung.",
+    "bản_nghĩa_của_Chu_Hy": null,
+    "lời_bàn_của_tiên_nho": "Cốc Kiêm Sơn nói rằng: Mềm mà ở giữa, tức là ngôi có dư mà tài không đủ xứng. Đàn bà tốt, đàn ông hung, là sao? Là vì đàn bà có thể theo một bề đến trọn đời, đàn ông là kẻ tự đặt ra nghĩa, mà lại theo nghĩa của đàn bà được sao? Cho nên Bá Di là bậc thánh trong sạch, ông Mạnh Tử chê là hẹp, Bá Cơ giữ lề không đi, đức Khổng Tử bảo là Kinh, coi đó đủ biết."
   },
   {
     "chunk_id": "QUE_HANG_019",
     "hexagram": "QUE_HANG",
     "que": null,
-    "lời_kinh": "上九:掁恆凶.",
-    "dịch_âm": "Thượng lục: Chấn hằng, hung.",
-    "dịch_nghĩa": "Hào Chín Trên: Xốc thường, hung. GIẢI NGHĨA",
-    "truyện_của_Trình_Di": null,
-    "bản_nghĩa_của_Chu_Hy": "Xốc là động cách nhanh chóng. Hào Sáu Trên ở cùng tột quẻ Hằng , nhằm chót thể Chấn, sự thường đã cùng tột thì thành bất thường, thể Chấn đã chót thì phải quá động, nó lại là chất Âm mền, không thể giữ bền, ở ngôi trên không phải chỗ yên ổn của nó, cho nên có Tượng “xốc thường” mà lời của nó thì hung.",
-    "lời_bàn_của_tiên_nho": null,
+    "content_type": "interpretation",
     "notes": {
       "1": "Chữ 恒(hằng) nghĩa là thường thường lúc nào cùng như lúc nào."
-    }
+    },
+    "lời_kinh": "上九:掁恆凶.",
+    "dịch_âm": "Thượng lục: Chấn hằng, hung.",
+    "dịch_nghĩa": "Hào Chín Trên: Xốc thường, hung.",
+    "truyện_của_Trình_Di": "Hào Sáu ở cuối quẻ Hằng , chót thể Chấn, sự hằng đã cuối thì thành bất thường, thể Chấn đã phải động đến cùng tột. Là chất Âm, ở ngôi Trên, không phải là chỗ yên ổn của nó, vả lại, nó là kẻ Âm mềm, không thể giữ vững sự thạo thủ của mình, đều là nghĩa bất thường, cho nên mới là xốc thường, tức là lấy sự “dũ” làm nết thường vậy. Xốc là động cách nhanh chóng, ví như xốc áo, xốc nách, tức là cái ý xốc nổi vận động. Ở ngôi trên, mà sự động không có tiết độ, nếu lấy kiểu ấy là nết thường, thì hung là đáng.",
+    "bản_nghĩa_của_Chu_Hy": "Xốc là động cách nhanh chóng. Hào Sáu Trên ở cùng tột quẻ Hằng , nhằm chót thể Chấn, sự thường đã cùng tột thì thành bất thường, thể Chấn đã chót thì phải quá động, nó lại là chất Âm mền, không thể giữ bền, ở ngôi trên không phải chỗ yên ổn của nó, cho nên có Tượng “xốc thường” mà lời của nó thì hung.",
+    "lời_bàn_của_tiên_nho": null
   },
   {
     "chunk_id": "QUE_HANG_020",
     "hexagram": "QUE_HANG",
     "que": null,
-    "lời_kinh": "象⽈:振恆在上,⼤無功也.",
-    "dịch_âm": "Tượng viết: Chấn hằng tại thượng, đại vô công dã.",
-    "dịch_nghĩa": "Lời Tượng nói rằng: xốc thường ở trên, cả không công vậy. GIẢI NGHĨA",
-    "truyện_của_Trình_Di": null,
-    "bản_nghĩa_của_Chu_Hy": null,
-    "lời_bàn_của_tiên_nho": null,
+    "content_type": "interpretation",
     "notes": {
       "1": "Chữ 恒(hằng) nghĩa là thường thường lúc nào cùng như lúc nào."
-    }
+    },
+    "lời_kinh": "象⽈:振恆在上,⼤無功也.",
+    "dịch_âm": "Tượng viết: Chấn hằng tại thượng, đại vô công dã.",
+    "dịch_nghĩa": "Lời Tượng nói rằng: xốc thường ở trên, cả không công vậy.",
+    "truyện_của_Trình_Di": "Cái đạo ở trên, ắt có đức thường, thì mới có thể có công, nếu mà nóng động bất thường, thì còn nên được trò gì? Ở trên mà không thường, ắt phải hung lắm. Lời Tượng lại tỏ nó không có thể thành lập sự gì, cho nên nói rằng: “cả không công vậy”.",
+    "bản_nghĩa_của_Chu_Hy": null,
+    "lời_bàn_của_tiên_nho": null
   }
 ]

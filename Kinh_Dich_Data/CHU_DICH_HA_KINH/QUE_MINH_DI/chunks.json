@@ -3,6 +3,7 @@
     "chunk_id": "QUE_MINH_DI_001",
     "hexagram": "QUE_MINH_DI",
     "que": null,
+    "content_type": "preface",
     "lời_kinh": null,
     "dịch_âm": null,
     "dịch_nghĩa": null,
@@ -11,334 +12,351 @@
     "lời_bàn_của_tiên_nho": null,
     "notes": {
       "1": "Văn Vương bị vua Trụ giam ở ngục Dũ lý.",
-      "2": "Ông Cơ Tử là anh ruột vua Trụ; thấy vua Trụ càn dỡ, không thể can",
-      "3": "Vua Thang nhà Thương đánh vua Kiệt nhà Hạ, vua Vũ nhà Chu đánh vua",
-      "4": "Vua Thang bị vua Kiệt giam ở ngục Hạ Đài, khi được tha ra liền dựng",
+      "2": "Ông Cơ Tử là anh ruột vua Trụ; thấy vua Trụ càn dỡ, không thể can được, ông ấy giả rồ đi làm đứa ở, sau về với nhà Chu.",
+      "3": "Vua Thang nhà Thương đánh vua Kiệt nhà Hạ, vua Vũ nhà Chu đánh vua Trụ nhà Ân, đều là bầy tôi đánh vua.",
+      "4": "Vua Thang bị vua Kiệt giam ở ngục Hạ Đài, khi được tha ra liền dựng lên cơ nghiệp nhà Thương, vua Văn bị vua Trụ giam ở ngục Dũ Lý, khi được tha ra liền gây nên cơ nghiệp nhà Chu.",
       "5": "Tức là theo lời văn mà chọn lấy nghĩa ý.",
-      "6": "Dương Hùng trước làm tôi nhà Hán, sau Vương Mãng cướp ngôi nhà"
+      "6": "Dương Hùng trước làm tôi nhà Hán, sau Vương Mãng cướp ngôi nhà Hán, lại làm tôi Vương Măng."
     }
   },
   {
     "chunk_id": "QUE_MINH_DI_002",
     "hexagram": "QUE_MINH_DI",
     "que": null,
-    "lời_kinh": "明夷利艱貞.",
-    "dịch_âm": "Minh di lợi gian trinh.",
-    "dịch_nghĩa": "Quẻ Minh di lợi về khó nhọc trinh chính. GIẢI NGHĨA",
-    "truyện_của_Trình_Di": null,
-    "bản_nghĩa_của_Chu_Hy": "Di nghĩa là đau. Là quẻ dưới Ly trên Khôn, mặt trời vào trong đất, tức là cái Tượng sáng mà bị đau, cho nên gọi là Minh di. Lại, hào Sáu Trên quẻ này là chủ sự tối mà hào Sáu Năm gần nó, cho nên kẻ xem lợi về khó nhọc để giữ sự chính mà tự che sự sáng của mình.",
-    "lời_bàn_của_tiên_nho": null,
+    "content_type": "interpretation",
     "notes": {
       "1": "Văn Vương bị vua Trụ giam ở ngục Dũ lý.",
-      "2": "Ông Cơ Tử là anh ruột vua Trụ; thấy vua Trụ càn dỡ, không thể can",
-      "3": "Vua Thang nhà Thương đánh vua Kiệt nhà Hạ, vua Vũ nhà Chu đánh vua",
-      "4": "Vua Thang bị vua Kiệt giam ở ngục Hạ Đài, khi được tha ra liền dựng",
+      "2": "Ông Cơ Tử là anh ruột vua Trụ; thấy vua Trụ càn dỡ, không thể can được, ông ấy giả rồ đi làm đứa ở, sau về với nhà Chu.",
+      "3": "Vua Thang nhà Thương đánh vua Kiệt nhà Hạ, vua Vũ nhà Chu đánh vua Trụ nhà Ân, đều là bầy tôi đánh vua.",
+      "4": "Vua Thang bị vua Kiệt giam ở ngục Hạ Đài, khi được tha ra liền dựng lên cơ nghiệp nhà Thương, vua Văn bị vua Trụ giam ở ngục Dũ Lý, khi được tha ra liền gây nên cơ nghiệp nhà Chu.",
       "5": "Tức là theo lời văn mà chọn lấy nghĩa ý.",
-      "6": "Dương Hùng trước làm tôi nhà Hán, sau Vương Mãng cướp ngôi nhà"
-    }
+      "6": "Dương Hùng trước làm tôi nhà Hán, sau Vương Mãng cướp ngôi nhà Hán, lại làm tôi Vương Măng."
+    },
+    "lời_kinh": "明夷利艱貞.",
+    "dịch_âm": "Minh di lợi gian trinh.",
+    "dịch_nghĩa": "Quẻ Minh di lợi về khó nhọc trinh chính.",
+    "truyện_của_Trình_Di": "Đấng quân tử gặp thời Minh di, lợi ở biết khó nhọc mà không lỗi đạo trinh chính. Ở thời tối tăm khó khăn mà có thể không mất sự trinh chính của mình, vì vậy mới là quân tử sáng láng.",
+    "bản_nghĩa_của_Chu_Hy": "Di nghĩa là đau. Là quẻ dưới Ly trên Khôn, mặt trời vào trong đất, tức là cái Tượng sáng mà bị đau, cho nên gọi là Minh di. Lại, hào Sáu Trên quẻ này là chủ sự tối mà hào Sáu Năm gần nó, cho nên kẻ xem lợi về khó nhọc để giữ sự chính mà tự che sự sáng của mình.",
+    "lời_bàn_của_tiên_nho": null
   },
   {
     "chunk_id": "QUE_MINH_DI_003",
     "hexagram": "QUE_MINH_DI",
     "que": null,
-    "lời_kinh": "彖⽈:明⼊地中,明夷.",
-    "dịch_âm": "Thoán viết: Minh nhập địa trung, Minh di.",
-    "dịch_nghĩa": "Lời Thoán nói rằng: Sáng vào trong đất, là quẻ Minh di. GIẢI NGHĨA",
-    "truyện_của_Trình_Di": null,
-    "bản_nghĩa_của_Chu_Hy": null,
-    "lời_bàn_của_tiên_nho": null,
+    "content_type": "interpretation",
     "notes": {
       "1": "Văn Vương bị vua Trụ giam ở ngục Dũ lý.",
-      "2": "Ông Cơ Tử là anh ruột vua Trụ; thấy vua Trụ càn dỡ, không thể can",
-      "3": "Vua Thang nhà Thương đánh vua Kiệt nhà Hạ, vua Vũ nhà Chu đánh vua",
-      "4": "Vua Thang bị vua Kiệt giam ở ngục Hạ Đài, khi được tha ra liền dựng",
+      "2": "Ông Cơ Tử là anh ruột vua Trụ; thấy vua Trụ càn dỡ, không thể can được, ông ấy giả rồ đi làm đứa ở, sau về với nhà Chu.",
+      "3": "Vua Thang nhà Thương đánh vua Kiệt nhà Hạ, vua Vũ nhà Chu đánh vua Trụ nhà Ân, đều là bầy tôi đánh vua.",
+      "4": "Vua Thang bị vua Kiệt giam ở ngục Hạ Đài, khi được tha ra liền dựng lên cơ nghiệp nhà Thương, vua Văn bị vua Trụ giam ở ngục Dũ Lý, khi được tha ra liền gây nên cơ nghiệp nhà Chu.",
       "5": "Tức là theo lời văn mà chọn lấy nghĩa ý.",
-      "6": "Dương Hùng trước làm tôi nhà Hán, sau Vương Mãng cướp ngôi nhà"
-    }
+      "6": "Dương Hùng trước làm tôi nhà Hán, sau Vương Mãng cướp ngôi nhà Hán, lại làm tôi Vương Măng."
+    },
+    "lời_kinh": "彖⽈:明⼊地中,明夷.",
+    "dịch_âm": "Thoán viết: Minh nhập địa trung, Minh di.",
+    "dịch_nghĩa": "Lời Thoán nói rằng: Sáng vào trong đất, là quẻ Minh di.",
+    "truyện_của_Trình_Di": "Đây dùng tượng quẻ để thích tên quẻ.",
+    "bản_nghĩa_của_Chu_Hy": null,
+    "lời_bàn_của_tiên_nho": null
   },
   {
     "chunk_id": "QUE_MINH_DI_004",
     "hexagram": "QUE_MINH_DI",
     "que": null,
-    "lời_kinh": "内⽂明⽽外柔順,以蒙⼤難,⽂王以之.",
-    "dịch_âm": "Nội văn minh nhi ngoại nhu thuận, dĩ mông đại nạn, Văn vương dĩ chi.",
-    "dịch_nghĩa": "Trong văn vẻ sáng láng mà ngoài mềm thuận để đội nạn lớn, vua Văn dùng cách đó. GIẢI NGHĨA",
-    "truyện_của_Trình_Di": null,
-    "bản_nghĩa_của_Chu_Hy": "Đây dùng đức quẻ để thích nghĩa quẻ. “Đội nạn lớn” chỉ về gặp loạn vua Trụ mà bị giam.",
-    "lời_bàn_của_tiên_nho": null,
+    "content_type": "interpretation",
     "notes": {
       "1": "Văn Vương bị vua Trụ giam ở ngục Dũ lý.",
-      "2": "Ông Cơ Tử là anh ruột vua Trụ; thấy vua Trụ càn dỡ, không thể can",
-      "3": "Vua Thang nhà Thương đánh vua Kiệt nhà Hạ, vua Vũ nhà Chu đánh vua",
-      "4": "Vua Thang bị vua Kiệt giam ở ngục Hạ Đài, khi được tha ra liền dựng",
+      "2": "Ông Cơ Tử là anh ruột vua Trụ; thấy vua Trụ càn dỡ, không thể can được, ông ấy giả rồ đi làm đứa ở, sau về với nhà Chu.",
+      "3": "Vua Thang nhà Thương đánh vua Kiệt nhà Hạ, vua Vũ nhà Chu đánh vua Trụ nhà Ân, đều là bầy tôi đánh vua.",
+      "4": "Vua Thang bị vua Kiệt giam ở ngục Hạ Đài, khi được tha ra liền dựng lên cơ nghiệp nhà Thương, vua Văn bị vua Trụ giam ở ngục Dũ Lý, khi được tha ra liền gây nên cơ nghiệp nhà Chu.",
       "5": "Tức là theo lời văn mà chọn lấy nghĩa ý.",
-      "6": "Dương Hùng trước làm tôi nhà Hán, sau Vương Mãng cướp ngôi nhà"
-    }
+      "6": "Dương Hùng trước làm tôi nhà Hán, sau Vương Mãng cướp ngôi nhà Hán, lại làm tôi Vương Măng."
+    },
+    "lời_kinh": "内⽂明⽽外柔順,以蒙⼤難,⽂王以之.",
+    "dịch_âm": "Nội văn minh nhi ngoại nhu thuận, dĩ mông đại nạn, Văn vương dĩ chi.",
+    "dịch_nghĩa": "Trong văn vẻ sáng láng mà ngoài mềm thuận để đội nạn lớn, vua Văn dùng cách đó.",
+    "truyện_của_Trình_Di": "Sáng vào trong đất tức là tự sáng bị diệt, cho nên là sáng đau. Quẻ trong nhà Ly, Ly là Tượng văn vẻ sáng láng; quẻ ngoài là Khôn, Khôn là Tượng mềm thuận; đó là bên trong có đức văn vẻ sáng láng, bên ngoài lại biết mềm thuận xưa kia vua Văn như thế, cho nên nói rằng vua Văn dùng cách đó. Đương lúc vua Trụ tối tăm, tức là thì sáng đau, mà vua Văn trong có đức văn vẻ sáng láng, ngoài mềm thuận để thờ vua Trụ, đội [1] phạm nạn lớn mà bên trong không mất cái đức thành sáng của mình, bên ngoài đủ để tránh xa tai vạ, đó là đạo Văn Vương đã dùng, cho nên nói rằng vua Văn dùng cách đó.",
+    "bản_nghĩa_của_Chu_Hy": "Đây dùng đức quẻ để thích nghĩa quẻ. “Đội nạn lớn” chỉ về gặp loạn vua Trụ mà bị giam.",
+    "lời_bàn_của_tiên_nho": null
   },
   {
     "chunk_id": "QUE_MINH_DI_005",
     "hexagram": "QUE_MINH_DI",
     "que": null,
-    "lời_kinh": "利難貞,晦其明也,内難⽽能正其志,萁⼦以之.",
-    "dịch_âm": "Lợi gian trinh, hối kỳ minh dã; nội nạn nhi năng chính kỳ chí, Cả tử dĩ chi.",
-    "dịch_nghĩa": "Lợi về khó nhọc trinh chính, là làm cho tối thửa sự sáng vậy; trong nạn mà hay chính thửa chí, ông Cơ tử dùng cách đó. GIẢI NGHĨA",
-    "truyện_của_Trình_Di": null,
-    "bản_nghĩa_của_Chu_Hy": "Đây lây nghĩa một hào Sáu Năm để thích lời quẻ. “Trong nạn”,nghĩa là họ gần vua Trụ về ở trong nước vua ấy như hào Sáu Năm gắn hào Sáu Trên.",
-    "lời_bàn_của_tiên_nho": null,
+    "content_type": "interpretation",
     "notes": {
       "1": "Văn Vương bị vua Trụ giam ở ngục Dũ lý.",
-      "2": "Ông Cơ Tử là anh ruột vua Trụ; thấy vua Trụ càn dỡ, không thể can",
-      "3": "Vua Thang nhà Thương đánh vua Kiệt nhà Hạ, vua Vũ nhà Chu đánh vua",
-      "4": "Vua Thang bị vua Kiệt giam ở ngục Hạ Đài, khi được tha ra liền dựng",
+      "2": "Ông Cơ Tử là anh ruột vua Trụ; thấy vua Trụ càn dỡ, không thể can được, ông ấy giả rồ đi làm đứa ở, sau về với nhà Chu.",
+      "3": "Vua Thang nhà Thương đánh vua Kiệt nhà Hạ, vua Vũ nhà Chu đánh vua Trụ nhà Ân, đều là bầy tôi đánh vua.",
+      "4": "Vua Thang bị vua Kiệt giam ở ngục Hạ Đài, khi được tha ra liền dựng lên cơ nghiệp nhà Thương, vua Văn bị vua Trụ giam ở ngục Dũ Lý, khi được tha ra liền gây nên cơ nghiệp nhà Chu.",
       "5": "Tức là theo lời văn mà chọn lấy nghĩa ý.",
-      "6": "Dương Hùng trước làm tôi nhà Hán, sau Vương Mãng cướp ngôi nhà"
-    }
+      "6": "Dương Hùng trước làm tôi nhà Hán, sau Vương Mãng cướp ngôi nhà Hán, lại làm tôi Vương Măng."
+    },
+    "lời_kinh": "利難貞,晦其明也,内難⽽能正其志,萁⼦以之.",
+    "dịch_âm": "Lợi gian trinh, hối kỳ minh dã; nội nạn nhi năng chính kỳ chí, Cả tử dĩ chi.",
+    "dịch_nghĩa": "Lợi về khó nhọc trinh chính, là làm cho tối thửa sự sáng vậy; trong nạn mà hay chính thửa chí, ông Cơ tử dùng cách đó.",
+    "truyện_của_Trình_Di": "Trong thì sáng đau, lợi về xử cách khó khăn mà không mất sự trinh chính của mình, nghĩa là biết che giấu sự sáng của mình. Không làm cho tối sự sáng của mình, thì bị vạ lo, không giữ được sự chính [2] đính của mình thì không phải là người hiền minh, ông Cơ Tử đương thời vua Trụ, thân với nước ấy, bên trong sát gần nạn của vua ấy, cho nên nói rằng “Trong nạn”. Nhưng ông Cơ Tử biết giấu kín sự sáng của mình và tự giữ lấy chí chính đáng, đó là cái đạo ông Cơ Tử vẫn dùng, cho nên nói rằng “Ông Cơ Tử dùng cách đó”.",
+    "bản_nghĩa_của_Chu_Hy": "Đây lây nghĩa một hào Sáu Năm để thích lời quẻ. “Trong nạn”,nghĩa là họ gần vua Trụ về ở trong nước vua ấy như hào Sáu Năm gắn hào Sáu Trên.",
+    "lời_bàn_của_tiên_nho": null
   },
   {
     "chunk_id": "QUE_MINH_DI_006",
     "hexagram": "QUE_MINH_DI",
     "que": null,
-    "lời_kinh": "象⽈:明⼊地中,明夷,君⼦以蒞泉,⽤晦⽽明.",
-    "dịch_âm": "Tượng viết: Minh nhập địa trung, Minh di, quân tử dĩ ly chúng, dụng hối nhi minh.",
-    "dịch_nghĩa": "Lời Tượng nói rằng: Sáng vào trong đất là quẻ Minh di. Đấng quân tử coi đó để trị dân chúng, dùng tối mà sáng. GIẢI NGHĨA",
-    "truyện_của_Trình_Di": null,
-    "bản_nghĩa_của_Chu_Hy": null,
-    "lời_bàn_của_tiên_nho": null,
+    "content_type": "interpretation",
     "notes": {
       "1": "Văn Vương bị vua Trụ giam ở ngục Dũ lý.",
-      "2": "Ông Cơ Tử là anh ruột vua Trụ; thấy vua Trụ càn dỡ, không thể can",
-      "3": "Vua Thang nhà Thương đánh vua Kiệt nhà Hạ, vua Vũ nhà Chu đánh vua",
-      "4": "Vua Thang bị vua Kiệt giam ở ngục Hạ Đài, khi được tha ra liền dựng",
+      "2": "Ông Cơ Tử là anh ruột vua Trụ; thấy vua Trụ càn dỡ, không thể can được, ông ấy giả rồ đi làm đứa ở, sau về với nhà Chu.",
+      "3": "Vua Thang nhà Thương đánh vua Kiệt nhà Hạ, vua Vũ nhà Chu đánh vua Trụ nhà Ân, đều là bầy tôi đánh vua.",
+      "4": "Vua Thang bị vua Kiệt giam ở ngục Hạ Đài, khi được tha ra liền dựng lên cơ nghiệp nhà Thương, vua Văn bị vua Trụ giam ở ngục Dũ Lý, khi được tha ra liền gây nên cơ nghiệp nhà Chu.",
       "5": "Tức là theo lời văn mà chọn lấy nghĩa ý.",
-      "6": "Dương Hùng trước làm tôi nhà Hán, sau Vương Mãng cướp ngôi nhà"
-    }
+      "6": "Dương Hùng trước làm tôi nhà Hán, sau Vương Mãng cướp ngôi nhà Hán, lại làm tôi Vương Măng."
+    },
+    "lời_kinh": "象⽈:明⼊地中,明夷,君⼦以蒞泉,⽤晦⽽明.",
+    "dịch_âm": "Tượng viết: Minh nhập địa trung, Minh di, quân tử dĩ ly chúng, dụng hối nhi minh.",
+    "dịch_nghĩa": "Lời Tượng nói rằng: Sáng vào trong đất là quẻ Minh di. Đấng quân tử coi đó để trị dân chúng, dùng tối mà sáng.",
+    "truyện_của_Trình_Di": "Sự sáng là để mà soi, đấng quân tử không đâu không soi, nhưng quá dùng sự sáng, thì hại về đường xét nét, xét nét quá thì hết việc mà không có độ lượng bao dung cho nên đấng quân tử coi Tượng “Sáng vào trong đất”,mà về cách trị người không soi, xét cùng cực mà dùng sự tối, rồi mới có thể dong người hào chúng. Người ta thân với mình mà đâu yên đó, thế là dùng sự tối cốt để cho sáng. Nếu tự dùng sự sáng của mình, không gì không xét, thì tự mình không thắng được sự giận ghét mà không có đức khoan hậu bao dung, lòng người xa lìa ngờ vực không yên, thế là lỗi đạo trị người, chỉ để thành ra không sáng mà thôi.",
+    "bản_nghĩa_của_Chu_Hy": null,
+    "lời_bàn_của_tiên_nho": null
   },
   {
     "chunk_id": "QUE_MINH_DI_007",
     "hexagram": "QUE_MINH_DI",
     "que": null,
-    "lời_kinh": "初九:明夷于作,垂其翼;君⼦于⾏, 三⽇不⾷,肴攸往,主⼈有⾔.",
-    "dịch_âm": "Sơ Cửu: Minh di vu phi, thùy kỳ dực; quân tử vu hành, tam nhật bất thực; hữu du vãng; chủ nhân hữu ngôn.",
-    "dịch_nghĩa": "Hào Chín Đầu: Sáng đau chưng bay; đủ thửa cánh; đấng quân tử chưng đi, ba ngày chẳng ăn; có thửa đi; người chủ có nói. GIẢI NGHĨA",
-    "truyện_của_Trình_Di": null,
-    "bản_nghĩa_của_Chu_Hy": "Bay là rủ cánh là Tượng bị đau. Kẻ xem đi mà chẳng ăn, chỗ đi không hợp, thì nghĩa nên thế, không thể tránh được.",
-    "lời_bàn_của_tiên_nho": "Khâu Kiến An nói rằng: “ Quẻ Minh di, chứa tối ở trên: hào Đầu là thể Ly sáng, cách hào Trên rất xa, thấy hại liền tránh, có Tượng “Bay mà rủ cánh”. Rủ cánh nghĩa là không dám tiến lên, thu mình để tránh vạ vậy. Đấng quân tử biết cơ, nghĩa là nên đi cho mau, có thể không ăn, mà không thể không đi, bởi vì đi trọng hơn ăn. Người chủ tức là người làm chủ mình, chỉ về hào Đầu ứng vời hào Tư; có nói nghĩa là lấy lạ về sự đi sớm.",
+    "content_type": "interpretation",
     "notes": {
       "1": "Văn Vương bị vua Trụ giam ở ngục Dũ lý.",
-      "2": "Ông Cơ Tử là anh ruột vua Trụ; thấy vua Trụ càn dỡ, không thể can",
-      "3": "Vua Thang nhà Thương đánh vua Kiệt nhà Hạ, vua Vũ nhà Chu đánh vua",
-      "4": "Vua Thang bị vua Kiệt giam ở ngục Hạ Đài, khi được tha ra liền dựng",
+      "2": "Ông Cơ Tử là anh ruột vua Trụ; thấy vua Trụ càn dỡ, không thể can được, ông ấy giả rồ đi làm đứa ở, sau về với nhà Chu.",
+      "3": "Vua Thang nhà Thương đánh vua Kiệt nhà Hạ, vua Vũ nhà Chu đánh vua Trụ nhà Ân, đều là bầy tôi đánh vua.",
+      "4": "Vua Thang bị vua Kiệt giam ở ngục Hạ Đài, khi được tha ra liền dựng lên cơ nghiệp nhà Thương, vua Văn bị vua Trụ giam ở ngục Dũ Lý, khi được tha ra liền gây nên cơ nghiệp nhà Chu.",
       "5": "Tức là theo lời văn mà chọn lấy nghĩa ý.",
-      "6": "Dương Hùng trước làm tôi nhà Hán, sau Vương Mãng cướp ngôi nhà"
-    }
+      "6": "Dương Hùng trước làm tôi nhà Hán, sau Vương Mãng cướp ngôi nhà Hán, lại làm tôi Vương Măng."
+    },
+    "lời_kinh": "初九:明夷于作,垂其翼;君⼦于⾏, 三⽇不⾷,肴攸往,主⼈有⾔.",
+    "dịch_âm": "Sơ Cửu: Minh di vu phi, thùy kỳ dực; quân tử vu hành, tam nhật bất thực; hữu du vãng; chủ nhân hữu ngôn.",
+    "dịch_nghĩa": "Hào Chín Đầu: Sáng đau chưng bay; đủ thửa cánh; đấng quân tử chưng đi, ba ngày chẳng ăn; có thửa đi; người chủ có nói.",
+    "truyện_của_Trình_Di": "Hào Chín Đầu ở thể sáng mà đầu cuộc sáng đau, đó là mới bị hại, Chín là hào Dương sáng đi lên, cho nên mới dùng Tượng “bay”,sự tối ở trên, làm hại sự sáng của khí Dương, khiến nó không tiến lên được, thế là bay mà bị đau cái cánh. Cánh bị đau nên phải rũ xuông. Phàm kẻ tiểu nhân hại người quân tử, chỉ hại cái để mà đi, đấng quân tử chưng đi, ba ngày không ăn, nghĩa là đấng quân tử sáng soi, thấy việc từ khi nhỏ nhặt, dù mới có mối bị hại mà chưa rõ rệt, đấng quân tử có thể thấy được, cho nên mới đi để tránh. “Đấng quân tử chưng đi” nghĩa là bỏ lộc vị của mình mà lui về ẩn nấp vậy. “Ba ngày chẳng ăn” ý nói khốn cùng đến tột bậc. Việc chưa rõ rệt mà xử rất khó, không phải là người thấy cơ sáng suốt thì không thể xử. Ôi biết cơ là sự thật riêng của đấng quân tử, người thường không thể biết, cho nên lúc mới sáng đau, sự bị đau chưa rõ mà đi thì thế tục ai không ngờ vực mà lấy làm lạ? Cho nên có thửa đi thì người chủ có nói. Nhưng đấng quân tử không vì thế tục lấy làm lạ mà chậm chạp nghi ngờ sự đi của mình. Nếu đợi mọi người cùng biết thì sự đau đã tới mà không thể đi được.",
+    "bản_nghĩa_của_Chu_Hy": "Bay là rủ cánh là Tượng bị đau. Kẻ xem đi mà chẳng ăn, chỗ đi không hợp, thì nghĩa nên thế, không thể tránh được.",
+    "lời_bàn_của_tiên_nho": "Khâu Kiến An nói rằng: “ Quẻ Minh di, chứa tối ở trên: hào Đầu là thể Ly sáng, cách hào Trên rất xa, thấy hại liền tránh, có Tượng “Bay mà rủ cánh”. Rủ cánh nghĩa là không dám tiến lên, thu mình để tránh vạ vậy. Đấng quân tử biết cơ, nghĩa là nên đi cho mau, có thể không ăn, mà không thể không đi, bởi vì đi trọng hơn ăn. Người chủ tức là người làm chủ mình, chỉ về hào Đầu ứng vời hào Tư; có nói nghĩa là lấy lạ về sự đi sớm."
   },
   {
     "chunk_id": "QUE_MINH_DI_008",
     "hexagram": "QUE_MINH_DI",
     "que": null,
-    "lời_kinh": "象⽈:考⼦于⾏,義不⾷也.",
-    "dịch_âm": "Tượng viết: Quân tử vu hành, nghĩa bất thực dã.",
-    "dịch_nghĩa": "Lời Tượng nói rằng: Đấng quân tử chưng đi nghĩa là chẳng ăn vậy. GIẢI NGHĨA",
-    "truyện_của_Trình_Di": null,
-    "bản_nghĩa_của_Chu_Hy": "Nghĩa là ở đâu thì theo ở đấy chẳng ăn cũng được.",
-    "lời_bàn_của_tiên_nho": "Vương Đồng Khuê nói rằng: “Đấng quân tử chưng đi” nghĩa là bỏ lộc và ngồi vậy. “Ba ngày không ăn” nghĩa là không đáng ăn lộc vậy.",
+    "content_type": "interpretation",
     "notes": {
       "1": "Văn Vương bị vua Trụ giam ở ngục Dũ lý.",
-      "2": "Ông Cơ Tử là anh ruột vua Trụ; thấy vua Trụ càn dỡ, không thể can",
-      "3": "Vua Thang nhà Thương đánh vua Kiệt nhà Hạ, vua Vũ nhà Chu đánh vua",
-      "4": "Vua Thang bị vua Kiệt giam ở ngục Hạ Đài, khi được tha ra liền dựng",
+      "2": "Ông Cơ Tử là anh ruột vua Trụ; thấy vua Trụ càn dỡ, không thể can được, ông ấy giả rồ đi làm đứa ở, sau về với nhà Chu.",
+      "3": "Vua Thang nhà Thương đánh vua Kiệt nhà Hạ, vua Vũ nhà Chu đánh vua Trụ nhà Ân, đều là bầy tôi đánh vua.",
+      "4": "Vua Thang bị vua Kiệt giam ở ngục Hạ Đài, khi được tha ra liền dựng lên cơ nghiệp nhà Thương, vua Văn bị vua Trụ giam ở ngục Dũ Lý, khi được tha ra liền gây nên cơ nghiệp nhà Chu.",
       "5": "Tức là theo lời văn mà chọn lấy nghĩa ý.",
-      "6": "Dương Hùng trước làm tôi nhà Hán, sau Vương Mãng cướp ngôi nhà"
-    }
+      "6": "Dương Hùng trước làm tôi nhà Hán, sau Vương Mãng cướp ngôi nhà Hán, lại làm tôi Vương Măng."
+    },
+    "lời_kinh": "象⽈:考⼦于⾏,義不⾷也.",
+    "dịch_âm": "Tượng viết: Quân tử vu hành, nghĩa bất thực dã.",
+    "dịch_nghĩa": "Lời Tượng nói rằng: Đấng quân tử chưng đi nghĩa là chẳng ăn vậy.",
+    "truyện_của_Trình_Di": "Đấng quân tử lành nấp mà khốn cùng, nghĩa nên thế vậy. Chỉ theo nghĩa nên thế nào thì làm thế ấy, cho nên ở yên mà không buồn, dầu rằng chẳng ăn cũng được.",
+    "bản_nghĩa_của_Chu_Hy": "Nghĩa là ở đâu thì theo ở đấy chẳng ăn cũng được.",
+    "lời_bàn_của_tiên_nho": "Vương Đồng Khuê nói rằng: “Đấng quân tử chưng đi” nghĩa là bỏ lộc và ngồi vậy. “Ba ngày không ăn” nghĩa là không đáng ăn lộc vậy."
   },
   {
     "chunk_id": "QUE_MINH_DI_009",
     "hexagram": "QUE_MINH_DI",
     "que": null,
-    "lời_kinh": "六⼆:明夷,夷于左股,⽤_,⾺狀吉.",
-    "dịch_âm": "Lục Nhị: Minh di, di vu tả cổ, dụng chửng, mã tráng cát",
-    "dịch_nghĩa": "Hào Sáu Hai: Sáng đau, đau ở đùi bên tả, dùng cứu, ngựa mạnh tốt. GIẢI NGHĨA",
-    "truyện_của_Trình_Di": null,
-    "bản_nghĩa_của_Chu_Hy": "Đau mà chưa thiết, cứu được mau chóng thì khỏi, cho nên Tượng, Chiêm của nó như thế.",
-    "lời_bàn_của_tiên_nho": null,
+    "content_type": "interpretation",
     "notes": {
       "1": "Văn Vương bị vua Trụ giam ở ngục Dũ lý.",
-      "2": "Ông Cơ Tử là anh ruột vua Trụ; thấy vua Trụ càn dỡ, không thể can",
-      "3": "Vua Thang nhà Thương đánh vua Kiệt nhà Hạ, vua Vũ nhà Chu đánh vua",
-      "4": "Vua Thang bị vua Kiệt giam ở ngục Hạ Đài, khi được tha ra liền dựng",
+      "2": "Ông Cơ Tử là anh ruột vua Trụ; thấy vua Trụ càn dỡ, không thể can được, ông ấy giả rồ đi làm đứa ở, sau về với nhà Chu.",
+      "3": "Vua Thang nhà Thương đánh vua Kiệt nhà Hạ, vua Vũ nhà Chu đánh vua Trụ nhà Ân, đều là bầy tôi đánh vua.",
+      "4": "Vua Thang bị vua Kiệt giam ở ngục Hạ Đài, khi được tha ra liền dựng lên cơ nghiệp nhà Thương, vua Văn bị vua Trụ giam ở ngục Dũ Lý, khi được tha ra liền gây nên cơ nghiệp nhà Chu.",
       "5": "Tức là theo lời văn mà chọn lấy nghĩa ý.",
-      "6": "Dương Hùng trước làm tôi nhà Hán, sau Vương Mãng cướp ngôi nhà"
-    }
+      "6": "Dương Hùng trước làm tôi nhà Hán, sau Vương Mãng cướp ngôi nhà Hán, lại làm tôi Vương Măng."
+    },
+    "lời_kinh": "六⼆:明夷,夷于左股,⽤_,⾺狀吉.",
+    "dịch_âm": "Lục Nhị: Minh di, di vu tả cổ, dụng chửng, mã tráng cát",
+    "dịch_nghĩa": "Hào Sáu Hai: Sáng đau, đau ở đùi bên tả, dùng cứu, ngựa mạnh tốt.",
+    "truyện_của_Trình_Di": "Hào Sáu Hai lấy tài rất sáng được chỗ trung chính mà thể thuận, thuận thì tự xử, đó là cách cư xử rất khéo. Dẫu đấng quân tử tự xử vẫn khéo, nhưng gặp lúc những kẻ tiểu nhân âm tối làm hại sự sáng, cũng không khỏi bị nó hại mình. Có điều đấng quân tử tự xử có cách, cho nên không thể làm hại nhau cho lắm, và rút lại vẫn có thể tránh được. Chân là cái để đi, đùi ở trên ống chân, với việc đi cũng không thiết lắm; bên tả lại không phải chỗ tiện dùng, với sự dùng của cái chân, phải cho bên hữu là tiện, chỉ có người què mới dùng bên tả, bởi vì đứng về bên hữu là gốc. “Đau ở đùi bên tả” nghĩa là đau hại sự đi mà không thiết lắm; tuy vậy ắt có cách tự khỏi, cứu dùng con người khỏe mạnh thì mau được khỏi mà tốt. Đấng quân tử kẻ bị âm tối làm hại nhưng mà có cách tự xử: cho nên đau không tệ; có cách tự cứu, cho nên được khỏi mau chóng. Nếu cách dùng cứu không mạnh thì đau lâu, cho nên nói rằng “ Ngựa mạnh thì tốt”. Hào Hai lấy chất sáng ở vào dưới chỗ âm tối, gọi là tốt nghĩa là chỉ khỏi đau hại mà thôi, không phải bảo rằng có thể làm việc thì đó.",
+    "bản_nghĩa_của_Chu_Hy": "Đau mà chưa thiết, cứu được mau chóng thì khỏi, cho nên Tượng, Chiêm của nó như thế.",
+    "lời_bàn_của_tiên_nho": null
   },
   {
     "chunk_id": "QUE_MINH_DI_010",
     "hexagram": "QUE_MINH_DI",
     "que": null,
-    "lời_kinh": "象⽈:六⼆之吉,順以則也.",
-    "dịch_âm": "Tượng viết: Lục Nhị chi cát, thuận dĩ tắc dã.",
-    "dịch_nghĩa": "Lời Tượng nói rằng: Cái tốt của hào Sáu Hai, vì thuận bằng phép vây. GIẢI NGHĨA",
-    "truyện_của_Trình_Di": null,
-    "bản_nghĩa_của_Chu_Hy": null,
-    "lời_bàn_của_tiên_nho": null,
+    "content_type": "interpretation",
     "notes": {
       "1": "Văn Vương bị vua Trụ giam ở ngục Dũ lý.",
-      "2": "Ông Cơ Tử là anh ruột vua Trụ; thấy vua Trụ càn dỡ, không thể can",
-      "3": "Vua Thang nhà Thương đánh vua Kiệt nhà Hạ, vua Vũ nhà Chu đánh vua",
-      "4": "Vua Thang bị vua Kiệt giam ở ngục Hạ Đài, khi được tha ra liền dựng",
+      "2": "Ông Cơ Tử là anh ruột vua Trụ; thấy vua Trụ càn dỡ, không thể can được, ông ấy giả rồ đi làm đứa ở, sau về với nhà Chu.",
+      "3": "Vua Thang nhà Thương đánh vua Kiệt nhà Hạ, vua Vũ nhà Chu đánh vua Trụ nhà Ân, đều là bầy tôi đánh vua.",
+      "4": "Vua Thang bị vua Kiệt giam ở ngục Hạ Đài, khi được tha ra liền dựng lên cơ nghiệp nhà Thương, vua Văn bị vua Trụ giam ở ngục Dũ Lý, khi được tha ra liền gây nên cơ nghiệp nhà Chu.",
       "5": "Tức là theo lời văn mà chọn lấy nghĩa ý.",
-      "6": "Dương Hùng trước làm tôi nhà Hán, sau Vương Mãng cướp ngôi nhà"
-    }
+      "6": "Dương Hùng trước làm tôi nhà Hán, sau Vương Mãng cướp ngôi nhà Hán, lại làm tôi Vương Măng."
+    },
+    "lời_kinh": "象⽈:六⼆之吉,順以則也.",
+    "dịch_âm": "Tượng viết: Lục Nhị chi cát, thuận dĩ tắc dã.",
+    "dịch_nghĩa": "Lời Tượng nói rằng: Cái tốt của hào Sáu Hai, vì thuận bằng phép vây.",
+    "truyện_của_Trình_Di": "Hào Sáu Hai mà được tốt, vì nó xử thuận mà có phép tắc. Phép là đạo trung chính; biết thuận mà được trung chính, cho nên ở thì sáng đau mà có thể giữ được sự tốt.",
+    "bản_nghĩa_của_Chu_Hy": null,
+    "lời_bàn_của_tiên_nho": null
   },
   {
     "chunk_id": "QUE_MINH_DI_011",
     "hexagram": "QUE_MINH_DI",
     "que": null,
-    "lời_kinh": "九三:明夷于南狩,得其⼤⾸,不可疾貞.",
-    "dịch_âm": "Cửu Tam: Minh di vu nam thù, đắc kỳ đại thủ, bất khả tật trinh.",
-    "dịch_nghĩa": "Hào Chín Ba: Sáng đau chưng cuộc săn bên nam được thừa đầu lớn, chẳng khá kíp chính. GIẢI NGHĨA",
-    "truyện_của_Trình_Di": null,
-    "bản_nghĩa_của_Chu_Hy": "Lấy chất cứng ở chỗ cứng, lại ở trên thể sáng, mà bị khuất dưới rất tối, chính là ứng nhau với hào Sáu Trên, chủ của sự tối, cho nên cố tượng ngảnh sáng, trừ hại bắt được kẻ đầu ác; nhưng mà không thể kíp ngặt, cho nên mới có lời răn không thể kíp chính. Vua Thành Thang nổi [4] lên ở trên ngục Hạ đài , vua Văn Vương dấy lên ở ngục Dũ Lý, chính là hợp nghĩa của hào này, mà việc nhỏ cũng có như thế.",
-    "lời_bàn_của_tiên_nho": null,
+    "content_type": "interpretation",
     "notes": {
       "1": "Văn Vương bị vua Trụ giam ở ngục Dũ lý.",
-      "2": "Ông Cơ Tử là anh ruột vua Trụ; thấy vua Trụ càn dỡ, không thể can",
-      "3": "Vua Thang nhà Thương đánh vua Kiệt nhà Hạ, vua Vũ nhà Chu đánh vua",
-      "4": "Vua Thang bị vua Kiệt giam ở ngục Hạ Đài, khi được tha ra liền dựng",
+      "2": "Ông Cơ Tử là anh ruột vua Trụ; thấy vua Trụ càn dỡ, không thể can được, ông ấy giả rồ đi làm đứa ở, sau về với nhà Chu.",
+      "3": "Vua Thang nhà Thương đánh vua Kiệt nhà Hạ, vua Vũ nhà Chu đánh vua Trụ nhà Ân, đều là bầy tôi đánh vua.",
+      "4": "Vua Thang bị vua Kiệt giam ở ngục Hạ Đài, khi được tha ra liền dựng lên cơ nghiệp nhà Thương, vua Văn bị vua Trụ giam ở ngục Dũ Lý, khi được tha ra liền gây nên cơ nghiệp nhà Chu.",
       "5": "Tức là theo lời văn mà chọn lấy nghĩa ý.",
-      "6": "Dương Hùng trước làm tôi nhà Hán, sau Vương Mãng cướp ngôi nhà"
-    }
+      "6": "Dương Hùng trước làm tôi nhà Hán, sau Vương Mãng cướp ngôi nhà Hán, lại làm tôi Vương Măng."
+    },
+    "lời_kinh": "九三:明夷于南狩,得其⼤⾸,不可疾貞.",
+    "dịch_âm": "Cửu Tam: Minh di vu nam thù, đắc kỳ đại thủ, bất khả tật trinh.",
+    "dịch_nghĩa": "Hào Chín Ba: Sáng đau chưng cuộc săn bên nam được thừa đầu lớn, chẳng khá kíp chính.",
+    "truyện_của_Trình_Di": "Hào Chín Ba ở trên quẻ Ly là sáng đến tột bậc, lại chỗ cứng mà tiến lên; hào Sáu Trên ở trên quẻ Khôn , là tối đến tột bậc; rứt sáng ở dưới mà làm bậc trên thể dưới, rứt tối ở trên, mà ở chỗ cùng cực, hai đẳng ứng địch với nhau, là kẻ sẽ dùng sự sáng để trừ sự tối, ấy là việc của [3] vua Thang vua Vũ đó chăng? Bên Nam ở về phía trước mà là phương sáng, săn bắn là việc trừ hại, săn bên Nam nghĩa là tiến lên mà trừ hại, nên bắt được đầu lớn của nó; đầu lớn chỉ về chùm đầu của đám tối, tức là hào Sáu Trên. Hào Ba với hào Trên cùng ứng với nhau, là tượng kẻ rứt sáng được kẻ rứt tối. Không thể kíp chính, nghĩa là giết kẻ đầu ác, và trừ tục cũ thói dơ chưa thể thay đổi ngay được, ắt phải thay đổi dần dần, vội quá thì nó sợ hãi mà không yên…Cho nên nói rằng không thể kíp chính, nghĩa là không thể kíp làm cho nó ngay thẳng. Hào Sáu Trên tuy không phải ngôi vua, vì nó ở trên mà là tối đến cùng cực, cho nên là chủ sự tối, mới gọi là đầu lớn.",
+    "bản_nghĩa_của_Chu_Hy": "Lấy chất cứng ở chỗ cứng, lại ở trên thể sáng, mà bị khuất dưới rất tối, chính là ứng nhau với hào Sáu Trên, chủ của sự tối, cho nên cố tượng ngảnh sáng, trừ hại bắt được kẻ đầu ác; nhưng mà không thể kíp ngặt, cho nên mới có lời răn không thể kíp chính. Vua Thành Thang nổi [4] lên ở trên ngục Hạ đài , vua Văn Vương dấy lên ở ngục Dũ Lý, chính là hợp nghĩa của hào này, mà việc nhỏ cũng có như thế.",
+    "lời_bàn_của_tiên_nho": null
   },
   {
     "chunk_id": "QUE_MINH_DI_012",
     "hexagram": "QUE_MINH_DI",
     "que": null,
-    "lời_kinh": "象⽈:南狩志之,乃⼤得也.",
-    "dịch_âm": "Tượng viết: Nam thú chi chí, nãi đại bất đắc dã.",
-    "dịch_nghĩa": "Lời Tượng nói rằng: Chí săn bên Nam, bền cả được vậy. GIẢI NGHĨA",
-    "truyện_của_Trình_Di": null,
-    "bản_nghĩa_của_Chu_Hy": null,
-    "lời_bàn_của_tiên_nho": null,
+    "content_type": "interpretation",
     "notes": {
       "1": "Văn Vương bị vua Trụ giam ở ngục Dũ lý.",
-      "2": "Ông Cơ Tử là anh ruột vua Trụ; thấy vua Trụ càn dỡ, không thể can",
-      "3": "Vua Thang nhà Thương đánh vua Kiệt nhà Hạ, vua Vũ nhà Chu đánh vua",
-      "4": "Vua Thang bị vua Kiệt giam ở ngục Hạ Đài, khi được tha ra liền dựng",
+      "2": "Ông Cơ Tử là anh ruột vua Trụ; thấy vua Trụ càn dỡ, không thể can được, ông ấy giả rồ đi làm đứa ở, sau về với nhà Chu.",
+      "3": "Vua Thang nhà Thương đánh vua Kiệt nhà Hạ, vua Vũ nhà Chu đánh vua Trụ nhà Ân, đều là bầy tôi đánh vua.",
+      "4": "Vua Thang bị vua Kiệt giam ở ngục Hạ Đài, khi được tha ra liền dựng lên cơ nghiệp nhà Thương, vua Văn bị vua Trụ giam ở ngục Dũ Lý, khi được tha ra liền gây nên cơ nghiệp nhà Chu.",
       "5": "Tức là theo lời văn mà chọn lấy nghĩa ý.",
-      "6": "Dương Hùng trước làm tôi nhà Hán, sau Vương Mãng cướp ngôi nhà"
-    }
+      "6": "Dương Hùng trước làm tôi nhà Hán, sau Vương Mãng cướp ngôi nhà Hán, lại làm tôi Vương Măng."
+    },
+    "lời_kinh": "象⽈:南狩志之,乃⼤得也.",
+    "dịch_âm": "Tượng viết: Nam thú chi chí, nãi đại bất đắc dã.",
+    "dịch_nghĩa": "Lời Tượng nói rằng: Chí săn bên Nam, bền cả được vậy.",
+    "truyện_của_Trình_Di": "Ôi lấy sự sáng của kẻ dưới trừ sự tối của kẻ trên, chí nó cốt trừ hại mà thôi, như vua Thang, vua Vũ của nhà Thương, nhà Chu, há có ý muôn lấy thiên hạ làm lợi? Bắt được đầu lớn của nó ấy là bỏ được sự hại mà cả được chí minh. Chí nếu không thế, thì tức là việc trái loạn.",
+    "bản_nghĩa_của_Chu_Hy": null,
+    "lời_bàn_của_tiên_nho": null
   },
   {
     "chunk_id": "QUE_MINH_DI_013",
     "hexagram": "QUE_MINH_DI",
     "que": null,
-    "lời_kinh": "六四:⼊于左腹,獲明夷之⼼,于出⾨庭.",
-    "dịch_âm": "Lục Tứ: Nhập vu tả phúc, hoạch minh di chi tâm, vu xuất môn định.",
-    "dịch_nghĩa": "Hào Sáu Tư: Vào chưng bụng bên tả được cái lòng sáng đau: chưng ra cửa sân. GIẢI NGHĨA",
-    "truyện_của_Trình_Di": null,
-    "bản_nghĩa_của_Chu_Hy": "Nghĩa của hào này chưa rõ ra sao, trộm ngờ như vầy; bụng bên tả là chỗ tối ẩn, được lòng sáng đau chưng ra cửa sân, tức là đắc ý về sự đi xa; ý nói kẻ bói mà được hào này thì cách tự xử phải nên thế. Bỏi vì thể Ly là đức rất sáng, mà ở dưới ba hào thể Khôn, là chỗ rất tối, sáng ở ngoài tối, nên phải theo sự xa gần cao thấp mà xử khác nhau. Hào Sáu Tư là bậc mềm chính, ở chỗ tối mà còn nông, nên còn có thể đắc ý về sự đi xa: Hào Năm là hạng mềm giữa, ở chỗ tối mà đã ngặt, cho nên mới là cái Tượng bên trong có nạn, phải chính chí mình, để cho bớt sự sáng đi; hào Trên thì là tối đã cùng tột, cho nên là kẻ tự hại sự sáng của mình, đến nỗi phải tối, mà lại có thể hại người ta; nghĩa là năm hào dưới đều là đấng quân tử, một hào trên là hạng hôn quân.",
-    "lời_bàn_của_tiên_nho": "Khâu Kiến An nói rằng: Khôn là bụng, bên tả là chốn ẩn lệch, hào Sáu Tư tiến lên ở dưới thể Khôn, cho nên nói rằng “Vào chưng bụng bên tả”. Làm hại sự sáng của người ta ấy là người trên, hào Sáu Tư sâu vào bụng nó mà biểu được cái lòng “làm đau sự sống”’ của nó, cho nên nói rằng “được lòng sáng đau”. May mà hào Tư với hào Trên, lúc đó hiểu được ý kín của nó, biết rằng ám chứa ở trên, không thể giúp dập; bỏ nó mà đi, để tới với hào Chín Ba là kẻ sáng, cho nên có Tượng “ra cửa sân”.",
+    "content_type": "interpretation",
     "notes": {
       "1": "Văn Vương bị vua Trụ giam ở ngục Dũ lý.",
-      "2": "Ông Cơ Tử là anh ruột vua Trụ; thấy vua Trụ càn dỡ, không thể can",
-      "3": "Vua Thang nhà Thương đánh vua Kiệt nhà Hạ, vua Vũ nhà Chu đánh vua",
-      "4": "Vua Thang bị vua Kiệt giam ở ngục Hạ Đài, khi được tha ra liền dựng",
+      "2": "Ông Cơ Tử là anh ruột vua Trụ; thấy vua Trụ càn dỡ, không thể can được, ông ấy giả rồ đi làm đứa ở, sau về với nhà Chu.",
+      "3": "Vua Thang nhà Thương đánh vua Kiệt nhà Hạ, vua Vũ nhà Chu đánh vua Trụ nhà Ân, đều là bầy tôi đánh vua.",
+      "4": "Vua Thang bị vua Kiệt giam ở ngục Hạ Đài, khi được tha ra liền dựng lên cơ nghiệp nhà Thương, vua Văn bị vua Trụ giam ở ngục Dũ Lý, khi được tha ra liền gây nên cơ nghiệp nhà Chu.",
       "5": "Tức là theo lời văn mà chọn lấy nghĩa ý.",
-      "6": "Dương Hùng trước làm tôi nhà Hán, sau Vương Mãng cướp ngôi nhà"
-    }
+      "6": "Dương Hùng trước làm tôi nhà Hán, sau Vương Mãng cướp ngôi nhà Hán, lại làm tôi Vương Măng."
+    },
+    "lời_kinh": "六四:⼊于左腹,獲明夷之⼼,于出⾨庭.",
+    "dịch_âm": "Lục Tứ: Nhập vu tả phúc, hoạch minh di chi tâm, vu xuất môn định.",
+    "dịch_nghĩa": "Hào Sáu Tư: Vào chưng bụng bên tả được cái lòng sáng đau: chưng ra cửa sân.",
+    "truyện_của_Trình_Di": "Hào Sáu Tư lấy chất Âm đóng ngôi Âm mà ở vào thể Âm mềm, nhằm chỗ gần vua, đó là kẻ Âm tà tiểu nhân ở ngôi cao dùng sự mềm nhũn cong queo để thuận với với vua; hào Sáu Năm là ngôi vua. Sáng đau tức là ông vua bị đau sự sáng, hào Tư lấy sự mềm nhũn cong queo, thuận theo với nó, để cho giao kết được bền. Ôi kẻ tiểu nhân thờ vua chưa có khi nào theo sự rõ rệt lấy đạo hợp nhau, họ ắt lấy cách ẩn lệch tự mình kết với người trên. Bên hữu nhằm vào sự dùng, cho nên là nơi sáng rõ; bên tả không nhằm sự dùng, cho nên là nơi ẩn lệch; tay chân người ta hay dùng bên hữu; người đời thường bảo bên tả là trái, đó là bên tả là chỗ ẩn lệch. Hào Tư dùng cách ẩn lệch kết sâu với vua, cho nên nói rằng “vào chưng bụng bên tả”. “Vào bụng” nghĩa là giao kết sâu lắm; bởi giao kết sâu cho nên mới được lòng nó. Nhưng kẻ gian tà được tin với vua đều do cướp được lòng họ. Nếu không cướp được lòng họ, hồ dễ họ không tỉnh ngộ? “Chưng ra cửa sân” nghĩa là đã tin ở lòng, rồi sau mới làm ra ngoài; tôi gian thờ vua tối, ắt phải trước làm mê hoặc lòng họ, rồi mới có thể thi hành ra ngoài.",
+    "bản_nghĩa_của_Chu_Hy": "Nghĩa của hào này chưa rõ ra sao, trộm ngờ như vầy; bụng bên tả là chỗ tối ẩn, được lòng sáng đau chưng ra cửa sân, tức là đắc ý về sự đi xa; ý nói kẻ bói mà được hào này thì cách tự xử phải nên thế. Bỏi vì thể Ly là đức rất sáng, mà ở dưới ba hào thể Khôn, là chỗ rất tối, sáng ở ngoài tối, nên phải theo sự xa gần cao thấp mà xử khác nhau. Hào Sáu Tư là bậc mềm chính, ở chỗ tối mà còn nông, nên còn có thể đắc ý về sự đi xa: Hào Năm là hạng mềm giữa, ở chỗ tối mà đã ngặt, cho nên mới là cái Tượng bên trong có nạn, phải chính chí mình, để cho bớt sự sáng đi; hào Trên thì là tối đã cùng tột, cho nên là kẻ tự hại sự sáng của mình, đến nỗi phải tối, mà lại có thể hại người ta; nghĩa là năm hào dưới đều là đấng quân tử, một hào trên là hạng hôn quân.",
+    "lời_bàn_của_tiên_nho": "Khâu Kiến An nói rằng: Khôn là bụng, bên tả là chốn ẩn lệch, hào Sáu Tư tiến lên ở dưới thể Khôn, cho nên nói rằng “Vào chưng bụng bên tả”. Làm hại sự sáng của người ta ấy là người trên, hào Sáu Tư sâu vào bụng nó mà biểu được cái lòng “làm đau sự sống”’ của nó, cho nên nói rằng “được lòng sáng đau”. May mà hào Tư với hào Trên, lúc đó hiểu được ý kín của nó, biết rằng ám chứa ở trên, không thể giúp dập; bỏ nó mà đi, để tới với hào Chín Ba là kẻ sáng, cho nên có Tượng “ra cửa sân”."
   },
   {
     "chunk_id": "QUE_MINH_DI_014",
     "hexagram": "QUE_MINH_DI",
     "que": null,
-    "lời_kinh": "象⽈:⼊于左腹,獲⼼意也.",
-    "dịch_âm": "Tượng viết: Nhập vu tả phúc, hoạch tâm ý dã.",
-    "dịch_nghĩa": "Lời Tượng nói rằng: Vào chưng bụng bên tả, được lòng ý vậy. GIẢI NGHĨA",
-    "truyện_của_Trình_Di": null,
-    "bản_nghĩa_của_Chu_Hy": null,
-    "lời_bàn_của_tiên_nho": null,
+    "content_type": "interpretation",
     "notes": {
       "1": "Văn Vương bị vua Trụ giam ở ngục Dũ lý.",
-      "2": "Ông Cơ Tử là anh ruột vua Trụ; thấy vua Trụ càn dỡ, không thể can",
-      "3": "Vua Thang nhà Thương đánh vua Kiệt nhà Hạ, vua Vũ nhà Chu đánh vua",
-      "4": "Vua Thang bị vua Kiệt giam ở ngục Hạ Đài, khi được tha ra liền dựng",
+      "2": "Ông Cơ Tử là anh ruột vua Trụ; thấy vua Trụ càn dỡ, không thể can được, ông ấy giả rồ đi làm đứa ở, sau về với nhà Chu.",
+      "3": "Vua Thang nhà Thương đánh vua Kiệt nhà Hạ, vua Vũ nhà Chu đánh vua Trụ nhà Ân, đều là bầy tôi đánh vua.",
+      "4": "Vua Thang bị vua Kiệt giam ở ngục Hạ Đài, khi được tha ra liền dựng lên cơ nghiệp nhà Thương, vua Văn bị vua Trụ giam ở ngục Dũ Lý, khi được tha ra liền gây nên cơ nghiệp nhà Chu.",
       "5": "Tức là theo lời văn mà chọn lấy nghĩa ý.",
-      "6": "Dương Hùng trước làm tôi nhà Hán, sau Vương Mãng cướp ngôi nhà"
-    }
+      "6": "Dương Hùng trước làm tôi nhà Hán, sau Vương Mãng cướp ngôi nhà Hán, lại làm tôi Vương Măng."
+    },
+    "lời_kinh": "象⽈:⼊于左腹,獲⼼意也.",
+    "dịch_âm": "Tượng viết: Nhập vu tả phúc, hoạch tâm ý dã.",
+    "dịch_nghĩa": "Lời Tượng nói rằng: Vào chưng bụng bên tả, được lòng ý vậy.",
+    "truyện_của_Trình_Di": "Vào chưng bụng bên tả, nghĩa là lấy đạo cong lệch, vào với vua, mà được lòng ý của hắn. Được lòng hắn cho nên cùng chót vẫn không tỉnh ngộ.",
+    "bản_nghĩa_của_Chu_Hy": null,
+    "lời_bàn_của_tiên_nho": null
   },
   {
     "chunk_id": "QUE_MINH_DI_015",
     "hexagram": "QUE_MINH_DI",
     "que": null,
-    "lời_kinh": "六五:箕;f之明夷,利貞.",
-    "dịch_âm": "Lục Ngũ: Cơ Tử chi minh di, lợi trinh.",
-    "dịch_nghĩa": "Hào Sáu Năm, ông Cơ Tử chưng sáng đau, lợi về chính bền. GIẢI NGHĨA",
-    "truyện_của_Trình_Di": null,
-    "bản_nghĩa_của_Chu_Hy": "Ở chỗ rất tối, gần vua rất mà giữ được tâm chí chính đính, đó là Tượng ông Cơ Tử, chính bền tột bậc vậy. “Lợi về chính bền” là câu để răn kẻ xem.",
-    "lời_bàn_của_tiên_nho": null,
+    "content_type": "interpretation",
     "notes": {
       "1": "Văn Vương bị vua Trụ giam ở ngục Dũ lý.",
-      "2": "Ông Cơ Tử là anh ruột vua Trụ; thấy vua Trụ càn dỡ, không thể can",
-      "3": "Vua Thang nhà Thương đánh vua Kiệt nhà Hạ, vua Vũ nhà Chu đánh vua",
-      "4": "Vua Thang bị vua Kiệt giam ở ngục Hạ Đài, khi được tha ra liền dựng",
+      "2": "Ông Cơ Tử là anh ruột vua Trụ; thấy vua Trụ càn dỡ, không thể can được, ông ấy giả rồ đi làm đứa ở, sau về với nhà Chu.",
+      "3": "Vua Thang nhà Thương đánh vua Kiệt nhà Hạ, vua Vũ nhà Chu đánh vua Trụ nhà Ân, đều là bầy tôi đánh vua.",
+      "4": "Vua Thang bị vua Kiệt giam ở ngục Hạ Đài, khi được tha ra liền dựng lên cơ nghiệp nhà Thương, vua Văn bị vua Trụ giam ở ngục Dũ Lý, khi được tha ra liền gây nên cơ nghiệp nhà Chu.",
       "5": "Tức là theo lời văn mà chọn lấy nghĩa ý.",
-      "6": "Dương Hùng trước làm tôi nhà Hán, sau Vương Mãng cướp ngôi nhà"
-    }
+      "6": "Dương Hùng trước làm tôi nhà Hán, sau Vương Mãng cướp ngôi nhà Hán, lại làm tôi Vương Măng."
+    },
+    "lời_kinh": "六五:箕;f之明夷,利貞.",
+    "dịch_âm": "Lục Ngũ: Cơ Tử chi minh di, lợi trinh.",
+    "dịch_nghĩa": "Hào Sáu Năm, ông Cơ Tử chưng sáng đau, lợi về chính bền.",
+    "truyện_của_Trình_Di": "Hào Năm là ngôi vua, ấy là sự thường. Nhưng sự lấy [5] nghĩa của Kinh Dịch, biến động theo thời, hào Sáu Trên ở trên thể Khôn, mà là sáng đau đến tột bậc, tức là kẻ âm tối làm hại sự sáng đến tột bậc, hào Năm gần sát với nó, đấng thánh nhân, nhân hào Năm gần sát người rất tối để tỏ cái nghĩa khu xử chỗ đó, cho nên không chuyên nói về ngôi vua, hào Sáu Trên âm tối làm hại sự sáng đến tột bậc, cho nên mới dùng làm chủ quẻ Minh di. Hào Năm gần sát ông vua làm hại sự sáng, nếu để sự sáng của mình tỏ rõ thì ắt bị đau hại, cho nên, nên như ông Cơ Tử tự mình nấp náu, thì có thể khỏi nạn. Ồng Cơ Tử là bầy tôi của nhà Thương và là người họ đồng tông, có thể bảo là gần sát với vua Trụ, nếu không sự sáng của mình, thì chắc bị vạ, cho nên ông ấy giả cách rồ đi làm đứa ở, để khỏi bị hại. Tuy là che lấp sự sáng, nhưng bên trong vẫn giữ chính đạo, đó là “trong có nạn mà chính được chí mình”,vì vậy mới gọi là nhân và sáng. Như ông Cơ Tử có thể bảo là trinh vậy. Bởi hào Năm là hạng Âm mềm, cho nên răn rằng “lợi về chính bền”,nghĩa là nên chính bền như ông Cơ Tử vậy. Nếu lấy đạo vua mà nói, nghĩa cũng như thế. Kẻ làm vua có khi nên tự ngậm tối, thì cũng bên ngoài che tối sự sáng bên trong giữ cho chí ý chính đính.",
+    "bản_nghĩa_của_Chu_Hy": "Ở chỗ rất tối, gần vua rất mà giữ được tâm chí chính đính, đó là Tượng ông Cơ Tử, chính bền tột bậc vậy. “Lợi về chính bền” là câu để răn kẻ xem.",
+    "lời_bàn_của_tiên_nho": null
   },
   {
     "chunk_id": "QUE_MINH_DI_016",
     "hexagram": "QUE_MINH_DI",
     "que": null,
-    "lời_kinh": "參⽈:箕⼦⽓員,明不可息也.",
-    "dịch_âm": "Tượng viết: Cơ Tử chi trinh, minh bất khả tức dã.",
-    "dịch_nghĩa": "Lời Tượng nói rằng: Ông Cơ Tử chưng chính, sự sáng không thể tắt vậy. GIẢI NGHĨA",
-    "truyện_của_Trình_Di": null,
-    "bản_nghĩa_của_Chu_Hy": null,
-    "lời_bàn_của_tiên_nho": null,
+    "content_type": "interpretation",
     "notes": {
       "1": "Văn Vương bị vua Trụ giam ở ngục Dũ lý.",
-      "2": "Ông Cơ Tử là anh ruột vua Trụ; thấy vua Trụ càn dỡ, không thể can",
-      "3": "Vua Thang nhà Thương đánh vua Kiệt nhà Hạ, vua Vũ nhà Chu đánh vua",
-      "4": "Vua Thang bị vua Kiệt giam ở ngục Hạ Đài, khi được tha ra liền dựng",
+      "2": "Ông Cơ Tử là anh ruột vua Trụ; thấy vua Trụ càn dỡ, không thể can được, ông ấy giả rồ đi làm đứa ở, sau về với nhà Chu.",
+      "3": "Vua Thang nhà Thương đánh vua Kiệt nhà Hạ, vua Vũ nhà Chu đánh vua Trụ nhà Ân, đều là bầy tôi đánh vua.",
+      "4": "Vua Thang bị vua Kiệt giam ở ngục Hạ Đài, khi được tha ra liền dựng lên cơ nghiệp nhà Thương, vua Văn bị vua Trụ giam ở ngục Dũ Lý, khi được tha ra liền gây nên cơ nghiệp nhà Chu.",
       "5": "Tức là theo lời văn mà chọn lấy nghĩa ý.",
-      "6": "Dương Hùng trước làm tôi nhà Hán, sau Vương Mãng cướp ngôi nhà"
-    }
+      "6": "Dương Hùng trước làm tôi nhà Hán, sau Vương Mãng cướp ngôi nhà Hán, lại làm tôi Vương Măng."
+    },
+    "lời_kinh": "參⽈:箕⼦⽓員,明不可息也.",
+    "dịch_âm": "Tượng viết: Cơ Tử chi trinh, minh bất khả tức dã.",
+    "dịch_nghĩa": "Lời Tượng nói rằng: Ông Cơ Tử chưng chính, sự sáng không thể tắt vậy.",
+    "truyện_của_Trình_Di": "Ông Cơ Tử ẩn náu, không mất sự chính bền, tuy gặp hoạn nạn, sự sáng vẫn còn, không thể dứt tắt vậy. Nếu gặp vạ lo mà để cho mất cái điều mình vẫn cầm giữ, thì là mất sự sáng, ấy là dứt tắt. Người [6] xưa; như Dương Hùng là hạng đó.",
+    "bản_nghĩa_của_Chu_Hy": null,
+    "lời_bàn_của_tiên_nho": null
   },
   {
     "chunk_id": "QUE_MINH_DI_017",
     "hexagram": "QUE_MINH_DI",
     "que": null,
-    "lời_kinh": "上六:不明,晦,初登于天,後⼊于地.",
-    "dịch_âm": "Thượng Lục: Bất minh hối; sơ đăng vu thiên, hậu nhập vu địa.",
-    "dịch_nghĩa": "Hào Sáu Trên: Chẳng sáng; tối đầu lên chưng trời, sau vào chưng đất. GIẢI NGHĨA",
-    "truyện_của_Trình_Di": null,
-    "bản_nghĩa_của_Chu_Hy": "Lấy chất Âm ở chỗ cùng cực thể khôn, chẳng làm cho đức mình sáng ra, để đến chỗ phải tối, lúc đầu thì ở ngôi cao, để làm hại sự sáng của người, lúc chót ắt đến tự mình hại mình, mà hỏng tính mệnh, cho nên Tượng nó như thế, mà Chiêm cũng ở trong đó.",
-    "lời_bàn_của_tiên_nho": null,
+    "content_type": "interpretation",
     "notes": {
       "1": "Văn Vương bị vua Trụ giam ở ngục Dũ lý.",
-      "2": "Ông Cơ Tử là anh ruột vua Trụ; thấy vua Trụ càn dỡ, không thể can",
-      "3": "Vua Thang nhà Thương đánh vua Kiệt nhà Hạ, vua Vũ nhà Chu đánh vua",
-      "4": "Vua Thang bị vua Kiệt giam ở ngục Hạ Đài, khi được tha ra liền dựng",
+      "2": "Ông Cơ Tử là anh ruột vua Trụ; thấy vua Trụ càn dỡ, không thể can được, ông ấy giả rồ đi làm đứa ở, sau về với nhà Chu.",
+      "3": "Vua Thang nhà Thương đánh vua Kiệt nhà Hạ, vua Vũ nhà Chu đánh vua Trụ nhà Ân, đều là bầy tôi đánh vua.",
+      "4": "Vua Thang bị vua Kiệt giam ở ngục Hạ Đài, khi được tha ra liền dựng lên cơ nghiệp nhà Thương, vua Văn bị vua Trụ giam ở ngục Dũ Lý, khi được tha ra liền gây nên cơ nghiệp nhà Chu.",
       "5": "Tức là theo lời văn mà chọn lấy nghĩa ý.",
-      "6": "Dương Hùng trước làm tôi nhà Hán, sau Vương Mãng cướp ngôi nhà"
-    }
+      "6": "Dương Hùng trước làm tôi nhà Hán, sau Vương Mãng cướp ngôi nhà Hán, lại làm tôi Vương Măng."
+    },
+    "lời_kinh": "上六:不明,晦,初登于天,後⼊于地.",
+    "dịch_âm": "Thượng Lục: Bất minh hối; sơ đăng vu thiên, hậu nhập vu địa.",
+    "dịch_nghĩa": "Hào Sáu Trên: Chẳng sáng; tối đầu lên chưng trời, sau vào chưng đất.",
+    "truyện_của_Trình_Di": "Hào Trên ở về chót quẻ là chủ sự “sáng đau”, lại là trên nhất cuộc “sáng đau”,một chỗ rất cao. Ở chỗ rất cao, vốn nên soi xa, sự sáng đã bị đau hại, cho nên không sáng mà lại tối tăm. Vốn ở chỗ cao, sự sáng nên tới nơi xa, ấy là “đầu lên chưng trời”. Bị đau hại sự sáng mà tối tăm, ấy là “sau vào chưng đất”. Hào Trên ở chốt quẻ Minh di, lại ở chót thể Khôn Âm, ấy là sáng đau đến tột bậc.",
+    "bản_nghĩa_của_Chu_Hy": "Lấy chất Âm ở chỗ cùng cực thể khôn, chẳng làm cho đức mình sáng ra, để đến chỗ phải tối, lúc đầu thì ở ngôi cao, để làm hại sự sáng của người, lúc chót ắt đến tự mình hại mình, mà hỏng tính mệnh, cho nên Tượng nó như thế, mà Chiêm cũng ở trong đó.",
+    "lời_bàn_của_tiên_nho": null
   },
   {
     "chunk_id": "QUE_MINH_DI_018",
     "hexagram": "QUE_MINH_DI",
     "que": null,
+    "content_type": "interpretation",
+    "notes": {
+      "1": "Văn Vương bị vua Trụ giam ở ngục Dũ lý.",
+      "2": "Ông Cơ Tử là anh ruột vua Trụ; thấy vua Trụ càn dỡ, không thể can được, ông ấy giả rồ đi làm đứa ở, sau về với nhà Chu.",
+      "3": "Vua Thang nhà Thương đánh vua Kiệt nhà Hạ, vua Vũ nhà Chu đánh vua Trụ nhà Ân, đều là bầy tôi đánh vua.",
+      "4": "Vua Thang bị vua Kiệt giam ở ngục Hạ Đài, khi được tha ra liền dựng lên cơ nghiệp nhà Thương, vua Văn bị vua Trụ giam ở ngục Dũ Lý, khi được tha ra liền gây nên cơ nghiệp nhà Chu.",
+      "5": "Tức là theo lời văn mà chọn lấy nghĩa ý.",
+      "6": "Dương Hùng trước làm tôi nhà Hán, sau Vương Mãng cướp ngôi nhà Hán, lại làm tôi Vương Măng."
+    },
     "lời_kinh": "象⽈:除登于天,照餚國也,後⼊于地,失則也..",
     "dịch_âm": "Tượng viết: Sơ Đăng vu thiên, chiếu tứ quốc dã; hậu nhập vu địa, thất đắc dã.",
     "dịch_nghĩa": "Lời Tượng nói rằng: Đầu lên chưng trời, soi bốn nước vậy; sau vào chưng đất, mất phép vậy. GIÃI NGHĨA",
-    "truyện_của_Trình_Di": null,
-    "bản_nghĩa_của_Chu_Hy": "“Soi bốn nước” là theo về ngôi mà nói. Chú thích: [1] Văn Vương bị vua Trụ giam ở ngục Dũ lý. [2] Ông Cơ Tử là anh ruột vua Trụ; thấy vua Trụ càn dỡ, không thể can được, ông ấy giả rồ đi làm đứa ở, sau về với nhà Chu. [3] Vua Thang nhà Thương đánh vua Kiệt nhà Hạ, vua Vũ nhà Chu đánh vua Trụ nhà Ân, đều là bầy tôi đánh vua. [4] Vua Thang bị vua Kiệt giam ở ngục Hạ Đài, khi được tha ra liền dựng lên cơ nghiệp nhà Thương, vua Văn bị vua Trụ giam ở ngục Dũ Lý, khi được tha ra liền gây nên cơ nghiệp nhà Chu. [5] Tức là theo lời văn mà chọn lấy nghĩa ý. [6] Dương Hùng trước làm tôi nhà Hán, sau Vương Mãng cướp ngôi nhà Hán, lại làm tôi Vương Măng.",
-    "lời_bàn_của_tiên_nho": null,
-    "notes": {
-      "1": "Văn Vương bị vua Trụ giam ở ngục Dũ lý.",
-      "2": "Ông Cơ Tử là anh ruột vua Trụ; thấy vua Trụ càn dỡ, không thể can",
-      "3": "Vua Thang nhà Thương đánh vua Kiệt nhà Hạ, vua Vũ nhà Chu đánh vua",
-      "4": "Vua Thang bị vua Kiệt giam ở ngục Hạ Đài, khi được tha ra liền dựng",
-      "5": "Tức là theo lời văn mà chọn lấy nghĩa ý.",
-      "6": "Dương Hùng trước làm tôi nhà Hán, sau Vương Mãng cướp ngôi nhà"
-    }
+    "truyện_của_Trình_Di": "Đầu lên chưng trời, là ở chỗ cao mà sáng thì nên soi tới bốn phương; thế mà bị hại mà tối tăm, thì là “sau vào chưng đất” mất cách sáng vậy. “Mất phép” nghĩa là mất phương pháp vậy.",
+    "bản_nghĩa_của_Chu_Hy": "“Soi bốn nước” là theo về ngôi mà nói.",
+    "lời_bàn_của_tiên_nho": null
   }
 ]

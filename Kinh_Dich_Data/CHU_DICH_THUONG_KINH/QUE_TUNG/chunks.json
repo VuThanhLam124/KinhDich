@@ -3,6 +3,7 @@
     "chunk_id": "QUE_TUNG_001",
     "hexagram": "QUE_TUNG",
     "que": null,
+    "content_type": "preface",
     "lời_kinh": null,
     "dịch_âm": null,
     "dịch_nghĩa": null,
@@ -11,7 +12,7 @@
     "lời_bàn_của_tiên_nho": null,
     "notes": {
       "1": "Tụng nghĩa là kiện.",
-      "2": "Chỉ về",
+      "2": "Chỉ về quẻ khảm .",
       "3": "Đồ mặc do mệnh trên ban cho."
     }
   },
@@ -19,256 +20,272 @@
     "chunk_id": "QUE_TUNG_002",
     "hexagram": "QUE_TUNG",
     "que": null,
-    "lời_kinh": "訟有孚室惕,中吉,終凶,利⾒⼤⼈,不利涉⼤川.",
-    "dịch_âm": "Tụng, hữu phu chất Dịch, trung cát, chung hung, lợi kiến đại nhân, bất lợi thiệp đại xuyên.",
-    "dịch_nghĩa": "Kiện, có thật, bị lấp, phải sợ, vừa phải, tốt; theo đuổi đến chót, xấu; lợi về sự thấy người lớn, không lợi về sự sang sông lớn. GIẢI NGHĨA Bản nghĩa của Trình Di. - Phép kiện phải có sự thật, ở trong không có sự [2] thật thì là kiểu của kẻ Vô võng, ấy là đạo hung. Quẻ này giữa đặc tức là tượng có sự thật. Kẻ kiện tranh biện với người này mà đợi, người khác quyết đoán cho mình, dù có sự thật cũng nên lấp đi, nếu không lấp thì đã rõ rồi, không có kiện nữa. Việc đã chưa phân biệt, thì lành dữ chưa thể chắc, cho nên có sự sợ hãi. Trung cát nghĩa là vừa phải thì tốt, chung hung nghĩa là theo đuổi công việc tới cùng thì xấu. Kẻ kiện cần để phân biệt cong ngay, cho nên lợi về sự thấy người lớn, vì rằng người lớn dùng đức cương minh trung chính quyết đoán việc kiện của họ. Kiện không phải là việc hòa bình, nên chọn chỗ yên ổn mà ở, không nên hăm vào chốn nguy hiểm, cho nên không lợi về sự sang sông lớn.",
-    "truyện_của_Trình_Di": null,
-    "bản_nghĩa_của_Chu_Hy": "Tụng là tranh biện. Trên Kiền dưới Khảm, Kiền cứng Khảm hiểm, người trên dùng sự cứng để chế kẻ dưới, kẻ dưới dùng sự hiểm để nhòm người trên, lại là mình hiểm mà nó mạnh, đều là đạo kiện. Quẻ này hào Chín Hai giữa đặc mà không có kẻ ứng cùng, lại là thêm lo. Vả, theo quái biến, nó tự quẻ Độn mà hại, tức là kẻ cứng đến ở hào Hai mà nhằm vào giữa thể dưới, có Tượng có sự thật bị lấp, biết sợ mà hợp vớỉ lẽ vừa phải; hào Chín Trên quá cứng ở cuối sự kiện, có Tượng theo đuổi việc kiện đến cùng hào Chín Năm cứng mạnh, trung chính ở ngôi tôn, có tượng người lớn; lấy tư cách Dương cương cưỡi lên chỗ hiểm, ấy là sự dầy đặc xéo vào chỗ hãm, có Tượng không lợi về sự sang sông lớn, cho nên mới răn kẻ xem ắt có sự tranh biện và tùy theo chỗ ở của họ mà thành ra lành hay dữ.",
-    "lời_bàn_của_tiên_nho": null,
+    "content_type": "interpretation",
     "notes": {
       "1": "Tụng nghĩa là kiện.",
-      "2": "Chỉ về",
+      "2": "Chỉ về quẻ khảm .",
       "3": "Đồ mặc do mệnh trên ban cho."
-    }
+    },
+    "lời_kinh": "訟有孚室惕,中吉,終凶,利⾒⼤⼈,不利涉⼤川.",
+    "dịch_âm": "Tụng, hữu phu chất Dịch, trung cát, chung hung, lợi kiến đại nhân, bất lợi thiệp đại xuyên.",
+    "dịch_nghĩa": "Kiện, có thật, bị lấp, phải sợ, vừa phải, tốt; theo đuổi đến chót, xấu; lợi về sự thấy người lớn, không lợi về sự sang sông lớn.",
+    "truyện_của_Trình_Di": null,
+    "bản_nghĩa_của_Chu_Hy": "Tụng là tranh biện. Trên Kiền dưới Khảm, Kiền cứng Khảm hiểm, người trên dùng sự cứng để chế kẻ dưới, kẻ dưới dùng sự hiểm để nhòm người trên, lại là mình hiểm mà nó mạnh, đều là đạo kiện. Quẻ này hào Chín Hai giữa đặc mà không có kẻ ứng cùng, lại là thêm lo. Vả, theo quái biến, nó tự quẻ Độn mà hại, tức là kẻ cứng đến ở hào Hai mà nhằm vào giữa thể dưới, có Tượng có sự thật bị lấp, biết sợ mà hợp vớỉ lẽ vừa phải; hào Chín Trên quá cứng ở cuối sự kiện, có Tượng theo đuổi việc kiện đến cùng hào Chín Năm cứng mạnh, trung chính ở ngôi tôn, có tượng người lớn; lấy tư cách Dương cương cưỡi lên chỗ hiểm, ấy là sự dầy đặc xéo vào chỗ hãm, có Tượng không lợi về sự sang sông lớn, cho nên mới răn kẻ xem ắt có sự tranh biện và tùy theo chỗ ở của họ mà thành ra lành hay dữ.",
+    "lời_bàn_của_tiên_nho": null
   },
   {
     "chunk_id": "QUE_TUNG_003",
     "hexagram": "QUE_TUNG",
     "que": null,
-    "lời_kinh": "彖⽈:訟,上剛下險,險⽽健,訟.",
-    "dịch_âm": "Thoắn viết: Tụng, thượng cương hạ hiểm, hiểm nhi kiện, Tụng.",
-    "dịch_nghĩa": "Lời Thoán nói rằng: Quẻ Tụng , trên cứng dưới hiểm, hiểm mà mạnh, là quẻ Tụng . GIẢI NGHĨA Bản nghĩa của Trình Di. - Tụng là quẻ trên cứng dưới hiểm, hiểm mà lại mạnh, lại là hiểm với mạnh tiếp nhau, trong hiểm ngoài mạnh, đều là cái cớ sinh kiện. Nếu như mạnh mà không hiểm, thì không sinh ra kiện; hỉểm mà không mạnh, cũng không thể kiện; vì hiểm mà lại mạnh, nên mới thành kiện.",
-    "truyện_của_Trình_Di": null,
-    "bản_nghĩa_của_Chu_Hy": "Đây dùng đức quẻ để thích nghĩa tên quẻ.",
-    "lời_bàn_của_tiên_nho": null,
+    "content_type": "interpretation",
     "notes": {
       "1": "Tụng nghĩa là kiện.",
-      "2": "Chỉ về",
+      "2": "Chỉ về quẻ khảm .",
       "3": "Đồ mặc do mệnh trên ban cho."
-    }
+    },
+    "lời_kinh": "彖⽈:訟,上剛下險,險⽽健,訟.",
+    "dịch_âm": "Thoắn viết: Tụng, thượng cương hạ hiểm, hiểm nhi kiện, Tụng.",
+    "dịch_nghĩa": "Lời Thoán nói rằng: Quẻ Tụng , trên cứng dưới hiểm, hiểm mà mạnh, là quẻ Tụng .",
+    "truyện_của_Trình_Di": null,
+    "bản_nghĩa_của_Chu_Hy": "Đây dùng đức quẻ để thích nghĩa tên quẻ.",
+    "lời_bàn_của_tiên_nho": null
   },
   {
     "chunk_id": "QUE_TUNG_004",
     "hexagram": "QUE_TUNG",
     "que": null,
-    "lời_kinh": "訟有孚,窒垮,中吉,两⼻來⽽#肀也. 終凶,訟不可成也。利⾒⼤⼈,尚中正也。 不利涉⼤川,Ả于淵也.",
-    "dịch_âm": "Tụng hữu phu, chất Dịch, trung cát, cương lai nhi đắc trung dã; chung hung, tụng bất khả thành dã; lợi kiến đại nhân, thượng trung chính dã; bất lợi thiệp đại xuyên, nhập vu uyên dã.",
-    "dịch_nghĩa": "Kiện có sự thật, bị lấp, phải sợ, vừa phải tốt, cứng lại mà được vừa phải vậy: theo đuổi đến chót thì xấu, việc kiện không thể thành vậy; lợi về sự thấy người lớn, chuộng sự trung chính vậy; không lợi về sự sang sông lớn, vào chưng vực vậy. GIẢI NGHĨA Bản nghĩa của Trình Di. - Lại cứ tài quẻ mà nói, hào Chín Hai lấy tư cách Dương cương ở ngoài đến, thì nó là chủ việc kiện. Lấy đức Dương cương ở giữa, tức là cái Tượng giữa đặc; cho nên là có sự thật. Trong thời kiện, dù có đức tin cũng phải ngăn trở, bị tắc lấp mà có sợ hãi, nếu không bị lấp thì không thành kiện. Lại, ở chỗ hãm hiểm, cũng là cái nghĩa tắc lấp sợ hãi. Hào Hai lấy đức Dương cương ở ngoài đến mà được vừa phải, nghĩa là lấy đức Dương cương đến kiện mà không làm quá. Kiện không phải việc hay, nó là việc bất đắc dĩ, đâu lại có thể làm đến cùng chót? Nếu có ý làm đến cùng chót thì là hung. Vì vậy mới nói là “không thể thành”, “thành” là làm cho việc đến cùng tận. Kẻ kiện chỉ cần phân biệt được sự phải trái, phân biệt được đúng tức là trung chính, cho nên mới lợi về sự thấy người lớn, vì cái mà người, đi kiện vẫn chuộng, là sự trung chính…Người lớn trung chính tức là hào Chín Năm, Kiện nhau với người, ắt phải để mình vào chỗ bình yên, nếu xéo vào chỗ nguy hiểm, thì là tự hãm thân mình, đó là vào vực. Trong quẻ này có Tượng trung chính hãm hiểm.",
-    "truyện_của_Trình_Di": null,
-    "bản_nghĩa_của_Chu_Hy": "Đây là sự biến đổi của quẻ và thể quẻ, tượng quẻ để thích lời quẻ.",
-    "lời_bàn_của_tiên_nho": null,
+    "content_type": "interpretation",
     "notes": {
       "1": "Tụng nghĩa là kiện.",
-      "2": "Chỉ về",
+      "2": "Chỉ về quẻ khảm .",
       "3": "Đồ mặc do mệnh trên ban cho."
-    }
+    },
+    "lời_kinh": "訟有孚,窒垮,中吉,两⼻來⽽#肀也. 終凶,訟不可成也。利⾒⼤⼈,尚中正也。 不利涉⼤川,Ả于淵也.",
+    "dịch_âm": "Tụng hữu phu, chất Dịch, trung cát, cương lai nhi đắc trung dã; chung hung, tụng bất khả thành dã; lợi kiến đại nhân, thượng trung chính dã; bất lợi thiệp đại xuyên, nhập vu uyên dã.",
+    "dịch_nghĩa": "Kiện có sự thật, bị lấp, phải sợ, vừa phải tốt, cứng lại mà được vừa phải vậy: theo đuổi đến chót thì xấu, việc kiện không thể thành vậy; lợi về sự thấy người lớn, chuộng sự trung chính vậy; không lợi về sự sang sông lớn, vào chưng vực vậy.",
+    "truyện_của_Trình_Di": null,
+    "bản_nghĩa_của_Chu_Hy": "Đây là sự biến đổi của quẻ và thể quẻ, tượng quẻ để thích lời quẻ.",
+    "lời_bàn_của_tiên_nho": null
   },
   {
     "chunk_id": "QUE_TUNG_005",
     "hexagram": "QUE_TUNG",
     "que": null,
-    "lời_kinh": "象⽈:天與⽔違⾏,訟,君⼦以作事謀始.",
-    "dịch_âm": "Tượng viết: Thiên dữ thủy vi hành, Tụng, Quân tử dĩ tác sự mưu thủy.",
-    "dịch_nghĩa": "Lời Tượng nói rằng: Trời với nước đi trái nhau, là quẻ Tụng , đấng quân tử coi đó mà dấy việc mưu tính lúc đầu. GIẢI NGHĨA Bản nghĩa của Trinh Di. - Trời trên nước dưới, hai thể trái nhau mà đi, đó là cớ sinh ra kiện. Nếu như trên dưới thuận nhau, thì kiện còn bởi đâu mà sinh ra được? Đấng quân tử coi cái Tượng đó biết rằng tình người phải có tranh kiện, cho nên hễ làm việc gì, ắt phải mưu tính từ đầu, cho dứt mối kiện từ khi việc mới bắt đầu, thì kiện không bởi đâu mà sinh ra nữa. Nghĩa chữ “mưu thủy” rộng lắm, như là những việc cẩn thận giao kết, ghi rõ khế khoán v.v…",
-    "truyện_của_Trình_Di": null,
-    "bản_nghĩa_của_Chu_Hy": "Trời trên nước dưới, thường đi trái nhau. Dấy việc, mưu tính từ đầu, mối kiện phải tuyệt.",
-    "lời_bàn_của_tiên_nho": null,
+    "content_type": "interpretation",
     "notes": {
       "1": "Tụng nghĩa là kiện.",
-      "2": "Chỉ về",
+      "2": "Chỉ về quẻ khảm .",
       "3": "Đồ mặc do mệnh trên ban cho."
-    }
+    },
+    "lời_kinh": "象⽈:天與⽔違⾏,訟,君⼦以作事謀始.",
+    "dịch_âm": "Tượng viết: Thiên dữ thủy vi hành, Tụng, Quân tử dĩ tác sự mưu thủy.",
+    "dịch_nghĩa": "Lời Tượng nói rằng: Trời với nước đi trái nhau, là quẻ Tụng , đấng quân tử coi đó mà dấy việc mưu tính lúc đầu.",
+    "truyện_của_Trình_Di": null,
+    "bản_nghĩa_của_Chu_Hy": "Trời trên nước dưới, thường đi trái nhau. Dấy việc, mưu tính từ đầu, mối kiện phải tuyệt.",
+    "lời_bàn_của_tiên_nho": null
   },
   {
     "chunk_id": "QUE_TUNG_006",
     "hexagram": "QUE_TUNG",
     "que": null,
-    "lời_kinh": "初六:不永所事,⼩有⾔,終吉.",
-    "dịch_âm": "Sơ Lục: Bất vĩnh sở sự, tiểu hữu ngôn, chung cát.",
-    "dịch_nghĩa": "Hào Sáu Đầu: Chẳng lâu dài về việc của mình, hơi có điều tiếng, sau tốt. GIẢI NGHĨA Bản nghĩa của Trình Di. - Hào Sáu là kẻ lấy tư cách nhu nhược, ở dưới, không thể làm cho cùng cực việc kiện của mình, cho nên từ đầu quẻ Tụng , nhân tài hào Sáu mà răn trước rằng: Nếu không theo đuổi lâu dài về việc của mình, thì tuy hơi có điều tiếng, về sau cũng được tốt lành. Vì rằng kiện tụng không phải là việc có thể lâu dài, lấy tài âm nhu mà kiện ở dưới thì khó được tốt, bởi tại trên có ứng viện, lại biết không cố theo đuổi lâu dài về việc của mình, cho nên tuy là hơi có điều tiếng, sau cũng được tốt. Có điều tiếng là tai hại nhỏ, không lâu dài về việc mà không đến nỗi phải hung, đó là sự tốt trong việc kiện.",
-    "truyện_của_Trình_Di": null,
-    "bản_nghĩa_của_Chu_Hy": "Âm nhu ở dưới, không thể làm trọn việc kiện, cho nên lời chiêm và tượng của nó như thế.",
-    "lời_bàn_của_tiên_nho": null,
+    "content_type": "interpretation",
     "notes": {
       "1": "Tụng nghĩa là kiện.",
-      "2": "Chỉ về",
+      "2": "Chỉ về quẻ khảm .",
       "3": "Đồ mặc do mệnh trên ban cho."
-    }
+    },
+    "lời_kinh": "初六:不永所事,⼩有⾔,終吉.",
+    "dịch_âm": "Sơ Lục: Bất vĩnh sở sự, tiểu hữu ngôn, chung cát.",
+    "dịch_nghĩa": "Hào Sáu Đầu: Chẳng lâu dài về việc của mình, hơi có điều tiếng, sau tốt.",
+    "truyện_của_Trình_Di": null,
+    "bản_nghĩa_của_Chu_Hy": "Âm nhu ở dưới, không thể làm trọn việc kiện, cho nên lời chiêm và tượng của nó như thế.",
+    "lời_bàn_của_tiên_nho": null
   },
   {
     "chunk_id": "QUE_TUNG_007",
     "hexagram": "QUE_TUNG",
     "que": null,
-    "lời_kinh": "象⽈: 不永所事, 訟不可表也. 雖⼩有⾔, 其辨明也.",
-    "dịch_âm": "Tượng viết: Bất vĩnh sở sự, tụng bất khả trường dã; tuy tiểu hữu ngôn, kỳ biện minh dã.",
-    "dịch_nghĩa": "Lời Tượng nói rằng: Chẳng lâu dài về việc của mình, việc kiện không thể kéo dài vậy. Dẫu là hơi có điều tiếng; sự phân biệt không được rõ ràng vậy. GIẢI NGHĨA Bản nghĩa của Trình Di. - Là kẻ nhu nhược mà kiện ở dưới, nghĩa nó không thể lâu dài. Nếu làm lâu dài việc kiện, thì cũng không thắng mà vạ tới mình. Nhu nhược ở dưới, tài không thể kiện, dẫu không kéo dài công việc của mình, nhưng đã kiện rồi, ắt có hại nhỏ, cho nên hơi có điều tiếng. Song đã không kéo dài công việc của mình, mà ở bên trên, lại có Dương cương chính ứng, biện lý công minh, cho nên về sau được tốt. Nếu không thế, thì sao khỏi vạ?",
-    "truyện_của_Trình_Di": null,
-    "bản_nghĩa_của_Chu_Hy": null,
-    "lời_bàn_của_tiên_nho": null,
+    "content_type": "interpretation",
     "notes": {
       "1": "Tụng nghĩa là kiện.",
-      "2": "Chỉ về",
+      "2": "Chỉ về quẻ khảm .",
       "3": "Đồ mặc do mệnh trên ban cho."
-    }
+    },
+    "lời_kinh": "象⽈: 不永所事, 訟不可表也. 雖⼩有⾔, 其辨明也.",
+    "dịch_âm": "Tượng viết: Bất vĩnh sở sự, tụng bất khả trường dã; tuy tiểu hữu ngôn, kỳ biện minh dã.",
+    "dịch_nghĩa": "Lời Tượng nói rằng: Chẳng lâu dài về việc của mình, việc kiện không thể kéo dài vậy. Dẫu là hơi có điều tiếng; sự phân biệt không được rõ ràng vậy.",
+    "truyện_của_Trình_Di": null,
+    "bản_nghĩa_của_Chu_Hy": null,
+    "lời_bàn_của_tiên_nho": null
   },
   {
     "chunk_id": "QUE_TUNG_008",
     "hexagram": "QUE_TUNG",
     "que": null,
-    "lời_kinh": "九⼆: 不克訟,歸⽽逋,其⾢⼈三百⼾,無眚.",
-    "dịch_âm": "Cửu Nhị: Bất khắc tụng, quỉ nhi bộ, kỳ ấp nhân tam bách hộ, vô sảnh.",
-    "dịch_nghĩa": "Hào Chín Hai: Không được kiện, về mà trốn người làng mình ba trăm hộ, không có tội lỗi. GIẢI NGHĨA Hào Hai, hào Năm là chỗ ứng nhau, mà hai tính cứng không thể cùng nhau. Hào Chín Hai từ ngoài lại, lấy đức cứng ở chỗ hiểm, làm chủ việc kiện mà cùng hào Năm chọi nhau. Hào Năm là bậc trung chính; ở ngôi vua, hào Hai chọi lại sao được? Đó là kiện nhau mà nghĩa không được. Nếu biết là nghĩa không nên, lui về mà trốn để tránh cho qua, dùng sự kiện ước tự xử, thì được khỏi tội. Phải trốn, là cốt tránh chỗ làm kẻ đối địch. Ba trăm hộ tức là cái ấp rất nhỏ. Nếu mà ở chỗ mạnh lớn, tức là hãy còn ganh đua, sao được khỏi tội?",
-    "truyện_của_Trình_Di": null,
-    "bản_nghĩa_của_Chu_Hy": "Hào Chín Hai là hạng Dương cương làm chủ sự hiểm, và vốn muốn kiện. Nhưng tính cương, ở ngôi nhu, được chỗ chính giữa ở quẻ dưới mà trên thì ứng với hào Chín Năm, là bậc Dương cương ở ngôi tôn, thế không thể địch, cho nên Tượng và lời Chiêm của nó như thế. Người ấp ba trăm hộ, tức là ấp nhỏ, ý nói tự xử một cách thấp hẹp, cho khỏi tai hoạn. Kẻ xem nếu thế thì không có tội.",
-    "lời_bàn_của_tiên_nho": "Chu Hy nói rằng: “Không được kiện, về mà trốn, người ấp ba trăm hộ, không có tội, cớ gì không nói hai trăm hộ? Là vì nó có định số. Ngày nay, những người giải nghĩa lại muốn gò gập, cho nên chỉ có thể nói là ấp nhỏ?",
+    "content_type": "interpretation",
     "notes": {
       "1": "Tụng nghĩa là kiện.",
-      "2": "Chỉ về",
+      "2": "Chỉ về quẻ khảm .",
       "3": "Đồ mặc do mệnh trên ban cho."
-    }
+    },
+    "lời_kinh": "九⼆: 不克訟,歸⽽逋,其⾢⼈三百⼾,無眚.",
+    "dịch_âm": "Cửu Nhị: Bất khắc tụng, quỉ nhi bộ, kỳ ấp nhân tam bách hộ, vô sảnh.",
+    "dịch_nghĩa": "Hào Chín Hai: Không được kiện, về mà trốn người làng mình ba trăm hộ, không có tội lỗi.",
+    "truyện_của_Trình_Di": null,
+    "bản_nghĩa_của_Chu_Hy": "Hào Chín Hai là hạng Dương cương làm chủ sự hiểm, và vốn muốn kiện. Nhưng tính cương, ở ngôi nhu, được chỗ chính giữa ở quẻ dưới mà trên thì ứng với hào Chín Năm, là bậc Dương cương ở ngôi tôn, thế không thể địch, cho nên Tượng và lời Chiêm của nó như thế. Người ấp ba trăm hộ, tức là ấp nhỏ, ý nói tự xử một cách thấp hẹp, cho khỏi tai hoạn. Kẻ xem nếu thế thì không có tội.",
+    "lời_bàn_của_tiên_nho": "Chu Hy nói rằng: “Không được kiện, về mà trốn, người ấp ba trăm hộ, không có tội, cớ gì không nói hai trăm hộ? Là vì nó có định số. Ngày nay, những người giải nghĩa lại muốn gò gập, cho nên chỉ có thể nói là ấp nhỏ?"
   },
   {
     "chunk_id": "QUE_TUNG_009",
     "hexagram": "QUE_TUNG",
     "que": null,
-    "lời_kinh": "象⽈:不克訟,歸逋也.⾃下訟上,患⾄掇也.",
-    "dịch_âm": "Tượng viết: Bất khắc tụng qui bộ, thoán dã; tự hạ tụng thượng, hoạn chí, suyết dã.",
-    "dịch_nghĩa": "Lời Tượng nói rằng: Không được kiện, về trốn, là đi lánh vậy, tự dưới kiện lên, hoạn nạn tới, nhặt lấy vậy. GIẢI NGHĨA Bản nghĩa của Trình Di. - Nghĩa đã không thể địch nhau cho nên không thể được kiện, về mà trốn, ấy là lánh bỏ nơi chốn của mình. Ở dưới mà kỉện người trên, nghĩa trái thế kém, vạ hoạn kéo đến cũng như nhặt lấy. Ý nói tự mình tự rước lấy vạ lo vậy.",
-    "truyện_của_Trình_Di": null,
-    "bản_nghĩa_của_Chu_Hy": "Suyết là tự mình vơ lấy.",
-    "lời_bàn_của_tiên_nho": null,
+    "content_type": "interpretation",
     "notes": {
       "1": "Tụng nghĩa là kiện.",
-      "2": "Chỉ về",
+      "2": "Chỉ về quẻ khảm .",
       "3": "Đồ mặc do mệnh trên ban cho."
-    }
+    },
+    "lời_kinh": "象⽈:不克訟,歸逋也.⾃下訟上,患⾄掇也.",
+    "dịch_âm": "Tượng viết: Bất khắc tụng qui bộ, thoán dã; tự hạ tụng thượng, hoạn chí, suyết dã.",
+    "dịch_nghĩa": "Lời Tượng nói rằng: Không được kiện, về trốn, là đi lánh vậy, tự dưới kiện lên, hoạn nạn tới, nhặt lấy vậy.",
+    "truyện_của_Trình_Di": null,
+    "bản_nghĩa_của_Chu_Hy": "Suyết là tự mình vơ lấy.",
+    "lời_bàn_của_tiên_nho": null
   },
   {
     "chunk_id": "QUE_TUNG_010",
     "hexagram": "QUE_TUNG",
     "que": null,
-    "lời_kinh": "六三:⾷舊德, 貞属, 終吉. 或從王事, 無成.",
-    "dịch_âm": "Lục Tam: Thực cực đức, trinh lệ, chung cát hoặc cống vương sự, vô thành.",
-    "dịch_nghĩa": "Hào Sáu Ba: Ăn về đức cũ, chính bền, lo sợ sau tốt, hoặc theo việc vua, không thành. GIẢI NGHĨA Bản nghĩa của Trình Di. - Hào Ba tuy ở ngôi cương mà ứng với hào Trên, nhưng chất nó vốn là Âm nhu, lại ở chỗ hiểm, xen vào khoảng giữa hai hào cương, lo sợ không phải là vì việc kiện. Ăn đức cũ nghĩa là xử theo cái phận sẵn có của mình, trinh là kiên cố tự giữ, lo sợ sau tốt nghĩa là tuy ở vào chỗ hiểm nghèo, mà biết lo lắng, thì sau chót ấy ắt được tốt lành. Theo việc vua là mềm theo cứng, dưới theo trên. Hào Ba không vì việc kiện mà theo việc làm của hào Chín Trên, cho nên nói rằng “hoặc theo việc vua, không thành” nghĩa là mình theo người trên thì sự thành công không phải ở mình. Kiện là việc cứng mạnh, cho nên hào Đầu thì không kéo dài, hào Ba thì theo hào Trên, đều không phải hạng không biết kiện, hai hào đó đều vì Âm nhu không chót việc kiện mà được tốt, hào Tư cũng vì không được kiện mà đổi, được tốt, đó là việc kiện lấy sự biết thôi làm hay.",
-    "truyện_của_Trình_Di": null,
-    "bản_nghĩa_của_Chu_Hy": "Chữ ⾷(thực) này cũng như chữ ⾷(thực) trong tiếng ⾷⾊(thực ấp làng ăn lộc), chỉ nói về cái được hưởng. Hào Sáu Ba là hạng Âm nhu, không phải kẻ biết kiện, cho nên cứ giữ nếp cũ, ở chỗ ngay thẳng, thì dù có nguy mà sau vẫn tốt. Nhưng nếu hoặc ra mà làm việc vua, thì cũng không thể thành công. Kẻ xem nên cứ thủ thường không ra là phải.",
-    "lời_bàn_của_tiên_nho": null,
+    "content_type": "interpretation",
     "notes": {
       "1": "Tụng nghĩa là kiện.",
-      "2": "Chỉ về",
+      "2": "Chỉ về quẻ khảm .",
       "3": "Đồ mặc do mệnh trên ban cho."
-    }
+    },
+    "lời_kinh": "六三:⾷舊德, 貞属, 終吉. 或從王事, 無成.",
+    "dịch_âm": "Lục Tam: Thực cực đức, trinh lệ, chung cát hoặc cống vương sự, vô thành.",
+    "dịch_nghĩa": "Hào Sáu Ba: Ăn về đức cũ, chính bền, lo sợ sau tốt, hoặc theo việc vua, không thành.",
+    "truyện_của_Trình_Di": null,
+    "bản_nghĩa_của_Chu_Hy": "Chữ ⾷(thực) này cũng như chữ ⾷(thực) trong tiếng ⾷⾊(thực ấp làng ăn lộc), chỉ nói về cái được hưởng. Hào Sáu Ba là hạng Âm nhu, không phải kẻ biết kiện, cho nên cứ giữ nếp cũ, ở chỗ ngay thẳng, thì dù có nguy mà sau vẫn tốt. Nhưng nếu hoặc ra mà làm việc vua, thì cũng không thể thành công. Kẻ xem nên cứ thủ thường không ra là phải.",
+    "lời_bàn_của_tiên_nho": null
   },
   {
     "chunk_id": "QUE_TUNG_011",
     "hexagram": "QUE_TUNG",
     "que": null,
-    "lời_kinh": "象⽈:⾷舊德,從上吉也.",
-    "dịch_âm": "Tượng viết: Thực cựu đức, tòng thượng cát dã.",
-    "dịch_nghĩa": "Lời Tượng nói rằng: Ăn đức cũ, và theo người trên thì tốt vậy. GIẢI NGHĨA Bản nghĩa của Trình Di. - Giữ phận sẵn có của mình, tùy theo việc làm của người trên, mà không phải ở mình mà ra, cho nên dù là không thành mà sau vẫn được tốt.",
-    "truyện_của_Trình_Di": null,
-    "bản_nghĩa_của_Chu_Hy": "Tòng thượng cát nghĩa là theo người trên thì tốt, tỏ rằng việc gì tự chủ thì không thành công.",
-    "lời_bàn_của_tiên_nho": null,
+    "content_type": "interpretation",
     "notes": {
       "1": "Tụng nghĩa là kiện.",
-      "2": "Chỉ về",
+      "2": "Chỉ về quẻ khảm .",
       "3": "Đồ mặc do mệnh trên ban cho."
-    }
+    },
+    "lời_kinh": "象⽈:⾷舊德,從上吉也.",
+    "dịch_âm": "Tượng viết: Thực cựu đức, tòng thượng cát dã.",
+    "dịch_nghĩa": "Lời Tượng nói rằng: Ăn đức cũ, và theo người trên thì tốt vậy.",
+    "truyện_của_Trình_Di": null,
+    "bản_nghĩa_của_Chu_Hy": "Tòng thượng cát nghĩa là theo người trên thì tốt, tỏ rằng việc gì tự chủ thì không thành công.",
+    "lời_bàn_của_tiên_nho": null
   },
   {
     "chunk_id": "QUE_TUNG_012",
     "hexagram": "QUE_TUNG",
     "que": null,
-    "lời_kinh": "九四: 不克訟,復即命, 渝安貞吉.",
-    "dịch_âm": "Cửu Tứ: Bất khắc tụng, phục tức mệnh, thầu an trinh cát.",
-    "dịch_nghĩa": "Hào Chín Tư: Không thể kiện, lại theo mệnh đổi ra yên bề chính bền, tốt! GIẢI NGHĨA Bản nghĩa của Trình Di. - Hào Tư là Dương cương, ở thể mạnh, không được trung chính, vốn là kẻ đi kiện. Nhưng nó vâng theo hào Năm, xéo lên hào Ba, mà ứng với hào Đầu, hào Năm là vua, nghĩa” không thể kiện: hào Ba ở dưới mà tính lại mềm, không kiện với nó; hào Đầu chính ứng với nó mà chỉ thuận theo, không phải là kẻ dự việc kiện; hào Tư tuy là cứng mạnh muốn kiện, mà không có kẻ đối địch, việc kiện của nó, không bởi đâu mà dấy lên được, cho nên nó không thể kiện. Lại, hào này ở ngôi mềm để ứng với hào mềm, cũng là cái nghĩa “biết thôi”. Đã là nghĩa không thể kiện, nếu biết nén lòng cương phẫn muốn kiện, lại theo số mệnh mà thay lòng, dẹp khí, đổi ra yên bề chính bền thì tốt. Mệnh tức là chính lý, làm trái chính lý gọi là “chống mệnh”, cho nên cho sự theo mệnh là “lại”… Ôi, cứng mạnh mà không trung chính, thì hay nóng nảy hành động, cho nên không thể ở yên; không trung chính cho nên không trinh không yên. Vì vậy mới thích kiện cáo. Nếu như nghĩa không thể kiện mà không kiện, lại theo chính lý, đổi sự không an trinh ra làm an trinh thì tốt. Bản nghĩa của Trình Di. - “Tức” nghĩa là tới, “mệnh” tức là chính lý, “thâu” nghĩa là đồi. Hào Chín Tư cứng mạnh mà không trung chính, cho nên có tượng kiện cáo. Vì nó ở vào nhu, cho nên lại là cái tượng vì “không thể kiện mà theo chính lý thay đổi lòng bụng, ở yên chính đạo”. Kẻ xem như thế thì tốt.",
-    "truyện_của_Trình_Di": null,
-    "bản_nghĩa_của_Chu_Hy": null,
-    "lời_bàn_của_tiên_nho": "Lã Đông Lai nói rằng: Hào này là số Chín, ở ngôi Tư, ấy là hạng cương cường ở chỗ không được trung chính, vốn là kẻ thích kiện. Nhưng cái mà nó phải theo là hào Năm, hào Năm rất tôn, nó không dám kiện; cái mà nó xéo lên là hào Ba, hào Ba rất mềm không đến nỗi sinh kiện, cái mà nó ứng với là hào Đầu, hào Đầu đã ứng với nó, không phải kẻ kiện nhau với nó; tả trước hữu sau, đều không thể kiện, dù nó có lòng thích kiện, cũng không được sính chút nào, thì cái bụng nó ắt phải trở lại mà về đường thiện. Vì vậy mới nói là “lại theo mệnh”,mệnh tức chính lý. Cái lòng thích kiện, đã không thi thố ra được, thì lại theo về chính lý mà đổi ra thiện. Hồng Quát Sương nói rằng: Hào Hai với hào Năm kiện nhau, hào Tư với hào Đầu kiện nhau, sự địch nhau của các hào đó mạnh yếu khác nhau, mà đều nói là không thể kiện, là vì: hào Hai là dưới kiện trên, sự không thể đó là thế như thế; hào Tư là trên kiện dưới, sự không thể này là lý như thế. Hào Hai thấy thế không thể địch, nên phải lui về mà trốn; hào Tư biết lý không thể đổi, cho nên lại phải theo mệnh. Bởi tại hào Hai hào Tư là kẻ cứng, ở ngôi mềm, nên mới có thể như thế.",
+    "content_type": "interpretation",
     "notes": {
       "1": "Tụng nghĩa là kiện.",
-      "2": "Chỉ về",
+      "2": "Chỉ về quẻ khảm .",
       "3": "Đồ mặc do mệnh trên ban cho."
-    }
+    },
+    "lời_kinh": "九四: 不克訟,復即命, 渝安貞吉.",
+    "dịch_âm": "Cửu Tứ: Bất khắc tụng, phục tức mệnh, thầu an trinh cát.",
+    "dịch_nghĩa": "Hào Chín Tư: Không thể kiện, lại theo mệnh đổi ra yên bề chính bền, tốt!",
+    "truyện_của_Trình_Di": null,
+    "bản_nghĩa_của_Chu_Hy": null,
+    "lời_bàn_của_tiên_nho": "Lã Đông Lai nói rằng: Hào này là số Chín, ở ngôi Tư, ấy là hạng cương cường ở chỗ không được trung chính, vốn là kẻ thích kiện. Nhưng cái mà nó phải theo là hào Năm, hào Năm rất tôn, nó không dám kiện; cái mà nó xéo lên là hào Ba, hào Ba rất mềm không đến nỗi sinh kiện, cái mà nó ứng với là hào Đầu, hào Đầu đã ứng với nó, không phải kẻ kiện nhau với nó; tả trước hữu sau, đều không thể kiện, dù nó có lòng thích kiện, cũng không được sính chút nào, thì cái bụng nó ắt phải trở lại mà về đường thiện. Vì vậy mới nói là “lại theo mệnh”,mệnh tức chính lý. Cái lòng thích kiện, đã không thi thố ra được, thì lại theo về chính lý mà đổi ra thiện. Hồng Quát Sương nói rằng: Hào Hai với hào Năm kiện nhau, hào Tư với hào Đầu kiện nhau, sự địch nhau của các hào đó mạnh yếu khác nhau, mà đều nói là không thể kiện, là vì: hào Hai là dưới kiện trên, sự không thể đó là thế như thế; hào Tư là trên kiện dưới, sự không thể này là lý như thế. Hào Hai thấy thế không thể địch, nên phải lui về mà trốn; hào Tư biết lý không thể đổi, cho nên lại phải theo mệnh. Bởi tại hào Hai hào Tư là kẻ cứng, ở ngôi mềm, nên mới có thể như thế."
   },
   {
     "chunk_id": "QUE_TUNG_013",
     "hexagram": "QUE_TUNG",
     "que": null,
-    "lời_kinh": "象⽈:復即命,翁安貞,不失也.",
-    "dịch_âm": "Tượng viết: Phục tức mệnh, thâu an trinh, bất thất dã.",
-    "dịch_nghĩa": "Lời Tượng nói rằng: Lại theo mệnh, đổi ra an bề chính bền, không lỗi vậy. GIẢI NGHĨA Bản nghĩa của Trình Di. - Có thể như thế, là không có lỗi, vì vậy mới tốt.",
-    "truyện_của_Trình_Di": null,
-    "bản_nghĩa_của_Chu_Hy": null,
-    "lời_bàn_của_tiên_nho": null,
+    "content_type": "interpretation",
     "notes": {
       "1": "Tụng nghĩa là kiện.",
-      "2": "Chỉ về",
+      "2": "Chỉ về quẻ khảm .",
       "3": "Đồ mặc do mệnh trên ban cho."
-    }
+    },
+    "lời_kinh": "象⽈:復即命,翁安貞,不失也.",
+    "dịch_âm": "Tượng viết: Phục tức mệnh, thâu an trinh, bất thất dã.",
+    "dịch_nghĩa": "Lời Tượng nói rằng: Lại theo mệnh, đổi ra an bề chính bền, không lỗi vậy.",
+    "truyện_của_Trình_Di": null,
+    "bản_nghĩa_của_Chu_Hy": null,
+    "lời_bàn_của_tiên_nho": null
   },
   {
     "chunk_id": "QUE_TUNG_014",
     "hexagram": "QUE_TUNG",
     "que": null,
-    "lời_kinh": "九五:訟元吉",
-    "dịch_âm": "Cửu Ngũ, Tụng nguyên cát.",
-    "dịch_nghĩa": "Hào Chín Năm: Kiện cả tốt. GIẢI NGHĨA Bản nghĩa của Trình Di. - Hào này là kẻ lấy đức trung chính ở ngôi tôn mà trị việc kiện. Trị việc kiện được trung chính, cho nên cả tốt.",
-    "truyện_của_Trình_Di": null,
-    "bản_nghĩa_của_Chu_Hy": "Đây là kẻ có đức Dương cương trung chính để ở ngôi tôn, nghe việc kiện mà được công bình. Kẻ xem gặp hào này, kiện mà có lý, chắc tỏ được sự oan khuất.",
-    "lời_bàn_của_tiên_nho": null,
+    "content_type": "interpretation",
     "notes": {
       "1": "Tụng nghĩa là kiện.",
-      "2": "Chỉ về",
+      "2": "Chỉ về quẻ khảm .",
       "3": "Đồ mặc do mệnh trên ban cho."
-    }
+    },
+    "lời_kinh": "九五:訟元吉",
+    "dịch_âm": "Cửu Ngũ, Tụng nguyên cát.",
+    "dịch_nghĩa": "Hào Chín Năm: Kiện cả tốt.",
+    "truyện_của_Trình_Di": null,
+    "bản_nghĩa_của_Chu_Hy": "Đây là kẻ có đức Dương cương trung chính để ở ngôi tôn, nghe việc kiện mà được công bình. Kẻ xem gặp hào này, kiện mà có lý, chắc tỏ được sự oan khuất.",
+    "lời_bàn_của_tiên_nho": null
   },
   {
     "chunk_id": "QUE_TUNG_015",
     "hexagram": "QUE_TUNG",
     "que": null,
-    "lời_kinh": "象⽈:訟元吉,以正中也.",
-    "dịch_âm": "Tượng viết: Tụng nguyên cát, dĩ trung chính dã.",
-    "dịch_nghĩa": "Lời Tượng nói rằng: Kiện cả tốt, vì trung chính vậy. GIẢI NGHĨA Bản nghĩa của Trình Di. - Cái đạo trung chính, thi thố vào việc gì mà không cả tốt!",
-    "truyện_của_Trình_Di": null,
-    "bản_nghĩa_của_Chu_Hy": "Trung thì nghe không lệch, chính thì đoán hợp lẽ",
-    "lời_bàn_của_tiên_nho": null,
+    "content_type": "interpretation",
     "notes": {
       "1": "Tụng nghĩa là kiện.",
-      "2": "Chỉ về",
+      "2": "Chỉ về quẻ khảm .",
       "3": "Đồ mặc do mệnh trên ban cho."
-    }
+    },
+    "lời_kinh": "象⽈:訟元吉,以正中也.",
+    "dịch_âm": "Tượng viết: Tụng nguyên cát, dĩ trung chính dã.",
+    "dịch_nghĩa": "Lời Tượng nói rằng: Kiện cả tốt, vì trung chính vậy.",
+    "truyện_của_Trình_Di": null,
+    "bản_nghĩa_của_Chu_Hy": "Trung thì nghe không lệch, chính thì đoán hợp lẽ",
+    "lời_bàn_của_tiên_nho": null
   },
   {
     "chunk_id": "QUE_TUNG_016",
     "hexagram": "QUE_TUNG",
     "que": null,
-    "lời_kinh": "上九:或錫之搫帶,終朝三褫之",
-    "dịch_âm": "Thượng Cửu: Hoặc tích chi bàn đái, chung triêu tam trĩ chi.",
-    "dịch_nghĩa": "Hào Chín Trên: hoặc cho chiếc dải lưng da, trọn buổi sáng, ba lần lột lại. GIẢI NGHĨA",
-    "truyện_của_Trình_Di": null,
-    "bản_nghĩa_của_Chu_Hy": "Dải lưng da là đồ trang sức thuộc về mệnh phục; lột là cướp lại. Hào này lấy đức cương, ở cuối việc kiện, tức là xong kiện mà được kiện, cho nên có tượng cho sắc mệnh, nhận phẩm phục. Nhưng, cái của vì kiện mà được, không thể yên lâu, cho nên lại có Tượng “trọn buổi sớm ba lần bị lột”. Lời Chiêm của hào này là hết việc kiện, kẻ vô lý hoặc cũng được thắng, nhưng cái mà hắn đã được, sau rồi ắt phải mất. Cái ý răn bảo của thánh nhân thật là sâu xa.",
-    "lời_bàn_của_tiên_nho": null,
+    "content_type": "interpretation",
     "notes": {
       "1": "Tụng nghĩa là kiện.",
-      "2": "Chỉ về",
+      "2": "Chỉ về quẻ khảm .",
       "3": "Đồ mặc do mệnh trên ban cho."
-    }
+    },
+    "lời_kinh": "上九:或錫之搫帶,終朝三褫之",
+    "dịch_âm": "Thượng Cửu: Hoặc tích chi bàn đái, chung triêu tam trĩ chi.",
+    "dịch_nghĩa": "Hào Chín Trên: hoặc cho chiếc dải lưng da, trọn buổi sáng, ba lần lột lại.",
+    "truyện_của_Trình_Di": null,
+    "bản_nghĩa_của_Chu_Hy": "Dải lưng da là đồ trang sức thuộc về mệnh phục; lột là cướp lại. Hào này lấy đức cương, ở cuối việc kiện, tức là xong kiện mà được kiện, cho nên có tượng cho sắc mệnh, nhận phẩm phục. Nhưng, cái của vì kiện mà được, không thể yên lâu, cho nên lại có Tượng “trọn buổi sớm ba lần bị lột”. Lời Chiêm của hào này là hết việc kiện, kẻ vô lý hoặc cũng được thắng, nhưng cái mà hắn đã được, sau rồi ắt phải mất. Cái ý răn bảo của thánh nhân thật là sâu xa.",
+    "lời_bàn_của_tiên_nho": null
   },
   {
     "chunk_id": "QUE_TUNG_017",
     "hexagram": "QUE_TUNG",
     "que": null,
-    "lời_kinh": "象⽈:以訟受服,亦不⾜敬也.",
-    "dịch_âm": "Tượng viết: Dĩ tụng thụ phục, diệc bất túc kính dã.",
-    "dịch_nghĩa": "Lời Tượng nói rằng: Vì kiện mà nhận đồ mặc, cũng không đủ kính vậy. GIẢI NGHĨA Bản nghĩa của Trình Di. - Làm cho cùng cực việc kiện, giả sử được nhà vua yêu mà cho phục mệnh, cũng còn không đủ kính trọng mà đáng khinh ghét, huống chi lại còn vạ lo theo sau.",
-    "truyện_của_Trình_Di": null,
-    "bản_nghĩa_của_Chu_Hy": null,
-    "lời_bàn_của_tiên_nho": "Đồng Bàn Giản nói rằng: Coi thể cả một quẻ Tụng , chỉ là việc kiện không thể thành; hào Chín Đầu không lâu dài cái việc của mình, hào Chín Hai không thể kiện, hào Sáu Ba giữ nếp cũ, ở chỗ Chín, không phải kẻ có thể kiện; hào Chín Tư không thể kiện, mà biết trở lại chính lý, thay đổi tâm chí, ở yên chỗ chính đính; hào Chín Năm nghe kiện cả tốt; Hào Chín Trên tuy có được ban dải lưng da mà không tránh khỏi cái nạn một buổi sớm ba lần lột, đầu đuôi đều là ý không thể kiện. Chú thích: [1] Tụng nghĩa là kiện. [2] Chỉ về quẻ khảm . [3] Đồ mặc do mệnh trên ban cho.",
+    "content_type": "interpretation",
     "notes": {
       "1": "Tụng nghĩa là kiện.",
-      "2": "Chỉ về",
+      "2": "Chỉ về quẻ khảm .",
       "3": "Đồ mặc do mệnh trên ban cho."
-    }
+    },
+    "lời_kinh": "象⽈:以訟受服,亦不⾜敬也.",
+    "dịch_âm": "Tượng viết: Dĩ tụng thụ phục, diệc bất túc kính dã.",
+    "dịch_nghĩa": "Lời Tượng nói rằng: Vì kiện mà nhận đồ mặc, cũng không đủ kính vậy.",
+    "truyện_của_Trình_Di": null,
+    "bản_nghĩa_của_Chu_Hy": null,
+    "lời_bàn_của_tiên_nho": "Đồng Bàn Giản nói rằng: Coi thể cả một quẻ Tụng , chỉ là việc kiện không thể thành; hào Chín Đầu không lâu dài cái việc của mình, hào Chín Hai không thể kiện, hào Sáu Ba giữ nếp cũ, ở chỗ Chín, không phải kẻ có thể kiện; hào Chín Tư không thể kiện, mà biết trở lại chính lý, thay đổi tâm chí, ở yên chỗ chính đính; hào Chín Năm nghe kiện cả tốt; Hào Chín Trên tuy có được ban dải lưng da mà không tránh khỏi cái nạn một buổi sớm ba lần lột, đầu đuôi đều là ý không thể kiện."
   }
 ]

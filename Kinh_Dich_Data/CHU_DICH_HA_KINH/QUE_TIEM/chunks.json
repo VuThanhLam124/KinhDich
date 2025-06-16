@@ -3,6 +3,7 @@
     "chunk_id": "QUE_TIEM_001",
     "hexagram": "QUE_TIEM",
     "que": null,
+    "content_type": "preface",
     "lời_kinh": null,
     "dịch_âm": null,
     "dịch_nghĩa": null,
@@ -12,351 +13,370 @@
     "notes": {
       "1": "Chữ 漸 (tiệm) nghĩa là dần dần.",
       "2": "Tức là tiêu đi, sinh ra.",
-      "3": "Ngô Lâm Xuyên nói rằng: Đợi lúc đáng tiến mới tiến, không phải chỉ ăn",
-      "4": "Chữ (nghi) Trình Di",
-      "5": "Chữ (nghi) Trình Di"
+      "3": "Ngô Lâm Xuyên nói rằng: Đợi lúc đáng tiến mới tiến, không phải chỉ ăn uống cho no để tự nuôi mình mà thôi.",
+      "4": "Chữ (nghi) Trình Di giải nghĩa là khuôn phép, Chu Hy thì cho là miều cờ.",
+      "5": "Chữ (nghi) Trình Di giải nghĩa là khuôn phép, Chu Hy thì cho là miều cờ."
     }
   },
   {
     "chunk_id": "QUE_TIEM_002",
     "hexagram": "QUE_TIEM",
     "que": null,
-    "lời_kinh": "漸⼥歸, 吉, 利貞.",
-    "dịch_âm": "Tiêm, nữ qui, cát, lợi trinh.",
-    "dịch_nghĩa": "Quẻ Tiệm , con gái về, tốt, lợi về chính bền. GIẢI NGHĨA",
-    "truyện_của_Trình_Di": null,
-    "bản_nghĩa_của_Chu_Hy": "Tiệm là tiến lên dần dần. Nó là quẻ đậu ở dưới mà nhún ở trên, tức là nghĩa không tiến gấp vội, có Tượng con gái về nhà chồng. Lại, tức hào Hai đến hào Năm, ngôi đều được chính, cho nẻn lời Chiêm của nó là con gái về nhà chồng thì tốt, và lại răn rằng: lợi về chính bền.",
-    "lời_bàn_của_tiên_nho": null,
+    "content_type": "interpretation",
     "notes": {
       "1": "Chữ 漸 (tiệm) nghĩa là dần dần.",
       "2": "Tức là tiêu đi, sinh ra.",
-      "3": "Ngô Lâm Xuyên nói rằng: Đợi lúc đáng tiến mới tiến, không phải chỉ ăn",
-      "4": "Chữ (nghi) Trình Di",
-      "5": "Chữ (nghi) Trình Di"
-    }
+      "3": "Ngô Lâm Xuyên nói rằng: Đợi lúc đáng tiến mới tiến, không phải chỉ ăn uống cho no để tự nuôi mình mà thôi.",
+      "4": "Chữ (nghi) Trình Di giải nghĩa là khuôn phép, Chu Hy thì cho là miều cờ.",
+      "5": "Chữ (nghi) Trình Di giải nghĩa là khuôn phép, Chu Hy thì cho là miều cờ."
+    },
+    "lời_kinh": "漸⼥歸, 吉, 利貞.",
+    "dịch_âm": "Tiêm, nữ qui, cát, lợi trinh.",
+    "dịch_nghĩa": "Quẻ Tiệm , con gái về, tốt, lợi về chính bền.",
+    "truyện_của_Trình_Di": "Đây lấy tìa quẻ gồm nghĩa chữ “tiệm” mà nói. Kiền Khôn viến đi là Tốn, Cấn, Tốn, Cấn chồng lại là quẻ Tiệm . Nói về thể quẻ Tiệm , thì hai hào giao nhau, bởi sự giao nhau của hai hào ấy mà sau cin trai con gái đều được chính ngôi; hai hào đầu và hào chót tuy không đáng ngôi, nhưng cũng Dương trên Âm dưới, tôn ty chính đáng con trai con gái bên nào được chính đạo của bên ấy, như thế cũng là được ngôi, rõ ràng đối nhau với quẻ Qui muội. Con gái về nhà chồng, có thể chính đính như thế thì tốt.",
+    "bản_nghĩa_của_Chu_Hy": "Tiệm là tiến lên dần dần. Nó là quẻ đậu ở dưới mà nhún ở trên, tức là nghĩa không tiến gấp vội, có Tượng con gái về nhà chồng. Lại, tức hào Hai đến hào Năm, ngôi đều được chính, cho nẻn lời Chiêm của nó là con gái về nhà chồng thì tốt, và lại răn rằng: lợi về chính bền.",
+    "lời_bàn_của_tiên_nho": null
   },
   {
     "chunk_id": "QUE_TIEM_003",
     "hexagram": "QUE_TIEM",
     "que": null,
-    "lời_kinh": "象⽈: 漸之進也, ⼥歸吉也.",
-    "dịch_âm": "Thoán viết: Tiệm chi tiến dã, nữ qui cát dã.",
-    "dịch_nghĩa": "Lời Thoán nói rằng: Tiệm là tiến vậy, con gái về nhà chồng tốt. GIẢI NGHĨA",
-    "truyện_của_Trình_Di": null,
-    "bản_nghĩa_của_Chu_Hy": "Chữ 之 (chi) ngờ thừa, hoặc chữ 漸 (tiệm).",
-    "lời_bàn_của_tiên_nho": null,
+    "content_type": "interpretation",
     "notes": {
       "1": "Chữ 漸 (tiệm) nghĩa là dần dần.",
       "2": "Tức là tiêu đi, sinh ra.",
-      "3": "Ngô Lâm Xuyên nói rằng: Đợi lúc đáng tiến mới tiến, không phải chỉ ăn",
-      "4": "Chữ (nghi) Trình Di",
-      "5": "Chữ (nghi) Trình Di"
-    }
+      "3": "Ngô Lâm Xuyên nói rằng: Đợi lúc đáng tiến mới tiến, không phải chỉ ăn uống cho no để tự nuôi mình mà thôi.",
+      "4": "Chữ (nghi) Trình Di giải nghĩa là khuôn phép, Chu Hy thì cho là miều cờ.",
+      "5": "Chữ (nghi) Trình Di giải nghĩa là khuôn phép, Chu Hy thì cho là miều cờ."
+    },
+    "lời_kinh": "象⽈: 漸之進也, ⼥歸吉也.",
+    "dịch_âm": "Thoán viết: Tiệm chi tiến dã, nữ qui cát dã.",
+    "dịch_nghĩa": "Lời Thoán nói rằng: Tiệm là tiến vậy, con gái về nhà chồng tốt.",
+    "truyện_của_Trình_Di": "Theo nghĩa quẻ Tiệm mà tiến, tức là sự tốt của con gái về nhà chồng, nghĩa là chính đáng mà đi dần dần vậy. Con gái về nhà chồng là chỉ nói về việc lớn hơn thôi, các sự tiến khác cũng thế cả.",
+    "bản_nghĩa_của_Chu_Hy": "Chữ 之 (chi) ngờ thừa, hoặc chữ 漸 (tiệm).",
+    "lời_bàn_của_tiên_nho": null
   },
   {
     "chunk_id": "QUE_TIEM_004",
     "hexagram": "QUE_TIEM",
     "que": null,
-    "lời_kinh": "進得位, 往有功也.",
-    "dịch_âm": "Tiến đắc vị, vãng hữu công dã.",
-    "dịch_nghĩa": "Tiến được ngôi, đi có công vậy. GIẢI NGHĨA",
-    "truyện_của_Trình_Di": null,
-    "bản_nghĩa_của_Chu_Hy": null,
-    "lời_bàn_của_tiên_nho": null,
+    "content_type": "interpretation",
     "notes": {
       "1": "Chữ 漸 (tiệm) nghĩa là dần dần.",
       "2": "Tức là tiêu đi, sinh ra.",
-      "3": "Ngô Lâm Xuyên nói rằng: Đợi lúc đáng tiến mới tiến, không phải chỉ ăn",
-      "4": "Chữ (nghi) Trình Di",
-      "5": "Chữ (nghi) Trình Di"
-    }
+      "3": "Ngô Lâm Xuyên nói rằng: Đợi lúc đáng tiến mới tiến, không phải chỉ ăn uống cho no để tự nuôi mình mà thôi.",
+      "4": "Chữ (nghi) Trình Di giải nghĩa là khuôn phép, Chu Hy thì cho là miều cờ.",
+      "5": "Chữ (nghi) Trình Di giải nghĩa là khuôn phép, Chu Hy thì cho là miều cờ."
+    },
+    "lời_kinh": "進得位, 往有功也.",
+    "dịch_âm": "Tiến đắc vị, vãng hữu công dã.",
+    "dịch_nghĩa": "Tiến được ngôi, đi có công vậy.",
+    "truyện_của_Trình_Di": "Trong thì dần tiến mà Âm Dương đều được ngôi, tức là tiến mà có công.",
+    "bản_nghĩa_của_Chu_Hy": null,
+    "lời_bàn_của_tiên_nho": null
   },
   {
     "chunk_id": "QUE_TIEM_005",
     "hexagram": "QUE_TIEM",
     "que": null,
-    "lời_kinh": "進以正, 可以正邦也.",
-    "dịch_âm": "Tiến dĩ chính, khả dĩ chính bang dã.",
-    "dịch_nghĩa": "Tiến bằng cách chính đáng, có thể chính nước vậy. GIẢI NGHĨA",
-    "truyện_của_Trình_Di": null,
-    "bản_nghĩa_của_Chu_Hy": "Đây lấy sự biến đổi của quẻ mà thích hai chữ “lợi trinh”. Bởi vì quẻ này , một phần do quẻ Hoán lại, thì hào Chín tiến lên ngôi Ba, một phần do quẻ Lữ lại, thì hào Chín tiến lên ngôi Năm, đều là được ngôi đáng.",
-    "lời_bàn_của_tiên_nho": null,
+    "content_type": "interpretation",
     "notes": {
       "1": "Chữ 漸 (tiệm) nghĩa là dần dần.",
       "2": "Tức là tiêu đi, sinh ra.",
-      "3": "Ngô Lâm Xuyên nói rằng: Đợi lúc đáng tiến mới tiến, không phải chỉ ăn",
-      "4": "Chữ (nghi) Trình Di",
-      "5": "Chữ (nghi) Trình Di"
-    }
+      "3": "Ngô Lâm Xuyên nói rằng: Đợi lúc đáng tiến mới tiến, không phải chỉ ăn uống cho no để tự nuôi mình mà thôi.",
+      "4": "Chữ (nghi) Trình Di giải nghĩa là khuôn phép, Chu Hy thì cho là miều cờ.",
+      "5": "Chữ (nghi) Trình Di giải nghĩa là khuôn phép, Chu Hy thì cho là miều cờ."
+    },
+    "lời_kinh": "進以正, 可以正邦也.",
+    "dịch_âm": "Tiến dĩ chính, khả dĩ chính bang dã.",
+    "dịch_nghĩa": "Tiến bằng cách chính đáng, có thể chính nước vậy.",
+    "truyện_của_Trình_Di": "Lấy đạo chính đáng mà tiến lên, có thể làm cho chính đính nước nhà đến cả thiên hạ. Phàm tiến về việc, tiến về đức, tiền về ngôi, cái gì cũng nên dùng cách chính đáng.",
+    "bản_nghĩa_của_Chu_Hy": "Đây lấy sự biến đổi của quẻ mà thích hai chữ “lợi trinh”. Bởi vì quẻ này , một phần do quẻ Hoán lại, thì hào Chín tiến lên ngôi Ba, một phần do quẻ Lữ lại, thì hào Chín tiến lên ngôi Năm, đều là được ngôi đáng.",
+    "lời_bàn_của_tiên_nho": null
   },
   {
     "chunk_id": "QUE_TIEM_006",
     "hexagram": "QUE_TIEM",
     "que": null,
-    "lời_kinh": "其位,剛得中也.",
-    "dịch_âm": "Kỳ vị, cương đắc trung dã.",
-    "dịch_nghĩa": "Thửa ngôi, cứng được giữa vậy. GIẢI NGHĨA",
-    "truyện_của_Trình_Di": null,
-    "bản_nghĩa_của_Chu_Hy": "Đây lấy thế quẻ mà nói và chỉ về hào Chín Năm.",
-    "lời_bàn_của_tiên_nho": null,
+    "content_type": "interpretation",
     "notes": {
       "1": "Chữ 漸 (tiệm) nghĩa là dần dần.",
       "2": "Tức là tiêu đi, sinh ra.",
-      "3": "Ngô Lâm Xuyên nói rằng: Đợi lúc đáng tiến mới tiến, không phải chỉ ăn",
-      "4": "Chữ (nghi) Trình Di",
-      "5": "Chữ (nghi) Trình Di"
-    }
+      "3": "Ngô Lâm Xuyên nói rằng: Đợi lúc đáng tiến mới tiến, không phải chỉ ăn uống cho no để tự nuôi mình mà thôi.",
+      "4": "Chữ (nghi) Trình Di giải nghĩa là khuôn phép, Chu Hy thì cho là miều cờ.",
+      "5": "Chữ (nghi) Trình Di giải nghĩa là khuôn phép, Chu Hy thì cho là miều cờ."
+    },
+    "lời_kinh": "其位,剛得中也.",
+    "dịch_âm": "Kỳ vị, cương đắc trung dã.",
+    "dịch_nghĩa": "Thửa ngôi, cứng được giữa vậy.",
+    "truyện_của_Trình_Di": "Chữ “ngôi” này chỉ về hào Năm lấy chất Dương cứng trung chính được ngôi tôn.",
+    "bản_nghĩa_của_Chu_Hy": "Đây lấy thế quẻ mà nói và chỉ về hào Chín Năm.",
+    "lời_bàn_của_tiên_nho": null
   },
   {
     "chunk_id": "QUE_TIEM_007",
     "hexagram": "QUE_TIEM",
     "que": null,
-    "lời_kinh": "⽌⽽巽, 動不窮也.",
-    "dịch_âm": "Chỉ nhi tốn, động bất cùng dã.",
-    "dịch_nghĩa": "Đậu mà nhún, động chẳng cũng vậy. GIẢI NGHĨA",
-    "truyện_của_Trình_Di": null,
-    "bản_nghĩa_của_Chu_Hy": "Đậy lấy đức quẻ nói về nghĩa dần tiến.",
-    "lời_bàn_của_tiên_nho": null,
+    "content_type": "interpretation",
     "notes": {
       "1": "Chữ 漸 (tiệm) nghĩa là dần dần.",
       "2": "Tức là tiêu đi, sinh ra.",
-      "3": "Ngô Lâm Xuyên nói rằng: Đợi lúc đáng tiến mới tiến, không phải chỉ ăn",
-      "4": "Chữ (nghi) Trình Di",
-      "5": "Chữ (nghi) Trình Di"
-    }
+      "3": "Ngô Lâm Xuyên nói rằng: Đợi lúc đáng tiến mới tiến, không phải chỉ ăn uống cho no để tự nuôi mình mà thôi.",
+      "4": "Chữ (nghi) Trình Di giải nghĩa là khuôn phép, Chu Hy thì cho là miều cờ.",
+      "5": "Chữ (nghi) Trình Di giải nghĩa là khuôn phép, Chu Hy thì cho là miều cờ."
+    },
+    "lời_kinh": "⽌⽽巽, 動不窮也.",
+    "dịch_âm": "Chỉ nhi tốn, động bất cùng dã.",
+    "dịch_nghĩa": "Đậu mà nhún, động chẳng cũng vậy.",
+    "truyện_của_Trình_Di": "Trong ngừng đậu ngoài nhún thuận, đậu là Tượng yên tĩnh, nhún là nghĩa hòa thuận. Người ta tiến lên, nếu theo sự động của lòng dục, thì sẽ nóng nảy mà không thể dần dần, cho nên có sự khốn cùng. Ở nghĩa quẻ Tiệm , trong đậu im mà ngoài nhún thuận, cho nên sự tiến động của nó không bị khốn cùng.",
+    "bản_nghĩa_của_Chu_Hy": "Đậy lấy đức quẻ nói về nghĩa dần tiến.",
+    "lời_bàn_của_tiên_nho": null
   },
   {
     "chunk_id": "QUE_TIEM_008",
     "hexagram": "QUE_TIEM",
     "que": null,
-    "lời_kinh": "象⽈:⼭上有⽊,漸君,⼦以居賢德,thiện俗.",
-    "dịch_âm": "Tượng viết: Sơn thượng hữu mộc, Tiệm, quân tử dĩ cư hiền đức.",
-    "dịch_nghĩa": "Lời Tượng nói rằng: Trên núi có cây là quẻ Tiệm , đấng quân tử coi đó mà chứa đức hiền, làm hay thói tục. GIẢI NGHĨA",
-    "truyện_của_Trình_Di": null,
-    "bản_nghĩa_của_Chu_Hy": null,
-    "lời_bàn_của_tiên_nho": null,
+    "content_type": "interpretation",
     "notes": {
       "1": "Chữ 漸 (tiệm) nghĩa là dần dần.",
       "2": "Tức là tiêu đi, sinh ra.",
-      "3": "Ngô Lâm Xuyên nói rằng: Đợi lúc đáng tiến mới tiến, không phải chỉ ăn",
-      "4": "Chữ (nghi) Trình Di",
-      "5": "Chữ (nghi) Trình Di"
-    }
+      "3": "Ngô Lâm Xuyên nói rằng: Đợi lúc đáng tiến mới tiến, không phải chỉ ăn uống cho no để tự nuôi mình mà thôi.",
+      "4": "Chữ (nghi) Trình Di giải nghĩa là khuôn phép, Chu Hy thì cho là miều cờ.",
+      "5": "Chữ (nghi) Trình Di giải nghĩa là khuôn phép, Chu Hy thì cho là miều cờ."
+    },
+    "lời_kinh": "象⽈:⼭上有⽊,漸君,⼦以居賢德,thiện俗.",
+    "dịch_âm": "Tượng viết: Sơn thượng hữu mộc, Tiệm, quân tử dĩ cư hiền đức.",
+    "dịch_nghĩa": "Lời Tượng nói rằng: Trên núi có cây là quẻ Tiệm , đấng quân tử coi đó mà chứa đức hiền, làm hay thói tục.",
+    "truyện_của_Trình_Di": "Trên núi có cây, sự cao của nó có chỗ nhân theo, đó là nghĩa dần dần. Đấng quân tử coi Tượng “dần dần” mà chứa đức hiền thiện, làm tốt cho phong tục. Người ta tiến về hiền đức ắt, phải tập dần mới được, không thể vượt qua chừng độ mà tới ngay. Ở mình còn thế, thì dạy bảo người, nếu không dùng cách dần dần sao được? Dời thói dổi lễ, không thể là việc một sớm một tối có thể làm xong, cho nên làm hay phong tục cũng phải dần dần.",
+    "bản_nghĩa_của_Chu_Hy": null,
+    "lời_bàn_của_tiên_nho": null
   },
   {
     "chunk_id": "QUE_TIEM_009",
     "hexagram": "QUE_TIEM",
     "que": null,
-    "lời_kinh": "初六: 鴻漸于⼲,⼩⼦厲有⾔,無咎.",
-    "dịch_âm": "Sơ Lục: Hồng tiệm vu can, tiểu tử lệ, hữu ngôn, vô cữu.",
-    "dịch_nghĩa": "Hào Sáu Đầu: Con sếu tiến chưng bến, trẻ nhỏ nguy, có nói, không lỗi. GIẢI NGHĨA",
-    "truyện_của_Trình_Di": null,
-    "bản_nghĩa_của_Chu_Hy": "Chim sếu đi có thứ tự mà tiến dần dần, đó là tiến chưng bến nước vậy. Mới tiến ở dưới, chưa được yên ổn mà phái trên không có ứng viện, cho nên Tượng nó như thế, mà Chiêm thì là: trẻ nhỏ nguy, tuy có nhiều nói mà với nghĩa thì không có lỗi.",
-    "lời_bàn_của_tiên_nho": null,
+    "content_type": "interpretation",
     "notes": {
       "1": "Chữ 漸 (tiệm) nghĩa là dần dần.",
       "2": "Tức là tiêu đi, sinh ra.",
-      "3": "Ngô Lâm Xuyên nói rằng: Đợi lúc đáng tiến mới tiến, không phải chỉ ăn",
-      "4": "Chữ (nghi) Trình Di",
-      "5": "Chữ (nghi) Trình Di"
-    }
+      "3": "Ngô Lâm Xuyên nói rằng: Đợi lúc đáng tiến mới tiến, không phải chỉ ăn uống cho no để tự nuôi mình mà thôi.",
+      "4": "Chữ (nghi) Trình Di giải nghĩa là khuôn phép, Chu Hy thì cho là miều cờ.",
+      "5": "Chữ (nghi) Trình Di giải nghĩa là khuôn phép, Chu Hy thì cho là miều cờ."
+    },
+    "lời_kinh": "初六: 鴻漸于⼲,⼩⼦厲有⾔,無咎.",
+    "dịch_âm": "Sơ Lục: Hồng tiệm vu can, tiểu tử lệ, hữu ngôn, vô cữu.",
+    "dịch_nghĩa": "Hào Sáu Đầu: Con sếu tiến chưng bến, trẻ nhỏ nguy, có nói, không lỗi.",
+    "truyện_của_Trình_Di": "Các hào quẻ Tiệm đều lấy Tượng con Sếu. Sếu là giống đến có thi tiết, đan có thứ tựu. Chẳng sai thi tiết thứ tự tức là dần dần. Bến là bến nước, chim nước đậu ở bến nước, với nước rất gần, sự tiến của nó có thể bảo là dần dần. Hào Sáu ở ngôi Đầu là rất thấp, tài mềm là rất yếu, mà phía trên lại không có ứng viện, dùng cách đó mà tiến lên, thì thường tình đều phải lo ngại, tiểu nhân trẻ nỏ chỉ có thể thấy việc đã rồi, theo sự biết của mọi người, không thể soi rõ lẽ, cho nên lo sợ mà không có tiếng nói. Bởi vì họ không biết rằng: ở dưới là để mà tiến, dùng sự mềm là dể khỏi nóng, không kẻ viện là để có thể dần dần, với nghĩa, tự nhiên không lỗi. Nếu đầu cuộc tiến mà dùng cách cứng gấp tiến, thì mất cá nghĩa dần dần, không thể tiến mà ắt có lỗi.",
+    "bản_nghĩa_của_Chu_Hy": "Chim sếu đi có thứ tự mà tiến dần dần, đó là tiến chưng bến nước vậy. Mới tiến ở dưới, chưa được yên ổn mà phái trên không có ứng viện, cho nên Tượng nó như thế, mà Chiêm thì là: trẻ nhỏ nguy, tuy có nhiều nói mà với nghĩa thì không có lỗi.",
+    "lời_bàn_của_tiên_nho": null
   },
   {
     "chunk_id": "QUE_TIEM_010",
     "hexagram": "QUE_TIEM",
     "que": null,
-    "lời_kinh": "象⽈: ⼩⼦之厲,義無咎也.",
-    "dịch_âm": "Tượng viết: Tiểu tử chi lệ, nghĩa vô cữu dã.",
-    "dịch_nghĩa": "Lời Tượng nói rằng: Trẻ nó chưng nguy, nghĩa không lỗi vậy. GIẢI NGHĨA",
-    "truyện_của_Trình_Di": null,
-    "bản_nghĩa_của_Chu_Hy": null,
-    "lời_bàn_của_tiên_nho": null,
+    "content_type": "interpretation",
     "notes": {
       "1": "Chữ 漸 (tiệm) nghĩa là dần dần.",
       "2": "Tức là tiêu đi, sinh ra.",
-      "3": "Ngô Lâm Xuyên nói rằng: Đợi lúc đáng tiến mới tiến, không phải chỉ ăn",
-      "4": "Chữ (nghi) Trình Di",
-      "5": "Chữ (nghi) Trình Di"
-    }
+      "3": "Ngô Lâm Xuyên nói rằng: Đợi lúc đáng tiến mới tiến, không phải chỉ ăn uống cho no để tự nuôi mình mà thôi.",
+      "4": "Chữ (nghi) Trình Di giải nghĩa là khuôn phép, Chu Hy thì cho là miều cờ.",
+      "5": "Chữ (nghi) Trình Di giải nghĩa là khuôn phép, Chu Hy thì cho là miều cờ."
+    },
+    "lời_kinh": "象⽈: ⼩⼦之厲,義無咎也.",
+    "dịch_âm": "Tượng viết: Tiểu tử chi lệ, nghĩa vô cữu dã.",
+    "dịch_nghĩa": "Lời Tượng nói rằng: Trẻ nó chưng nguy, nghĩa không lỗi vậy.",
+    "truyện_của_Trình_Di": "Tuy là trẻ nhỏ lấy nguy nghèo, mà với nghĩa lý thực không có lỗi.",
+    "bản_nghĩa_của_Chu_Hy": null,
+    "lời_bàn_của_tiên_nho": null
   },
   {
     "chunk_id": "QUE_TIEM_011",
     "hexagram": "QUE_TIEM",
     "que": null,
-    "lời_kinh": "鴻漸于磐, 飲⾷衍衍.",
-    "dịch_âm": "Hồng tiệm vu bàn, ẩm thực hãn hãn.",
-    "dịch_nghĩa": "Con Sếu tiến chưng tảng đá, ăn uống hơn hớn. GIẢI NGHĨA",
-    "truyện_của_Trình_Di": null,
-    "bản_nghĩa_của_Chu_Hy": "Tảng đá là hòn đá lớn, dần xa với bến nước. Tiến lên tảng đá mà càng yên thêm. Hơn hớn là ý hòa vui. Hào Sáu Hai mềm thuận trung chính, nó tiến bằng dần dần mà phía trên có hào Chín Năm ứng với, cho nên Tượng nó như thế mà Chiêm thì tốt.",
-    "lời_bàn_của_tiên_nho": null,
+    "content_type": "interpretation",
     "notes": {
       "1": "Chữ 漸 (tiệm) nghĩa là dần dần.",
       "2": "Tức là tiêu đi, sinh ra.",
-      "3": "Ngô Lâm Xuyên nói rằng: Đợi lúc đáng tiến mới tiến, không phải chỉ ăn",
-      "4": "Chữ (nghi) Trình Di",
-      "5": "Chữ (nghi) Trình Di"
-    }
+      "3": "Ngô Lâm Xuyên nói rằng: Đợi lúc đáng tiến mới tiến, không phải chỉ ăn uống cho no để tự nuôi mình mà thôi.",
+      "4": "Chữ (nghi) Trình Di giải nghĩa là khuôn phép, Chu Hy thì cho là miều cờ.",
+      "5": "Chữ (nghi) Trình Di giải nghĩa là khuôn phép, Chu Hy thì cho là miều cờ."
+    },
+    "lời_kinh": "鴻漸于磐, 飲⾷衍衍.",
+    "dịch_âm": "Hồng tiệm vu bàn, ẩm thực hãn hãn.",
+    "dịch_nghĩa": "Con Sếu tiến chưng tảng đá, ăn uống hơn hớn.",
+    "truyện_của_Trình_Di": "Hào Hai giữa, được chỗ chính, phía trên ứng nhau hào Năm, là kẻ tiến được yên ổn khoan thai. Nhưng ở thì dần dần, cho nên nó tiến không chóng. Tảng đá là hòn đá yên ổn bằng phẳng, các bến sông ngòi thường có. Tự bến nước tiến lên tảng đá, lại tiến dần vậy. Hào Hai với vua Chín Năm lấy đạo giữ chính ứng nhau, sự tiến của nó yên vững dễ dàng, không còn gì hơn, cho nên nó uống ăn hòa vui, có vẻ hớn hở vậy. Đủ biết là tốt.",
+    "bản_nghĩa_của_Chu_Hy": "Tảng đá là hòn đá lớn, dần xa với bến nước. Tiến lên tảng đá mà càng yên thêm. Hơn hớn là ý hòa vui. Hào Sáu Hai mềm thuận trung chính, nó tiến bằng dần dần mà phía trên có hào Chín Năm ứng với, cho nên Tượng nó như thế mà Chiêm thì tốt.",
+    "lời_bàn_của_tiên_nho": null
   },
   {
     "chunk_id": "QUE_TIEM_012",
     "hexagram": "QUE_TIEM",
     "que": null,
-    "lời_kinh": "象⽈: 飲⾷衍衍, 不素飽也.",
-    "dịch_âm": "Tượng viết: Ẩm thực hãn hãn, bất tố bão dã.",
-    "dịch_nghĩa": "Lời tượng nói rằng: Uống ăn hơn hớn, chẳng nó không vậy. GIẢI NGHĨA",
-    "truyện_của_Trình_Di": null,
-    "bản_nghĩa_của_Chu_Hy": "Chữ “no không” cũng như chữ “ăn không” trong Kinh Thi, nghĩa là được sự “no” ấy có đạo, không phải chỉ ăn cho no mà ở [3] cho yên.",
-    "lời_bàn_của_tiên_nho": null,
+    "content_type": "interpretation",
     "notes": {
       "1": "Chữ 漸 (tiệm) nghĩa là dần dần.",
       "2": "Tức là tiêu đi, sinh ra.",
-      "3": "Ngô Lâm Xuyên nói rằng: Đợi lúc đáng tiến mới tiến, không phải chỉ ăn",
-      "4": "Chữ (nghi) Trình Di",
-      "5": "Chữ (nghi) Trình Di"
-    }
+      "3": "Ngô Lâm Xuyên nói rằng: Đợi lúc đáng tiến mới tiến, không phải chỉ ăn uống cho no để tự nuôi mình mà thôi.",
+      "4": "Chữ (nghi) Trình Di giải nghĩa là khuôn phép, Chu Hy thì cho là miều cờ.",
+      "5": "Chữ (nghi) Trình Di giải nghĩa là khuôn phép, Chu Hy thì cho là miều cờ."
+    },
+    "lời_kinh": "象⽈: 飲⾷衍衍, 不素飽也.",
+    "dịch_âm": "Tượng viết: Ẩm thực hãn hãn, bất tố bão dã.",
+    "dịch_nghĩa": "Lời tượng nói rằng: Uống ăn hơn hớn, chẳng nó không vậy.",
+    "truyện_của_Trình_Di": "Gọi là uống ăn hơn hớn, nghĩa là đắc chí hòa vui, không thể bảo là chỉ ăn no không mà thôi.",
+    "bản_nghĩa_của_Chu_Hy": "Chữ “no không” cũng như chữ “ăn không” trong Kinh Thi, nghĩa là được sự “no” ấy có đạo, không phải chỉ ăn cho no mà ở [3] cho yên.",
+    "lời_bàn_của_tiên_nho": null
   },
   {
     "chunk_id": "QUE_TIEM_013",
     "hexagram": "QUE_TIEM",
     "que": null,
-    "lời_kinh": "九三: 鴻漸于陸, 夫征不復, 婦孕不育, 凶, 利禦寇.",
-    "dịch_âm": "Cửu tam: Hồng tiệm vu lục, phu chinh bất phục, phụ dựng bất dục, hung, lợi ngữ khấu.",
-    "dịch_nghĩa": "Hào Chín Ba: Con sếu tiến chưng đất liền, chồng đi chẳng lại, vợ chửa chẳng nuôi, hung, lợi về chống giặc. GIẢI NGHĨA",
-    "truyện_của_Trình_Di": null,
-    "bản_nghĩa_của_Chu_Hy": "Sếu là chim nước, đất liền không phải chỗ yên ổn của nó. Hào Chín Ba quá cứng không giữ, không có ứng viện, cho nên Tượng nó như thế, mà Chiêm thì là “chồng đi chẳng lại, vợ đẻ chẳng nuôi” không gì hung hơn. Vì nó quá cứng, cho nên lợi vệ chống giặc.",
-    "lời_bàn_của_tiên_nho": null,
+    "content_type": "interpretation",
     "notes": {
       "1": "Chữ 漸 (tiệm) nghĩa là dần dần.",
       "2": "Tức là tiêu đi, sinh ra.",
-      "3": "Ngô Lâm Xuyên nói rằng: Đợi lúc đáng tiến mới tiến, không phải chỉ ăn",
-      "4": "Chữ (nghi) Trình Di",
-      "5": "Chữ (nghi) Trình Di"
-    }
+      "3": "Ngô Lâm Xuyên nói rằng: Đợi lúc đáng tiến mới tiến, không phải chỉ ăn uống cho no để tự nuôi mình mà thôi.",
+      "4": "Chữ (nghi) Trình Di giải nghĩa là khuôn phép, Chu Hy thì cho là miều cờ.",
+      "5": "Chữ (nghi) Trình Di giải nghĩa là khuôn phép, Chu Hy thì cho là miều cờ."
+    },
+    "lời_kinh": "九三: 鴻漸于陸, 夫征不復, 婦孕不育, 凶, 利禦寇.",
+    "dịch_âm": "Cửu tam: Hồng tiệm vu lục, phu chinh bất phục, phụ dựng bất dục, hung, lợi ngữ khấu.",
+    "dịch_nghĩa": "Hào Chín Ba: Con sếu tiến chưng đất liền, chồng đi chẳng lại, vợ chửa chẳng nuôi, hung, lợi về chống giặc.",
+    "truyện_của_Trình_Di": "Phẳng cao là đất liền, tức là đồng bằng. Hào Ba ở trên quẻ dưới , ấy là tiến đến đất liền. Chồng chỉ về hào Ba, hào Ba nếu không tự giữ chính đạo mà hợp với hào Tư, ấy là biết đi mà không biết lại, không lại nghĩa là không đoái gì đến nghĩa lý. Vợ chỉ hào Tư, nếu không dùng cách bất chính mà hợp nhau, thì tuy có chửa mà không thể nuôi, vì nó trái đạo, như thế thì hung. Cái lợi của hào Ba, chí có việc đánh giặc. Kéo đến bằng cách phi lý là giặc; giữ đường chính để ngăn điều tà, thế là chống giặc.",
+    "bản_nghĩa_của_Chu_Hy": "Sếu là chim nước, đất liền không phải chỗ yên ổn của nó. Hào Chín Ba quá cứng không giữ, không có ứng viện, cho nên Tượng nó như thế, mà Chiêm thì là “chồng đi chẳng lại, vợ đẻ chẳng nuôi” không gì hung hơn. Vì nó quá cứng, cho nên lợi vệ chống giặc.",
+    "lời_bàn_của_tiên_nho": null
   },
   {
     "chunk_id": "QUE_TIEM_014",
     "hexagram": "QUE_TIEM",
     "que": null,
-    "lời_kinh": "象⽈:夫征不復,離群sũ也, 婦孕不育, 失其道也,利⽤禦寇,順相保也.",
-    "dịch_âm": "Tượng viết: Phu chinh bất phục, ly quần sũ dã; phụ dực bất dục, thất kỳ đạo dã; lợi dụng ngữ khấu, thuận tượng bảo dã.",
-    "dịch_nghĩa": "Lời tượng nói rằng: Chồng đi chẳng lại, lìa đàn loài vậy; vợ chửa chẳng nuôi, lỗi thửa đạo vậy; lời dùng chống giặc, thuận cùng giữ vậy. GIẢI NGHĨA",
-    "truyện_của_Trình_Di": null,
-    "bản_nghĩa_của_Chu_Hy": null,
-    "lời_bàn_của_tiên_nho": null,
+    "content_type": "interpretation",
     "notes": {
       "1": "Chữ 漸 (tiệm) nghĩa là dần dần.",
       "2": "Tức là tiêu đi, sinh ra.",
-      "3": "Ngô Lâm Xuyên nói rằng: Đợi lúc đáng tiến mới tiến, không phải chỉ ăn",
-      "4": "Chữ (nghi) Trình Di",
-      "5": "Chữ (nghi) Trình Di"
-    }
+      "3": "Ngô Lâm Xuyên nói rằng: Đợi lúc đáng tiến mới tiến, không phải chỉ ăn uống cho no để tự nuôi mình mà thôi.",
+      "4": "Chữ (nghi) Trình Di giải nghĩa là khuôn phép, Chu Hy thì cho là miều cờ.",
+      "5": "Chữ (nghi) Trình Di giải nghĩa là khuôn phép, Chu Hy thì cho là miều cờ."
+    },
+    "lời_kinh": "象⽈:夫征不復,離群sũ也, 婦孕不育, 失其道也,利⽤禦寇,順相保也.",
+    "dịch_âm": "Tượng viết: Phu chinh bất phục, ly quần sũ dã; phụ dực bất dục, thất kỳ đạo dã; lợi dụng ngữ khấu, thuận tượng bảo dã.",
+    "dịch_nghĩa": "Lời tượng nói rằng: Chồng đi chẳng lại, lìa đàn loài vậy; vợ chửa chẳng nuôi, lỗi thửa đạo vậy; lời dùng chống giặc, thuận cùng giữ vậy.",
+    "truyện_của_Trình_Di": "Chồng đi chẳng lại, thì lỗi chính đạo của sự tiến, theo lòng ham muốn mất chính đạo, lìa phản đàn loài, là đáng xấu vậy. Vợ chửa không dùng chính đạo, cho nên không thể nuôi được. Chỉ lợi về sự chống giặc, tức là lấy sự hòa thuận giữ lẫn cho nhau.",
+    "bản_nghĩa_của_Chu_Hy": null,
+    "lời_bàn_của_tiên_nho": null
   },
   {
     "chunk_id": "QUE_TIEM_015",
     "hexagram": "QUE_TIEM",
     "que": null,
-    "lời_kinh": "六四: 鴻漸于⽊, 或得其桷, ⽆咎.",
-    "dịch_âm": "Lục Tứ: Hồng tiệm vu mộc, hoắc đắc kỳ giốc, vô cữu.",
-    "dịch_nghĩa": "Hào Sáu Tư: Con sếu tiến chưng cây, hoặc được thửa cành ngang, không lỗi. GIẢI NGHĨA",
-    "truyện_của_Trình_Di": null,
-    "bản_nghĩa_của_Chu_Hy": "Con sếu không đậu ở cây. “Giốc” là cành ngang, hoặc được cành ngang thì có thể yên. Hào Sáu Tư cưỡi cứng, mà nhún thuận, cho nên Tượng nó thế. Kẻ xem như nó thì không có lỗi.",
-    "lời_bàn_của_tiên_nho": null,
+    "content_type": "interpretation",
     "notes": {
       "1": "Chữ 漸 (tiệm) nghĩa là dần dần.",
       "2": "Tức là tiêu đi, sinh ra.",
-      "3": "Ngô Lâm Xuyên nói rằng: Đợi lúc đáng tiến mới tiến, không phải chỉ ăn",
-      "4": "Chữ (nghi) Trình Di",
-      "5": "Chữ (nghi) Trình Di"
-    }
+      "3": "Ngô Lâm Xuyên nói rằng: Đợi lúc đáng tiến mới tiến, không phải chỉ ăn uống cho no để tự nuôi mình mà thôi.",
+      "4": "Chữ (nghi) Trình Di giải nghĩa là khuôn phép, Chu Hy thì cho là miều cờ.",
+      "5": "Chữ (nghi) Trình Di giải nghĩa là khuôn phép, Chu Hy thì cho là miều cờ."
+    },
+    "lời_kinh": "六四: 鴻漸于⽊, 或得其桷, ⽆咎.",
+    "dịch_âm": "Lục Tứ: Hồng tiệm vu mộc, hoắc đắc kỳ giốc, vô cữu.",
+    "dịch_nghĩa": "Hào Sáu Tư: Con sếu tiến chưng cây, hoặc được thửa cành ngang, không lỗi.",
+    "truyện_của_Trình_Di": "Đương thì dần dần, hào Tư lấy chất Âm mềm ở trên Dương cứng, há ở yên được? Hào Tư ở chỗ không yên, cũng như con sếu tiến chưng cây vậy, cho nên không đỗ ở cây. “Giốc” là cái cành ngang bằng. Chỉ trên cành ngang, nó mới có thể ở yên. Ý nói chỗ ở của Hào Tư vốn là nguy nghèo, nếu có tự được cái đạo yên ninh thì không có lỗi, cũng như con sếu trên cây vốn không thể yên, hoặc được càng ngang mà ở, thì yên.",
+    "bản_nghĩa_của_Chu_Hy": "Con sếu không đậu ở cây. “Giốc” là cành ngang, hoặc được cành ngang thì có thể yên. Hào Sáu Tư cưỡi cứng, mà nhún thuận, cho nên Tượng nó thế. Kẻ xem như nó thì không có lỗi.",
+    "lời_bàn_của_tiên_nho": null
   },
   {
     "chunk_id": "QUE_TIEM_016",
     "hexagram": "QUE_TIEM",
     "que": null,
-    "lời_kinh": "象⽈: 或得其桷, 順以巽也.",
-    "dịch_âm": "Tượng viết: Hoặc đắc kỳ giốc, thuận dĩ tốn dã.",
-    "dịch_nghĩa": "Lời Tượng nói rằng: Hoặc được thửa cành ngang, thuận và nhún vậy. GIẢI NGHĨA",
-    "truyện_của_Trình_Di": null,
-    "bản_nghĩa_của_Chu_Hy": null,
-    "lời_bàn_của_tiên_nho": null,
+    "content_type": "interpretation",
     "notes": {
       "1": "Chữ 漸 (tiệm) nghĩa là dần dần.",
       "2": "Tức là tiêu đi, sinh ra.",
-      "3": "Ngô Lâm Xuyên nói rằng: Đợi lúc đáng tiến mới tiến, không phải chỉ ăn",
-      "4": "Chữ (nghi) Trình Di",
-      "5": "Chữ (nghi) Trình Di"
-    }
+      "3": "Ngô Lâm Xuyên nói rằng: Đợi lúc đáng tiến mới tiến, không phải chỉ ăn uống cho no để tự nuôi mình mà thôi.",
+      "4": "Chữ (nghi) Trình Di giải nghĩa là khuôn phép, Chu Hy thì cho là miều cờ.",
+      "5": "Chữ (nghi) Trình Di giải nghĩa là khuôn phép, Chu Hy thì cho là miều cờ."
+    },
+    "lời_kinh": "象⽈: 或得其桷, 順以巽也.",
+    "dịch_âm": "Tượng viết: Hoặc đắc kỳ giốc, thuận dĩ tốn dã.",
+    "dịch_nghĩa": "Lời Tượng nói rằng: Hoặc được thửa cành ngang, thuận và nhún vậy.",
+    "truyện_của_Trình_Di": "Cành ngang là chỗ bình yên, cái đạo cầu yên, chỉ thuận và nhún. Thuận chính mà nhún như hào Tư, tức là được cành ngang vậy.",
+    "bản_nghĩa_của_Chu_Hy": null,
+    "lời_bàn_của_tiên_nho": null
   },
   {
     "chunk_id": "QUE_TIEM_017",
     "hexagram": "QUE_TIEM",
     "que": null,
-    "lời_kinh": "九五: 鴻漸于陸, 婦三歲不孕, 終莫之勝, 吉.",
-    "dịch_âm": "Cửu Ngũ: Hồng tiệm vu lăng, phụ tam tuế bất dựng, chung mạc chi thắng, cát.",
-    "dịch_nghĩa": "Hào Chín Năm: Con sếu tiến chưng gò, vợ ba năm chẳng chửa, trọn chẳng gì thắng, tốt. GIẢI NGHĨA",
-    "truyện_của_Trình_Di": null,
-    "bản_nghĩa_của_Chu_Hy": "Hào Chín Năm ở ngôi tôn, hào Sáu Hai là chính ứng với hào Năm, mà bị hào Ba vào Tư ngăn cách; nhưng rút lại vẫn không cướp được chính đạo của nó, cho nên Tượng nó như thế, mà kẻ xem như thế thì tốt.",
-    "lời_bàn_của_tiên_nho": null,
+    "content_type": "interpretation",
     "notes": {
       "1": "Chữ 漸 (tiệm) nghĩa là dần dần.",
       "2": "Tức là tiêu đi, sinh ra.",
-      "3": "Ngô Lâm Xuyên nói rằng: Đợi lúc đáng tiến mới tiến, không phải chỉ ăn",
-      "4": "Chữ (nghi) Trình Di",
-      "5": "Chữ (nghi) Trình Di"
-    }
+      "3": "Ngô Lâm Xuyên nói rằng: Đợi lúc đáng tiến mới tiến, không phải chỉ ăn uống cho no để tự nuôi mình mà thôi.",
+      "4": "Chữ (nghi) Trình Di giải nghĩa là khuôn phép, Chu Hy thì cho là miều cờ.",
+      "5": "Chữ (nghi) Trình Di giải nghĩa là khuôn phép, Chu Hy thì cho là miều cờ."
+    },
+    "lời_kinh": "九五: 鴻漸于陸, 婦三歲不孕, 終莫之勝, 吉.",
+    "dịch_âm": "Cửu Ngũ: Hồng tiệm vu lăng, phụ tam tuế bất dựng, chung mạc chi thắng, cát.",
+    "dịch_nghĩa": "Hào Chín Năm: Con sếu tiến chưng gò, vợ ba năm chẳng chửa, trọn chẳng gì thắng, tốt.",
+    "truyện_của_Trình_Di": "Gò là đống cao, con sếu vẫn đậu, là chỗ rất cao, giống như ngôi vua. Hào Năm với Hào Hai là chính ứng, cái đức trung chính giống nhau, thế mà bị cách hào Ba hào Tư, hào Ba liền với hào Hai, hào Tư liến với hào Năm, đều là kẻ ngăn sự giao tiếp của nó. Nó chưa hợp nhau được ngay, cho nên ba năm không chửa. Nhưng đạo trung chính có lý ắt phải hanh thông, há làm cách hại được nó? Cho nên rát lại không gì thắng nó. Có điều sự hợp của nó cũng phải dần dần, vì vậy, sau chót được tốt.",
+    "bản_nghĩa_của_Chu_Hy": "Hào Chín Năm ở ngôi tôn, hào Sáu Hai là chính ứng với hào Năm, mà bị hào Ba vào Tư ngăn cách; nhưng rút lại vẫn không cướp được chính đạo của nó, cho nên Tượng nó như thế, mà kẻ xem như thế thì tốt.",
+    "lời_bàn_của_tiên_nho": null
   },
   {
     "chunk_id": "QUE_TIEM_018",
     "hexagram": "QUE_TIEM",
     "que": null,
-    "lời_kinh": "象⽈: 終莫之勝, 吉, 得所願也.",
-    "dịch_âm": "Tượng viết: Chung mạc chi thắng, cát, đắc sở nguyện dã.",
-    "dịch_nghĩa": "Lời Tượng nói rằng: Chọn thẳng gì được, tốt, được thửa muốn vậy. GIẢI NGHĨA",
-    "truyện_của_Trình_Di": null,
-    "bản_nghĩa_của_Chu_Hy": null,
-    "lời_bàn_của_tiên_nho": null,
+    "content_type": "interpretation",
     "notes": {
       "1": "Chữ 漸 (tiệm) nghĩa là dần dần.",
       "2": "Tức là tiêu đi, sinh ra.",
-      "3": "Ngô Lâm Xuyên nói rằng: Đợi lúc đáng tiến mới tiến, không phải chỉ ăn",
-      "4": "Chữ (nghi) Trình Di",
-      "5": "Chữ (nghi) Trình Di"
-    }
+      "3": "Ngô Lâm Xuyên nói rằng: Đợi lúc đáng tiến mới tiến, không phải chỉ ăn uống cho no để tự nuôi mình mà thôi.",
+      "4": "Chữ (nghi) Trình Di giải nghĩa là khuôn phép, Chu Hy thì cho là miều cờ.",
+      "5": "Chữ (nghi) Trình Di giải nghĩa là khuôn phép, Chu Hy thì cho là miều cờ."
+    },
+    "lời_kinh": "象⽈: 終莫之勝, 吉, 得所願也.",
+    "dịch_âm": "Tượng viết: Chung mạc chi thắng, cát, đắc sở nguyện dã.",
+    "dịch_nghĩa": "Lời Tượng nói rằng: Chọn thẳng gì được, tốt, được thửa muốn vậy.",
+    "truyện_của_Trình_Di": "Vua tôi lấy sự trung chính giao nhau, đạo đó đáng được thực hiện, tuy là có kẻ ngăn cách ở giữa, há thắng được chăng? Lâu rồi ắt được cái sở nguyện của nó, thế là việc tốt trong đạo dần dần.",
+    "bản_nghĩa_của_Chu_Hy": null,
+    "lời_bàn_của_tiên_nho": null
   },
   {
     "chunk_id": "QUE_TIEM_019",
     "hexagram": "QUE_TIEM",
     "que": null,
-    "lời_kinh": "上九: 鴻漸于陸, 其⽻可⽤為儀, 吉.",
-    "dịch_âm": "Thượng Cửu: Hồng tiệm vu quỳ, kỳ vũ khả dụng vi nghi, cát.",
-    "dịch_nghĩa": "Hào Chín Trên: con sếu tiến chưng đường mây, lộng nó khá dùng làm miều cờ, tốt. GIẢI NGHĨA",
-    "truyện_của_Trình_Di": null,
-    "bản_nghĩa_của_Chu_Hy": "Họ Hồ, họ Trình bảo chữ 陸 (lục) nên là chữ 逵 [5] (quì), chỉ về đường mây, lấy vần mà đọc, thật phải. “Miều” là thứ trang sức của cờ mao, cờ tinh, hay cờ đạo, Hào Chín Trên rất cao, ra ngoài ngôi người, mà lông cánh của nó có thể dùng làm dồ nghi sức, đó là cái Tượng “ngôi tuy cực cao mf không đến nỗi vô dụng”, cho nên lời Chiêm của nó là được như thế thì tốt.",
-    "lời_bàn_của_tiên_nho": null,
+    "content_type": "interpretation",
     "notes": {
       "1": "Chữ 漸 (tiệm) nghĩa là dần dần.",
       "2": "Tức là tiêu đi, sinh ra.",
-      "3": "Ngô Lâm Xuyên nói rằng: Đợi lúc đáng tiến mới tiến, không phải chỉ ăn",
-      "4": "Chữ (nghi) Trình Di",
-      "5": "Chữ (nghi) Trình Di"
-    }
+      "3": "Ngô Lâm Xuyên nói rằng: Đợi lúc đáng tiến mới tiến, không phải chỉ ăn uống cho no để tự nuôi mình mà thôi.",
+      "4": "Chữ (nghi) Trình Di giải nghĩa là khuôn phép, Chu Hy thì cho là miều cờ.",
+      "5": "Chữ (nghi) Trình Di giải nghĩa là khuôn phép, Chu Hy thì cho là miều cờ."
+    },
+    "lời_kinh": "上九: 鴻漸于陸, 其⽻可⽤為儀, 吉.",
+    "dịch_âm": "Thượng Cửu: Hồng tiệm vu quỳ, kỳ vũ khả dụng vi nghi, cát.",
+    "dịch_nghĩa": "Hào Chín Trên: con sếu tiến chưng đường mây, lộng nó khá dùng làm miều cờ, tốt.",
+    "truyện_của_Trình_Di": "Ông Hồ An Định cho chữ 陸(lục) là chữ 逵 (quì), 逵 (quì) là đường mây, chỉ về trong đám hư không; sách Nhĩ nhã bảo con đường chín ngả thì gọi là “quì”, vậy “quì” tức là nghĩa thông đạt không che vậy. Hào Chín Trên ở chỗ rất cao, lại càng tiến lên, ấy là ra hẳn ngoài ngôi, giống như con sếu lìa hẳn chỗ đỗ mà bay lên chốn mây không, ở người ta thì là siêu việt ra ngoài việc thường. Tiến đến như vậy mà không lỗi đạo dần dần, đó là thái độ cao thượng của kẻ hiền đạt, cho nên có thể dùng làm [4] khuôn phép .",
+    "bản_nghĩa_của_Chu_Hy": "Họ Hồ, họ Trình bảo chữ 陸 (lục) nên là chữ 逵 [5] (quì), chỉ về đường mây, lấy vần mà đọc, thật phải. “Miều” là thứ trang sức của cờ mao, cờ tinh, hay cờ đạo, Hào Chín Trên rất cao, ra ngoài ngôi người, mà lông cánh của nó có thể dùng làm dồ nghi sức, đó là cái Tượng “ngôi tuy cực cao mf không đến nỗi vô dụng”, cho nên lời Chiêm của nó là được như thế thì tốt.",
+    "lời_bàn_của_tiên_nho": null
   },
   {
     "chunk_id": "QUE_TIEM_020",
     "hexagram": "QUE_TIEM",
     "que": null,
-    "lời_kinh": "象⽈: 其⽻可⽤為儀吉,不可亂也.",
-    "dịch_âm": "Tượng viết:Kỳ vũ khả dụng vi nghi, cát, bất khả loạn dã.",
-    "dịch_nghĩa": "Lời Tượng nói rằng: Thửa lông khả dùng làm miếu cờ, tốt, chẳng khá loạn vậy. GIẢI NGHĨA",
-    "truyện_của_Trình_Di": null,
-    "bản_nghĩa_của_Chu_Hy": "Dần tiến càng cao, mà chẳng đến nỗi vô dụng, chí nó vững vàng, há làm rối được? Chú thích: [1] Chữ 漸 (tiệm) nghĩa là dần dần. [2] Tức là tiêu đi, sinh ra. [3] Ngô Lâm Xuyên nói rằng: Đợi lúc đáng tiến mới tiến, không phải chỉ ăn uống cho no để tự nuôi mình mà thôi. [4] Chữ (nghi) Trình Di giải nghĩa là khuôn phép, Chu Hy thì cho là miều cờ. [5] Chữ (nghi) Trình Di giải nghĩa là khuôn phép, Chu Hy thì cho là miều cờ.",
-    "lời_bàn_của_tiên_nho": null,
+    "content_type": "interpretation",
     "notes": {
       "1": "Chữ 漸 (tiệm) nghĩa là dần dần.",
       "2": "Tức là tiêu đi, sinh ra.",
-      "3": "Ngô Lâm Xuyên nói rằng: Đợi lúc đáng tiến mới tiến, không phải chỉ ăn",
-      "4": "Chữ (nghi) Trình Di",
-      "5": "Chữ (nghi) Trình Di"
-    }
+      "3": "Ngô Lâm Xuyên nói rằng: Đợi lúc đáng tiến mới tiến, không phải chỉ ăn uống cho no để tự nuôi mình mà thôi.",
+      "4": "Chữ (nghi) Trình Di giải nghĩa là khuôn phép, Chu Hy thì cho là miều cờ.",
+      "5": "Chữ (nghi) Trình Di giải nghĩa là khuôn phép, Chu Hy thì cho là miều cờ."
+    },
+    "lời_kinh": "象⽈: 其⽻可⽤為儀吉,不可亂也.",
+    "dịch_âm": "Tượng viết:Kỳ vũ khả dụng vi nghi, cát, bất khả loạn dã.",
+    "dịch_nghĩa": "Lời Tượng nói rằng: Thửa lông khả dùng làm miếu cờ, tốt, chẳng khá loạn vậy.",
+    "truyện_của_Trình_Di": "Có thể dùng làm khuôn phép, vì nó có thứ tự mà không thể loạn.",
+    "bản_nghĩa_của_Chu_Hy": "Dần tiến càng cao, mà chẳng đến nỗi vô dụng, chí nó vững vàng, há làm rối được?",
+    "lời_bàn_của_tiên_nho": null
   }
 ]

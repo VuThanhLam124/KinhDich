@@ -3,6 +3,7 @@
     "chunk_id": "QUE_CHAN_001",
     "hexagram": "QUE_CHAN",
     "que": null,
+    "content_type": "preface",
     "lời_kinh": null,
     "dịch_âm": null,
     "dịch_nghĩa": null,
@@ -19,272 +20,289 @@
     "chunk_id": "QUE_CHAN_002",
     "hexagram": "QUE_CHAN",
     "que": null,
-    "lời_kinh": "震亨, 震來虢虢, 笑⾔啞啞, 震驚百⾥, 不喪⼔⾿.",
-    "dịch_âm": "Chấn hanh, Chấn lại khích khích, tiếu ngôn ách ách, chấn kinh bách lý, bất táng … chủy Xưởng.",
-    "dịch_nghĩa": "Quẻ Chấn hanh, sợ lại ngơm ngớp, cười nói khanh khách, nhức kinh trăm dậm, chẳng mất môi và rượu Xưởng. GIẢI NGHĨA",
-    "truyện_của_Trình_Di": null,
-    "bản_nghĩa_của_Chu_Hy": "Chấn nghĩa là động, một khí Dương mới sinh dưới hai khí Âm, nhức mà tự động; Tượng nó là Sấm, loại nó là con lớn, nhức thì có cách hnh thông. ‚“Sợ lại”nghĩa là lúc sự nhức sợ kéo lại. “Ngơm ngớp là đáng khiếp sợ ngó đi ngó lại”. “Nhức sợ trăm dặm” là nói về sấm. “Môi” là cái để múc đồ múc trong vạc, “Xưởng” là thứ rượu dùng rượu gạo nếp trộn hòa lộn với nghệ, để đổ lộn xuống đất mà cầu thần xuống. “Chẳng mất môi và rượu Xưởng” là lấy con lớn mà nói. Lời Chiêm quẻ này là biết lo sợ thì đem được phúc đến mà chẳng bị mất cái sở chủ hệ trọng của mình.",
-    "lời_bàn_của_tiên_nho": null,
+    "content_type": "interpretation",
     "notes": {
       "1": "Chữ 震 (chấn) nghĩa là nhức động, khiếp sợ.",
       "2": "Tức là con hy sinh.",
       "3": "Theo Trình Di, chữ này muốn chỉ về con trưởng của vua chúa."
-    }
+    },
+    "lời_kinh": "震亨, 震來虢虢, 笑⾔啞啞, 震驚百⾥, 不喪⼔⾿.",
+    "dịch_âm": "Chấn hanh, Chấn lại khích khích, tiếu ngôn ách ách, chấn kinh bách lý, bất táng … chủy Xưởng.",
+    "dịch_nghĩa": "Quẻ Chấn hanh, sợ lại ngơm ngớp, cười nói khanh khách, nhức kinh trăm dậm, chẳng mất môi và rượu Xưởng.",
+    "truyện_của_Trình_Di": "Dương sinh ở dưới mà tiến lên có nghĩa là hanh thông. Lại, chấn là động, là sợ hãi, có khi chủ về nhức mà phấn phát, động mà tiến lên, sợ hãi mà sửa mình; có khi chủ về gìn giữ lấy sự lớn lao, đều có thể đem lại sự hanh thông, cho nên, nhức thì hanh. Đương lúc sự nhức động kéo lại, thì sợ hãi không dám, rồi liền ngảnh lại lo nghĩ, thì ngơm ngớp vậy: “khích khích” là vẻ đoái lo chẳng yên. Con nhện trắng có tên là “hích”, vì nó quanh co đoái lo, không dám tự yên. Ở thì nhức mà biết như thế, thì có thể giữ được sự yên ổn ung dung, cho nên cười nói khanh khách; “ách ách” là vẻ cười nói vui thích. Động lớn thì không gì bằng sấm. Chấn là Sấm, cho nên nói lây sấm mà nói: Sâm động sợ đến chỗ xa trăm dặm, người ta không ai không sợ mà tự mất, chỉ có cúng tế ở nhà tôn miếu, kẻ cầm môi và rượu Xưởng thì không đến nỗi mất. Người ta hết lòng thành kính, không gì bằng lúc cúng tế. Môi là cái để múc đồ nấu trong vạc mà đổ lên mâm; Xưởng là thứ rượu để rót xuống đất mà giáng thần, lúc rót phải bỏ trần tay áo mà cầu [2] thân, dâng con sinh mà cầu hưởng, hết lòng thành kính như thế, thì tuy oai của sấm động, cũng không khiến mình sợ hãi to lớn, có thể yên ổn mà không hoảng hốt, chỉ nhờ về lòng thành kính mà thôi. Đó là cách ở thì “sợ“.",
+    "bản_nghĩa_của_Chu_Hy": "Chấn nghĩa là động, một khí Dương mới sinh dưới hai khí Âm, nhức mà tự động; Tượng nó là Sấm, loại nó là con lớn, nhức thì có cách hnh thông. ‚“Sợ lại”nghĩa là lúc sự nhức sợ kéo lại. “Ngơm ngớp là đáng khiếp sợ ngó đi ngó lại”. “Nhức sợ trăm dặm” là nói về sấm. “Môi” là cái để múc đồ múc trong vạc, “Xưởng” là thứ rượu dùng rượu gạo nếp trộn hòa lộn với nghệ, để đổ lộn xuống đất mà cầu thần xuống. “Chẳng mất môi và rượu Xưởng” là lấy con lớn mà nói. Lời Chiêm quẻ này là biết lo sợ thì đem được phúc đến mà chẳng bị mất cái sở chủ hệ trọng của mình.",
+    "lời_bàn_của_tiên_nho": null
   },
   {
     "chunk_id": "QUE_CHAN_003",
     "hexagram": "QUE_CHAN",
     "que": null,
-    "lời_kinh": "彖 ⽈: 震 亨, 震來虢虢, 笑致 福 也; 笑 ⾔ 啞 啞, 後 有 則 也.",
-    "dịch_âm": "Thoán viết: Chấn hanh, chấn lại khích khích, khủy trí phúc dã, tiếu ngôn ách ách, hậu hữu tắc dã.",
-    "dịch_nghĩa": "Lời Thoán nói rằng: Quẻ Chấn hanh, sợ lại ngơm ngớp, vì mà sợ đến phúc vậy: cười nói khanh khách, sau có phép vậy. GIẢI NGHĨA",
-    "truyện_của_Trình_Di": null,
-    "bản_nghĩa_của_Chu_Hy": null,
-    "lời_bàn_của_tiên_nho": null,
+    "content_type": "interpretation",
     "notes": {
       "1": "Chữ 震 (chấn) nghĩa là nhức động, khiếp sợ.",
       "2": "Tức là con hy sinh.",
       "3": "Theo Trình Di, chữ này muốn chỉ về con trưởng của vua chúa."
-    }
+    },
+    "lời_kinh": "彖 ⽈: 震 亨, 震來虢虢, 笑致 福 也; 笑 ⾔ 啞 啞, 後 有 則 也.",
+    "dịch_âm": "Thoán viết: Chấn hanh, chấn lại khích khích, khủy trí phúc dã, tiếu ngôn ách ách, hậu hữu tắc dã.",
+    "dịch_nghĩa": "Lời Thoán nói rằng: Quẻ Chấn hanh, sợ lại ngơm ngớp, vì mà sợ đến phúc vậy: cười nói khanh khách, sau có phép vậy.",
+    "truyện_của_Trình_Di": "Quẻ Chấn tự nó đã có nghĩa hanh, không phải so tài que. Nhức lại mà biết lo sợ, tự sửa mình, tự giữ mình, thì lại có thể đem đến phúc lành. Cười nói khanh khách là nói về vẻ tự nhiên. Bởi biết lo sợ mà sau tự xử mới có phép tắc, có phép thì sẽ yên mà không sợ. Đó cách ở thì nhức.",
+    "bản_nghĩa_của_Chu_Hy": null,
+    "lời_bàn_của_tiên_nho": null
   },
   {
     "chunk_id": "QUE_CHAN_004",
     "hexagram": "QUE_CHAN",
     "que": null,
-    "lời_kinh": "震驚百⾥, 驚遠⽽懼邇也",
-    "dịch_âm": "Chấn kinh bách lý, kinh viễn nhi cụ nhỉ dã.",
-    "dịch_nghĩa": "Nhức kinh trăm dậm, kinh xa mà sợ gần vậy. GIẢI NGHĨA",
-    "truyện_của_Trình_Di": null,
-    "bản_nghĩa_của_Chu_Hy": null,
-    "lời_bàn_của_tiên_nho": null,
+    "content_type": "interpretation",
     "notes": {
       "1": "Chữ 震 (chấn) nghĩa là nhức động, khiếp sợ.",
       "2": "Tức là con hy sinh.",
       "3": "Theo Trình Di, chữ này muốn chỉ về con trưởng của vua chúa."
-    }
+    },
+    "lời_kinh": "震驚百⾥, 驚遠⽽懼邇也",
+    "dịch_âm": "Chấn kinh bách lý, kinh viễn nhi cụ nhỉ dã.",
+    "dịch_nghĩa": "Nhức kinh trăm dậm, kinh xa mà sợ gần vậy.",
+    "truyện_của_Trình_Di": "Sấm động kịp tới trăm dặm, kẻ xa thì kinh, kẻ gần thì sợ, ý nói oai nó xa lớn vậy.",
+    "bản_nghĩa_của_Chu_Hy": null,
+    "lời_bàn_của_tiên_nho": null
   },
   {
     "chunk_id": "QUE_CHAN_005",
     "hexagram": "QUE_CHAN",
     "que": null,
-    "lời_kinh": "出 可 以 守 宗 廟 社 稷, 以 為 祭 主 也.",
-    "dịch_âm": "Xuất khả dĩ thủ tôn miếu xã tắc, dĩ vi tế chủ dã. [3]",
-    "dịch_nghĩa": "Ra khá lấy giữ tôn miếu xã tắc, để làm chủ tế vậy. GIẢI NGHĨA",
-    "truyện_của_Trình_Di": null,
-    "bản_nghĩa_của_Chu_Hy": "Trình Tử cho là chữ dưới 邇 也 (nhĩ dã) sót mất bốn chữ 不 喪 ⼔爸(bất táng chủy xưởng), ta cũng theo thế. “Ra” là nối đời mà làm chủ việc tế. Có người bảo chữ 出 (xuất) là do chữ 爸(xưởng) lầm ra.",
-    "lời_bàn_của_tiên_nho": null,
+    "content_type": "interpretation",
     "notes": {
       "1": "Chữ 震 (chấn) nghĩa là nhức động, khiếp sợ.",
       "2": "Tức là con hy sinh.",
       "3": "Theo Trình Di, chữ này muốn chỉ về con trưởng của vua chúa."
-    }
+    },
+    "lời_kinh": "出 可 以 守 宗 廟 社 稷, 以 為 祭 主 也.",
+    "dịch_âm": "Xuất khả dĩ thủ tôn miếu xã tắc, dĩ vi tế chủ dã. [3]",
+    "dịch_nghĩa": "Ra khá lấy giữ tôn miếu xã tắc, để làm chủ tế vậy.",
+    "truyện_của_Trình_Di": "Lời Thoán sót một câu “Chẳng mất môi và rượu Xưởng”. Lời quẻ nói “chẳng mất môi và rượu Xưởng” là nói “thành kính tột bậc, oai dọa không thể khiến nó tự mất, lời Thoán cho rằng con lớn phải nên như thế, nhân theo câu trên dùng nghĩa con lớn mà giải luôn đi, nói rằng: Nếu sự thành kính của nó có thể ’’chẳng mất môi và rượu Xưởng, thì vua đi vắng, nó có thể giữ được tôn miếu xã tắc mà làm chủ tế.",
+    "bản_nghĩa_của_Chu_Hy": "Trình Tử cho là chữ dưới 邇 也 (nhĩ dã) sót mất bốn chữ 不 喪 ⼔爸(bất táng chủy xưởng), ta cũng theo thế. “Ra” là nối đời mà làm chủ việc tế. Có người bảo chữ 出 (xuất) là do chữ 爸(xưởng) lầm ra.",
+    "lời_bàn_của_tiên_nho": null
   },
   {
     "chunk_id": "QUE_CHAN_006",
     "hexagram": "QUE_CHAN",
     "que": null,
-    "lời_kinh": "象 ⽈: Tấn 雷, 震, 君 ⼦ 以 恐 懼 修 省.",
-    "dịch_âm": "Tượng viết: Tấn lôi, Chấn, quân tử dĩ khủng cụ tu tĩnh.",
-    "dịch_nghĩa": "Lời Tượng nói rằng: Liền sấm là quẻ Chấn, đấng quân tử coi đó mà sợ hãi sửa xét. GIẢI NGHĨA",
-    "truyện_của_Trình_Di": null,
-    "bản_nghĩa_của_Chu_Hy": null,
-    "lời_bàn_của_tiên_nho": null,
+    "content_type": "interpretation",
     "notes": {
       "1": "Chữ 震 (chấn) nghĩa là nhức động, khiếp sợ.",
       "2": "Tức là con hy sinh.",
       "3": "Theo Trình Di, chữ này muốn chỉ về con trưởng của vua chúa."
-    }
+    },
+    "lời_kinh": "象 ⽈: Tấn 雷, 震, 君 ⼦ 以 恐 懼 修 省.",
+    "dịch_âm": "Tượng viết: Tấn lôi, Chấn, quân tử dĩ khủng cụ tu tĩnh.",
+    "dịch_nghĩa": "Lời Tượng nói rằng: Liền sấm là quẻ Chấn, đấng quân tử coi đó mà sợ hãi sửa xét.",
+    "truyện_của_Trình_Di": "“Tấn” là lần kép, trên dưới đều là thể Chấn, cho nên liền sấm. Sấm động trùng điệp thì oai càng thịnh. Đấng quân tử soi sấm liền dữ dội đó mà sợ hãi, tự mình sửa sang, tự mình ngẫm xét. Đấng quân tử sự oai của trời thì sửa chính mình mình, nghĩa xét lỗi mình mà đổi nó đi. Chẳng những trong lúc sấm động, hễ gặp phải việc sợ hãi đều nên như thế.",
+    "bản_nghĩa_của_Chu_Hy": null,
+    "lời_bàn_của_tiên_nho": null
   },
   {
     "chunk_id": "QUE_CHAN_007",
     "hexagram": "QUE_CHAN",
     "que": null,
-    "lời_kinh": "初九: 震來虢虢, 後笑⾔啞啞吉.",
-    "dịch_âm": "Sơ cửu: Chấn lai khích khích, hậu tiếu ngôn ách ách cát.",
-    "dịch_nghĩa": "Hào Chín Đầu: Nhức lại ngơm ngớp, sau cười nói khanh khách, tốt. GIẢI NGHĨA",
-    "truyện_của_Trình_Di": null,
-    "bản_nghĩa_của_Chu_Hy": "Hào này là chủ làm nên quẻ Chấn ở đầu cuộc sợ, cho nên lởi Chiêm của nó như thế.",
-    "lời_bàn_của_tiên_nho": null,
+    "content_type": "interpretation",
     "notes": {
       "1": "Chữ 震 (chấn) nghĩa là nhức động, khiếp sợ.",
       "2": "Tức là con hy sinh.",
       "3": "Theo Trình Di, chữ này muốn chỉ về con trưởng của vua chúa."
-    }
+    },
+    "lời_kinh": "初九: 震來虢虢, 後笑⾔啞啞吉.",
+    "dịch_âm": "Sơ cửu: Chấn lai khích khích, hậu tiếu ngôn ách ách cát.",
+    "dịch_nghĩa": "Hào Chín Đầu: Nhức lại ngơm ngớp, sau cười nói khanh khách, tốt.",
+    "truyện_của_Trình_Di": "Hào Đầu là chủ làm nên quẻ Chấn, tức là kẻ đem lại sự sợ; ở dưới quẻ là ở vào đầu cuộc sợ. Hay sự sợ đến, ở đầu cuộc sợ, nếu biết sợ hãi mà quanh co lo ngắm, ngơm ngớp vậy không dám yên đậu, thì sau ắt giữ được yên lành, cho nên sau mới cười nói khanh khách.",
+    "bản_nghĩa_của_Chu_Hy": "Hào này là chủ làm nên quẻ Chấn ở đầu cuộc sợ, cho nên lởi Chiêm của nó như thế.",
+    "lời_bàn_của_tiên_nho": null
   },
   {
     "chunk_id": "QUE_CHAN_008",
     "hexagram": "QUE_CHAN",
     "que": null,
-    "lời_kinh": "彖⽈: 震亨, 震來虢虢, 恐致福也, 笑⾔啞啞, 後有則也.",
-    "dịch_âm": "Tượng viết: Chấn lai khích khích, khủng trí phúc dã tiếu ngôn ách ách, hậu hữu tắc dã.",
-    "dịch_nghĩa": "Lời Tượng nói rằng: Sợ lại ngom ngớp, vì sợ mà đến phúc vậy; cười nói khanh khách, sau có phép vậy. GIẢI NGHĨA",
-    "truyện_của_Trình_Di": null,
-    "bản_nghĩa_của_Chu_Hy": null,
-    "lời_bàn_của_tiên_nho": null,
+    "content_type": "interpretation",
     "notes": {
       "1": "Chữ 震 (chấn) nghĩa là nhức động, khiếp sợ.",
       "2": "Tức là con hy sinh.",
       "3": "Theo Trình Di, chữ này muốn chỉ về con trưởng của vua chúa."
-    }
+    },
+    "lời_kinh": "彖⽈: 震亨, 震來虢虢, 恐致福也, 笑⾔啞啞, 後有則也.",
+    "dịch_âm": "Tượng viết: Chấn lai khích khích, khủng trí phúc dã tiếu ngôn ách ách, hậu hữu tắc dã.",
+    "dịch_nghĩa": "Lời Tượng nói rằng: Sợ lại ngom ngớp, vì sợ mà đến phúc vậy; cười nói khanh khách, sau có phép vậy.",
+    "truyện_của_Trình_Di": "Sự sợ đến nơi mà biết lo hãi, đoái ngắm thì sẽ không có vạ lo, thế là lo sợ mà đến được phúc. Nhân lo sợ mà tự mình tu tỉnh, chẳng dám trái với phép tắc, thế là bởi sự sợ mà sau có phép tắc, cho nên có thể giữ được yên lành mà cười nói khanh khách vậy.",
+    "bản_nghĩa_của_Chu_Hy": null,
+    "lời_bàn_của_tiên_nho": null
   },
   {
     "chunk_id": "QUE_CHAN_009",
     "hexagram": "QUE_CHAN",
     "que": null,
-    "lời_kinh": "六 ⼆: 震 來 厲 憶, 喪 ⾙, 躋 于 九 陵, 勿 逐, 七 ⽇ 得.",
-    "dịch_âm": "Lục Nhị: Chấn lai lệ ức, táng bối, tê vu cửu lăng, vật trục, thất nhật đắc.",
-    "dịch_nghĩa": "Hào Chín Hai: Nhức lại, nguy đồ (?) mất của, lên chân chín gò, chớ đuổi, bảy ngày được. GIẢI NGHĨA Truyện của Trinh Di. - Hào Sáu Hai ở giữa, được chỗ chính, là kẻ khéo ở cuộc sợ, mà cưỡi lên hào Chín Đầu là một hào cứng, hào Chín là chủ sự nhức, nó nhức động mà hăng lên, ai chống lại được? “Lệ” là mạnh là nguy, nó lại đã mạnh, thì ở vào chỗ nguy; “ức” là đồ đoán, “bối” là của mình có, “tê” là lên, “cửu lăng” là chỗ gò cao, “trục” là đi theo. Sự nhức kéo lại dữ dội, đoán chừng không thể đương nổi mà ắt phải mất cái của mình có, thì lên hẳn chỗ rất cao, để mà tránh nó. Chữ “Chín” là nói nhiều tầng là cao tột bậc, nhiều đến chín tầng, cũng như những chữ “chín trời”, “chín đất” vậy. “Chớ đuổi, bảy ngày được” là sao? Cái quý của hào Hai là đức trung chính, gặp khi nhức sợ kéo đến, tuy phải lượng thế nhún tránh, cũng nên giữ đức trung chính, chớ để mất đi. Đoán là ắt mất, cho nên tránh xa để tự giữ lấy, nó qua thì lại trở lại bình thường, ấy là không đuổi mà tự nhiên vẫn được. Đuổi là đi theo vật khác, đem mình đi theo vật khác, thế là mất sự tự chủ, cho nên răn rằng chớ đuổi. Ngôi quẻ có sáu, số bảy là lại bắt đầu, thì đã chót, việc đã thay đổi. Chẳng để mất cái sở thủ, tuy là một lúc không chống được nó kéo lại, nhưng thời qua, việc hết thời sẽ trở lại bình thường, cho nên nói rằng “bảy ngàỳ được”.",
-    "truyện_của_Trình_Di": null,
-    "bản_nghĩa_của_Chu_Hy": "Hào Sáu Năm cưỡi lên hào Chín Đầu là một hào cứng, cho nên nhằm khi sự nhức kéo lại, tự thấy nguy dữ, chữ “ức” chưa rõ nghĩa là gì. Lại nên mất hết của cải mà phải lên trên chín gò.. Nhưng nó mềm thuận trung chính, đủ để tự giữ, cho nên không tìm mà tự được. Hào này lời chiêm đủ ở trong Tượng, có điều Tượng ở “chín gò” “bảy ngày”, chưa rõ ra sao.",
-    "lời_bàn_của_tiên_nho": null,
+    "content_type": "interpretation",
     "notes": {
       "1": "Chữ 震 (chấn) nghĩa là nhức động, khiếp sợ.",
       "2": "Tức là con hy sinh.",
       "3": "Theo Trình Di, chữ này muốn chỉ về con trưởng của vua chúa."
-    }
+    },
+    "lời_kinh": "六 ⼆: 震 來 厲 憶, 喪 ⾙, 躋 于 九 陵, 勿 逐, 七 ⽇ 得.",
+    "dịch_âm": "Lục Nhị: Chấn lai lệ ức, táng bối, tê vu cửu lăng, vật trục, thất nhật đắc.",
+    "dịch_nghĩa": "Hào Chín Hai: Nhức lại, nguy đồ (?) mất của, lên chân chín gò, chớ đuổi, bảy ngày được.",
+    "truyện_của_Trình_Di": null,
+    "bản_nghĩa_của_Chu_Hy": "Hào Sáu Năm cưỡi lên hào Chín Đầu là một hào cứng, cho nên nhằm khi sự nhức kéo lại, tự thấy nguy dữ, chữ “ức” chưa rõ nghĩa là gì. Lại nên mất hết của cải mà phải lên trên chín gò.. Nhưng nó mềm thuận trung chính, đủ để tự giữ, cho nên không tìm mà tự được. Hào này lời chiêm đủ ở trong Tượng, có điều Tượng ở “chín gò” “bảy ngày”, chưa rõ ra sao.",
+    "lời_bàn_của_tiên_nho": null
   },
   {
     "chunk_id": "QUE_CHAN_010",
     "hexagram": "QUE_CHAN",
     "que": null,
-    "lời_kinh": "象 ⽈: 震 來 厲, 乘 剛 也.",
-    "dịch_âm": "Tượng viết: Chấn lai lệ, thừa cương dã.",
-    "dịch_nghĩa": "Lời Tượng nói rằng: Nhức lại, nguy, cưỡi cứng vậy. GIẢI NGHĨA",
-    "truyện_của_Trình_Di": null,
-    "bản_nghĩa_của_Chu_Hy": null,
-    "lời_bàn_của_tiên_nho": null,
+    "content_type": "interpretation",
     "notes": {
       "1": "Chữ 震 (chấn) nghĩa là nhức động, khiếp sợ.",
       "2": "Tức là con hy sinh.",
       "3": "Theo Trình Di, chữ này muốn chỉ về con trưởng của vua chúa."
-    }
+    },
+    "lời_kinh": "象 ⽈: 震 來 厲, 乘 剛 也.",
+    "dịch_âm": "Tượng viết: Chấn lai lệ, thừa cương dã.",
+    "dịch_nghĩa": "Lời Tượng nói rằng: Nhức lại, nguy, cưỡi cứng vậy.",
+    "truyện_của_Trình_Di": "Đương thì nhức, cưỡi lên kẻ cứng, cho nên nò mạnh mà mình nguy, nhức cứng kéo lại, còn chống sao nổi?",
+    "bản_nghĩa_của_Chu_Hy": null,
+    "lời_bàn_của_tiên_nho": null
   },
   {
     "chunk_id": "QUE_CHAN_011",
     "hexagram": "QUE_CHAN",
     "que": null,
-    "lời_kinh": "六 tam: 震 蘇 蘇,震 ⾏ 無 眚.",
-    "dịch_âm": "Lục Tam: Chấn tô tô, chấn hành vô sảnh.",
-    "dịch_nghĩa": "Hào Sáu Ba: Nhức, thom thỏm, nhức đi, không tội. GIẢI NGHĨA",
-    "truyện_của_Trình_Di": null,
-    "bản_nghĩa_của_Chu_Hy": "Thom thỏm là vẻ hoãn tan tự mất. Lấy chất Âm ở ngôi Dương, đương thì nhức sợ mà ở vào chỗ bất chính, cho nên như thế. Kẻ xem nếu nhân sự lo sợ mà biết đi đi, để bỏ chỗ bất chính, thì có thể không tội.",
-    "lời_bàn_của_tiên_nho": null,
+    "content_type": "interpretation",
     "notes": {
       "1": "Chữ 震 (chấn) nghĩa là nhức động, khiếp sợ.",
       "2": "Tức là con hy sinh.",
       "3": "Theo Trình Di, chữ này muốn chỉ về con trưởng của vua chúa."
-    }
+    },
+    "lời_kinh": "六 tam: 震 蘇 蘇,震 ⾏ 無 眚.",
+    "dịch_âm": "Lục Tam: Chấn tô tô, chấn hành vô sảnh.",
+    "dịch_nghĩa": "Hào Sáu Ba: Nhức, thom thỏm, nhức đi, không tội.",
+    "truyện_của_Trình_Di": "Thom Thỏm là vẻ thần khí hoãn tan tự mất. Hào Ba lấy chất Âm ở ngôi Dương thế là bất chính. Ở chỗ bất chính, lúc bình thì không thể yên, huống chi ở lúc nhức sợ, vì vậy mà nó nhức sợ thom thỏm. Nếu nó nhân sự nhức sợ mà biết đi đi, bỏ chỗ bất chính để tới chỗ chính, thì có thể không có tội lỗi.",
+    "bản_nghĩa_của_Chu_Hy": "Thom thỏm là vẻ hoãn tan tự mất. Lấy chất Âm ở ngôi Dương, đương thì nhức sợ mà ở vào chỗ bất chính, cho nên như thế. Kẻ xem nếu nhân sự lo sợ mà biết đi đi, để bỏ chỗ bất chính, thì có thể không tội.",
+    "lời_bàn_của_tiên_nho": null
   },
   {
     "chunk_id": "QUE_CHAN_012",
     "hexagram": "QUE_CHAN",
     "que": null,
-    "lời_kinh": "象 ⽈: 震 蘇 蘇, 位 不 當 也.",
-    "dịch_âm": "Tượng viết: Chấn tô tô, vị bất đáng dã.",
-    "dịch_nghĩa": "Lời Tượng nói rằng: Nhức thom thỏm, ngôi chẳng đáng vậy. GIẢI NGHĨA",
-    "truyện_của_Trình_Di": null,
-    "bản_nghĩa_của_Chu_Hy": null,
-    "lời_bàn_của_tiên_nho": null,
+    "content_type": "interpretation",
     "notes": {
       "1": "Chữ 震 (chấn) nghĩa là nhức động, khiếp sợ.",
       "2": "Tức là con hy sinh.",
       "3": "Theo Trình Di, chữ này muốn chỉ về con trưởng của vua chúa."
-    }
+    },
+    "lời_kinh": "象 ⽈: 震 蘇 蘇, 位 不 當 也.",
+    "dịch_âm": "Tượng viết: Chấn tô tô, vị bất đáng dã.",
+    "dịch_nghĩa": "Lời Tượng nói rằng: Nhức thom thỏm, ngôi chẳng đáng vậy.",
+    "truyện_của_Trình_Di": "Nó, phải sợ hãi tự mất thom thỏm vậy, là vì nó ở vào chỗ không được chính đáng. Chẳng giữa chẳng chính, thì yên sao được?",
+    "bản_nghĩa_của_Chu_Hy": null,
+    "lời_bàn_của_tiên_nho": null
   },
   {
     "chunk_id": "QUE_CHAN_013",
     "hexagram": "QUE_CHAN",
     "que": null,
-    "lời_kinh": "六四: 震遂泥.",
-    "dịch_âm": "Lục Tứ: Chấn toại nê.",
-    "dịch_nghĩa": "Hào Chín Tư: Nhức bèn đắm. GIẢI NGHĨA",
-    "truyện_của_Trình_Di": null,
-    "bản_nghĩa_của_Chu_Hy": "Lấy chất cứng ở chỗ mềm, chẳng giữa, chẳng chính, lại bị hãm giữa hai hào Âm, là kẻ không thể tự mình phấn chấn vậy.",
-    "lời_bàn_của_tiên_nho": null,
+    "content_type": "interpretation",
     "notes": {
       "1": "Chữ 震 (chấn) nghĩa là nhức động, khiếp sợ.",
       "2": "Tức là con hy sinh.",
       "3": "Theo Trình Di, chữ này muốn chỉ về con trưởng của vua chúa."
-    }
+    },
+    "lời_kinh": "六四: 震遂泥.",
+    "dịch_âm": "Lục Tứ: Chấn toại nê.",
+    "dịch_nghĩa": "Hào Chín Tư: Nhức bèn đắm.",
+    "truyện_của_Trình_Di": "Hào Chín Tư đương thì nhức động, chẳng giữa chẳng chính, ở chỗ mềm là mất đạo cứng mạnh, đóng ngôi Tư là không có đức trung chính, hãm đắm giữa mấy hào Âm, là kẻ không thể tự mình phấn chấn, cho nên nói rằng: “bèn đắm”. “Đắm” là chìm đắm; lấy chất Dương bất chính, mà trên dưới đều hai hào Âm, thì sao khỏi đắm? “Bèn” là không còn có ý trở lại; ở chỗ nhức sợ thì không thể tự giữ, muốn chấn động thì không thể nhức nhổ, đạo nhức mất rồi, há lại sáng tỏ hanh thông được chăng?",
+    "bản_nghĩa_của_Chu_Hy": "Lấy chất cứng ở chỗ mềm, chẳng giữa, chẳng chính, lại bị hãm giữa hai hào Âm, là kẻ không thể tự mình phấn chấn vậy.",
+    "lời_bàn_của_tiên_nho": null
   },
   {
     "chunk_id": "QUE_CHAN_014",
     "hexagram": "QUE_CHAN",
     "que": null,
-    "lời_kinh": "象 ⽈: 震 遂泥, 未 光 也.",
-    "dịch_âm": "Tượng viết: Chấn toại nê, vị quang dã.",
-    "dịch_nghĩa": "Lời Tượng nói rằng: Nhức bèn đắm, chưa sáng vậy. GIẢI NGHĨA",
-    "truyện_của_Trình_Di": null,
-    "bản_nghĩa_của_Chu_Hy": null,
-    "lời_bàn_của_tiên_nho": null,
+    "content_type": "interpretation",
     "notes": {
       "1": "Chữ 震 (chấn) nghĩa là nhức động, khiếp sợ.",
       "2": "Tức là con hy sinh.",
       "3": "Theo Trình Di, chữ này muốn chỉ về con trưởng của vua chúa."
-    }
+    },
+    "lời_kinh": "象 ⽈: 震 遂泥, 未 光 也.",
+    "dịch_âm": "Tượng viết: Chấn toại nê, vị quang dã.",
+    "dịch_nghĩa": "Lời Tượng nói rằng: Nhức bèn đắm, chưa sáng vậy.",
+    "truyện_của_Trình_Di": "Dương là vật cứng, nhức là nghĩa động, lấy chất cứng ở thì động, tự nó vốn đã có đạo sáng sủa hanh thông. Vì mất sự cương chính mà bị hãm giữa hai hào Âm đến nỗi “bèn đắm”, há có thể sáng?",
+    "bản_nghĩa_của_Chu_Hy": null,
+    "lời_bàn_của_tiên_nho": null
   },
   {
     "chunk_id": "QUE_CHAN_015",
     "hexagram": "QUE_CHAN",
     "que": null,
-    "lời_kinh": "六 五: 震 往 來 厲, 億 無 喪 有.",
-    "dịch_âm": "Lục Ngũ: Chấn vãng lai lệ, ức vô táng hữu.",
-    "dịch_nghĩa": "Hào Sáu Năm: Nhức đi lại nguy, đồ (?) không mất cái có. GIẢI NGHĨA",
-    "truyện_của_Trình_Di": null,
-    "bản_nghĩa_của_Chu_Hy": "Lấy hào Sáu đóng ngôi Năm mà ở thì nhức, chẳng lúc nào mà không nguy. Vì nó được giữa, cho nên không mất gì, mà còn có thể có việc. Kẻ xem không mất đức giữa, thì tuy có nguy cũng chẳng mất gì.",
-    "lời_bàn_của_tiên_nho": null,
+    "content_type": "interpretation",
     "notes": {
       "1": "Chữ 震 (chấn) nghĩa là nhức động, khiếp sợ.",
       "2": "Tức là con hy sinh.",
       "3": "Theo Trình Di, chữ này muốn chỉ về con trưởng của vua chúa."
-    }
+    },
+    "lời_kinh": "六 五: 震 往 來 厲, 億 無 喪 有.",
+    "dịch_âm": "Lục Ngũ: Chấn vãng lai lệ, ức vô táng hữu.",
+    "dịch_nghĩa": "Hào Sáu Năm: Nhức đi lại nguy, đồ (?) không mất cái có.",
+    "truyện_của_Trình_Di": "Hàọ Năm mà động, đi lên thì nó vốn là chất mềm, không thể ở chỗ cùng tột cuộc động, đi xuống thì sẽ phạm vào kẻ cứng, thế là đi lại đều nguy. Đương ngôi vua, làm chủ cuộc động, tùy nghi ứng biến, cốt ở trung đạo mà thôi, cho nên phải đồ chừng không để mất cái “vẫn có” của nó. Cái “vẫn có” của nó tức là đức giữa, không mất đức giữa, tuy có nguy mà không đến hung. Hào Năm sở dĩ phải nguy, vì không phải Dương cương, lại không có kẻ giúp đỡ. Nếu là Dương cương có kẻ giúp đỡ, làm chủ cuộc động, thì có thể hanh.",
+    "bản_nghĩa_của_Chu_Hy": "Lấy hào Sáu đóng ngôi Năm mà ở thì nhức, chẳng lúc nào mà không nguy. Vì nó được giữa, cho nên không mất gì, mà còn có thể có việc. Kẻ xem không mất đức giữa, thì tuy có nguy cũng chẳng mất gì.",
+    "lời_bàn_của_tiên_nho": null
   },
   {
     "chunk_id": "QUE_CHAN_016",
     "hexagram": "QUE_CHAN",
     "que": null,
-    "lời_kinh": "象 ⽈: 震 來 厲, 危 ⾏ 也, 其 事 在 中, ⼤ 無 喪 也.",
-    "dịch_âm": "Tượng viết: Chấn lai lệ, nguy hành dã; kỳ sự tại trung, đại vô táng dã.",
-    "dịch_nghĩa": "Lời Tượng nói rằng: Nhức lại nguy, đi hiểm nghèo vậy, thửa việc ở giữa, lớn không mất vậy. GIẢI NGHĨA",
-    "truyện_của_Trình_Di": null,
-    "bản_nghĩa_của_Chu_Hy": null,
-    "lời_bàn_của_tiên_nho": null,
+    "content_type": "interpretation",
     "notes": {
       "1": "Chữ 震 (chấn) nghĩa là nhức động, khiếp sợ.",
       "2": "Tức là con hy sinh.",
       "3": "Theo Trình Di, chữ này muốn chỉ về con trưởng của vua chúa."
-    }
+    },
+    "lời_kinh": "象 ⽈: 震 來 厲, 危 ⾏ 也, 其 事 在 中, ⼤ 無 喪 也.",
+    "dịch_âm": "Tượng viết: Chấn lai lệ, nguy hành dã; kỳ sự tại trung, đại vô táng dã.",
+    "dịch_nghĩa": "Lời Tượng nói rằng: Nhức lại nguy, đi hiểm nghèo vậy, thửa việc ở giữa, lớn không mất vậy.",
+    "truyện_của_Trình_Di": "Đi lại đều nguy, thế là đi thì có nguy. Động đều có nguy, chi cốt không mất thửa việc mà thôi. “Thửa việc” chỉ về đức giữa; không mất đức giữa, thì tự giữ được. “Lớn không mất” nghĩa là lấy sự không mất làm lớn vậy.",
+    "bản_nghĩa_của_Chu_Hy": null,
+    "lời_bàn_của_tiên_nho": null
   },
   {
     "chunk_id": "QUE_CHAN_017",
     "hexagram": "QUE_CHAN",
     "que": null,
-    "lời_kinh": "上 六: 震 索 索, 視 矍 矍, 征 凶, 震 不 于 其 躬, 于 其 鄰, 無 咎, 婚 媾 有 ⾔.",
-    "dịch_âm": "Thượng Lục: Chấn tắc tác, thị quắc quắc, chinh hung chấn bất vu kỳ cung, vu kỳ lân, vồ cữu, hôn cấu hữu ngôn.",
-    "dịch_nghĩa": "Hào Sáu Trên: Nhức xơ xác, trông ngơ ngác, đi thì hung; nhức chẳng chưng thửa mình, chưng thửa láng giềng, không lỗi, dâu gia có nói. GIẢI NGHĨA",
-    "truyện_của_Trình_Di": null,
-    "bản_nghĩa_của_Chu_Hy": "Lấy chất Âm mềm ở chỗ cùng cực cuộc nhức, cho nên có Tượng: “xơ xác ngơ ngác”. Dùng kiểu đó mà đi thì hung hẳn rồi. Nhưng nếu trong khi sự nhức sợ chưa tới mình, mà biết lo hãi từ tỉnh, thì có thể không lỗi, song cũng không khỏi bị người dâu gia nói đến. Răn kẻ xem nên như thế vậy.",
-    "lời_bàn_của_tiên_nho": null,
+    "content_type": "interpretation",
     "notes": {
       "1": "Chữ 震 (chấn) nghĩa là nhức động, khiếp sợ.",
       "2": "Tức là con hy sinh.",
       "3": "Theo Trình Di, chữ này muốn chỉ về con trưởng của vua chúa."
-    }
+    },
+    "lời_kinh": "上 六: 震 索 索, 視 矍 矍, 征 凶, 震 不 于 其 躬, 于 其 鄰, 無 咎, 婚 媾 有 ⾔.",
+    "dịch_âm": "Thượng Lục: Chấn tắc tác, thị quắc quắc, chinh hung chấn bất vu kỳ cung, vu kỳ lân, vồ cữu, hôn cấu hữu ngôn.",
+    "dịch_nghĩa": "Hào Sáu Trên: Nhức xơ xác, trông ngơ ngác, đi thì hung; nhức chẳng chưng thửa mình, chưng thửa láng giềng, không lỗi, dâu gia có nói.",
+    "truyện_của_Trình_Di": "Xơ xác là dáng tan tác không còn. Ý nói chí khí của nó như thế. Hào Sáu lấy chất Âm mềm ở chỗ cùng cực cuộc nhức động, kinh sợ tệ quá, chí khí tan tác đi hết. Ngơ ngác là dáng không yên ổn; chí khí tan tác thì phải trông ngó quanh co. Lấy chất Âm mềm chẳng trung chính, ở chỗ cùng cực cuộc nhức động, cho nên hễ đi thì hung. Sự nhức sợ tới mình ấy là “chưng thửa mình”, “chẳng chưng thửa mình” nghĩa là chưa tới mình vậy. Láng giềng là chỗ gần với mình mình. Biết lo sợ trước khi nó chưa tới mình, thì không đến nỗi cùng cực, cho nên mới được không lỗi. Nếu như chưa đến cùng cực, mà còn có cách đổi được, thì hết thì nhức sẽ có thay đổi, kẻ mềm không thể bền giữ, cho nên sợ láng giềng răn bảo mà đổi đi. Dâu gia là người mình thân chỉ về kẻ cùng động. Có nói là có lời oán trách. Hào Sáu ở trên cuộc nhức, lúc trước làm đầu mọi kẻ nhức động, bây giờ lại sợ láng giềng răn bảo mà không dám, khác hẳn với mọi kẻ cùng ở cuộc nhức, cho nên “dâu gia có nói”.",
+    "bản_nghĩa_của_Chu_Hy": "Lấy chất Âm mềm ở chỗ cùng cực cuộc nhức, cho nên có Tượng: “xơ xác ngơ ngác”. Dùng kiểu đó mà đi thì hung hẳn rồi. Nhưng nếu trong khi sự nhức sợ chưa tới mình, mà biết lo hãi từ tỉnh, thì có thể không lỗi, song cũng không khỏi bị người dâu gia nói đến. Răn kẻ xem nên như thế vậy.",
+    "lời_bàn_của_tiên_nho": null
   },
   {
     "chunk_id": "QUE_CHAN_018",
     "hexagram": "QUE_CHAN",
     "que": null,
-    "lời_kinh": "象⽈: 索索中未得也;雖凶⽆咎, 畏鄰戒也.",
-    "dịch_âm": "Tượng viết: Tác tác trung vị đắc dã, tuy hung vô cữu, úy lân giới dã.",
-    "dịch_nghĩa": "Lời Tượng nói rằng: Xờ xạc giữa chưa được vậy; tuy hung không lỗi, sợ láng giềng răn vậy. GIẢI NGHĨA",
-    "truyện_của_Trình_Di": null,
-    "bản_nghĩa_của_Chu_Hy": "Chữ “trung” nghĩa là trong lòng. Chú thích: [1] Chữ 震 (chấn) nghĩa là nhức động, khiếp sợ. [2] Tức là con hy sinh. [3] Theo Trình Di, chữ này muốn chỉ về con trưởng của vua chúa.",
-    "lời_bàn_của_tiên_nho": null,
+    "content_type": "interpretation",
     "notes": {
       "1": "Chữ 震 (chấn) nghĩa là nhức động, khiếp sợ.",
       "2": "Tức là con hy sinh.",
       "3": "Theo Trình Di, chữ này muốn chỉ về con trưởng của vua chúa."
-    }
+    },
+    "lời_kinh": "象⽈: 索索中未得也;雖凶⽆咎, 畏鄰戒也.",
+    "dịch_âm": "Tượng viết: Tác tác trung vị đắc dã, tuy hung vô cữu, úy lân giới dã.",
+    "dịch_nghĩa": "Lời Tượng nói rằng: Xờ xạc giữa chưa được vậy; tuy hung không lỗi, sợ láng giềng răn vậy.",
+    "truyện_của_Trình_Di": "Sở dĩ sợ hãi tự mất như thế là vì nó chưa được đạo giữa, nghĩa là quá chỗ giữa vậy. Cùng cực rồi mà lại đi nữa thì hung. Nếu thấy láng giềng răn bảo mà biết sợ, và tự đổi đi trước khi chưa đến cùng cực, thì không có lỗi. Hào Sáu Trên là chỗ cùng cực sự động, động đến cùng cực thì có nghĩa thay đổi.",
+    "bản_nghĩa_của_Chu_Hy": "Chữ “trung” nghĩa là trong lòng.",
+    "lời_bàn_của_tiên_nho": null
   }
 ]

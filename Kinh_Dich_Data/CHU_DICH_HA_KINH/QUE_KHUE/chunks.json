@@ -3,6 +3,7 @@
     "chunk_id": "QUE_KHUE_001",
     "hexagram": "QUE_KHUE",
     "que": null,
+    "content_type": "preface",
     "lời_kinh": null,
     "dịch_âm": null,
     "dịch_nghĩa": null,
@@ -17,238 +18,255 @@
     "chunk_id": "QUE_KHUE_002",
     "hexagram": "QUE_KHUE",
     "que": null,
-    "lời_kinh": "睽,⼩事吉.",
-    "dịch_âm": "Khuê, tiểu sự cát.",
-    "dịch_nghĩa": "Quẻ Khuê , việc nhỏ tốt. GIẢI NGHĨA",
-    "truyện_của_Trình_Di": null,
-    "bản_nghĩa_của_Chu_Hy": "Khuê là trái khác. Là quẻ trên lửa dưới chằm, tính trái khác nhau; con gái giữa, con gái út, chí không cùng về với nhau, cho nên là lìa. Nhưng lấy đức quẻ mà nói, thì trong đẹp lòng mà ngoài sáng sủa; lấy sự biến đổi của quẻ mà nói, thì: ở quẻ Ly lại, là hào mềm tiến lên ở ngôi Ba; ở quẻ Trung phu lại, là hào mềm tiến lên ở ngôi Năm, ở quẻ Gia nhân lại, thì gồm cả hai kiểu đó; lấy thể quẻ mà nói, thì, hào Sáu Năm được chỗ giữa mà phía dưới ứng vớí hào Chín Hai là hào cứng, cho nên lời Chiêm của nó không thể làm việc lớn, mà việc nhỏ còn có cách tốt.",
-    "lời_bàn_của_tiên_nho": null,
+    "content_type": "interpretation",
     "notes": {
       "1": "Chữ 睽（Khuê) nghĩa là trái lìa nhau."
-    }
+    },
+    "lời_kinh": "睽,⼩事吉.",
+    "dịch_âm": "Khuê, tiểu sự cát.",
+    "dịch_nghĩa": "Quẻ Khuê , việc nhỏ tốt.",
+    "truyện_của_Trình_Di": "Quẻ Khuê là thì sai trái lìa tan, chẳng phải đạo tốt. Vì tài quẻ này , tuy ở thì “lìa” mà việc nhỏ thì tốt.",
+    "bản_nghĩa_của_Chu_Hy": "Khuê là trái khác. Là quẻ trên lửa dưới chằm, tính trái khác nhau; con gái giữa, con gái út, chí không cùng về với nhau, cho nên là lìa. Nhưng lấy đức quẻ mà nói, thì trong đẹp lòng mà ngoài sáng sủa; lấy sự biến đổi của quẻ mà nói, thì: ở quẻ Ly lại, là hào mềm tiến lên ở ngôi Ba; ở quẻ Trung phu lại, là hào mềm tiến lên ở ngôi Năm, ở quẻ Gia nhân lại, thì gồm cả hai kiểu đó; lấy thể quẻ mà nói, thì, hào Sáu Năm được chỗ giữa mà phía dưới ứng vớí hào Chín Hai là hào cứng, cho nên lời Chiêm của nó không thể làm việc lớn, mà việc nhỏ còn có cách tốt.",
+    "lời_bàn_của_tiên_nho": null
   },
   {
     "chunk_id": "QUE_KHUE_003",
     "hexagram": "QUE_KHUE",
     "que": null,
-    "lời_kinh": "彖⽈:睽,⽕動⽽上,澤動⽽下,⼆⼥同居,其志不同⾏.",
-    "dịch_âm": "Thoán viết; Khuê, hỏa động nhi thượng, trạch động nhi hạ, nhị nữ đồng cư, kỳ chí bất đồng hành.",
-    "dịch_nghĩa": "Lời Thoán nói rằng: Quẻ Khuê , lửa động mà lên, chằm động mà xuống, hai gái cùng ở, mà chí họ không cùng đi. GIẢI NGHĨA",
-    "truyện_của_Trình_Di": null,
-    "bản_nghĩa_của_Chu_Hy": "Đây lấy tượng quẻ thích nghĩa tên quẻ.",
-    "lời_bàn_của_tiên_nho": null,
+    "content_type": "interpretation",
     "notes": {
       "1": "Chữ 睽（Khuê) nghĩa là trái lìa nhau."
-    }
+    },
+    "lời_kinh": "彖⽈:睽,⽕動⽽上,澤動⽽下,⼆⼥同居,其志不同⾏.",
+    "dịch_âm": "Thoán viết; Khuê, hỏa động nhi thượng, trạch động nhi hạ, nhị nữ đồng cư, kỳ chí bất đồng hành.",
+    "dịch_nghĩa": "Lời Thoán nói rằng: Quẻ Khuê , lửa động mà lên, chằm động mà xuống, hai gái cùng ở, mà chí họ không cùng đi.",
+    "truyện_của_Trình_Di": "Lời Thoán trước thích nghĩa chữ “khuê”, thứ nói tài quẻ, chót nói về cách hợp lại sự lìa tan mà ngợi khen công dụng về thì đại của nó lớn lao. Tính lửa động mà lên, tính chằm động mà xuống, tính của hai vật trái khác hẳn nhau, cho nên là lìa, hai gái giữa út, tuy là cùng ở, mà chí họ không cùng đi, cũng là nghĩa lìa. Con gái, lúc nhỏ còn ở chung, lúc lớn, ai về nhà chồng nấy, thế là chí họ khác nhau. Nói “lìa” là gốc chung nhau, nếu gốc không chung nhau thì không phải là lìa.",
+    "bản_nghĩa_của_Chu_Hy": "Đây lấy tượng quẻ thích nghĩa tên quẻ.",
+    "lời_bàn_của_tiên_nho": null
   },
   {
     "chunk_id": "QUE_KHUE_004",
     "hexagram": "QUE_KHUE",
     "que": null,
-    "lời_kinh": "說⽽！乎明,柔進⽽上⾏,得中應乎剛,是以⼩事吉.",
-    "dịch_âm": "Duyệt nhi lệ hồ minh, nhu tiến nhi thượng hành, đắc trung, nhi ứng hồ cương, thị dĩ tiểu sự cát.",
-    "dịch_nghĩa": "Đẹp lòng mà bám vào sáng, mềm tiến mà đi lên, được giữa mà ứng với cứng, vì vậy việc nhỏ tốt. GIẢI NGHĨA",
-    "truyện_của_Trình_Di": null,
-    "bản_nghĩa_của_Chu_Hy": "Đây lấy đức quẻ, sự biến đổi của quẻ, và thể quẻ mà thích lời quẻ.",
-    "lời_bàn_của_tiên_nho": null,
+    "content_type": "interpretation",
     "notes": {
       "1": "Chữ 睽（Khuê) nghĩa là trái lìa nhau."
-    }
+    },
+    "lời_kinh": "說⽽！乎明,柔進⽽上⾏,得中應乎剛,是以⼩事吉.",
+    "dịch_âm": "Duyệt nhi lệ hồ minh, nhu tiến nhi thượng hành, đắc trung, nhi ứng hồ cương, thị dĩ tiểu sự cát.",
+    "dịch_nghĩa": "Đẹp lòng mà bám vào sáng, mềm tiến mà đi lên, được giữa mà ứng với cứng, vì vậy việc nhỏ tốt.",
+    "truyện_của_Trình_Di": "Tài quẻ như thế, cho nên việc nhỏ tốt. Đoái là đẹp lòng, Ly là bám vào, lại là sáng, cho nên mới là đẹp lòng phụ bám vào chỗ sáng. Hễ quẻ Ly ở trên, lời Thoán muốn cho thấy rõ chất mềm ở ngôi tôn, thì nói “mềm tiến mà đi lên”,tức như quẻ Tấn quẻ Đinh đó. Đương thời trái lìa, hào Sáu Năm lấy chất mềm ở ngôi tôn, có cái hay về sự đẹp lòng thuận bám chỗ sáng, lại được trung đạo mà ứng với kẻ cứng, tuy không thể làm hợp sự lìa của thiên hạ, làm nên việc lớn trong thiên hạ, nhưng cũng có thể làm được việc nhỏ. Thế là việc nhỏ thì tốt. Hào Năm lấy chất sáng mà ứng với kẻ cứng, sao lại không thể đem lại được sự tốt lớn? Đáp rằng: Hào Năm là hạng Âm mềm, tuy có ứng với hào Hai, mà trong thì “lìa” cái cách chung cùng với nhau chưa được sâu bền, cho nên hào Hai ắt phải “gặp chúa ở ngõ”,hào Năm “cắn da”,thì không có lỗi. Trong thiên hạ lìa tan ắt phải vua tôi đều là Dương cương trung chính, thật lòng hiệp sức, thì mới có thể hợp được.",
+    "bản_nghĩa_của_Chu_Hy": "Đây lấy đức quẻ, sự biến đổi của quẻ, và thể quẻ mà thích lời quẻ.",
+    "lời_bàn_của_tiên_nho": null
   },
   {
     "chunk_id": "QUE_KHUE_005",
     "hexagram": "QUE_KHUE",
     "que": null,
-    "lời_kinh": "天地睽⽽其事同也;男⼥睽⽽其志通也 萬物睽⽽其實類也,睽之碑⽤⼤矣 哉.",
-    "dịch_âm": "Thiên địa khuê nhi kỳ sự đồng dã, nam nữ khuê nhi kỳ chí thông dã, vạn vật khuê nhỉ kỳ sự loại dã. Khuê chi thì dụng đại hỹ tai!",
-    "dịch_nghĩa": "Trời đất lìa nhau mà thửa việc cùng nhau, trai gái lìa nhau mà thửa chi thông nhau vậy, muôn vật lìa nhau mà thửa việc giống nhau vậy. Thời dụng của quẻ Khuê lớn vậy thay! GIẢI NGHĨA",
-    "truyện_của_Trình_Di": null,
-    "bản_nghĩa_của_Chu_Hy": "Đây là nói cho cùng cực cái lý của nó, mà người khen thêm.",
-    "lời_bàn_của_tiên_nho": null,
+    "content_type": "interpretation",
     "notes": {
       "1": "Chữ 睽（Khuê) nghĩa là trái lìa nhau."
-    }
+    },
+    "lời_kinh": "天地睽⽽其事同也;男⼥睽⽽其志通也 萬物睽⽽其實類也,睽之碑⽤⼤矣 哉.",
+    "dịch_âm": "Thiên địa khuê nhi kỳ sự đồng dã, nam nữ khuê nhi kỳ chí thông dã, vạn vật khuê nhỉ kỳ sự loại dã. Khuê chi thì dụng đại hỹ tai!",
+    "dịch_nghĩa": "Trời đất lìa nhau mà thửa việc cùng nhau, trai gái lìa nhau mà thửa chi thông nhau vậy, muôn vật lìa nhau mà thửa việc giống nhau vậy. Thời dụng của quẻ Khuê lớn vậy thay!",
+    "truyện_của_Trình_Di": "Suy chỗ đồng nhau của vật lý để tỏ thời dụng của quẻ Khuê , đó là cái đạo thánh nhân làm hợp sự lìa. Thấy đồng nhau là đồng nhau, đó là trí thức của bọn thế tục,thánh nhân thì biết rõ chỗ vốn đồng nhau của vật lý, vì vậy mới có thể thông đồng thiên hạ, hòa hợp muôn loài. Lấy trời đất muôn vật mà nói cho rõ, thì: trời cao đất thấp, thể nó lìa nhau, nhưng Dương xuống Âm lên, hòa hợp nhau mà làm nên việc hóa dục thì vẫn đồng nhau, sinh vật khác nhau muôn vẻ lìa nhau, nhưng được sự hòa hợp của trời đất, bấm thục khí của Âm Dương thì vẫn giống nhau. Vật tuy khác mà lý vốn giống nhau. Cho nên lớn như thiên hạ, nhiều như các sinh vật, lìa tan muôn ngả đấng thánh nhân có thể làm cho đồng nhau. Ở thì quẻ Khuê , hợp sự, dùng của quẻ Khuê , việc đó rất lớn, cho nên nói rằng “lớn vậy thay”.",
+    "bản_nghĩa_của_Chu_Hy": "Đây là nói cho cùng cực cái lý của nó, mà người khen thêm.",
+    "lời_bàn_của_tiên_nho": null
   },
   {
     "chunk_id": "QUE_KHUE_006",
     "hexagram": "QUE_KHUE",
     "que": null,
-    "lời_kinh": "象⽈:上⽕下澤,睽,君⼦以同⽽異.",
-    "dịch_âm": "Tượng viết: Thượng hỏa, hạ trạch, Khuê, quân tử dĩ đồng nhi dị.",
-    "dịch_nghĩa": "Lời Tượng nói rằng: Trên lửa, dưới chằm, là quẻ Khuê . Đấng quân tử coi đó để cùng mà khác. GIẢI NGHĨA",
-    "truyện_của_Trình_Di": null,
-    "bản_nghĩa_của_Chu_Hy": "Hai quẻ hợp thể mà tính không giống nhau.",
-    "lời_bàn_của_tiên_nho": null,
+    "content_type": "interpretation",
     "notes": {
       "1": "Chữ 睽（Khuê) nghĩa là trái lìa nhau."
-    }
+    },
+    "lời_kinh": "象⽈:上⽕下澤,睽,君⼦以同⽽異.",
+    "dịch_âm": "Tượng viết: Thượng hỏa, hạ trạch, Khuê, quân tử dĩ đồng nhi dị.",
+    "dịch_nghĩa": "Lời Tượng nói rằng: Trên lửa, dưới chằm, là quẻ Khuê . Đấng quân tử coi đó để cùng mà khác.",
+    "truyện_của_Trình_Di": "Trên lửa dưới chằm, tính của hai vật trái khác nhau, vì vậy mới là tượng lìa cách. Đấng quân tử coi Tượng lìa khác nhau đó, mà trong chỗ đại đồng, biết cái nên khác nhau. Ôi, thánh hiền ở đời, về sự thường của “lẽ người”, chẳng cái gì mà chẳng đại đồng với thế tục, nhưng chỗ đồng nhau đó, có khi lại riêng khác họ. Nghĩa là về sự “cẩu đạo thường của trời cho” thì đồng nhau, mà về sự lỗi lầm của thế tục thì khác nhau. Không thể đại đồng, tức là kẻ thế tục quen làm xằng, cốt ở đồng nhau mà biết khác nhau thôi.",
+    "bản_nghĩa_của_Chu_Hy": "Hai quẻ hợp thể mà tính không giống nhau.",
+    "lời_bàn_của_tiên_nho": null
   },
   {
     "chunk_id": "QUE_KHUE_007",
     "hexagram": "QUE_KHUE",
     "que": null,
-    "lời_kinh": "初九:晦亡,喪⾺,勿逐,⾃復,⾒惡⼈,無咎.",
-    "dịch_âm": "Sơ cửu: Hối vong: táng mả, vật trục, tự phục, kiến ác nhân, vô cữu.",
-    "dịch_nghĩa": "Hào Chín Đầu: Ăn năn mất, mất ngựa, chớ đuổi theo tự nhiên trở lại, thấy người ác, không lỗi. GIẢI NGHĨA",
-    "truyện_của_Trình_Di": null,
-    "bản_nghĩa_của_Chu_Hy": "Phía trên không chính ứng là có ăn năn, nhưng ở thì lìa, cùng đức ứng nhau, sự ăn năn ấy mất đi, cho nên có Tượng “mất ngựa chớ đuổi mà tự trở lại”. Nhưng cũng ắt thấy người ác, rồi mới có thể tránh lỗi, như Khổng Tử với Dương Hóa vậy.",
-    "lời_bàn_của_tiên_nho": null,
+    "content_type": "interpretation",
     "notes": {
       "1": "Chữ 睽（Khuê) nghĩa là trái lìa nhau."
-    }
+    },
+    "lời_kinh": "初九:晦亡,喪⾺,勿逐,⾃復,⾒惡⼈,無咎.",
+    "dịch_âm": "Sơ cửu: Hối vong: táng mả, vật trục, tự phục, kiến ác nhân, vô cữu.",
+    "dịch_nghĩa": "Hào Chín Đầu: Ăn năn mất, mất ngựa, chớ đuổi theo tự nhiên trở lại, thấy người ác, không lỗi.",
+    "truyện_của_Trình_Di": "Hào Chín ở đầu quẻ, là lúc đầu của cuộc lìa vậy. Ở thì lìa cách, nó lấy chất Dương mà động ở dưới đủ biết là có ăn năn, sở dĩ được mất sự ăn năn đó, là vì có hào Chín Tư ở trên, cũng vì cùng là hào Dương, cùng ở dưới, lại nhằm vào ngôi ứng nhau, hai hào Dương vốn không phải là ứng nhau, vì ở cuộc lìa cho nên hợp nhau, trên dưới cùng nhau, cho nên có thể mất sự ăn năn. Ở quẻ Khuê các hào đều có ứng. Ôi, hợp thì có lìa, vốn đã khác nhau, thì còn lìa gì? Chỉ có hào Đầu và hào Tư tuy không phải là ứng nhau mà cùng đức cùng nhau, cho nên gặp nhau. Ngựa là vật để đi, Dương là vật đi lên, lìa tan trơ trọi, không kẻ cùng với, thì không đi được, thế là mất ngựa, hào Tư đã hợp với nó, thì là đi được, thế là chớ đuổi theo mà ngựa tự nhiên lại được. Người ác là kẻ trái với mình, thấy là gặp nhau. Trong thì lìa, tuy kẻ cùng đúc cùng nhau, nhưng hạng tiểu nhân, trái khác rất nhiều nếu bỏ dứt chúng, chẳng hầu đem hết thiên hạ để thù nhau với đấng quân tử ư? Như thế thì mất cái nghĩa bao dong, rộng rãi, là cách đem sự hung lỗi đến vậy, đâu lại có thể hóa kẻ bất thiện mà khiến nó hợp với mình? Cho nên, ắt thấy người ác thì không có lỗi. Đấng thánh vương đời xưa, sở dĩ hóa được kẻ gian hung làm người lương thiện, đổi được kẻ cừu địch làm tôi dân, là bởi không tuyệt với chúng.",
+    "bản_nghĩa_của_Chu_Hy": "Phía trên không chính ứng là có ăn năn, nhưng ở thì lìa, cùng đức ứng nhau, sự ăn năn ấy mất đi, cho nên có Tượng “mất ngựa chớ đuổi mà tự trở lại”. Nhưng cũng ắt thấy người ác, rồi mới có thể tránh lỗi, như Khổng Tử với Dương Hóa vậy.",
+    "lời_bàn_của_tiên_nho": null
   },
   {
     "chunk_id": "QUE_KHUE_008",
     "hexagram": "QUE_KHUE",
     "que": null,
-    "lời_kinh": "象⽈:⾒惡⼈,以辟咎也.",
-    "dịch_âm": "Tượng viết: Kiến ác nhân, dĩ ty cữu dã.",
-    "dịch_nghĩa": "Lời Tượng nói rằng: Thấy người ác, để tránh lỗi vậy. GIẢI NGHĨA",
-    "truyện_của_Trình_Di": null,
-    "bản_nghĩa_của_Chu_Hy": null,
-    "lời_bàn_của_tiên_nho": null,
+    "content_type": "interpretation",
     "notes": {
       "1": "Chữ 睽（Khuê) nghĩa là trái lìa nhau."
-    }
+    },
+    "lời_kinh": "象⽈:⾒惡⼈,以辟咎也.",
+    "dịch_âm": "Tượng viết: Kiến ác nhân, dĩ ty cữu dã.",
+    "dịch_nghĩa": "Lời Tượng nói rằng: Thấy người ác, để tránh lỗi vậy.",
+    "truyện_của_Trình_Di": "Trong khí lìa cách, tình người trái nhau, cầu hòa hợp lại còn không thể được. Nếu lấy cớ là người ác mà cự tuyệt đi, thì sẽ làm cho nhiều người thù hằn đấng quân tử mà vạ lỗi đến vậy. Cho nên, ắt phải thấy họ, để tránh khỏi sự oán trách. Hễ không cò sự oán trách, thì là có cách hợp được.",
+    "bản_nghĩa_của_Chu_Hy": null,
+    "lời_bàn_của_tiên_nho": null
   },
   {
     "chunk_id": "QUE_KHUE_009",
     "hexagram": "QUE_KHUE",
     "que": null,
-    "lời_kinh": "九⼆:遇主于巷,無咎.",
-    "dịch_âm": "Cửu Nhị: Ngộ chủ vu hạng, vô cữu.",
-    "dịch_nghĩa": "Hào Chín Hai: Gặp chúa ở ngõ, không lỗi. GIẢI NGHĨA",
-    "truyện_của_Trình_Di": null,
-    "bản_nghĩa_của_Chu_Hy": "Hào Hai hào Năm, Âm Dương chính ứng với nhau, nhưng ở thì lìa, sai trái không hợp nhau, ắt phải ủy khúc tìm cho được hội ngộ, mới là không lỗi, cho nên Tượng và Chiêm của nó như thế.",
-    "lời_bàn_của_tiên_nho": null,
+    "content_type": "interpretation",
     "notes": {
       "1": "Chữ 睽（Khuê) nghĩa là trái lìa nhau."
-    }
+    },
+    "lời_kinh": "九⼆:遇主于巷,無咎.",
+    "dịch_âm": "Cửu Nhị: Ngộ chủ vu hạng, vô cữu.",
+    "dịch_nghĩa": "Hào Chín Hai: Gặp chúa ở ngõ, không lỗi.",
+    "truyện_của_Trình_Di": "Hào Hai với hào Năm chính ứng với nhau, ấy là cùng nhau, Nhưng ở trong thì lìa trái, cái đạo “Âm Dương ứng nhau” đã suy, mà ý “cứng mềm trái nhau” Dương thắng - Kẻ học Kinh Dịch nên ghi chỗ đó, thì biết sự biến thông - cho nên hào Hai hào Năm tuy là chính ứng, cũng phải ủy khúc để tìm nhau. Hào Hai lấy đức cứng giữa ở dưới, phía trên ứng nhau với ông vua Sáu Năm, đạo hợp nhau thì chí thực hiện, có thể làm nên công việc vượt qua cuộc lìa. Mà ở thì lìa cách, sự giao kết không phải bền chặt, hào Hai nên ủy khúc cần cho gặp nhau, mong cho được họp, cho nên nói rằng “gặp chúa ở ngõ”. Ắt phải hợp nhau mới không có lỗi, vua tôi lìa cách thì lỗi lớn lắm. Ngõ là cái đường ủy khúc (cong queo), gặp là hội họp, nên ủy khúc tìm nhau, hẹn được hội ngộ để hợp với nhau. Gọi là ủy khúc, nghĩa là dùng cách khéo léo, uyển chuyển đưa tới, khiến cho hợp nhau mà thôi, không phải uấn minh hay uấn đạo đâu.",
+    "bản_nghĩa_của_Chu_Hy": "Hào Hai hào Năm, Âm Dương chính ứng với nhau, nhưng ở thì lìa, sai trái không hợp nhau, ắt phải ủy khúc tìm cho được hội ngộ, mới là không lỗi, cho nên Tượng và Chiêm của nó như thế.",
+    "lời_bàn_của_tiên_nho": null
   },
   {
     "chunk_id": "QUE_KHUE_010",
     "hexagram": "QUE_KHUE",
     "que": null,
-    "lời_kinh": "象⽈:遇主于巷,未失道也ằ",
-    "dịch_âm": "Tượng viết: Ngộ chủ vu hạng, vị thất đạo dã.",
-    "dịch_nghĩa": "Lời Tượng nói rằng: Gặp chúa ở ngõ, chưa mất đạo vậy. GIẢI NGHĨA",
-    "truyện_của_Trình_Di": null,
-    "bản_nghĩa_của_Chu_Hy": null,
-    "lời_bàn_của_tiên_nho": null,
+    "content_type": "interpretation",
     "notes": {
       "1": "Chữ 睽（Khuê) nghĩa là trái lìa nhau."
-    }
+    },
+    "lời_kinh": "象⽈:遇主于巷,未失道也ằ",
+    "dịch_âm": "Tượng viết: Ngộ chủ vu hạng, vị thất đạo dã.",
+    "dịch_nghĩa": "Lời Tượng nói rằng: Gặp chúa ở ngõ, chưa mất đạo vậy.",
+    "truyện_của_Trình_Di": "Trong thì lìa lòng vua chưa hợp, bề tôi ở dưới hết sức, hết lòng thành, hẹn phải khiến họ tin mình hợp mình mà mình thì chí thành để cảm động họ, tận lực để giúp họ, tỏ rõ nghĩa lý để mở mang sự biết của họ, lấp hết điều mê hoặc, để làm cho tâm ý họ thành thực, như thế tức là uyển chuyển để cầu cho hợp nhau. Gặp không phải là uấn đạo đưa đón, ngõ, không phải là lốì đi cong lệch, cho nên, đức Phu Tử phải nói rõ rằng “gặp chúa ở ngõ chưa mất đạo vậy”. Chưa không phải là ắt, không phải bảo rằng “ắt phải mất đạo”.",
+    "bản_nghĩa_của_Chu_Hy": null,
+    "lời_bàn_của_tiên_nho": null
   },
   {
     "chunk_id": "QUE_KHUE_011",
     "hexagram": "QUE_KHUE",
     "que": null,
-    "lời_kinh": "六三:⾒與曳,其⽜掣,其⼈,天且剕,無初有終.",
-    "dịch_âm": "Lục Tam: Kiến dư duệ, kỳ ngưu xiết, kỳ nhân, thiên thả ty, vô sơ hữu chung.",
-    "dịch_nghĩa": "Hào Sáu Ba: Thấy xe kéo, thửa trâu kìm, thửa người gọt đầu và xẻo mũi. Không đầu, có chót. GIẢI NGHĨA",
-    "truyện_của_Trình_Di": null,
-    "bản_nghĩa_của_Chu_Hy": "Sáu Ba với hào Chín Trên là chính ứng với nhau, mà hào Ba ở giữa hai hào Dương phía sau bị hào Hai kéo, phía trước bị hào Tư chắn, và trong thì lìa, hào Chín Trên ngờ vực đương sâu, cho nên có sự đau gọt đầu xẻo mủi. Nhưng, tà không thắng chính, sau rồi ắt được hợp nhau, cho nên Tượng, Chiêm của nó như thế.",
-    "lời_bàn_của_tiên_nho": null,
+    "content_type": "interpretation",
     "notes": {
       "1": "Chữ 睽（Khuê) nghĩa là trái lìa nhau."
-    }
+    },
+    "lời_kinh": "六三:⾒與曳,其⽜掣,其⼈,天且剕,無初有終.",
+    "dịch_âm": "Lục Tam: Kiến dư duệ, kỳ ngưu xiết, kỳ nhân, thiên thả ty, vô sơ hữu chung.",
+    "dịch_nghĩa": "Hào Sáu Ba: Thấy xe kéo, thửa trâu kìm, thửa người gọt đầu và xẻo mũi. Không đầu, có chót.",
+    "truyện_của_Trình_Di": "Kẻ Âm mềm trong bình thì còn không đủ sức tự lập, huống chi giữa lúc lìa tan. Hào Ba ở vào khoảng giữa hai hào cứng, đó là ở không được chỗ yên ổn, sự bị lấn áp có thể biết chắc. Hào Ba vì chính ứng ở trên, muốn tiến lên để hợp chỉ với hào Trên, mà hào Tư ngăn ở đằng trước, hào Hai lôi ở đằng sau, xe trâu là đồ để đi, xe kéo tức là lôi ở đằng sau, trâu kìm tức ngăn ở đằng trước. Ở đằng sau thì chỉ có co kéo mà thôi, chắn, đằng trước là cái mà kẻ tiến lên phải cố xông vào, cho nên hai lần bị đau ở trên, nó bị hào Tư làm đau vậy. Thiên là gọt đầu, ty là xẻo mũi, hào Ba đi theo chính ứng mà bị hào Tư ngăn cản, hào Ba tuy là Âm mềm, nhưng ở chỗ ứng mà chí định đi, cho nên nó cố tiến lên để xông vào, vì vậy mới bị đau. Gọt đầu lại xẻo mủi, có ý nói hai lần bị thương. Hào Ba không hợp với hào Hai và hào Tư, trong thì lìa không có nghĩa hợp đó là thích hợp với đạo ở chỗ cứng, giữ đường chính vậy. Nó với kẻ chính ứng, thì lìa đến cùng tột, có lẽ lại hợp, lúc trước bị hai hào Dương làm ánh, ấy là không đầu, lúc sau ắt được hợp nhau, ấy là có chót.",
+    "bản_nghĩa_của_Chu_Hy": "Sáu Ba với hào Chín Trên là chính ứng với nhau, mà hào Ba ở giữa hai hào Dương phía sau bị hào Hai kéo, phía trước bị hào Tư chắn, và trong thì lìa, hào Chín Trên ngờ vực đương sâu, cho nên có sự đau gọt đầu xẻo mủi. Nhưng, tà không thắng chính, sau rồi ắt được hợp nhau, cho nên Tượng, Chiêm của nó như thế.",
+    "lời_bàn_của_tiên_nho": null
   },
   {
     "chunk_id": "QUE_KHUE_012",
     "hexagram": "QUE_KHUE",
     "que": null,
-    "lời_kinh": "象⽈:⾒與曳,位不當也;無初有終,遇剛也.",
-    "dịch_âm": "Tượng viết: Kiến dư duệ, vị bất đáng dã, Vô sơ hữu chung, ngộ cương dã.",
-    "dịch_nghĩa": "Lời Tượng nói rằng: Thấy xe kéo, ngồi chẳng đáng vậy, không đầu có chót, gặp cứng vậy. GIẢI NGHĨA",
-    "truyện_của_Trình_Di": null,
-    "bản_nghĩa_của_Chu_Hy": null,
-    "lời_bàn_của_tiên_nho": null,
+    "content_type": "interpretation",
     "notes": {
       "1": "Chữ 睽（Khuê) nghĩa là trái lìa nhau."
-    }
+    },
+    "lời_kinh": "象⽈:⾒與曳,位不當也;無初有終,遇剛也.",
+    "dịch_âm": "Tượng viết: Kiến dư duệ, vị bất đáng dã, Vô sơ hữu chung, ngộ cương dã.",
+    "dịch_nghĩa": "Lời Tượng nói rằng: Thấy xe kéo, ngồi chẳng đáng vậy, không đầu có chót, gặp cứng vậy.",
+    "truyện_của_Trình_Di": "Là Hào Sáu, ở ngôi Ba, không phải chỗ chính. Không chính thì không yên, lại ở giữa hai hào Âm, cho nên có sư gian ác như thế, vì ngôi không đáng vậy. Không đầu có chót, nghĩa là sau ắt gặp hào Chín Trên mà hợp với nhau, ấy là gập cứng. Dùng kiểm bất chính mà hợp nhau, chưa có chỗ nào lâu mà không lìa, hợp nhau bằng chính đạo, tự nhiên không có lẽ nào mà sau lìa nhau, cho nên người hiền thuận lý mà làm việc bằng cách yên phận, người khôn thì biết cơ mà giữ cho bền.",
+    "bản_nghĩa_của_Chu_Hy": null,
+    "lời_bàn_của_tiên_nho": null
   },
   {
     "chunk_id": "QUE_KHUE_013",
     "hexagram": "QUE_KHUE",
     "que": null,
-    "lời_kinh": "九四:睽孤,遇元夫,交孚,厲,無咎.",
-    "dịch_âm": "Cửu Tứ: Khuê cô, ngộ nguyên phu, giao phu, lệ, vôcữu.",
-    "dịch_nghĩa": "Hào Chín Tư: Lìa côi, gặp chàng lành, tin lẫn, nguy, không lỗi. GIẢI NGHĨA",
-    "truyện_của_Trình_Di": null,
-    "bản_nghĩa_của_Chu_Hy": "Lìa côi là không có kẻ ứng với, gặp chàng lành là được hào Chín Đầu, tin lẫn là cùng đức tin. Nhưng vì gặp thời lìa, cho nên ắt phải nguy dữ, mới được không lỗi.",
-    "lời_bàn_của_tiên_nho": null,
+    "content_type": "interpretation",
     "notes": {
       "1": "Chữ 睽（Khuê) nghĩa là trái lìa nhau."
-    }
+    },
+    "lời_kinh": "九四:睽孤,遇元夫,交孚,厲,無咎.",
+    "dịch_âm": "Cửu Tứ: Khuê cô, ngộ nguyên phu, giao phu, lệ, vôcữu.",
+    "dịch_nghĩa": "Hào Chín Tư: Lìa côi, gặp chàng lành, tin lẫn, nguy, không lỗi.",
+    "truyện_của_Trình_Di": "Hào Chín Tư dương thì lìa, ở không phải chỗ yên ổn, không có kẻ ứng với, mà lại xen, vào giữa hai hào Âm, ấy là kẻ lìa cách, côi cút, lấy đức Dương cứng, đương thời lìa cách, đứng côi cút không kẻ cùng với, ắt phải theo khí loại tìm nhau để hợp với nhau, vì vậy mới gặp chàng lành. Chàng là tên về Dương lành là lương thiện, hào Chín Đầu ở đầu cuộc lìa, có thể cùng đức với nó mà làm mất điều ăn năn của sự lìa, ấy là kẻ xử thời lìa rất khéo cho nên kể là chàng lành, cũng như nói thiện sỹ vậy. Hào Tư thì quá chỗ giữa, là lìa đã tệ, không được hay như hào Đầu. Hào Tư với hào Đầu đều lấy chất Dương ở dưới một quẻ, đứng vào ngôi ứng nhau, đương thời lìa trái, đều không có kẻ ứng viên, tự nhiên cùng đức phải thân nhau, nên mới gặp gỡ. Cùng đức gặp nhau, ắt phải đem lòng chí thành mà ở với nhau, tin lẫn nghĩa là ai nấy đều có thành tín vậy, Hai hào Dương ở trên và dưới lấy lòng chí thành hợp nhau, thì nào mà không đi được? Việc nguy nào mà không vượt được? Cho nên dù ở chỗ nguy dữ mà không có lỗi. Đương thời lìa, ở trơ trọi giữa hai hào Âm tức là ở không đáng ngôi, nguy và có lỗi vì gặp chàng lành mà tin nhau, cho nên không lỗi.",
+    "bản_nghĩa_của_Chu_Hy": "Lìa côi là không có kẻ ứng với, gặp chàng lành là được hào Chín Đầu, tin lẫn là cùng đức tin. Nhưng vì gặp thời lìa, cho nên ắt phải nguy dữ, mới được không lỗi.",
+    "lời_bàn_của_tiên_nho": null
   },
   {
     "chunk_id": "QUE_KHUE_014",
     "hexagram": "QUE_KHUE",
     "que": null,
-    "lời_kinh": "象⽈:交孚無咎,志⾏也.",
-    "dịch_âm": "Tượng viết: Giao phu vô cữu, chí hành dã.",
-    "dịch_nghĩa": "Lời Tượng nói rằng: Tin lẫn, không lỗi, chí được thực hành vậy. GIẢI NGHĨA",
-    "truyện_của_Trình_Di": null,
-    "bản_nghĩa_của_Chu_Hy": null,
-    "lời_bàn_của_tiên_nho": null,
+    "content_type": "interpretation",
     "notes": {
       "1": "Chữ 睽（Khuê) nghĩa là trái lìa nhau."
-    }
+    },
+    "lời_kinh": "象⽈:交孚無咎,志⾏也.",
+    "dịch_âm": "Tượng viết: Giao phu vô cữu, chí hành dã.",
+    "dịch_nghĩa": "Lời Tượng nói rằng: Tin lẫn, không lỗi, chí được thực hành vậy.",
+    "truyện_của_Trình_Di": "Hào Đầu hào Tư đều là bậc quân tử Dương cương, gặp thời lìa cách, kẻ trên người dưới lấy lòng chí thành giao kết nhau, hiệp chí chung sức với nhau, thì chí của nó có thể được thực hành, chẳng những không lỗi mà thôi.",
+    "bản_nghĩa_của_Chu_Hy": null,
+    "lời_bàn_của_tiên_nho": null
   },
   {
     "chunk_id": "QUE_KHUE_015",
     "hexagram": "QUE_KHUE",
     "que": null,
-    "lời_kinh": "六五:晦亡,厥宗噬冬往何咎？",
-    "dịch_âm": "Lục Ngũ: Hối vong, quyết tôngphệ phu, vãng, hà cữu?",
-    "dịch_nghĩa": "Ăn năn mất, thửa họ cắn da, đi, lỗi gì? GIẢI NGHĨA",
-    "truyện_của_Trình_Di": null,
-    "bản_nghĩa_của_Chu_Hy": "Lấy chất Âm ở ngôi Dương là ăn năm. Bởi ở giữa mà được kẻ ứng, cho nên mới mất ăn năn. Thửa họ chỉ hào Chín Hai, cắn da ý nói dễ hợp, hào Sáu Năm có đức mềm giữa, cho nên Tượng, Chiêm như thế.",
-    "lời_bàn_của_tiên_nho": null,
+    "content_type": "interpretation",
     "notes": {
       "1": "Chữ 睽（Khuê) nghĩa là trái lìa nhau."
-    }
+    },
+    "lời_kinh": "六五:晦亡,厥宗噬冬往何咎？",
+    "dịch_âm": "Lục Ngũ: Hối vong, quyết tôngphệ phu, vãng, hà cữu?",
+    "dịch_nghĩa": "Ăn năn mất, thửa họ cắn da, đi, lỗi gì?",
+    "truyện_của_Trình_Di": "Hào Sáu lấy chất Âm mềm, đường thời lìa cách, mà ở ngôi tôn, đủ biết là có ăn năn. Nhưng mà ở dưới có hào Chín Hai là người hiền Dương cương, ứng nhau với nó, giúp đỡ cho nó, cho nên được “ăn năn mất”. Thửa họ là đảng nó, chỉ về hào Chín Hai chính ứng với nó. Cắn da nghĩa là cắn gặm da thịt nó mà vào sâu vậy, trong thì lìa, nếu không vào sâu thì há có thể hợp nhau? Hào Năm tuy là Âm nhu, hào Hai giúp nó bằng đạo Dương cương mà vào được sâu thì có thể đi mà có phúc, lại còn tội lỗi gì nữa?",
+    "bản_nghĩa_của_Chu_Hy": "Lấy chất Âm ở ngôi Dương là ăn năm. Bởi ở giữa mà được kẻ ứng, cho nên mới mất ăn năn. Thửa họ chỉ hào Chín Hai, cắn da ý nói dễ hợp, hào Sáu Năm có đức mềm giữa, cho nên Tượng, Chiêm như thế.",
+    "lời_bàn_của_tiên_nho": null
   },
   {
     "chunk_id": "QUE_KHUE_016",
     "hexagram": "QUE_KHUE",
     "que": null,
-    "lời_kinh": "象⽈:厥宗噬膚,往有慶也.",
-    "dịch_âm": "Tượng viết: Quyết tông phệ phu, vảng hữu khánh dã.",
-    "dịch_nghĩa": "Lời Tượng nói rằng: Thửa họ cắn da, đi có phúc vậy. GIẢI NGHĨA",
-    "truyện_của_Trình_Di": null,
-    "bản_nghĩa_của_Chu_Hy": null,
-    "lời_bàn_của_tiên_nho": null,
+    "content_type": "interpretation",
     "notes": {
       "1": "Chữ 睽（Khuê) nghĩa là trái lìa nhau."
-    }
+    },
+    "lời_kinh": "象⽈:厥宗噬膚,往有慶也.",
+    "dịch_âm": "Tượng viết: Quyết tông phệ phu, vảng hữu khánh dã.",
+    "dịch_nghĩa": "Lời Tượng nói rằng: Thửa họ cắn da, đi có phúc vậy.",
+    "truyện_của_Trình_Di": "Lời hào chỉ nói: Thửa họ cắn da, thì có thể đi mà không lỗi. Lời Tượng suy rõ nghĩa đó mà rằng: Kẻ làm vua tuy là tài mình không đủ, nếu biết tin dùng bậc hiền phụ, để họ đem đạo của họ vào sâu với mình, thì có thể làm việc, ấy là đi mà có phúc khánh.",
+    "bản_nghĩa_của_Chu_Hy": null,
+    "lời_bàn_của_tiên_nho": null
   },
   {
     "chunk_id": "QUE_KHUE_017",
     "hexagram": "QUE_KHUE",
     "que": null,
-    "lời_kinh": "上九. 睽孤.⾒⾗負涂.載⿁⼀⾞.先張之弧.后說之弧.匪寇婚 媾.往遇⾬則 吉.",
-    "dịch_âm": "Thượng Cửu: Khuê cố kiến thỉ phụ đồ, tái quỉ nhất xa, tiên trương chi hồ, hậu thoát chi hồ, phỉ khấu, hôn cấu! Văng, ngộ vũ tắc cát.",
-    "dịch_nghĩa": "Hào Chín Trên: Lìa cô thấy lợn đội bùn, chở ma một xe, trước giương chưng cung, sau tháo chưng cung, chẳng phải giặc, dâu gia, đi, gặp mưa thì tốt. GIẢI NGHĨA",
-    "truyện_của_Trình_Di": null,
-    "bản_nghĩa_của_Chu_Hy": "Lìa côi là nói hào Sáu Ba bị hai hào Dương kiềm chế, mà hào này lấy chất cứng, ở chỗ sáng, một nơi cùng cực lìa tan, lại tự ngờ vực mà sai trái nhau. Thấy lợn đội bùn thì thây nó bẩn, chở ma một xe là lấy không làm có, giương cung là muốn bắn nó, tháo cung là sự ngờ vực đã hơi tan, chẳng phải giặc dâu gia là biết nó không phải là giặc, thật là người thân tỉnh, đi, gặp mưa thì tốt là sự ngờ tan hết mà sự lìa đã hợp. Hào Chín Trên với hào Sáu Ba trước lìa nhau, sau hợp nhau, cho nên Tượng, Chiêm của nó như thế.",
-    "lời_bàn_của_tiên_nho": null,
+    "content_type": "interpretation",
     "notes": {
       "1": "Chữ 睽（Khuê) nghĩa là trái lìa nhau."
-    }
+    },
+    "lời_kinh": "上九. 睽孤.⾒⾗負涂.載⿁⼀⾞.先張之弧.后說之弧.匪寇婚 媾.往遇⾬則 吉.",
+    "dịch_âm": "Thượng Cửu: Khuê cố kiến thỉ phụ đồ, tái quỉ nhất xa, tiên trương chi hồ, hậu thoát chi hồ, phỉ khấu, hôn cấu! Văng, ngộ vũ tắc cát.",
+    "dịch_nghĩa": "Hào Chín Trên: Lìa cô thấy lợn đội bùn, chở ma một xe, trước giương chưng cung, sau tháo chưng cung, chẳng phải giặc, dâu gia, đi, gặp mưa thì tốt.",
+    "truyện_của_Trình_Di": "Hào Trên ở chót quẻ, là lìa tột bậc, Dương cứng ở trên là cứng tột bậc, ở thể Ly, là dùng sự sáng tột bậc, lìa đến cùng cực thì trái lỗi khó hợp, cứng đến cùng cực thì táo bạo mà không tường, sáng đến cùng cực thì quá xét nét mà hay ngờ vực, hào Chín Trên có hào Sáu Ba chính ứng, thật không trơ trọi, mà vì tài tình của nó như thế, tự nhiên thành ra lìa côi cút, cứng như người ta tuy có họ hàng bè đảng, mà phần nhiều hay tự mình ngờ vực, sinh ra trái lìa, tuy là ở chỗ cốt nhục thân đảng, mà thường vẫn cô độc. Hào Trên với hào Ba tuy là chính ứng nhưng ở chỗ lìa đến cùng cực, không cái gì mà không nghi ngờ, nó thấy hào Ba, như thấy con lợn bẩn thỉu mà loại cõng đội bùn lầm, đáng ghét thái thậm, đã ghét quá thì phải đồ non đồ già cho thành tội ác, như chở ma đầy một xe vậy, ma vốn là vật vô hình, mà thấy nó chở một xe, ý nói lấy không làm có, vu vơ đến cực điểm vậy. Vật lý cùng cực thì phải trở lại. Vì đã cùng cực thì phải động mà trở lại, hào Trên đã lìa trái đến cùng cực, mà chỗ hào Ba ở lại là chính lý, đại phạm đến lỗi đạo đến cực điểm, thì phải quay về chính lý, cho nên hào Trên với hào Ba, lúc đầu thì ngờ, mà sau thì hợp, “trước gương chưng cung” là lúc đầu ngờ ghét mà muốn bắn nó, ngờ nó là càn, sự càn không thể lâu mãi, cho nên, sau chót ắt phải trở lại chính đạo, hào Ba thật không ác cho nên, sau mới tháo cung mà không bắn. Lìa đến cùng cực mà phải quay lại, cho nên nó với hào Ba, không phải giặc cướp, là dâu gia đó. Câu “Chẳng phải giặc dâu gia” này cũng như quẻ khác , mà nghĩa thì không giống nhau. Âm Dương giao nhau mà đã hòa khắp thì thành mưa, hào Trên với hào Ba lúc đầu ngờ nhau mà lìa, lìa đến cùng cực thì lại không ngờ nhau mà hợp nhau, Âm Dương hợp nhau thì lại càng hòa mà làm ra mưa, cho nên nói rằng “đi, gặp mưa thì tốt”. Đi là từ đây mà đi, ý nói đã hợp nhau mà càng hòa thì tốt.",
+    "bản_nghĩa_của_Chu_Hy": "Lìa côi là nói hào Sáu Ba bị hai hào Dương kiềm chế, mà hào này lấy chất cứng, ở chỗ sáng, một nơi cùng cực lìa tan, lại tự ngờ vực mà sai trái nhau. Thấy lợn đội bùn thì thây nó bẩn, chở ma một xe là lấy không làm có, giương cung là muốn bắn nó, tháo cung là sự ngờ vực đã hơi tan, chẳng phải giặc dâu gia là biết nó không phải là giặc, thật là người thân tỉnh, đi, gặp mưa thì tốt là sự ngờ tan hết mà sự lìa đã hợp. Hào Chín Trên với hào Sáu Ba trước lìa nhau, sau hợp nhau, cho nên Tượng, Chiêm của nó như thế.",
+    "lời_bàn_của_tiên_nho": null
   },
   {
     "chunk_id": "QUE_KHUE_018",
     "hexagram": "QUE_KHUE",
     "que": null,
-    "lời_kinh": "象⽈:遇于之吉,群疑亡也.",
-    "dịch_âm": "Tượng viết: Ngô vũ chỉ cát, quần nghi vong dã.",
-    "dịch_nghĩa": "Lời Tượng nói rằng: Gặp mưa mà tốt, các điều ngờ mất vậy. GIẢI NGHĨA Truyện của Trinh Di. - Mưa là Âm Dương hòa nhau; trước lìa nhau mà sau hòa được với nhau, cho nên mới tốt. Sở dĩ được là vì sự ngờ vực đã mất hết rồi. Không cái gì không ngờ, cho nên là các sự ngờ. Lìa đến cùng cực mà hợp với nhau, thì nó đều mất. Chú thích: [1] Chữ 睽（Khuê) nghĩa là trái lìa nhau.",
-    "truyện_của_Trình_Di": null,
-    "bản_nghĩa_của_Chu_Hy": null,
-    "lời_bàn_của_tiên_nho": null,
+    "content_type": "interpretation",
     "notes": {
       "1": "Chữ 睽（Khuê) nghĩa là trái lìa nhau."
-    }
+    },
+    "lời_kinh": "象⽈:遇于之吉,群疑亡也.",
+    "dịch_âm": "Tượng viết: Ngô vũ chỉ cát, quần nghi vong dã.",
+    "dịch_nghĩa": "Lời Tượng nói rằng: Gặp mưa mà tốt, các điều ngờ mất vậy.",
+    "truyện_của_Trình_Di": null,
+    "bản_nghĩa_của_Chu_Hy": null,
+    "lời_bàn_của_tiên_nho": null
   }
 ]

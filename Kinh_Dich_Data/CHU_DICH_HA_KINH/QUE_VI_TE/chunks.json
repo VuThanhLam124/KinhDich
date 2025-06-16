@@ -3,6 +3,7 @@
     "chunk_id": "QUE_VI_TE_001",
     "hexagram": "QUE_VI_TE",
     "que": null,
+    "content_type": "preface",
     "lời_kinh": null,
     "dịch_âm": null,
     "dịch_nghĩa": null,
@@ -10,203 +11,217 @@
     "bản_nghĩa_của_Chu_Hy": null,
     "lời_bàn_của_tiên_nho": null,
     "notes": {
-      "1": "未濟 (Vị tế) nghĩa là chưa sang hay xong."
+      "1": "未濟 (Vị tế) nghĩa là chưa sang hay xong. Nếu bạn có khả năng hãy mua sách gốc để ủng hộ tác giả, người dịch và Nhà Xuất Bản"
     }
   },
   {
     "chunk_id": "QUE_VI_TE_002",
     "hexagram": "QUE_VI_TE",
     "que": null,
+    "content_type": "interpretation",
+    "notes": {
+      "1": "未濟 (Vị tế) nghĩa là chưa sang hay xong. Nếu bạn có khả năng hãy mua sách gốc để ủng hộ tác giả, người dịch và Nhà Xuất Bản"
+    },
     "lời_kinh": "未濟.亨.⼩狐汔濟.濡其尾.無攸利.",
     "dịch_âm": "Vị tế hanh, tiểu hồ hất tế, nhu kỳ vĩ, vô du lợi.",
-    "dịch_nghĩa": "Quẻ vị tế hanh, con cáo nhỏ hầu sang, ướt thửa đuôi, không thửa lợi. GIẢI NGHĨA",
-    "truyện_của_Trình_Di": null,
+    "dịch_nghĩa": "Quẻ vị tế hanh, con cáo nhỏ hầu sang, ướt thửa đuôi, không thửa lợi.",
+    "truyện_của_Trình_Di": "Thì chưa sang, có lẽ hanh thông, mà tài quẻ lại có cah theo đến sự hanh thông, chỉ cố xử cho cẩn thận. Con cáo là vật thể lội nước, ướt đuôi thì không sang được. Cáo già hay ngờ sợ, cho nên xéo nước thì còn nghe ngóng, sợ rằng hãm; cáo nhỏ chửa biết sợ hãi cẩn thận, cho nên mạnh bạo mà sang. Chữ 汔 nên đổi thành chữ 仡 Kinh Thư nói仡仡勇夫 (ngật ngật dũng phu – hăng hái kẻ mạnh), con cáo nhỏ quả quyết về sự sang, thì ướt thửa đuôi mà không sang được. Trong thì chưa sang, cái đạo cầu sang, nên rất cẩn thận thì có thể hanh thông. Nếu quả quyết như con cáo nhỏ, thì không sang được. Đã khong sang được thì không còn lại cái gì.",
     "bản_nghĩa_của_Chu_Hy": "Quẻ Vị tế là lúc việc chưa thành. Nước lửa chẳng giao nhau, chẳng làm sự dùng cho nhau sau hào trong quẻ đều mất ngôi, cho nên chưa sang, 汔(hất) nghĩa là hầu, hầu sang mà ướt đuôi là còn chưa sang. Kẻ xem như thế, thì còn lợi gì?",
-    "lời_bàn_của_tiên_nho": null,
-    "notes": {
-      "1": "未濟 (Vị tế) nghĩa là chưa sang hay xong."
-    }
+    "lời_bàn_của_tiên_nho": null
   },
   {
     "chunk_id": "QUE_VI_TE_003",
     "hexagram": "QUE_VI_TE",
     "que": null,
+    "content_type": "interpretation",
+    "notes": {
+      "1": "未濟 (Vị tế) nghĩa là chưa sang hay xong. Nếu bạn có khả năng hãy mua sách gốc để ủng hộ tác giả, người dịch và Nhà Xuất Bản"
+    },
     "lời_kinh": "彖⽈.未濟.亨.柔得中也.⼩狐汔濟.未出中也.濡其尾.無攸利.不續終也.雖 不當位.剛柔應也.",
     "dịch_âm": "Tượng viết: Vị tế hanh, nhu đắc trung dã; tiểu hồ hất tế, vị xuất trung dã; nhu kỳ vĩ, vô sơ lợi, bất dục chung dã; tuy bất đang vị, cương nhu ứng dã.",
-    "dịch_nghĩa": "Lời thoán nói rằng: Quẻ Vị tế hanh, mềm được giữa vậy; cáo nhỏ hầu sang, chưa ra trong vậy; ướt thửa đuôi, không thửa lợi, chẳng nối chót vậy; tuy chẳng đang ngôi, cứng mềm ứng nhau vậy. GIẢI NGHĨA",
-    "truyện_của_Trình_Di": null,
+    "dịch_nghĩa": "Lời thoán nói rằng: Quẻ Vị tế hanh, mềm được giữa vậy; cáo nhỏ hầu sang, chưa ra trong vậy; ướt thửa đuôi, không thửa lợi, chẳng nối chót vậy; tuy chẳng đang ngôi, cứng mềm ứng nhau vậy.",
+    "truyện_của_Trình_Di": "Lấy Tài quẻ mà nói, sở dĩ hanh được, là vì chất mềm được ngôi giữa. Hào Năm lấy chất mềm ở ngôi tôn, ở chỗ cứng mà ứng với hào cứng là được mực giữa của đạo mềm. Cứng mềm được vừa phải, thì ở chưa sang cos theer hanh thoong. Theo hào Hai mà nói, hào Hai lấy chất Dương cứng ở chõ hiểm, là kẻ sắp sang, phía trên lại ứng với hào Năm, chỗ hiểm không phải nơi có thể yên, hào Năm có lẽ nên thao, cho nên nó mới quả quyết về sự sang, như con cáo nhỏ vậy. Đã quả quyết về sự sang, cho nên có cái lo về ướt duôi, chưa kể ra khỏi chỗ hiểm. Tiến mạnh thì lui chóng, lúc đầu tuy hăng hái về sự sang, nhưng không thể tiếp tục mà làm cho trọn, thì không đi đâu mà lợi. Tuy là Âm Dương không đang ngôi, nhưng cứng mềm đều ứng với nhau, đương thì chưa sang mà có kẻ cùng với, nếu biết thận trong thì có lẽ sang được. Hào hai vì hăng sang cho nên ướt đuôi. Các hào trong quẻ đều không được ngôi, cho nên chưa sang.",
     "bản_nghĩa_của_Chu_Hy": null,
-    "lời_bàn_của_tiên_nho": null,
-    "notes": {
-      "1": "未濟 (Vị tế) nghĩa là chưa sang hay xong."
-    }
+    "lời_bàn_của_tiên_nho": null
   },
   {
     "chunk_id": "QUE_VI_TE_004",
     "hexagram": "QUE_VI_TE",
     "que": null,
+    "content_type": "interpretation",
+    "notes": {
+      "1": "未濟 (Vị tế) nghĩa là chưa sang hay xong. Nếu bạn có khả năng hãy mua sách gốc để ủng hộ tác giả, người dịch và Nhà Xuất Bản"
+    },
     "lời_kinh": "象⽈.⽕在⽔上.未濟.君⼦以慎辨物,居⽅.",
     "dịch_âm": "Tượng viết: Hỏa tại thủy thượng. Vị tế, quân tử dĩ thận biện vật, cư phương",
-    "dịch_nghĩa": "Lời Tượng nói rằng: Lửa ở trên nước, là quẻ Vị tế, đấng quân tử coi đó mà cẩn thận phân biệt các vật, ở phương. GIẢI NGHĨA",
-    "truyện_của_Trình_Di": null,
+    "dịch_nghĩa": "Lời Tượng nói rằng: Lửa ở trên nước, là quẻ Vị tế, đấng quân tử coi đó mà cẩn thận phân biệt các vật, ở phương.",
+    "truyện_của_Trình_Di": "Nước lửa chẳng giao với nhau, không giúp nhau làm sa sự dùng, cho nên là chưa sang. Lửa ở trên nước là không phải nơi. Đâng quân tử coi Tượng “ở không đáng” đó, để cẩn thận xử với sự vật, phân biệt sự xứng đang của nó, khiến nó đều ở thửa phương, nghĩa là đâu vào nơi chốn của nó.",
     "bản_nghĩa_của_Chu_Hy": "Nước lửa khác giống, thứ nào ở vào nơi chốn của thứ ấy, cho nên đấng quân tử coi Tượng đó mà xem xét phân biệt các việc các vật.",
-    "lời_bàn_của_tiên_nho": null,
-    "notes": {
-      "1": "未濟 (Vị tế) nghĩa là chưa sang hay xong."
-    }
+    "lời_bàn_của_tiên_nho": null
   },
   {
     "chunk_id": "QUE_VI_TE_005",
     "hexagram": "QUE_VI_TE",
     "que": null,
+    "content_type": "interpretation",
+    "notes": {
+      "1": "未濟 (Vị tế) nghĩa là chưa sang hay xong. Nếu bạn có khả năng hãy mua sách gốc để ủng hộ tác giả, người dịch và Nhà Xuất Bản"
+    },
     "lời_kinh": "初六.濡其尾.吝.",
     "dịch_âm": "Sơ Lục: Nhu kỳ vĩ lận!",
-    "dịch_nghĩa": "Hào Sáu Đầu: Ướt thửa đuôi, tiếp đáng! GIẢI NGHĨA",
-    "truyện_của_Trình_Di": null,
+    "dịch_nghĩa": "Hào Sáu Đầu: Ướt thửa đuôi, tiếp đáng!",
+    "truyện_của_Trình_Di": "Hào Sáu lấy chất Âm mềm ở dưới, đóng chỗ hiểm mà ứng với hào Tư, ở chỗ hiểm thì không yên, có ứng thì chí đi trở lên, nhưng mình đã Âm mềm mà hào Tư không phải là tài giữa chính, không cứu mình để sang. Giống thú vượt nước, ắt phải ngỏng đuôi, đuôi ướt thì không sang được, ướt thửa duôi là không thế sang. Không lượng tài lực mà tiến, rút lại, không thế sang,đang thẹn tiếc vậy.",
     "bản_nghĩa_của_Chu_Hy": "Lấy chất âm, ở ngôi duwois, đương thì chưa sang, chửa thể tự ình tiến lên, cho nên Tượng, Chiêm như thế.",
-    "lời_bàn_của_tiên_nho": null,
-    "notes": {
-      "1": "未濟 (Vị tế) nghĩa là chưa sang hay xong."
-    }
+    "lời_bàn_của_tiên_nho": null
   },
   {
     "chunk_id": "QUE_VI_TE_006",
     "hexagram": "QUE_VI_TE",
     "que": null,
+    "content_type": "interpretation",
+    "notes": {
+      "1": "未濟 (Vị tế) nghĩa là chưa sang hay xong. Nếu bạn có khả năng hãy mua sách gốc để ủng hộ tác giả, người dịch và Nhà Xuất Bản"
+    },
     "lời_kinh": "象⽈.濡其尾.亦不知極也.",
     "dịch_âm": "Tượng viết: nhu kỳ vĩ, Diệc bất trí cực dã.",
-    "dịch_nghĩa": "Lời Tượng nói rằng: Ướt thửa đầu, cũng chẳng biết cực vậy. GIẢI NGHĨA",
-    "truyện_của_Trình_Di": null,
+    "dịch_nghĩa": "Lời Tượng nói rằng: Ướt thửa đầu, cũng chẳng biết cực vậy.",
+    "truyện_của_Trình_Di": "Chẳng lượng tài lực mà tiên, đến chứng ướt đầu, ấy là “chẳng biết” đến tột bậc.",
     "bản_nghĩa_của_Chu_Hy": "Chữ 極 (cực) chưa rõ nghĩa là gì. Xét vẫn trên dưới cũng không hợp, e là chữ 敬 (kính) nay đã chừa lại đó.",
-    "lời_bàn_của_tiên_nho": null,
-    "notes": {
-      "1": "未濟 (Vị tế) nghĩa là chưa sang hay xong."
-    }
+    "lời_bàn_của_tiên_nho": null
   },
   {
     "chunk_id": "QUE_VI_TE_007",
     "hexagram": "QUE_VI_TE",
     "que": null,
+    "content_type": "interpretation",
+    "notes": {
+      "1": "未濟 (Vị tế) nghĩa là chưa sang hay xong. Nếu bạn có khả năng hãy mua sách gốc để ủng hộ tác giả, người dịch và Nhà Xuất Bản"
+    },
     "lời_kinh": "九⼆.曳其輪.貞吉.",
     "dịch_âm": "Cửu Nhị: Duệ kỳ luân, trinh cát.",
-    "dịch_nghĩa": "Hào Chín hai: Kéo thửa bánh xe, chính bền, tốt. GIẢI NGHĨA",
-    "truyện_của_Trình_Di": null,
+    "dịch_nghĩa": "Hào Chín hai: Kéo thửa bánh xe, chính bền, tốt.",
+    "truyện_của_Trình_Di": "Ở quẻ khác , hào Chín ở ngôi Hai là ở chỗ mềm được mực giữa, không có nghĩa là quá cứng. ở quẻ Vị tế, đấng thánh nhân cốt lấy tưởng quẻ làm răn, để tỏ đạo thử trên kính thuận, quẻ vị tế là lúc đạo vua khó nhọc, hào Năm lấy chất mềm ở ngôi vua mà Hào hai là tài Dương cứng ở chỗ ứng nhau với nó, tức là kẻ gánh các trách nhiệm vậy. Cứng có nghĩa lấn mềm, nước có tượng thắng lửa, đương thời khó nhọc, kẻ nhờ cậy được là người bề tôi có tài, càng nên hết đạo kính thuận, cho nên răn rằng: kéo thửa bánh xe thì được chính mà tốt. Kéo ngược bánh xe, bớt thế nó, hoãn sự tiến của nó, tức là răn đừng dùng cứng thái quá. Cứng quá thì hau xúc phạm người trên, mà thiếu đường kính thuận. Quách Tử Nghi, Lý Thạnh nhà Đường, đương khi gian nan chưa nên việc, biết kinh thuận đến tột bậc, vì vậy mới được chính đạo mà giữa được tốt lành tới cùng. Ở hào Sáu Năm thì nói chúng tốt sáng láng, hết cái phải của đạo làm vua; ở hào Chín hai thì răn phải kinh thuận hết chính của đạo làm tôi, ấy hết đạo trên dưới vậy.",
     "bản_nghĩa_của_Chu_Hy": "Lấy hào Chín Hai ứng nhau với hào Sáu Năm mà ở ngôi mềm được chỗ giữa, tức là kẻ biết tự thôi mà không tiến, được sự chính đáng trong đạo làm kẻ dưới, cho nên Tượng, Chiêm của nó như thế.",
-    "lời_bàn_của_tiên_nho": null,
-    "notes": {
-      "1": "未濟 (Vị tế) nghĩa là chưa sang hay xong."
-    }
+    "lời_bàn_của_tiên_nho": null
   },
   {
     "chunk_id": "QUE_VI_TE_008",
     "hexagram": "QUE_VI_TE",
     "que": null,
+    "content_type": "interpretation",
+    "notes": {
+      "1": "未濟 (Vị tế) nghĩa là chưa sang hay xong. Nếu bạn có khả năng hãy mua sách gốc để ủng hộ tác giả, người dịch và Nhà Xuất Bản"
+    },
     "lời_kinh": "六三.未濟.征凶.利涉⼤川.",
     "dịch_âm": "Lục Tam: Vị tế chinh hung, lợi thiệp đại xuyên.",
-    "dịch_nghĩa": "Hào Sáu ba: Chưa sang đi hung, lợi về sang sông lớn. GIẢI NGHĨA",
-    "truyện_của_Trình_Di": null,
+    "dịch_nghĩa": "Hào Sáu ba: Chưa sang đi hung, lợi về sang sông lớn.",
+    "truyện_của_Trình_Di": "Chưa sang đi hung, ý nói chỗ hiểm không có đồ dùng để ra chỗ hiểm mà đi thì hung. Ắt phải ra chỗ hiểm đã, rồi mới đi được. Hào ba lấy tài Âm mềm chẳng giữa chính mà ở chỗ hiểm, chẳng đủ để sang, chưa có cách sang được, chưa có đồ dùng để ra chỗ hiểm, mà cứ đi, vì vậy mới hung. Nhưng quẻ Vị tế có cách sang được, rồi cũng có lẽ ra khỏi chỗ hiểm, phía trên có kẻ Dương cứng ứng với nếu quá chỗ hiểm mà đi théo nó thì sẽ sang được, cho nên lợi về sang sông lớn.",
     "bản_nghĩa_của_Chu_Hy": "Âm mềm chẳng giữa chính, ở thì chưa sang mà đi thì hung. Nhưng nó lấy chất mềm cưỡi kẻ cứng, sắp sửa ra khỏi thế Khảm, có Tượng về sang sông, cho nên Tượng, Chiêm của nó như thế. Nghĩa là kẻ đi có thể vượt nước mà không thể đi can. Hoặc có người ngờ rằng trên chữ 利 (lợi) còn có chữ 不(bất).",
-    "lời_bàn_của_tiên_nho": null,
-    "notes": {
-      "1": "未濟 (Vị tế) nghĩa là chưa sang hay xong."
-    }
+    "lời_bàn_của_tiên_nho": null
   },
   {
     "chunk_id": "QUE_VI_TE_009",
     "hexagram": "QUE_VI_TE",
     "que": null,
+    "content_type": "interpretation",
+    "notes": {
+      "1": "未濟 (Vị tế) nghĩa là chưa sang hay xong. Nếu bạn có khả năng hãy mua sách gốc để ủng hộ tác giả, người dịch và Nhà Xuất Bản"
+    },
     "lời_kinh": "象⽈.未濟征凶.位不當也.",
     "dịch_âm": "Tượng viết: Vị tế chinh hung, vị bất đáng dã.",
-    "dịch_nghĩa": "Lời Tượng nói rằng: chưa sang đi hung, ngôi chẳng đang vậy. GIẢI NGHĨA",
-    "truyện_của_Trình_Di": null,
+    "dịch_nghĩa": "Lời Tượng nói rằng: chưa sang đi hung, ngôi chẳng đang vậy.",
+    "truyện_của_Trình_Di": "Hào Ba đi thì hung, vì ngôi không đáng Ý nói nó là kẻ Âm mềm chẳng giữa chẳng chính, lại không có tài ra khỏi chỗ hiểm. Nếu vượt quá được chỗ hiểm đẻ theo kẻ ứng với mình thì có lợi.",
     "bản_nghĩa_của_Chu_Hy": null,
-    "lời_bàn_của_tiên_nho": null,
-    "notes": {
-      "1": "未濟 (Vị tế) nghĩa là chưa sang hay xong."
-    }
+    "lời_bàn_của_tiên_nho": null
   },
   {
     "chunk_id": "QUE_VI_TE_010",
     "hexagram": "QUE_VI_TE",
     "que": null,
+    "content_type": "interpretation",
+    "notes": {
+      "1": "未濟 (Vị tế) nghĩa là chưa sang hay xong. Nếu bạn có khả năng hãy mua sách gốc để ủng hộ tác giả, người dịch và Nhà Xuất Bản"
+    },
     "lời_kinh": "九四.貞吉.悔亡.震⽤伐⿁⽅.三年有賞于⼤國.",
     "dịch_âm": "Cửu Tứ: Trinh cát, hối vong, chấn dụng phát Quỷ Phương, Tam niên hữu thương vu đại quốc.",
-    "dịch_nghĩa": "Hào Chín Tư: Chính bền, ăn năn mất, nhức dùng đánh nước Quỷ Phương, ba năm, có thương chưng nước lớn. GIẢI NGHĨA",
-    "truyện_của_Trình_Di": null,
+    "dịch_nghĩa": "Hào Chín Tư: Chính bền, ăn năn mất, nhức dùng đánh nước Quỷ Phương, ba năm, có thương chưng nước lớn.",
+    "truyện_của_Trình_Di": "Hào Chín Tư là chất Dương cứng, ở ngôi đại thần, trên có ông vua trống giữa sáng thuận, lại đã ra khỏi chỗ hiểm, chưa sang nhưng quá giữa rồi, tức là có cách sang được. Làm cho thiên hạ quá sự gian nan, nếu không có tài cứng mạnh, thì không làm nổi , hào Chín tuy là Dương mà ngôi Tư, cho nên răn phải chính bền thì tốt, mà sự ăn năn sẽ mất, không chính bền không sang được, là có ăn năn. Nhức là động đến tột bậc. Người xưa dùng sức nhiều nhất là việc đánh nước Quỷ Phương, cho nên lấy nó làm nghĩa, sức siêng mà đánh xa, đến chừng ba năm, rồi mới nên việc.",
     "bản_nghĩa_của_Chu_Hy": "Lấy hào Chín ở ngôi Tư, chẳng chính mà có ăn năn. Có thể gắng mà chính bền, thì sự ăn năn sẽ mất. Nhưng vì nó là tư chất không chính bên, thì sự ăn năn sẽ chết. Nhưng vì nó là tư chất chính bền, muốn gắng mà chính bền nếu không do đức dương cứng thì dùng sức lâu thì không thể được nên là Tượng “đánh nước Quỷ Phương ba năm mà được nhận thưởng”.",
-    "lời_bàn_của_tiên_nho": null,
-    "notes": {
-      "1": "未濟 (Vị tế) nghĩa là chưa sang hay xong."
-    }
+    "lời_bàn_của_tiên_nho": null
   },
   {
     "chunk_id": "QUE_VI_TE_011",
     "hexagram": "QUE_VI_TE",
     "que": null,
+    "content_type": "interpretation",
+    "notes": {
+      "1": "未濟 (Vị tế) nghĩa là chưa sang hay xong. Nếu bạn có khả năng hãy mua sách gốc để ủng hộ tác giả, người dịch và Nhà Xuất Bản"
+    },
     "lời_kinh": "象⽈.貞吉悔亡.志⾏也.",
     "dịch_âm": "Tượng viết: Trinh cát, hối vong, chí hành dã.",
-    "dịch_nghĩa": "Lời Tượng nói rằng: Chính bền tốt, ăn năn mất, chí được thi hành vậy. GIẢI NGHĨA",
-    "truyện_của_Trình_Di": null,
+    "dịch_nghĩa": "Lời Tượng nói rằng: Chính bền tốt, ăn năn mất, chí được thi hành vậy.",
+    "truyện_của_Trình_Di": "Như tài hào Tư, hợp được với thì mà lại thêm đức chính bền, thì có thể thực hành chí mình, thế là tốt lành mà sự ăn năn sẽ mất. Việc đánh nước Quỷ Phương, là chính bền đến tột bậc vậy.",
     "bản_nghĩa_của_Chu_Hy": null,
-    "lời_bàn_của_tiên_nho": null,
-    "notes": {
-      "1": "未濟 (Vị tế) nghĩa là chưa sang hay xong."
-    }
+    "lời_bàn_của_tiên_nho": null
   },
   {
     "chunk_id": "QUE_VI_TE_012",
     "hexagram": "QUE_VI_TE",
     "que": null,
+    "content_type": "interpretation",
+    "notes": {
+      "1": "未濟 (Vị tế) nghĩa là chưa sang hay xong. Nếu bạn có khả năng hãy mua sách gốc để ủng hộ tác giả, người dịch và Nhà Xuất Bản"
+    },
     "lời_kinh": "六五.貞吉無悔.君⼦之光.有孚.吉.",
     "dịch_âm": "Lục Ngũ: Trinh cát, vong hối, quân tử chi quang, hữu phu, cát.",
-    "dịch_nghĩa": "Hào Sáu Năm: chính bền tốt, không ăn năn, sự sáng của đấng quân tử, có tin tốt. GIẢI NGHĨA",
-    "truyện_của_Trình_Di": null,
+    "dịch_nghĩa": "Hào Sáu Năm: chính bền tốt, không ăn năn, sự sáng của đấng quân tử, có tin tốt.",
+    "truyện_của_Trình_Di": "Hào Năm là chủ sự văn vẻ sáng sủa, ở ngôi cứng, ứng với kẻ cứng, đã ở chỗ giữa, lại trông bên trong, mà có hào Dương làm kẻ giúp đỡ, tuy lấy chất mềm ở ngôi tôn, nhưng nó xử được rất khéo rất chính, thì không làm gì không được, đã được trinh, chính, cho nên tốt lành mà không ăn năn. Giữ cho chính bền những sự vẫn có của nó, không phải lời răn, dùng cách mà sang, thì không cho nào không sang được. Hào năm là chủ sự văn vẻ sang sủa, cho nên khen nó sáng láng, đâng quan tử đức sang đã thinh, mà công với sự thật xứng đang chõ đó, tức là có tin. Trên nói “tốt” là vì chính bên, mềm mà chính bền, là sự tốt hành của phần đức; dưới nói “tốt” là vì công đã sáng mà có tin, tức là thì có thế sang.",
     "bản_nghĩa_của_Chu_Hy": "Lấy hào Sáu ở ngôi Năm cũng không phải chính, nhưng nó là chủ văn vẻ sang sủa, ở giữa mà ứng nhau với kẻ cứng, trống rỗng trong lòng để cầu kẻ dưới giúp mình, cho nên được chính mà tốt và không ăn năn, lại có đức sáng láng được thinh, tin thật mà không càn đức là tốt mà lại tốt.",
-    "lời_bàn_của_tiên_nho": null,
-    "notes": {
-      "1": "未濟 (Vị tế) nghĩa là chưa sang hay xong."
-    }
+    "lời_bàn_của_tiên_nho": null
   },
   {
     "chunk_id": "QUE_VI_TE_013",
     "hexagram": "QUE_VI_TE",
     "que": null,
+    "content_type": "interpretation",
+    "notes": {
+      "1": "未濟 (Vị tế) nghĩa là chưa sang hay xong. Nếu bạn có khả năng hãy mua sách gốc để ủng hộ tác giả, người dịch và Nhà Xuất Bản"
+    },
     "lời_kinh": "象⽈.君⼦之光.其暉吉也.",
     "dịch_âm": "Tượng viết: quân tử chi quang, kỳ huy cát dã.",
-    "dịch_nghĩa": "Lời Tượng nói rằng: sự sáng của đấng quân tử, thửa tia sáng tốt vậy. GIẢI NGHĨA",
-    "truyện_của_Trình_Di": null,
+    "dịch_nghĩa": "Lời Tượng nói rằng: sự sáng của đấng quân tử, thửa tia sáng tốt vậy.",
+    "truyện_của_Trình_Di": "Sáng thịnh thì có tia sáng, tia sáng tức là ánh sáng tan ra. Đấng quân tử chưa chất đầu đủ mà sự sáng đến chưng có tia, tức là hay đến tột bậc, cho nên lại nói là tốt.",
     "bản_nghĩa_của_Chu_Hy": null,
-    "lời_bàn_của_tiên_nho": null,
-    "notes": {
-      "1": "未濟 (Vị tế) nghĩa là chưa sang hay xong."
-    }
+    "lời_bàn_của_tiên_nho": null
   },
   {
     "chunk_id": "QUE_VI_TE_014",
     "hexagram": "QUE_VI_TE",
     "que": null,
+    "content_type": "interpretation",
+    "notes": {
+      "1": "未濟 (Vị tế) nghĩa là chưa sang hay xong. Nếu bạn có khả năng hãy mua sách gốc để ủng hộ tác giả, người dịch và Nhà Xuất Bản"
+    },
     "lời_kinh": "上九.有孚于飲酒.無咎.濡其⾸.有孚失是.",
     "dịch_âm": "Thượng cửu: Hữu Phu vu ẩm tửu, vô cữu, nhu kỳ thủ, hữu phu, thất thị.",
-    "dịch_nghĩa": "Hào Chín Trên: có tin chưng uống rượu, không lỗi, ướt thửa đầu, có tin, mất phải. GIẢI NGHĨA",
-    "truyện_của_Trình_Di": null,
+    "dịch_nghĩa": "Hào Chín Trên: có tin chưng uống rượu, không lỗi, ướt thửa đầu, có tin, mất phải.",
+    "truyện_của_Trình_Di": "Hào Chín lấy chất cứng ở ngôi Trên, là cức tột bậc; ở trên thể sáng, là sang tột bậc. Đã cứng tột bậc mà lại sáng nữa, thì không phải là nóng nảy mà là quả quyết. Sự sáng có thể xét lý, sự cứng có thể đoán nghĩa, ở cùng cực thì chưa sang, không được ngồi để sang, không có thể sang được, thì nên vui thời thuận mệnh mà thôi; nếu ở chót cuộc “bĩ”, thì có thể xoay thời vận lại, chưa sang thì không có lẽ cũng cực mà tự sang được, cho nên sự đậu là chỗ cùng cực của sự chưa sang, chí thành yên với mệnh mà tự vui, thì có thể không lỗi . uống rượu tức là tự vui, nếu không vui với cảnh mình ở, thì bực tức, chán nản, tức là vào chỗ hung cữu. Nếu theo sự vui mà đắm đuôi, công dỡ quá lễ đến ướt thửa đầu, cũng không phải là biết yên với cảnh mình ở. Có tin tức là tin ở trong lòng, mất phải nghĩa mất sự nên đáng. Như thế, thì có tin là lôi. Người ta ở cảnh hoạn nạn, biết là không thể sao được, mà phóng túng bừa bãi, không chịu quay lại há phải là kẻ yên với nghĩa mệnh?",
     "bản_nghĩa_của_Chu_Hy": "Lấy chất cứng sang ở chỗ cùng cực của cuộc chưa sang, thì thế có thể làm việc, mà biết tự tin tự nuôi để đợi mệnh trời đó là cách không lỗi. Nếu phóng túng không quay lại như con cáo lội nước mà ướt đầu, thì là tự tin thái quá và tự mình làm mất cái nghĩa của mình.",
-    "lời_bàn_của_tiên_nho": null,
-    "notes": {
-      "1": "未濟 (Vị tế) nghĩa là chưa sang hay xong."
-    }
+    "lời_bàn_của_tiên_nho": null
   },
   {
     "chunk_id": "QUE_VI_TE_015",
     "hexagram": "QUE_VI_TE",
     "que": null,
+    "content_type": "interpretation",
+    "notes": {
+      "1": "未濟 (Vị tế) nghĩa là chưa sang hay xong. Nếu bạn có khả năng hãy mua sách gốc để ủng hộ tác giả, người dịch và Nhà Xuất Bản"
+    },
     "lời_kinh": "象⽈.飲酒濡⾸.亦不知節也.",
     "dịch_âm": "Tượng viết: Ẩm Tửu nhu thủ, diệc bất tri tiết dã.",
-    "dịch_nghĩa": "Lời Tượng nói rằng: Uống rượu ướt đầu, cũng chẳng tiết độ vậy. GIẢI NGHĨA",
-    "truyện_của_Trình_Di": null,
+    "dịch_nghĩa": "Lời Tượng nói rằng: Uống rượu ướt đầu, cũng chẳng tiết độ vậy.",
+    "truyện_của_Trình_Di": "Uống rượu đến chứng ướt đầu là không biết tiết lộ lắm. Sở dĩ đến thế, là tại không biết yên với nghĩa mệnh, nếu biết yên thì đã không mất thường độ.",
     "bản_nghĩa_của_Chu_Hy": null,
-    "lời_bàn_của_tiên_nho": null,
-    "notes": {
-      "1": "未濟 (Vị tế) nghĩa là chưa sang hay xong."
-    }
+    "lời_bàn_của_tiên_nho": null
   }
 ]

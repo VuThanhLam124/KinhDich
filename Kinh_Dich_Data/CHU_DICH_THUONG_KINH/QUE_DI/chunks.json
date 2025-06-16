@@ -3,6 +3,7 @@
     "chunk_id": "QUE_DI_001",
     "hexagram": "QUE_DI",
     "que": null,
+    "content_type": "preface",
     "lời_kinh": null,
     "dịch_âm": null,
     "dịch_nghĩa": null,
@@ -18,240 +19,256 @@
     "chunk_id": "QUE_DI_002",
     "hexagram": "QUE_DI",
     "que": null,
-    "lời_kinh": "頤貞吉, 觀頭, ⾃求⼜實.",
-    "dịch_âm": "Dì trinh cát, quan di tự cầu khẩu thực.",
-    "dịch_nghĩa": "Quẻ Di chính tốt, xem sự nuôi, tự tìm cái thật của miệng. GIẢI NGHĨA",
-    "truyện_của_Trình_Di": null,
-    "bản_nghĩa_của_Chu_Hy": "Di là chỗ cạnh miệng, miệng ăn đồ ăn để tự nuôi, cho nên mới là nghĩa nuôi. Nó là quẻ trên dưới hai hào Dương, trong ngậm bốn hào Âm, ngoài đặc, trong rỗng, trên đậu dưới động, là Tượng cái mép, và nghĩa sự nuôi. Trinh cát nghĩa là kẻ xem được chính thì tốt. Quan Di nghĩa là xem cách thửa nuôi. Tự cầu khẩu thực nghĩa là xem xét thuật nuôi mình, hễ đều được chính thì tốt.",
-    "lời_bàn_của_tiên_nho": null,
+    "content_type": "interpretation",
     "notes": {
       "1": "Chữ 觀 (di) có nghĩa là mép, có nghĩa là nuôi.",
       "2": "Bản nghĩa của Chu Hy. - Hai điều đó là việc thiết yếu trong sự nuôi đức"
-    }
+    },
+    "lời_kinh": "頤貞吉, 觀頭, ⾃求⼜實.",
+    "dịch_âm": "Dì trinh cát, quan di tự cầu khẩu thực.",
+    "dịch_nghĩa": "Quẻ Di chính tốt, xem sự nuôi, tự tìm cái thật của miệng.",
+    "truyện_của_Trình_Di": "Đạo của sự nuôi, hễ chính đạo thì tốt. Người ta nuôi thân mình, nuôi đạo đức, nuôi kẻ khác, và được người khác nuôi, đều theo chính đạo thì tốt; trời đất tạo hóa nuôi nấng muôn vật, vật nào được sự thích nghi của vật ấy, cũng là chính đạo mà thôi. Xem sự nuôi, tự tìm cái thật của miệng, nghĩa là xem cái người ta thửa nuôi và cách tự tìm cái thật cho miệng của họ, thì sự thiện ác lành dữ có thể thấy được.",
+    "bản_nghĩa_của_Chu_Hy": "Di là chỗ cạnh miệng, miệng ăn đồ ăn để tự nuôi, cho nên mới là nghĩa nuôi. Nó là quẻ trên dưới hai hào Dương, trong ngậm bốn hào Âm, ngoài đặc, trong rỗng, trên đậu dưới động, là Tượng cái mép, và nghĩa sự nuôi. Trinh cát nghĩa là kẻ xem được chính thì tốt. Quan Di nghĩa là xem cách thửa nuôi. Tự cầu khẩu thực nghĩa là xem xét thuật nuôi mình, hễ đều được chính thì tốt.",
+    "lời_bàn_của_tiên_nho": null
   },
   {
     "chunk_id": "QUE_DI_003",
     "hexagram": "QUE_DI",
     "que": null,
-    "lời_kinh": "彖⽈: 頤貞吉, 養正則吉也觀頤, 觀貞所養也. ⾃求⼜實, 觀貞⾃養也.",
-    "dịch_âm": "Thoán viết: Di trinh cát, dưỡng chinh tắc cát dã; quan di, quan kỳ sở dưỡng dă; tự cầu khẩu thực, quan kỳ tự dưỡng dã.",
-    "dịch_nghĩa": "Lời Thoán nói rằng: Quẻ Di chính tốt, là thửa nuôi được chính thì tốt vậy; xem sự nuôi, là xem cái thửa nuôi vậy; tự tìm cái thật của miệng, là xem cái tự nuôi của người ta vậy. GIẢI NGHĨA",
-    "truyện_của_Trình_Di": null,
-    "bản_nghĩa_của_Chu_Hy": "Đây thích lời quẻ.",
-    "lời_bàn_của_tiên_nho": null,
+    "content_type": "interpretation",
     "notes": {
       "1": "Chữ 觀 (di) có nghĩa là mép, có nghĩa là nuôi.",
       "2": "Bản nghĩa của Chu Hy. - Hai điều đó là việc thiết yếu trong sự nuôi đức"
-    }
+    },
+    "lời_kinh": "彖⽈: 頤貞吉, 養正則吉也觀頤, 觀貞所養也. ⾃求⼜實, 觀貞⾃養也.",
+    "dịch_âm": "Thoán viết: Di trinh cát, dưỡng chinh tắc cát dã; quan di, quan kỳ sở dưỡng dă; tự cầu khẩu thực, quan kỳ tự dưỡng dã.",
+    "dịch_nghĩa": "Lời Thoán nói rằng: Quẻ Di chính tốt, là thửa nuôi được chính thì tốt vậy; xem sự nuôi, là xem cái thửa nuôi vậy; tự tìm cái thật của miệng, là xem cái tự nuôi của người ta vậy.",
+    "truyện_của_Trình_Di": "Trinh cát là thửa nuôi được chính thì tốt, “thửa nuôi” chỉ về người nuôi và cách nuôi, tự tìm cái thật của miệng, chỉ về cách tự tìm để nuôi thân mình, hễ đều dùng sự chính đính thì tốt.",
+    "bản_nghĩa_của_Chu_Hy": "Đây thích lời quẻ.",
+    "lời_bàn_của_tiên_nho": null
   },
   {
     "chunk_id": "QUE_DI_004",
     "hexagram": "QUE_DI",
     "que": null,
-    "lời_kinh": "天地養萬物, 聖⼈養賢已及萬民.頓之時⼤矣哉.",
-    "dịch_âm": "Thiên địa dưỡng vạn vật, thánh nhân dưỡng hiền dĩ cập vạn dân. Di chi thì đại hỹ tai.",
-    "dịch_nghĩa": "Trời đất nuôi muôn vật, đấng thánh nhân nuôi người hiền để đến muôn dân, thì của quẻ Di lớn vậy thay! GIẢI NGHĨA",
-    "truyện_của_Trình_Di": null,
-    "bản_nghĩa_của_Chu_Hy": "Đây là thánh nhân nói cho cùng tận đạo nuôi mà tán dương sự lớn của nó. Đạo của trời đất là nuôi nấng muôn vật, mà đạo nuôi nâng muôn vật chỉ có sự chính mà thôi. Đấng thánh nhân thì nuôi nấng những bậc hiền tài, cùng họ chung ngôi trời, để họ ăn lộc trời, khiến họ thi ân với thiên hạ, đó là nuôi người hiền để tới muôn dân, nuôi người hiền là nuôi muôn dân vậy. Ôi, ở trong trời đất, phẩm vật đông nhiều, không nuôi thì không thể sống, đấng thánh nhân sửa nên đạo của trời đất, giúp tập sự thích nghi của trời đất, để nuôi thiên hạ, cho đến chim muông cây cỏ, cũng đều có những chính sự để nuôi nó. Đạo ấy sánh với trời đất, cho nên đấng phu tử suy rộng đạo nuôi, tán dương công của trời đất và đấng thánh nhân mà rằng: “Thì của sự nuôi lớn vậy thay”. Bản nghĩa của Chu Hy. - Đây là nói cho cũng cực đạo nuôi mà ngợi khen nó. .",
-    "lời_bàn_của_tiên_nho": null,
+    "content_type": "interpretation",
     "notes": {
       "1": "Chữ 觀 (di) có nghĩa là mép, có nghĩa là nuôi.",
       "2": "Bản nghĩa của Chu Hy. - Hai điều đó là việc thiết yếu trong sự nuôi đức"
-    }
+    },
+    "lời_kinh": "天地養萬物, 聖⼈養賢已及萬民.頓之時⼤矣哉.",
+    "dịch_âm": "Thiên địa dưỡng vạn vật, thánh nhân dưỡng hiền dĩ cập vạn dân. Di chi thì đại hỹ tai.",
+    "dịch_nghĩa": "Trời đất nuôi muôn vật, đấng thánh nhân nuôi người hiền để đến muôn dân, thì của quẻ Di lớn vậy thay!",
+    "truyện_của_Trình_Di": null,
+    "bản_nghĩa_của_Chu_Hy": "Đây là thánh nhân nói cho cùng tận đạo nuôi mà tán dương sự lớn của nó. Đạo của trời đất là nuôi nấng muôn vật, mà đạo nuôi nâng muôn vật chỉ có sự chính mà thôi. Đấng thánh nhân thì nuôi nấng những bậc hiền tài, cùng họ chung ngôi trời, để họ ăn lộc trời, khiến họ thi ân với thiên hạ, đó là nuôi người hiền để tới muôn dân, nuôi người hiền là nuôi muôn dân vậy. Ôi, ở trong trời đất, phẩm vật đông nhiều, không nuôi thì không thể sống, đấng thánh nhân sửa nên đạo của trời đất, giúp tập sự thích nghi của trời đất, để nuôi thiên hạ, cho đến chim muông cây cỏ, cũng đều có những chính sự để nuôi nó. Đạo ấy sánh với trời đất, cho nên đấng phu tử suy rộng đạo nuôi, tán dương công của trời đất và đấng thánh nhân mà rằng: “Thì của sự nuôi lớn vậy thay”. Bản nghĩa của Chu Hy. - Đây là nói cho cũng cực đạo nuôi mà ngợi khen nó. .",
+    "lời_bàn_của_tiên_nho": null
   },
   {
     "chunk_id": "QUE_DI_005",
     "hexagram": "QUE_DI",
     "que": null,
-    "lời_kinh": "象⽈: ⼭下有雷, 頤, 君⼦以慎⾔語, 節飲⾷.",
-    "dịch_âm": "Tượng viết: Sơn hạ hữu lôi, Di, Quân tử dĩ thận ngôn ngữ, tiết ẩm thực.",
-    "dịch_nghĩa": "Lời Tượng nói rằng: Dưới núi có sấm, là quẻ Di , đâng quân tử coi đó mà cẩn thận nói năng, dè dặt uống ăn. GIẢI NGHĨA",
-    "truyện_của_Trình_Di": null,
-    "bản_nghĩa_của_Chu_Hy": "Hai điều đó là việc thiết yếu trong sự nuôi đức hạnh và nuôi thân thể.",
-    "lời_bàn_của_tiên_nho": null,
+    "content_type": "interpretation",
     "notes": {
       "1": "Chữ 觀 (di) có nghĩa là mép, có nghĩa là nuôi.",
       "2": "Bản nghĩa của Chu Hy. - Hai điều đó là việc thiết yếu trong sự nuôi đức"
-    }
+    },
+    "lời_kinh": "象⽈: ⼭下有雷, 頤, 君⼦以慎⾔語, 節飲⾷.",
+    "dịch_âm": "Tượng viết: Sơn hạ hữu lôi, Di, Quân tử dĩ thận ngôn ngữ, tiết ẩm thực.",
+    "dịch_nghĩa": "Lời Tượng nói rằng: Dưới núi có sấm, là quẻ Di , đâng quân tử coi đó mà cẩn thận nói năng, dè dặt uống ăn.",
+    "truyện_của_Trình_Di": "Lấy hai thể mà nói, dưới núi có sấm động ở dưới núi, sinh vật ở trên núi đều động ở rễ vỏ, mọc mầm mếng, là Tượng sự nuôi. Lấy nghĩa trên dưới mà nói, Cấn đậu mà Chấn động, trên đậu dưới động, là Tượng mép cằm. Lấy hình quẻ mà nói, trên dưới hai hào Dương, giữa ngậm bốn hào Âm, ngoài đặc trong rỗng, là Tượng mép miệng. Miệng là cái để nuôi thân, cho nên đấng quân tử coi Tượng của nó mà nuôi mình, cẩn thận nói năng để nuôi đức hạnh, dè dặt ăn uống để nuôi thân thể. Câu đố chẳng những theo Tượng cái miệng lấy nghĩa sự nuôi mà thôi, việc rất gần mà quan hệ rất lớn, cũng không gì hơn nói năng ăn uống. [2]",
+    "bản_nghĩa_của_Chu_Hy": "Hai điều đó là việc thiết yếu trong sự nuôi đức hạnh và nuôi thân thể.",
+    "lời_bàn_của_tiên_nho": null
   },
   {
     "chunk_id": "QUE_DI_006",
     "hexagram": "QUE_DI",
     "que": null,
-    "lời_kinh": "初九:舍爾靈⿔, 觀我朵頤, 凶.",
-    "dịch_âm": "Sơ Cửu: Xả nhĩ linh quy, quan ngã đóa di, hung.",
-    "dịch_nghĩa": "Hào Chín Đầu: Bỏ con rùa thiêng của mày, xem ta trễ mép, hung! GIẢI NGHĨA",
-    "truyện_của_Trình_Di": null,
-    "bản_nghĩa_của_Chu_Hy": "Rùa thiêng là vật không ăn. Trễ là rủ xuống. Trễ mép là bộ muốn ăn. Hào Chín Đầu Dương cương ở dưới, có thể không ăn, mà lại ứng nhau với hào Sáu Tư là hào Âm ở trên, mà động lòng mong muốn, ấy là đạo hung, cho nên Tượng, Chiêm của nó như thế.",
-    "lời_bàn_của_tiên_nho": null,
+    "content_type": "interpretation",
     "notes": {
       "1": "Chữ 觀 (di) có nghĩa là mép, có nghĩa là nuôi.",
       "2": "Bản nghĩa của Chu Hy. - Hai điều đó là việc thiết yếu trong sự nuôi đức"
-    }
+    },
+    "lời_kinh": "初九:舍爾靈⿔, 觀我朵頤, 凶.",
+    "dịch_âm": "Sơ Cửu: Xả nhĩ linh quy, quan ngã đóa di, hung.",
+    "dịch_nghĩa": "Hào Chín Đầu: Bỏ con rùa thiêng của mày, xem ta trễ mép, hung!",
+    "truyện_của_Trình_Di": "Hào Chín Đầu quẻ Di cũng mượn người ngoài mà nói, mày chỉ hào Đầu, bỏ con rùa thiêng của mày, bèn xem ta mà trễ mép. Chữ ta là đối chữ mày mà đặt. Hào Đầu sở dĩ trễ mép là vì hào Tư, nhưng không phải hào Tư bảo nó, là lời giả thiết đó thôi. Hào Chín thể Dương cương minh, tài trí của nó đủ để nuôi sự chính đính. Con rùa có thể ngậm thở, không ăn, con rùa thiêng ví nó sáng khôn, có thể không cầu sự ăn ở ngoài. Tài tuy như thế, nhưng là hào Dương, ở thể động mà mờ thì nuôi, tìm sự nuôi là điều mà người ta muốn, ở trên nó ứng với hào Tư, không thể tự giữ, chí ở đi lên, là kẻ thích cái mình muốn mà trễ mép vậy. Lòng nó đã động, ắt phảỉ tự mình làm mất bản lĩnh cúa mình. Mê muội về sự ham muốn, tự mình làm mất bản lĩnh của mình, là hào Dương mà theo hào Âm, thì còn sự gì mà nó không làm? Thế cho nên hung. Trễ mép nghĩa là máy động cắm mép, người ta trông thấy đồ ăn thì phải trễ nhép nhỏ dàỉ, cho nên mới dùng làm Tượng.",
+    "bản_nghĩa_của_Chu_Hy": "Rùa thiêng là vật không ăn. Trễ là rủ xuống. Trễ mép là bộ muốn ăn. Hào Chín Đầu Dương cương ở dưới, có thể không ăn, mà lại ứng nhau với hào Sáu Tư là hào Âm ở trên, mà động lòng mong muốn, ấy là đạo hung, cho nên Tượng, Chiêm của nó như thế.",
+    "lời_bàn_của_tiên_nho": null
   },
   {
     "chunk_id": "QUE_DI_007",
     "hexagram": "QUE_DI",
     "que": null,
-    "lời_kinh": "象⽈: 觀我朵頤,亦不⾜貴也.",
-    "dịch_âm": "Tượng viết: Quan ngã đóa đi, diệc bất túc quí dã.",
-    "dịch_nghĩa": "Lời Tượng nói rằng: Xem ta trễ mép, cũng chẳng đủ quý vậy. GIẢI NGHĨA",
-    "truyện_của_Trình_Di": null,
-    "bản_nghĩa_của_Chu_Hy": null,
-    "lời_bàn_của_tiên_nho": null,
+    "content_type": "interpretation",
     "notes": {
       "1": "Chữ 觀 (di) có nghĩa là mép, có nghĩa là nuôi.",
       "2": "Bản nghĩa của Chu Hy. - Hai điều đó là việc thiết yếu trong sự nuôi đức"
-    }
+    },
+    "lời_kinh": "象⽈: 觀我朵頤,亦不⾜貴也.",
+    "dịch_âm": "Tượng viết: Quan ngã đóa đi, diệc bất túc quí dã.",
+    "dịch_nghĩa": "Lời Tượng nói rằng: Xem ta trễ mép, cũng chẳng đủ quý vậy.",
+    "truyện_của_Trình_Di": "Hào Chín là thể động, trễ mép nghĩa là nó thích hào Âm mà chí động. Đã bị lòng dục làm động, thì tuy có tài cứng mạnh sáng khôn, rút lại cũng là tự mình đánh mất bản lĩnh của mình cho nên tài nó cũng không đủ quý.",
+    "bản_nghĩa_của_Chu_Hy": null,
+    "lời_bàn_của_tiên_nho": null
   },
   {
     "chunk_id": "QUE_DI_008",
     "hexagram": "QUE_DI",
     "que": null,
-    "lời_kinh": "六⼆: 顛頤, 狒經于丘,征凶.",
-    "dịch_âm": "Lục Nhị: Điên di, phất kinh vu khâu, chinh hung dã.",
-    "dịch_nghĩa": "Hào Sáụ Hai: Đảo nuôi, trái thường ở gò, đi thì hung. GIẢI NGHĨA",
-    "truyện_của_Trình_Di": null,
-    "bản_nghĩa_của_Chu_Hy": "Cầu sự nuôi ở hào Đầu, thì là điên đảo, mà trái lẽ thường; cầu nuôi ở hào Trên, thì đi mà được hung. Gò là chỗ đất cao, tức là Tượng của hào Trên.",
-    "lời_bàn_của_tiên_nho": "Hồ Vân Phóng nói rằng: Hào Đầu hào Trên là hào Dương, các hào Âm nhờ cậy sự nuôi ở nó, hào Hai ở trên hào Đầu lại chịu sự nuôi của hào Đầu, thì là điên đảo, lại trái hào Năm là hào chính ứng của nó, thế trái thường. Nếu lại đi mà cầu sự nuôi ở hào Trên thì ắt có hung. Hào Sáu Hai ở quẻ khác là mềm thuận trung chính, ở quẻ Di thì là động lòng vì mồm miệng thân thể, Hào Đầu động lòng với hào Sáu Tư, hào Hai dưới thì bị hào Chín Đầu làm cho động lòng, trên thì bị hào Chín Trên làm cho động lòng, hai đường đều có chỗ theo, mà không đường nào được lợi. Hồ Song Hồ nói rằng: Hào Hai đảo nuôi cũng như hào Tư, trái thường cũng như hào Năm, thế mà lành dữ khác nhau, là vì cái đạo nuôi nấng lấy sự yên tĩnh là không sai lỗi; hào hai ở thể động, cho nên điên đảo, trái lỗi là hung; hào Tư hào Năm là thể tĩnh, cho nên dù có điên đảo trái lỗi cũng tốt. Ba hào thể Chấn đều hung, ba hào thể Cấn đều tốt, coi đó đủ biết.",
+    "content_type": "interpretation",
     "notes": {
       "1": "Chữ 觀 (di) có nghĩa là mép, có nghĩa là nuôi.",
       "2": "Bản nghĩa của Chu Hy. - Hai điều đó là việc thiết yếu trong sự nuôi đức"
-    }
+    },
+    "lời_kinh": "六⼆: 顛頤, 狒經于丘,征凶.",
+    "dịch_âm": "Lục Nhị: Điên di, phất kinh vu khâu, chinh hung dã.",
+    "dịch_nghĩa": "Hào Sáụ Hai: Đảo nuôi, trái thường ở gò, đi thì hung.",
+    "truyện_của_Trình_Di": "Con gái không thể tự mình ở mình, ắt phải theo con trai, khí Âm không thể đứng một mình, ắt phải theo khí Dương. Hào Hai là chất Âm mềm, không thể tự nuôi, là kẻ phải chờ sự nuôi ở người. Thiên tử nuôi thiên hạ, chư hầu nuôi một nước, bề tôi ăn lộc của đấng quân thượng, dân nhờ sự nuôi của bọn “coi chăn, đều là kẻ trên nuôi người dưới, đó là lẽ chính đáng. Hào Hai đã không thể tự nuôi, ắt phải cầu sự nuôi ở hào Dương cương. Nếu nó trở xuống cầu ở hào Đầu, thì là điên đảo, cho nên nói là “đảo nuôi”. Đảo nuôi thì trái lỗi lẽ thường, việc đó không thể làm được. Nếu có cầu nuôi ở gò, thì khi đi ắt có sự hung. Gò là vật ở người mà cao, chỉ hào Chín Trên. Trong quẻ chỉ có hai hào Dương, đã không thể điên đảo sự nuôi với hào Đầu, nếu cần sự nuôi ở hào Chín Trên, đi thì có sự hung. Trong thì “nuôi”, ứng nhau tức là nuôi nhau. Hào Trên không phải kẻ ứng với nó, mà đi cần nuôi tức là trái đạo, động càn, cho nên mới hung.",
+    "bản_nghĩa_của_Chu_Hy": "Cầu sự nuôi ở hào Đầu, thì là điên đảo, mà trái lẽ thường; cầu nuôi ở hào Trên, thì đi mà được hung. Gò là chỗ đất cao, tức là Tượng của hào Trên.",
+    "lời_bàn_của_tiên_nho": "Hồ Vân Phóng nói rằng: Hào Đầu hào Trên là hào Dương, các hào Âm nhờ cậy sự nuôi ở nó, hào Hai ở trên hào Đầu lại chịu sự nuôi của hào Đầu, thì là điên đảo, lại trái hào Năm là hào chính ứng của nó, thế trái thường. Nếu lại đi mà cầu sự nuôi ở hào Trên thì ắt có hung. Hào Sáu Hai ở quẻ khác là mềm thuận trung chính, ở quẻ Di thì là động lòng vì mồm miệng thân thể, Hào Đầu động lòng với hào Sáu Tư, hào Hai dưới thì bị hào Chín Đầu làm cho động lòng, trên thì bị hào Chín Trên làm cho động lòng, hai đường đều có chỗ theo, mà không đường nào được lợi. Hồ Song Hồ nói rằng: Hào Hai đảo nuôi cũng như hào Tư, trái thường cũng như hào Năm, thế mà lành dữ khác nhau, là vì cái đạo nuôi nấng lấy sự yên tĩnh là không sai lỗi; hào hai ở thể động, cho nên điên đảo, trái lỗi là hung; hào Tư hào Năm là thể tĩnh, cho nên dù có điên đảo trái lỗi cũng tốt. Ba hào thể Chấn đều hung, ba hào thể Cấn đều tốt, coi đó đủ biết."
   },
   {
     "chunk_id": "QUE_DI_009",
     "hexagram": "QUE_DI",
     "que": null,
-    "lời_kinh": "象⽈: 六⼆征凶, ⾏失類也.",
-    "dịch_âm": "Tượng viết: Lục Nhị chinh hung, hành thất loại dã.",
-    "dịch_nghĩa": "Lời Tượng nói rằng: Hào sáu Hai đi thì hung, vì đi mất loài vậy. GIẢI NGHĨA",
-    "truyện_của_Trình_Di": null,
-    "bản_nghĩa_của_Chu_Hy": "Hào Đầu hào Trên đều không phải là loài của nó.",
-    "lời_bàn_của_tiên_nho": null,
+    "content_type": "interpretation",
     "notes": {
       "1": "Chữ 觀 (di) có nghĩa là mép, có nghĩa là nuôi.",
       "2": "Bản nghĩa của Chu Hy. - Hai điều đó là việc thiết yếu trong sự nuôi đức"
-    }
+    },
+    "lời_kinh": "象⽈: 六⼆征凶, ⾏失類也.",
+    "dịch_âm": "Tượng viết: Lục Nhị chinh hung, hành thất loại dã.",
+    "dịch_nghĩa": "Lời Tượng nói rằng: Hào sáu Hai đi thì hung, vì đi mất loài vậy.",
+    "truyện_của_Trình_Di": "Đi mà theo hào Trên thì hung, là vì không phải loài nó. Đi tìm mà mất loài mình, được hung là phải.",
+    "bản_nghĩa_của_Chu_Hy": "Hào Đầu hào Trên đều không phải là loài của nó.",
+    "lời_bàn_của_tiên_nho": null
   },
   {
     "chunk_id": "QUE_DI_010",
     "hexagram": "QUE_DI",
     "que": null,
-    "lời_kinh": "六三: 拂頤, 貞凶, ⼗年勿⽤, 無攸利.",
-    "dịch_âm": "Lục Tam: Phất di, trinh hung, thập niên vật dụng, vô du lợi.",
-    "dịch_nghĩa": "Hào Sáu Bã: Trái nuôi, chính hung, mười năm chớ dùng, không thửa lợi. GIẢI NGHĨA",
-    "truyện_của_Trình_Di": null,
-    "bản_nghĩa_của_Chu_Hy": "Lấy chất Âm mềm không trung chính ở chỗ cùng cực của sự động, ấy là trái với đạo nuôi. Đã trái đạo nuôi tuy chính cũng hung, cho nên tượng chiêm của nó như thế.",
-    "lời_bàn_của_tiên_nho": null,
+    "content_type": "interpretation",
     "notes": {
       "1": "Chữ 觀 (di) có nghĩa là mép, có nghĩa là nuôi.",
       "2": "Bản nghĩa của Chu Hy. - Hai điều đó là việc thiết yếu trong sự nuôi đức"
-    }
+    },
+    "lời_kinh": "六三: 拂頤, 貞凶, ⼗年勿⽤, 無攸利.",
+    "dịch_âm": "Lục Tam: Phất di, trinh hung, thập niên vật dụng, vô du lợi.",
+    "dịch_nghĩa": "Hào Sáu Bã: Trái nuôi, chính hung, mười năm chớ dùng, không thửa lợi.",
+    "truyện_của_Trình_Di": "Đạo nuôi, chỉ có chính đạo thì tốt. Hào Ba lấy chất Âm mềm mà ở chỗ không trung chính, lại ở nơi cùng cực của sự động, đó là kẻ nhu tà, bất chính mà động. Sự nuôi của nó như thế, trái với chính đạo của việc nuôi cho nên mới hung. Được chính đạo của sự nuôi, thì thửa nuôi đều tốt; nuôi người thì hợp với nghĩa tự nuôi mình thì làm nên đức, hào Ba bên trái lỗi chính đạo, cho nên răn rằng mười năm chớ dùng. Mười là cuối cũng của số, nghĩa là đến lúc cuối cùng vẫn không dùng được, không đi đâu mà lợi vậy.",
+    "bản_nghĩa_của_Chu_Hy": "Lấy chất Âm mềm không trung chính ở chỗ cùng cực của sự động, ấy là trái với đạo nuôi. Đã trái đạo nuôi tuy chính cũng hung, cho nên tượng chiêm của nó như thế.",
+    "lời_bàn_của_tiên_nho": null
   },
   {
     "chunk_id": "QUE_DI_011",
     "hexagram": "QUE_DI",
     "que": null,
-    "lời_kinh": "象⽈: ⼗年勿⽤, 道⼤悖也.",
-    "dịch_âm": "Tượng viết: Thập niên vật dụng, đạo đại bội dã.",
-    "dịch_nghĩa": "Lời Tượng nói rằng: Mười năm chớ dùng, đạo cả trái vậy. GIẢI NGHĨA",
-    "truyện_của_Trình_Di": null,
-    "bản_nghĩa_của_Chu_Hy": null,
-    "lời_bàn_của_tiên_nho": null,
+    "content_type": "interpretation",
     "notes": {
       "1": "Chữ 觀 (di) có nghĩa là mép, có nghĩa là nuôi.",
       "2": "Bản nghĩa của Chu Hy. - Hai điều đó là việc thiết yếu trong sự nuôi đức"
-    }
+    },
+    "lời_kinh": "象⽈: ⼗年勿⽤, 道⼤悖也.",
+    "dịch_âm": "Tượng viết: Thập niên vật dụng, đạo đại bội dã.",
+    "dịch_nghĩa": "Lời Tượng nói rằng: Mười năm chớ dùng, đạo cả trái vậy.",
+    "truyện_của_Trình_Di": "Sở dĩ phảỉ răn mười năm chớ dùng là vì cái đạo nó theo, rất trái nghĩa lý.",
+    "bản_nghĩa_của_Chu_Hy": null,
+    "lời_bàn_của_tiên_nho": null
   },
   {
     "chunk_id": "QUE_DI_012",
     "hexagram": "QUE_DI",
     "que": null,
-    "lời_kinh": "六四: 顛頓, 吉.虎視眈眈, 其欲逐逐, 無咎.",
-    "dịch_âm": "Lọc Tứ: Điên di, cát, hổ thị đam đam, kỳ dục trục trục vô cữu.",
-    "dịch_nghĩa": "Hào Sáu Tư: Đảo nuôi, tốt, hổ trông hau háu, lòng muốn của nó liền liền, không lỗi. GIẢI NGHĨA",
-    "truyện_của_Trình_Di": null,
-    "bản_nghĩa_của_Chu_Hy": "Chất mềm ở trên, được chỗ chính, mà kẻ ứng với nó cũng chính đính, nó nhờ sự nuôi của kẻ ứng viện để ban ơn huệ cho người dưới, cho nên tuy là điên đảo mà tốt. “Hổ trông hau háu” nghĩa là biết hạ mình một cách chuyên nhất, “lòng muốn của nó liền liền” nghĩa là cầu cạnh người ta có kế tiếp, lãi được như thế thì không có lỗi.",
-    "lời_bàn_của_tiên_nho": null,
+    "content_type": "interpretation",
     "notes": {
       "1": "Chữ 觀 (di) có nghĩa là mép, có nghĩa là nuôi.",
       "2": "Bản nghĩa của Chu Hy. - Hai điều đó là việc thiết yếu trong sự nuôi đức"
-    }
+    },
+    "lời_kinh": "六四: 顛頓, 吉.虎視眈眈, 其欲逐逐, 無咎.",
+    "dịch_âm": "Lọc Tứ: Điên di, cát, hổ thị đam đam, kỳ dục trục trục vô cữu.",
+    "dịch_nghĩa": "Hào Sáu Tư: Đảo nuôi, tốt, hổ trông hau háu, lòng muốn của nó liền liền, không lỗi.",
+    "truyện_của_Trình_Di": "Hào Tư ở trên người ta, là ngôi đại thần, hào Sáu lấy chất Âm mà ở vào đó, sức Âm mềm không đủ nuôi mình, huống chi là nuôi thiên hạ. Hào Chín Đầu lấy chất Dương cương ở dưới, tức là người hiền ở dưới, với hào Tư ứng nhau, hào Tư lại mềm thuận mà chính đính, ấy là thuận với hào Đầu và nhờ hào Đầu nó nuôi. “Là người trên mà nuôi người dưới, nay nó lại cầu kẻ nuôi mình, đó là điên đảo, cho nên nói rằng “đảo nuôi”. Nhưng, cái trách nhiệm mình không gánh nổi, mà cần người hiền ở dưới gánh cho, mà thuận theo họ để cho nên việc, thì thiên hạ được nuôi, mà mình cũng không có lỗi khoáng bại, cho nên là tốt. Ôi, kẻ ở ngôi trên, ắt có tài đức uy vọng, khiến cho hạ dân tôn sợ, thì công việc sẽ đâu vào đây mà lòng người phục theo; nếu hoặc kẻ dưới coi thường người trên, thì chính lệnh mà người ta không theo hình pháp ra mà sự oán nỗi, thiên hạ coi sự lấn phạm người trên là thường, sự loạn bởi đó mà ra; hào Sáu Tư tuy biết thuận theo kẻ Dương cương, không bỏ chức vụ của mình, nhưng nó vốn chất Âm mềm, nhờ người nên việc, là kẻ mà người ta kinh, cho nên nó phải tự nuôi oai nghiêm, hau háu như con hổ nhòm thì mới khiến cho thể diện tôn trọng, kẻ dưới không dám coi thường. Lại nữa, kẻ theo người ta, ắt phải thường thường theo luôn, nếu mà gián đoạn không liên tục, thì chính sự sẽ hỏng; “lòng muốn của nó” chỉ về những người mà nó cần dùng, ắt phải liền liền nối nhau không thiếu, thì việc mới nên, nếu theo người ta mà không kế tiếp, thì phải khốn cùng; đă có oai nghiêm, mà công việc thi hành không bị cũng khốn, cho nên không lỗi.",
+    "bản_nghĩa_của_Chu_Hy": "Chất mềm ở trên, được chỗ chính, mà kẻ ứng với nó cũng chính đính, nó nhờ sự nuôi của kẻ ứng viện để ban ơn huệ cho người dưới, cho nên tuy là điên đảo mà tốt. “Hổ trông hau háu” nghĩa là biết hạ mình một cách chuyên nhất, “lòng muốn của nó liền liền” nghĩa là cầu cạnh người ta có kế tiếp, lãi được như thế thì không có lỗi.",
+    "lời_bàn_của_tiên_nho": null
   },
   {
     "chunk_id": "QUE_DI_013",
     "hexagram": "QUE_DI",
     "que": null,
-    "lời_kinh": "象⽈: 顛頤之吉, 上施光也.",
-    "dịch_âm": "Tượng viết: Điên di chi cát, thượng thí quang dã.",
-    "dịch_nghĩa": "Lời Tượng nói rằng: Cái tốt của sự đảo nuôi, vì ơn trên sáng vậy. GIẢI NGHĨA",
-    "truyện_của_Trình_Di": null,
-    "bản_nghĩa_của_Chu_Hy": null,
-    "lời_bàn_của_tiên_nho": null,
+    "content_type": "interpretation",
     "notes": {
       "1": "Chữ 觀 (di) có nghĩa là mép, có nghĩa là nuôi.",
       "2": "Bản nghĩa của Chu Hy. - Hai điều đó là việc thiết yếu trong sự nuôi đức"
-    }
+    },
+    "lời_kinh": "象⽈: 顛頤之吉, 上施光也.",
+    "dịch_âm": "Tượng viết: Điên di chi cát, thượng thí quang dã.",
+    "dịch_nghĩa": "Lời Tượng nói rằng: Cái tốt của sự đảo nuôi, vì ơn trên sáng vậy.",
+    "truyện_của_Trình_Di": "Điên đảo của nuôi mà sở dĩ tốt, là vì được kẻ Dương cương ứng với, để làm nên việc, khiến cho ân đức của mình, là người ở trên, sáng tỏ chùm khắp thiên hạ, sự tốt gì lớn hơn thế?",
+    "bản_nghĩa_của_Chu_Hy": null,
+    "lời_bàn_của_tiên_nho": null
   },
   {
     "chunk_id": "QUE_DI_014",
     "hexagram": "QUE_DI",
     "que": null,
-    "lời_kinh": "六五: 拂經, 居貞吉, 不可涉⼤川",
-    "dịch_âm": "Lục Ngũ: Phất kinh, cư trinh cát, bất khả thiệp đại xuyên.",
-    "dịch_nghĩa": "Hào Sáu Năm: Trái thường, ở chính tốt, chăng khá sang sông lớn. GIẢI NGHĨA",
-    "truyện_của_Trình_Di": null,
-    "bản_nghĩa_của_Chu_Hy": "Hào Sáu Năm Âm mềm bất chính, ở ngôi tôn mà không thể nuôi người, lại phải nhờ hào Chín Trên nuôi mình, cho nên Tượng, Chiêm như thế.",
-    "lời_bàn_của_tiên_nho": null,
+    "content_type": "interpretation",
     "notes": {
       "1": "Chữ 觀 (di) có nghĩa là mép, có nghĩa là nuôi.",
       "2": "Bản nghĩa của Chu Hy. - Hai điều đó là việc thiết yếu trong sự nuôi đức"
-    }
+    },
+    "lời_kinh": "六五: 拂經, 居貞吉, 不可涉⼤川",
+    "dịch_âm": "Lục Ngũ: Phất kinh, cư trinh cát, bất khả thiệp đại xuyên.",
+    "dịch_nghĩa": "Hào Sáu Năm: Trái thường, ở chính tốt, chăng khá sang sông lớn.",
+    "truyện_của_Trình_Di": "Hào Sáu Năm trong thì nuôi, là kẻ ở ngôi vua mà nuôi thiên hạ. Nhưng nó vốn chất Âm mềm, tài không đủ nuôi thiên hạ, vì ở trên có người hiền về bậc Dương cương, cho nên nó phải thuận theo, nhờ vào người ấy nuôi mình để giúp thiên hạ. Vua là một kẻ đáng phải nuôi người, mà lại phải nhờ một người nuôi, đó là trái với lẽ thường. Đã vì sức mình không đủ mà phái thuận theo bậc sư phó hiền, hào Trên là ngôi sư Phó, ắt là giữ chính bền, dốc lòng ủy thác tin cậy, thì sẽ có thể giúp đỡ thân mình, ơn trạch lan đến thiên hạ, cho nên là tốt. Bởi chất Âm mềm, không có tính trinh cương, cho nên phải răn rằng: có thể ở được chính bền. Là tài Âm mềm, tuy là nương tựa vào bậc hiền giả cứng cỏi, cũng chỉ có thể giữ gìn trong lúc bình thì, không thể ở vào những thủa gian nan biến cố, cho nên nó rằng: chẳng khá sang sông lớn. Phát minh nghĩa đó là để răn kẻ làm vua. Ở hào Chín Trên, thì cứ theo đạo “gắng thân mình, hết lòng trung” của kẻ làm tôi mà nói, cho nên hai hào không giống nhau.",
+    "bản_nghĩa_của_Chu_Hy": "Hào Sáu Năm Âm mềm bất chính, ở ngôi tôn mà không thể nuôi người, lại phải nhờ hào Chín Trên nuôi mình, cho nên Tượng, Chiêm như thế.",
+    "lời_bàn_của_tiên_nho": null
   },
   {
     "chunk_id": "QUE_DI_015",
     "hexagram": "QUE_DI",
     "que": null,
-    "lời_kinh": "象⽈: 居貞之吉, 順以從上也.",
-    "dịch_âm": "Tượng viết: Cư trinh chi cát, thuận dĩ tòng thượng dã.",
-    "dịch_nghĩa": "Lời Tượng nói rằng: Cái tốt của sự ở chính, vì thuận theo trên vậy. GIẢI NGHĨA",
-    "truyện_của_Trình_Di": null,
-    "bản_nghĩa_của_Chu_Hy": null,
-    "lời_bàn_của_tiên_nho": null,
+    "content_type": "interpretation",
     "notes": {
       "1": "Chữ 觀 (di) có nghĩa là mép, có nghĩa là nuôi.",
       "2": "Bản nghĩa của Chu Hy. - Hai điều đó là việc thiết yếu trong sự nuôi đức"
-    }
+    },
+    "lời_kinh": "象⽈: 居貞之吉, 順以從上也.",
+    "dịch_âm": "Tượng viết: Cư trinh chi cát, thuận dĩ tòng thượng dã.",
+    "dịch_nghĩa": "Lời Tượng nói rằng: Cái tốt của sự ở chính, vì thuận theo trên vậy.",
+    "truyện_của_Trình_Di": "Ở chính mà tốt, ý nói nó biết kiên cố thuận theo người hiền Chín Trên để nuôi thiên hạ.",
+    "bản_nghĩa_của_Chu_Hy": null,
+    "lời_bàn_của_tiên_nho": null
   },
   {
     "chunk_id": "QUE_DI_016",
     "hexagram": "QUE_DI",
     "que": null,
-    "lời_kinh": "上九: 由頤, 厲, 吉, 利涉⼤川.",
-    "dịch_âm": "Thượng Cửu: Do di, lệ, cát, lợi thiệp đại xuyên.",
-    "dịch_nghĩa": "Hào Chín Trên: Bởi nuôi, nguy, tốt, lợi sang sông lớn. GIẢI NGHĨA",
-    "truyện_của_Trình_Di": null,
-    "bản_nghĩa_của_Chu_Hy": "Hào Sáu Năm nhờ sự nuôi của hào Chín Trên để nuôi người, ấy là kẻ khác bởi hào Chín Trên mà được nuôi. Ngôi cao trách nhiệm nặng, cho nên lo sợ mà tốt. Dương cương ở trên, cho nên lợi sang sông lớn.",
-    "lời_bàn_của_tiên_nho": null,
+    "content_type": "interpretation",
     "notes": {
       "1": "Chữ 觀 (di) có nghĩa là mép, có nghĩa là nuôi.",
       "2": "Bản nghĩa của Chu Hy. - Hai điều đó là việc thiết yếu trong sự nuôi đức"
-    }
+    },
+    "lời_kinh": "上九: 由頤, 厲, 吉, 利涉⼤川.",
+    "dịch_âm": "Thượng Cửu: Do di, lệ, cát, lợi thiệp đại xuyên.",
+    "dịch_nghĩa": "Hào Chín Trên: Bởi nuôi, nguy, tốt, lợi sang sông lớn.",
+    "truyện_của_Trình_Di": "Hào Chín Trên lấy đức Dương cứng ở ngôi sư phó, ông vua Sáu Năm mềm thuận theo mình, nhờ cậy sự nuôi của mình, thiên hạ bởi đó mà được nuôi. Là người bề tôi, đương vào trách nhiệm ấy, ắt phải thường thường đem lòng lo sợ thì tốt. Ôi, vì tài của vua không đủ, mà phải nương tựa vào mình, mình đã đem thân gánh công việc to của thiên hạ, thì nên đưa hết tài lực, làm cho thiên hạ vượt qua sự nguy nan mà nên cuộc thịnh trị, cho nên nói rằng: lợi sang sông lớn.",
+    "bản_nghĩa_của_Chu_Hy": "Hào Sáu Năm nhờ sự nuôi của hào Chín Trên để nuôi người, ấy là kẻ khác bởi hào Chín Trên mà được nuôi. Ngôi cao trách nhiệm nặng, cho nên lo sợ mà tốt. Dương cương ở trên, cho nên lợi sang sông lớn.",
+    "lời_bàn_của_tiên_nho": null
   },
   {
     "chunk_id": "QUE_DI_017",
     "hexagram": "QUE_DI",
     "que": null,
-    "lời_kinh": "⿆⽈: 由頤厲吉,⼤有庚也.",
-    "dịch_âm": "Tượng viết: Do di, lệ, cát, đại hữu khánh dã.",
-    "dịch_nghĩa": "Lời Tượng nói rằng: Bởi nuôi, ngu, tốt, cả có phúc vậy. GIẢI NGHĨA",
-    "truyện_của_Trình_Di": null,
-    "bản_nghĩa_của_Chu_Hy": null,
-    "lời_bàn_của_tiên_nho": "Lý Long Sơn nói rằng: Sáu hào quẻ Di , ba hào trên đều tốt, ba hào dưới đều hung, bởi vì thể dưới là Chấn, hỏng về đông càn, thể trên là Cấn, biết đỗ ở chỗ nên đỗ. Coi đó thì biết sự nuôi của đấng quân tử nên như thế nào. Chú thích: [1] Chữ 觀 (di) có nghĩa là mép, có nghĩa là nuôi.",
+    "content_type": "interpretation",
     "notes": {
       "1": "Chữ 觀 (di) có nghĩa là mép, có nghĩa là nuôi.",
       "2": "Bản nghĩa của Chu Hy. - Hai điều đó là việc thiết yếu trong sự nuôi đức"
-    }
+    },
+    "lời_kinh": "⿆⽈: 由頤厲吉,⼤有庚也.",
+    "dịch_âm": "Tượng viết: Do di, lệ, cát, đại hữu khánh dã.",
+    "dịch_nghĩa": "Lời Tượng nói rằng: Bởi nuôi, ngu, tốt, cả có phúc vậy.",
+    "truyện_của_Trình_Di": "Như hào Chín Trên gánh trách nhiệm lớn là thế mà biết lo sợ là thế, thì cả thiên hạ được thấm ân đức, ấy là cả có phúc khánh.",
+    "bản_nghĩa_của_Chu_Hy": null,
+    "lời_bàn_của_tiên_nho": "Lý Long Sơn nói rằng: Sáu hào quẻ Di , ba hào trên đều tốt, ba hào dưới đều hung, bởi vì thể dưới là Chấn, hỏng về đông càn, thể trên là Cấn, biết đỗ ở chỗ nên đỗ. Coi đó thì biết sự nuôi của đấng quân tử nên như thế nào."
   }
 ]

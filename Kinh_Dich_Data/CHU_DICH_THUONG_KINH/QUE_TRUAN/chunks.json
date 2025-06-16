@@ -3,6 +3,7 @@
     "chunk_id": "QUE_TRUAN_001",
     "hexagram": "QUE_TRUAN",
     "que": null,
+    "content_type": "preface",
     "lời_kinh": null,
     "dịch_âm": null,
     "dịch_nghĩa": null,
@@ -20,255 +21,270 @@
     "chunk_id": "QUE_TRUAN_002",
     "hexagram": "QUE_TRUAN",
     "que": null,
-    "lời_kinh": "屯元亨利肩,勿⽤有攸往,利建侯.",
-    "dịch_âm": "Truân nguyên hanh lợi trinh, vật dụng hữu du vãng, lợi kiến hầu.",
-    "dịch_nghĩa": "Truân đầu cả, hanh thông, lợi tốt, chính bền, chớ dùng có thửa đi, lợi về dựng tước hầu. GIẢI NGHĨA",
-    "truyện_của_Trình_Di": "Quẻ Truân có cách cả hanh, mà ở vào đó thì lợi ở chính bền. Không chính bền lấy gì để qua lúc truân? Lúc truân chưa thể có thửa đi. Thiên hạ đương truân, há rằng sức một người nào có thể làm cho qua được? Ắt phải rộng nhờ về sức giúp đỡ, cho nên lợi về việc dựng nước hầu.",
-    "bản_nghĩa_của_Chu_Hy": "Chấn, Khảm đều là tên quẻ ba vạch. Quẻ Chấn một hào Dương động ở dưới hai hào Âm, cho nên, tính nó là động, tượng nó là sấm. Quẻ Khảm , một hào Dương hãm ở giữa hai hào Âm, cho nên tính nó là hãm, là hiểm, tượng nó là mây, là phương Nam, là nước. Truân là tên quẻ sáu vạch, nghĩa nó là khó, tức là cái ý vật mới mọc mà chưa thông đạt,cho nên chữ 屯 (truân) do ở chữ ⼬中 (thảo) mà ra, giống như mầm có dùi đất mới mọc mà chưa duỗi thẳng. Quẻ này là Chấn gặp Khảm, Kiền Khôn mới giao với nhau mà gặp chỗ hiểm hãm, cho nên tên nó là Truân, Chấn động ở dưới, Khảm hãm ở trên, còn động được chăng? Trong chỗ hiểm mà còn động được, tuy có thể hanh thông, mà ở chỗ hiểm, thì nên giữ đường ngay thẳng, chưa thể vội tiến, cho nên bói được quẻ này , thì lời chiêm là cả hanh và lợi về đường ngay thẳng, mà chưa nên vội có thửa đi. Lại: hào Chín Năm Dương ở dưới Âm mà là chủ sự làm quẻ, đó là cái nghĩa hiền nhân chịu nhường người ta mà được lòng dân có thể làm vua. Cho nên hễ bói về việc dựng vua, gặp quẻ này thì tốt.",
-    "lời_bàn_của_tiên_nho": "Chu Hy nói rằng: Hỏi rằng: Quẻ Truân lợi về sự dựng nước hầu. Lời chiêm ấy với câu “lợi về sự thấy người lớn” ở quẻ Kiền có đồng lệ không? Đáp rằng: Có. Đó cũng là chỉ đại khái như thế. Nếu mà tự bói việc làm vua, thì dựng tước hầu là mình, nếu bói việc lập vua, thì dựng tước hầu là chỉ về vua. Chỗ đó lại xem rõ cái duyên mình gặp thế nào. Kinh Dịch không phải là thứ văn tự trói chặt. Cho nên nói rằng: “Không thể dùng làm điển yếu”.",
+    "content_type": "interpretation",
     "notes": {
       "1": "Tức là Khảm.",
       "2": "Tức là Chấn.",
       "3": "Chỉ về Chấn.",
       "4": "Chỉ về Khảm."
-    }
+    },
+    "lời_kinh": "屯元亨利肩,勿⽤有攸往,利建侯.",
+    "dịch_âm": "Truân nguyên hanh lợi trinh, vật dụng hữu du vãng, lợi kiến hầu.",
+    "dịch_nghĩa": "Truân đầu cả, hanh thông, lợi tốt, chính bền, chớ dùng có thửa đi, lợi về dựng tước hầu.",
+    "truyện_của_Trình_Di": null,
+    "bản_nghĩa_của_Chu_Hy": "Chấn, Khảm đều là tên quẻ ba vạch. Quẻ Chấn một hào Dương động ở dưới hai hào Âm, cho nên, tính nó là động, tượng nó là sấm. Quẻ Khảm , một hào Dương hãm ở giữa hai hào Âm, cho nên tính nó là hãm, là hiểm, tượng nó là mây, là phương Nam, là nước. Truân là tên quẻ sáu vạch, nghĩa nó là khó, tức là cái ý vật mới mọc mà chưa thông đạt,cho nên chữ 屯 (truân) do ở chữ ⼬中 (thảo) mà ra, giống như mầm có dùi đất mới mọc mà chưa duỗi thẳng. Quẻ này là Chấn gặp Khảm, Kiền Khôn mới giao với nhau mà gặp chỗ hiểm hãm, cho nên tên nó là Truân, Chấn động ở dưới, Khảm hãm ở trên, còn động được chăng? Trong chỗ hiểm mà còn động được, tuy có thể hanh thông, mà ở chỗ hiểm, thì nên giữ đường ngay thẳng, chưa thể vội tiến, cho nên bói được quẻ này , thì lời chiêm là cả hanh và lợi về đường ngay thẳng, mà chưa nên vội có thửa đi. Lại: hào Chín Năm Dương ở dưới Âm mà là chủ sự làm quẻ, đó là cái nghĩa hiền nhân chịu nhường người ta mà được lòng dân có thể làm vua. Cho nên hễ bói về việc dựng vua, gặp quẻ này thì tốt.",
+    "lời_bàn_của_tiên_nho": "Chu Hy nói rằng: Hỏi rằng: Quẻ Truân lợi về sự dựng nước hầu. Lời chiêm ấy với câu “lợi về sự thấy người lớn” ở quẻ Kiền có đồng lệ không? Đáp rằng: Có. Đó cũng là chỉ đại khái như thế. Nếu mà tự bói việc làm vua, thì dựng tước hầu là mình, nếu bói việc lập vua, thì dựng tước hầu là chỉ về vua. Chỗ đó lại xem rõ cái duyên mình gặp thế nào. Kinh Dịch không phải là thứ văn tự trói chặt. Cho nên nói rằng: “Không thể dùng làm điển yếu”."
   },
   {
     "chunk_id": "QUE_TRUAN_003",
     "hexagram": "QUE_TRUAN",
     "que": null,
-    "lời_kinh": "象⽈:屯,剛柔始交⽽難⽣.動乎險中,⼤亨貞.雷⾬ 動滿盈,天造草昧,宜建 侯⽽不拏.",
-    "dịch_âm": "Thoán viết: Truân, cương nhu thủy giao nhi nạn sinh, động hồ hiểm trung, đại hanh trinh, lôi vũ chi động mãn doanh. Thiên tạo thảo muội, nghi kiến hầu nhi bất ninh.",
-    "dịch_nghĩa": "Quẻ truân , cứng mềm mới giao nhau mà nạn sinh, động ở trong chỗ hiểm, cả hanh trinh, sấm mưa động đến đầy rẫy. Vận trời bối rối, mờ tối, nên dựng tước hầu, mả chớ cho là yên. GIẢI NGHĨA",
-    "truyện_của_Trình_Di": "Nói về hai tượng mây sấm, thì là mềm cứng mới giao nhau. Nói về hai thể Chấn Khảm thì là động ở trong chỗ hiểm. Cứng mềm mới giao nhau mà chưa thông xưởng thì phải gian truân, cho nên nói là “nạn sinh”. Lại “động trong chỗ hiểm”, cũng là nghĩa gian truân. Cái mà gọi là “cả hanh và trinh” tức là sấm mưa động đến đầy dẫy. Âm Dương mới giao nhau thì còn gian truân chưa thể thông xướng, tới khi tràn hòa lan khắp thì thành sấm mưa đầy dẫy trong khoảng trời đất, sinh vật mới được thỏa thê, đó là Truân có cách cả hanh. Sở dĩ có thể cả hanh là do ở trinh. Nếu không chính bền, thì sao ra khỏi cảnh Truân? Người ta ở vào cảnh Truân có cách làm cho cả hanh cũng là do ở chính bền. Thiên tạo chỉ về thì vận, thảo là rối loạn,không có trật tự, là mờ tối không sáng, gặp thì vận đó, nên gây dựng kẻ giúp đỡ, thì có thể qua được cảnh Truân. Tuy dựng tước hầu để giúp cho mình, nhưng mà cũng nên siêng năng lo sợ, không dám ở yên, đó là lời răn sâu sa của thánh nhân.",
-    "bản_nghĩa_của_Chu_Hy": "Câu đầu dùng hai thể để thích nghĩa tên quẻ, mới giao là Chấn, nạn sinh là Khảm. Câu thứ hai dùng đức của hai thể để thích lời quẻ: động là việc của thể Chấn, hiểm là đất của thể Khảm. Từ đó trở xuống, thích về nguyên hanh lợi trinh, bèn dùng ý gốc của Văn Vương. Câu “sấm mưa” dùng tượng hai thể để thích lời quẻ. Sấm là tượng của Chấn, mưa là tượng của Khảm. Thiên Tạo như nói thiên vận, thảo muội tức là rối loạn tối tăm. Âm Dương giao nhau mà sấm mưa nổi lên, những cảnh tạp loại, tối tăm đầy dẫy trong hai khoảng (trời đất). Thiên hạ chưa định, danh phận chưa rõ, nên lập vua để thống trị, chưa thể vội cho là lúc yên ổn. Chỗ này không dùng nghĩa của hào Chín Đầu, là vì sự dùng nghĩa có nhiều mối, đây cũng là dùng về một mối của nó.",
-    "lời_bàn_của_tiên_nho": "Chu Hy nói rằng: Sấm mưa động đến đầy dẫy, cũng là cái ý uất tắc, “Vận trời rối loạn mờ tối nên dựng nước hầu mà chẳng cho là yên” là do Khổng Tứ phát minh riêng ra một lẽ. Ý nói: Đương lúc rối ren đó, không thể không có ông vua, cho nên phải lập vua, rút lại vẫn không thể cho dựng ra tước hầu là xong, phải tự lấy làm không yên mới được. Bởi vì mới động mà gặp chỗ hiểm thánh nhân thấy cỏ tượng ấy nên mới nhân đó mà đặt lời răn.",
+    "content_type": "interpretation",
     "notes": {
       "1": "Tức là Khảm.",
       "2": "Tức là Chấn.",
       "3": "Chỉ về Chấn.",
       "4": "Chỉ về Khảm."
-    }
+    },
+    "lời_kinh": "象⽈:屯,剛柔始交⽽難⽣.動乎險中,⼤亨貞.雷⾬ 動滿盈,天造草昧,宜建 侯⽽不拏.",
+    "dịch_âm": "Thoán viết: Truân, cương nhu thủy giao nhi nạn sinh, động hồ hiểm trung, đại hanh trinh, lôi vũ chi động mãn doanh. Thiên tạo thảo muội, nghi kiến hầu nhi bất ninh.",
+    "dịch_nghĩa": "Quẻ truân , cứng mềm mới giao nhau mà nạn sinh, động ở trong chỗ hiểm, cả hanh trinh, sấm mưa động đến đầy rẫy. Vận trời bối rối, mờ tối, nên dựng tước hầu, mả chớ cho là yên.",
+    "truyện_của_Trình_Di": null,
+    "bản_nghĩa_của_Chu_Hy": "Câu đầu dùng hai thể để thích nghĩa tên quẻ, mới giao là Chấn, nạn sinh là Khảm. Câu thứ hai dùng đức của hai thể để thích lời quẻ: động là việc của thể Chấn, hiểm là đất của thể Khảm. Từ đó trở xuống, thích về nguyên hanh lợi trinh, bèn dùng ý gốc của Văn Vương. Câu “sấm mưa” dùng tượng hai thể để thích lời quẻ. Sấm là tượng của Chấn, mưa là tượng của Khảm. Thiên Tạo như nói thiên vận, thảo muội tức là rối loạn tối tăm. Âm Dương giao nhau mà sấm mưa nổi lên, những cảnh tạp loại, tối tăm đầy dẫy trong hai khoảng (trời đất). Thiên hạ chưa định, danh phận chưa rõ, nên lập vua để thống trị, chưa thể vội cho là lúc yên ổn. Chỗ này không dùng nghĩa của hào Chín Đầu, là vì sự dùng nghĩa có nhiều mối, đây cũng là dùng về một mối của nó.",
+    "lời_bàn_của_tiên_nho": "Chu Hy nói rằng: Sấm mưa động đến đầy dẫy, cũng là cái ý uất tắc, “Vận trời rối loạn mờ tối nên dựng nước hầu mà chẳng cho là yên” là do Khổng Tứ phát minh riêng ra một lẽ. Ý nói: Đương lúc rối ren đó, không thể không có ông vua, cho nên phải lập vua, rút lại vẫn không thể cho dựng ra tước hầu là xong, phải tự lấy làm không yên mới được. Bởi vì mới động mà gặp chỗ hiểm thánh nhân thấy cỏ tượng ấy nên mới nhân đó mà đặt lời răn."
   },
   {
     "chunk_id": "QUE_TRUAN_004",
     "hexagram": "QUE_TRUAN",
     "que": null,
-    "lời_kinh": "象⽈:雲雷屯,君⼦以經給. Dịch âm, - Tượng viết: Vân lôi Truân, quân tử dĩ kinh luân.",
-    "dịch_âm": null,
-    "dịch_nghĩa": "Lời Tượng nói rằng: Mây sấm là quẻ Truân , đấng quân tử coi đó mà sửa sang thiên hạ. GIẢI NGHĨA",
-    "truyện_của_Trình_Di": "Quẻ Khảm không nói là mưa mà nói là mây vì mây tức là mưa mà chưa thành; chưa từng mưa cho nên là truân. Đấng quân tử coi tượng quẻ Truân , sửa sang việc thiên hạ để qua lúc truân nan.",
-    "bản_nghĩa_của_Chu_Hy": null,
-    "lời_bàn_của_tiên_nho": "Ngô Lâm Xuyên nói rằng: “Quân tử trị đời như làm tơ. Muốn gỡ sự rối bời, cũng như lúc truân muốn giải sự uất kết. Kinh là tóm các mục nó làm một mà sau chia ra, giống như tiếng sấm do một mà chia: luân là gỡ các mối nó làm hai mà sau hợp lại, giống như tiếng sấm tự hai mà hợp lại.",
+    "content_type": "interpretation",
     "notes": {
       "1": "Tức là Khảm.",
       "2": "Tức là Chấn.",
       "3": "Chỉ về Chấn.",
       "4": "Chỉ về Khảm."
-    }
+    },
+    "lời_kinh": "象⽈:雲雷屯,君⼦以經給. Dịch âm, - Tượng viết: Vân lôi Truân, quân tử dĩ kinh luân. Dịch nghĩa. - Lời Tượng nói rằng: Mây sấm là quẻ Truân , đấng quân tử coi đó mà sửa sang thiên hạ.",
+    "dịch_âm": null,
+    "dịch_nghĩa": "Lời Tượng nói rằng: Mây sấm là quẻ Truân , đấng quân tử coi đó mà sửa sang thiên hạ.",
+    "truyện_của_Trình_Di": null,
+    "bản_nghĩa_của_Chu_Hy": null,
+    "lời_bàn_của_tiên_nho": "Ngô Lâm Xuyên nói rằng: “Quân tử trị đời như làm tơ. Muốn gỡ sự rối bời, cũng như lúc truân muốn giải sự uất kết. Kinh là tóm các mục nó làm một mà sau chia ra, giống như tiếng sấm do một mà chia: luân là gỡ các mối nó làm hai mà sau hợp lại, giống như tiếng sấm tự hai mà hợp lại."
   },
   {
     "chunk_id": "QUE_TRUAN_005",
     "hexagram": "QUE_TRUAN",
     "que": null,
-    "lời_kinh": "初九:盤桓,利居貞,利建侯.",
-    "dịch_âm": "Sơ Cửu: Bàn hoàn, lợi cư trinh, lợi kiến hầu.",
-    "dịch_nghĩa": "Hào Chín Đầu: Quanh co, lợi về ở chính bền, lợi về dựng tước hầu. GIẢI NGHĨA",
-    "truyện_của_Trình_Di": "Hào Đầu là hào Dương, ở dưới,tức là kẻ có tài cương minh, gặp đời truân gian mà ở ngôi dưới. Chưa thể đi ngay cho qua cảnh truân, nên phải quanh co. Đương buổi đầu hồi truân, nếu không quanh co mà vội tiến lên, thì phạm vào nạn, cho nên phải ở một cách chính đính mà giữ cho bền chí. Đại phàm người ta ở cảnh truân nan, ít kẻ giữ được chính đính. Nếu không giữ được chính đính vững bền, thì sẽ trái nghĩa, qua sao được cảnh truân? Ở đời truân, đương bị gian nan ở dưới, nên có kẻ giúp, đó là cái đạo ở cảnh truân và qua cảnh truân, cho nên mới dùng nghĩa “dựng tước hầu”; tức là tìm người giúp đỡ vậy.",
-    "bản_nghĩa_của_Chu_Hy": "Bàn toàn là cái trạng thái khó tiến. Đầu hồi truân nan là hào Dương ở dưới lại ở vào một thể động, mà trên ứng nhau với hào Âm nhu, hãm hiểm, cho nên có tượng quanh co. Nhưng nó ở được chỗ chính, cho nên lời chiêm của nó là lợi về sự đính chính. Vả lại, nó vốn là hào làm chủ sự lập thành quẻ, là Dương, chịu ở dưới Âm, tức là cái tượng nhân dân theo chờ, cho nên tượng nó như thế,mà kẻ xem như thế thì lợi về sự dựng lên để làm tước hầu.",
-    "lời_bàn_của_tiên_nho": null,
+    "content_type": "interpretation",
     "notes": {
       "1": "Tức là Khảm.",
       "2": "Tức là Chấn.",
       "3": "Chỉ về Chấn.",
       "4": "Chỉ về Khảm."
-    }
+    },
+    "lời_kinh": "初九:盤桓,利居貞,利建侯.",
+    "dịch_âm": "Sơ Cửu: Bàn hoàn, lợi cư trinh, lợi kiến hầu.",
+    "dịch_nghĩa": "Hào Chín Đầu: Quanh co, lợi về ở chính bền, lợi về dựng tước hầu.",
+    "truyện_của_Trình_Di": null,
+    "bản_nghĩa_của_Chu_Hy": "Bàn toàn là cái trạng thái khó tiến. Đầu hồi truân nan là hào Dương ở dưới lại ở vào một thể động, mà trên ứng nhau với hào Âm nhu, hãm hiểm, cho nên có tượng quanh co. Nhưng nó ở được chỗ chính, cho nên lời chiêm của nó là lợi về sự đính chính. Vả lại, nó vốn là hào làm chủ sự lập thành quẻ, là Dương, chịu ở dưới Âm, tức là cái tượng nhân dân theo chờ, cho nên tượng nó như thế,mà kẻ xem như thế thì lợi về sự dựng lên để làm tước hầu.",
+    "lời_bàn_của_tiên_nho": null
   },
   {
     "chunk_id": "QUE_TRUAN_006",
     "hexagram": "QUE_TRUAN",
     "que": null,
-    "lời_kinh": "象⽈:雖盤桓,志⾏正也.以貴下賤,⼤得民也. Dịch âm, - Tượng viết: Tuy bàn hoàn, chí hành chính dã. Dĩ quý hạ tiện, đại đắc dân dã.",
-    "dịch_âm": null,
-    "dịch_nghĩa": "Lời Tượng nói rằng: Dẫu quanh co có chí làm sự chính đính vậy. Là kẻ sang, chịu dưới kẻ hèn, cả được dân vậy. GIẢI NGHĨA",
-    "truyện_của_Trình_Di": "Người hiền ở dưới, nếu thời chưa lợi, tuy phải quanh co chưa thể đi ngay để làm cho qua cảnh truân của đời, nhưng vẫn có chí làm qua cảnh truân, có tài làm qua cảnh truân, đó là chí ở làm sự chính đính. Hào Chín gặp lúc truân nan, là Dương mà đến ở dưới Âm, tức là cái tượng kẻ sang chịu dưới kẻ hèn. Đương hồi truân, kẻ Âm nhu không thể tự giữ cho còn, có một người có tài Dương cương, chúng phải theo về, thế mà lại biết tự xử một cách thấp kém, cho nên mới được lòng dân. Có người ngờ rằng: đương truân ở dưới, còn sang đi nữa? Ôi, là cương minh, mà chịu ở dưới kẻ Âm nhu; là hạng có tài làm qua cảnh truân, mà lại ở dưới một kẻ bất tài; thế là kẻ sang chịu dưới kẻ hèn. Huống chi Dương đối với Âm, vẫn là sang hơn kia mà!",
-    "bản_nghĩa_của_Chu_Hy": null,
-    "lời_bàn_của_tiên_nho": null,
+    "content_type": "interpretation",
     "notes": {
       "1": "Tức là Khảm.",
       "2": "Tức là Chấn.",
       "3": "Chỉ về Chấn.",
       "4": "Chỉ về Khảm."
-    }
+    },
+    "lời_kinh": "象⽈:雖盤桓,志⾏正也.以貴下賤,⼤得民也. Dịch âm, - Tượng viết: Tuy bàn hoàn, chí hành chính dã. Dĩ quý hạ tiện, đại đắc dân dã. Dịch nghĩa. - Lời Tượng nói rằng: Dẫu quanh co có chí làm sự chính đính vậy. Là kẻ sang, chịu dưới kẻ hèn, cả được dân vậy.",
+    "dịch_âm": null,
+    "dịch_nghĩa": "Lời Tượng nói rằng: Dẫu quanh co có chí làm sự chính đính vậy. Là kẻ sang, chịu dưới kẻ hèn, cả được dân vậy.",
+    "truyện_của_Trình_Di": null,
+    "bản_nghĩa_của_Chu_Hy": null,
+    "lời_bàn_của_tiên_nho": null
   },
   {
     "chunk_id": "QUE_TRUAN_007",
     "hexagram": "QUE_TRUAN",
     "que": null,
-    "lời_kinh": "六⼆:屯如,遭如,乘⾺班如,匪⿁, 婚媾,⼥与貞⽷字,⼗年⾘字.",
-    "dịch_âm": "Lục Nhị: Truân như, chiên như, thừa mã ban như! Phỉ khẩu, hôn cấu. Nữ tử trinh bất tự, thập niên nãi tự.",
-    "dịch_nghĩa": "Hào Sáu Hai: Dường quanh co vậy, đường cưỡi ngựa rẽ ra vậy. Chẳng phải giặc: dâu gia. Con gái trinh tiết không đặt tên chữ, mười năm mới đặt tên chữ. GIẢI NGHĨA",
-    "truyện_của_Trình_Di": "Là Âm nhu, ở đời truân nan, tuy có kẻ chính ứng ở trên (chỉ vào hào Năm) mà bị bức vì hào Đầu là hào Dương cương, nên phải quanh quanh co co. Cưỡi ngựa tức là muốn đi, muốn theo kẻ chính đính ứng nhau với mình mà lại rẽ ra không thể tiến lên. Hào Hai gặp đời truân nan, tuy là không thể tự giúp cho mình, mà nó ở giữa, được ngôi chính, có kẻ hưởng ứng ở trên, không mất đạo nghĩa. Nhưng nó bị tức về hào Đầu, Âm là cái mà Dương vân tìm, mềm là cái mà cứng vẫn lấn, thể mềm đương lúc truân nan, vẫn khó tự giúp, lại bị Dương cương vẫn bức, nên mới là nạn, nếu không bị bức về giặc nạn thì nó sẽ đi mà tìm dâu gia, dâu gia tức là kẻ chính ứng trên kia rồi. Giặc là chỉ vào kẻ phi lý mà đến. Hào Hai giữ nết trung chính, không cẩu thả họp nhau với hào Đầu, cho nên không sinh đẻ. Nếu cứ chính bền không thay đổi, cho tới mười năm, truân nan cực điểm, phải thông đạt, sẽ được kẻ chính đính ứng với mà sinh con, nuôi con. Là hạng con gái Âm nhu, mà giữ được chí tiết, lâu rồi cũng được thông đạt, huống chi là hạng quân tử giữ đạo mà không cong queo. Hào Đầu là người hiền minh cương chính mà lại là giặc để bức người ta, là sao? Đáp rằng: Đây cứ theo nghĩa “hào Hai là mềm gần cứng” không kể cái đức hào Đầu ra sao. Sự dùng nghĩa của Kinh Dịch như thế.",
-    "bản_nghĩa_của_Chu_Hy": "班(ban) là bộ điệụ chia rẽ không tiến 字(tự) là hứa gả chồng. Kinh Lễ nói rằng: “Con gái hứa gả chồng, thì cài trâm và đặt tên chữ”. Hào Sáu Hai Âm nhu trung chính, có kẻ hưởng ứng ở trên, mà lại cười lên hào Đầu là hào Dương cương, cho nên bị ngăn cản mà phải quanh co không tiến. Nhưng hào Đầu không phải giặc cướp, là kẻ cầu làm hôn nhân với mình, có điều mình vẫn giữ thói đính chính, không ứng với nó, mãi đến mười năm, số cùng, lý cực, thì kẻ tìm càn kia phải đi, kẻ hưửng ứng chính đáng họp lại mà có thể ứng. Hào này có tượng ấy, nên mới nhân đó mà răn kẻ xem.",
-    "lời_bàn_của_tiên_nho": "Chu Hy nói rằng: Họ Cảnh giải câu ⼥ ⼦貞不字 (nữ tử trinh bất tự) dùng điển “hứa gả chồng, cài trâm, mà đặt tên chữ” cho 貞不字(trinh bất tự) là chưa hứa gả chồng, với nghĩa hai chữ 婚媾(hôn cấu) thông nhau, cũng là nói rất có lý. Y Xuyên thì cho 字(tự) là nuôi nấng. Hỏi rằng: Trong câu “mười năm mới đặt tên chữ” chữ “mười năm” đó có phải chỉ về số cùng lý cực mà nói hay không? Đáp rằng: Trong Kinh Dịch, những chỗ dùng Tượng như thế đều không thể hiểu. Như nói mười năm, ba năm, bảy ngày, tám tháng, đều có chỉ về cái gì, có điều bây giờ không thể giải bằng một cách xuyên tạc, vậy thì hãy chừa lại đó.",
+    "content_type": "interpretation",
     "notes": {
       "1": "Tức là Khảm.",
       "2": "Tức là Chấn.",
       "3": "Chỉ về Chấn.",
       "4": "Chỉ về Khảm."
-    }
+    },
+    "lời_kinh": "六⼆:屯如,遭如,乘⾺班如,匪⿁, 婚媾,⼥与貞⽷字,⼗年⾘字.",
+    "dịch_âm": "Lục Nhị: Truân như, chiên như, thừa mã ban như! Phỉ khẩu, hôn cấu. Nữ tử trinh bất tự, thập niên nãi tự.",
+    "dịch_nghĩa": "Hào Sáu Hai: Dường quanh co vậy, đường cưỡi ngựa rẽ ra vậy. Chẳng phải giặc: dâu gia. Con gái trinh tiết không đặt tên chữ, mười năm mới đặt tên chữ.",
+    "truyện_của_Trình_Di": null,
+    "bản_nghĩa_của_Chu_Hy": "班(ban) là bộ điệụ chia rẽ không tiến 字(tự) là hứa gả chồng. Kinh Lễ nói rằng: “Con gái hứa gả chồng, thì cài trâm và đặt tên chữ”. Hào Sáu Hai Âm nhu trung chính, có kẻ hưởng ứng ở trên, mà lại cười lên hào Đầu là hào Dương cương, cho nên bị ngăn cản mà phải quanh co không tiến. Nhưng hào Đầu không phải giặc cướp, là kẻ cầu làm hôn nhân với mình, có điều mình vẫn giữ thói đính chính, không ứng với nó, mãi đến mười năm, số cùng, lý cực, thì kẻ tìm càn kia phải đi, kẻ hưửng ứng chính đáng họp lại mà có thể ứng. Hào này có tượng ấy, nên mới nhân đó mà răn kẻ xem.",
+    "lời_bàn_của_tiên_nho": "Chu Hy nói rằng: Họ Cảnh giải câu ⼥ ⼦貞不字 (nữ tử trinh bất tự) dùng điển “hứa gả chồng, cài trâm, mà đặt tên chữ” cho 貞不字(trinh bất tự) là chưa hứa gả chồng, với nghĩa hai chữ 婚媾(hôn cấu) thông nhau, cũng là nói rất có lý. Y Xuyên thì cho 字(tự) là nuôi nấng. Hỏi rằng: Trong câu “mười năm mới đặt tên chữ” chữ “mười năm” đó có phải chỉ về số cùng lý cực mà nói hay không? Đáp rằng: Trong Kinh Dịch, những chỗ dùng Tượng như thế đều không thể hiểu. Như nói mười năm, ba năm, bảy ngày, tám tháng, đều có chỉ về cái gì, có điều bây giờ không thể giải bằng một cách xuyên tạc, vậy thì hãy chừa lại đó."
   },
   {
     "chunk_id": "QUE_TRUAN_008",
     "hexagram": "QUE_TRUAN",
     "que": null,
-    "lời_kinh": "象⽈:六⼆之難,乘剛也,⼗年乃字,反常也.",
-    "dịch_âm": "Tượng viết: Lục Nhị chi nạn, thừa cương dã; thập niên nãi tự, phản thường dã.",
-    "dịch_nghĩa": "Lời Tượng nói rằng: Cái nạn của hào Sáu Hai là vì cưỡi lên Dương cương. Mười năm mới đặt tên chữ, trở lại sự thường vậy. , GIẢI NGHĨA",
-    "truyện_của_Trình_Di": "Hào Sáu Hai ở vào thời truân mà lại cưỡi lên Dương cương, bị kẻ Dương cương lấn bức, đó là cái nạn. Đến mười năm thì nạn đã lâu, ắt phải hanh thông, mới được trở lại sự thường mà hợp với kẻ chính ứng. Mười là cùng tận của số.",
-    "bản_nghĩa_của_Chu_Hy": null,
-    "lời_bàn_của_tiên_nho": null,
+    "content_type": "interpretation",
     "notes": {
       "1": "Tức là Khảm.",
       "2": "Tức là Chấn.",
       "3": "Chỉ về Chấn.",
       "4": "Chỉ về Khảm."
-    }
+    },
+    "lời_kinh": "象⽈:六⼆之難,乘剛也,⼗年乃字,反常也.",
+    "dịch_âm": "Tượng viết: Lục Nhị chi nạn, thừa cương dã; thập niên nãi tự, phản thường dã.",
+    "dịch_nghĩa": "Lời Tượng nói rằng: Cái nạn của hào Sáu Hai là vì cưỡi lên Dương cương. Mười năm mới đặt tên chữ, trở lại sự thường vậy. ,",
+    "truyện_của_Trình_Di": null,
+    "bản_nghĩa_của_Chu_Hy": null,
+    "lời_bàn_của_tiên_nho": null
   },
   {
     "chunk_id": "QUE_TRUAN_009",
     "hexagram": "QUE_TRUAN",
     "que": null,
-    "lời_kinh": "六三:即⿅無虞,惟⼊于林中,君⼦幾不如舍,往吝.",
-    "dịch_âm": "Lục Tam: Tức lộc vô ngu, duy nhập vu lâm trung, quân tử cơ bất như xả, vãng lận.",
-    "dịch_nghĩa": "Hào Sáu Ba: Theo hươu không có ngu nhân, chỉ vào trong rừng. Đấng quân tử biết cơ, không bằng bỏ đi thì hối tiếc. GIẢI NGHĨA",
-    "truyện_của_Trình_Di": "Sáu Ba là hào Âm như ở ngôi cương, cái tài mềm yếu đã không thể làm yên sự truân nan, lại ở ngôi cương mà không chính giữa, thì phải động càn, nó chi tham về cái vẫn tìm, đã không tự giúp cho mình mà lại không có ứng viện, thì sẽ đi đâu? Giống như theo hươu mà không có ngu nhân. Những người vào nơi rừng núi, phải có ngu nhân đưa đường, nếu không có kẻ đưa đường, thì chỉ hãm vào rừng rậm mà thôi. Đấng quân tử nhìn thấy cơ vi của công việc, bất nhược bỏ đó đừng theo. Nếu đi, thì chỉ mua lây sự cùng khốn.",
-    "bản_nghĩa_của_Chu_Hy": "Hào Âm nhu, ở dưới, không giữa, không chính, nên không có kẻ chính ứng, đi càn để mua lấy sự cùng khốn, đó là cái Tượng theo hươu không có ngu nhân, hãm vào trong rừng. Đấng quân tử kiến cơ, chẳng bằng bỏ quách; nếu đi đuổi mà không bỏ, ắt bị thẹn tiếc. Răn kẻ xem phải nên như thế.",
-    "lời_bàn_của_tiên_nho": null,
+    "content_type": "interpretation",
     "notes": {
       "1": "Tức là Khảm.",
       "2": "Tức là Chấn.",
       "3": "Chỉ về Chấn.",
       "4": "Chỉ về Khảm."
-    }
+    },
+    "lời_kinh": "六三:即⿅無虞,惟⼊于林中,君⼦幾不如舍,往吝.",
+    "dịch_âm": "Lục Tam: Tức lộc vô ngu, duy nhập vu lâm trung, quân tử cơ bất như xả, vãng lận.",
+    "dịch_nghĩa": "Hào Sáu Ba: Theo hươu không có ngu nhân, chỉ vào trong rừng. Đấng quân tử biết cơ, không bằng bỏ đi thì hối tiếc.",
+    "truyện_của_Trình_Di": null,
+    "bản_nghĩa_của_Chu_Hy": "Hào Âm nhu, ở dưới, không giữa, không chính, nên không có kẻ chính ứng, đi càn để mua lấy sự cùng khốn, đó là cái Tượng theo hươu không có ngu nhân, hãm vào trong rừng. Đấng quân tử kiến cơ, chẳng bằng bỏ quách; nếu đi đuổi mà không bỏ, ắt bị thẹn tiếc. Răn kẻ xem phải nên như thế.",
+    "lời_bàn_của_tiên_nho": null
   },
   {
     "chunk_id": "QUE_TRUAN_010",
     "hexagram": "QUE_TRUAN",
     "que": null,
-    "lời_kinh": "象⽈:即虎無虞,以從禽也,君⼦舍之,往吝窮也.",
-    "dịch_âm": "Tượng viết: Tức lộc vô ngu, dĩ tòng cầm dã; quân tử xả chi, vãng lận cùng dã.",
-    "dịch_nghĩa": "Lời Tượng nói rằng: Theo hươu không có ngu nhân, vì theo mồi vậy. Đấng quân tử bỏ đó, là vì thì hối tiếc cùng khốn. GIẢI NGHĨA Tĩ*uyện của Trình Di. - Việc không thể làm mà cứ động càn, vì theo ý muốn của mình. Không có ngu nhân mà đi theo hươu, vì tham cái mồi. Đương thời truân nan, không thể động mà cứ động, cũng như không có ngu nhân mà đi theo hươu, là vì có lòng theo mồi. Quân tử thì thấy cơ mà bỏ không theo, nếu đi ắt phải hối tiếc cùng khốn.",
-    "truyện_của_Trình_Di": null,
-    "bản_nghĩa_của_Chu_Hy": null,
-    "lời_bàn_của_tiên_nho": null,
+    "content_type": "interpretation",
     "notes": {
       "1": "Tức là Khảm.",
       "2": "Tức là Chấn.",
       "3": "Chỉ về Chấn.",
       "4": "Chỉ về Khảm."
-    }
+    },
+    "lời_kinh": "象⽈:即虎無虞,以從禽也,君⼦舍之,往吝窮也.",
+    "dịch_âm": "Tượng viết: Tức lộc vô ngu, dĩ tòng cầm dã; quân tử xả chi, vãng lận cùng dã.",
+    "dịch_nghĩa": "Lời Tượng nói rằng: Theo hươu không có ngu nhân, vì theo mồi vậy. Đấng quân tử bỏ đó, là vì thì hối tiếc cùng khốn.",
+    "truyện_của_Trình_Di": null,
+    "bản_nghĩa_của_Chu_Hy": null,
+    "lời_bàn_của_tiên_nho": null
   },
   {
     "chunk_id": "QUE_TRUAN_011",
     "hexagram": "QUE_TRUAN",
     "que": null,
-    "lời_kinh": "六四:乘⾺班如,求婚媾,往吉,無不利.",
-    "dịch_âm": "Lục Tứ: Thừa mã ban như, cầu hôn cấu, vãng cát, vô bất lợi.",
-    "dịch_nghĩa": "Hào Sáu Tư: Cưỡi ngựa dường rẽ ra vậy, tìm dâu gia, đi thì tốt, không gì không lợi. GIẢI NGHĨA",
-    "truyện_của_Trình_Di": "Sáu Tư là hào mềm thuận, ở ngôi gần vua, ấy là tương đắc với người trên, mà tài không đủ làm qua cảnh truân, cho nên muốn tiến lại thôi, như người cưỡi ngựa rẽ ra. Mình đã không thể làm qua cảnh truân của đời, nếu tìm người để giúp cho mình có thể qua. Hào Đầu là người hiền có đức Dương cương, tức là kẻ dâu gia chính ứng với mình, nếu tìm hạng dâu gia Dương cương ấy để đi cùng giúp ông vua Dương cương trung chính mà làm cho qua cảnh truân của đời, thì tốt, mà không cái gì không lợi. Ở ngôi công khanh, tài mình không đủ làm qua cảnh truân của đời, nhưng nếu biết những người hiền thân ở dưới mà dùng, thì làm gì không được?",
-    "bản_nghĩa_của_Chu_Hy": "Hào Âm nhu ở vào cảnh truân nan không thể tiến lên, cho nên là tượng cưỡi ngựa rẽ ra. Nhưng có hào Đầu, giữ đường chính đính, ở dưới để ứng với mình, cho nên lời chiêm là xuống tìm dâu gia thì tốt.",
-    "lời_bàn_của_tiên_nho": null,
+    "content_type": "interpretation",
     "notes": {
       "1": "Tức là Khảm.",
       "2": "Tức là Chấn.",
       "3": "Chỉ về Chấn.",
       "4": "Chỉ về Khảm."
-    }
+    },
+    "lời_kinh": "六四:乘⾺班如,求婚媾,往吉,無不利.",
+    "dịch_âm": "Lục Tứ: Thừa mã ban như, cầu hôn cấu, vãng cát, vô bất lợi.",
+    "dịch_nghĩa": "Hào Sáu Tư: Cưỡi ngựa dường rẽ ra vậy, tìm dâu gia, đi thì tốt, không gì không lợi.",
+    "truyện_của_Trình_Di": null,
+    "bản_nghĩa_của_Chu_Hy": "Hào Âm nhu ở vào cảnh truân nan không thể tiến lên, cho nên là tượng cưỡi ngựa rẽ ra. Nhưng có hào Đầu, giữ đường chính đính, ở dưới để ứng với mình, cho nên lời chiêm là xuống tìm dâu gia thì tốt.",
+    "lời_bàn_của_tiên_nho": null
   },
   {
     "chunk_id": "QUE_TRUAN_012",
     "hexagram": "QUE_TRUAN",
     "que": null,
-    "lời_kinh": "象⽈:求⽽往,明也.",
-    "dịch_âm": "Tượng viết: Cầu nhĩ vãng, minh dã.",
-    "dịch_nghĩa": "Lời Tượng nói rằng: Tìm mà đi, sáng vậy. GIẢI NGHĨA",
-    "truyện_của_Trình_Di": "Biết là mình không đủ tài, tìm người hiền để giúp cho mình, rồi mau mới đi, có thể bảo là người sáng. Ở vào cái ngôi có thể làm được, mình không làm nổi, mà thôi, thì là một kẻ rất tối.",
-    "bản_nghĩa_của_Chu_Hy": null,
-    "lời_bàn_của_tiên_nho": null,
+    "content_type": "interpretation",
     "notes": {
       "1": "Tức là Khảm.",
       "2": "Tức là Chấn.",
       "3": "Chỉ về Chấn.",
       "4": "Chỉ về Khảm."
-    }
+    },
+    "lời_kinh": "象⽈:求⽽往,明也.",
+    "dịch_âm": "Tượng viết: Cầu nhĩ vãng, minh dã.",
+    "dịch_nghĩa": "Lời Tượng nói rằng: Tìm mà đi, sáng vậy.",
+    "truyện_của_Trình_Di": null,
+    "bản_nghĩa_của_Chu_Hy": null,
+    "lời_bàn_của_tiên_nho": null
   },
   {
     "chunk_id": "QUE_TRUAN_013",
     "hexagram": "QUE_TRUAN",
     "que": null,
-    "lời_kinh": "九五:屯其⾻,⼩貞吉,⼤貞凶.",
-    "dịch_âm": "Cửu Ngũ: Truân kỳ cao, tiểu trinh cát, đại trinh hung.",
-    "dịch_nghĩa": "Hào Chín Năm: Gian truân thửa ơn huệ, nhỏ mà trinh thì lành, lớn mà trinh thì dữ. GIẢI NGHĨA Truyện của Trình Đi. - Hào Năm ở ngôi tôn được chỗ chính, mà gặp thời truân, nếu có người hiền nào bậc cương minh giúp đỡ, thì có thể qua được cảnh truân. Vì không có bề tôi, cho nên mới truân. Đã có sự tôn trọng của đấng nhân quân tuy ở vào đời truân nan, về danh vị vẫn không hại gì, có điều sự thi thố không được, đức trạch không lan xuống, thế là truân về ân huệ, tức là cảnh truân của đâng nhân quân. Âm trạch đã không lan xuống, thì uy quyền không còn ở mình; uy quyền đã mất mà muốn lấy lại bằng cách gấp vội ấy là rước lấy sự không hay… cho nên, nhỏ mà chinh thi tốt. Nhỏ mà chính nghĩa là chính lại dần dần, như Bàn Canh nhà Thương, Tuyên Vương nhà Chu, sửa đức mình, dùng người hiền, khôi phục chính sự của tiên vương, chư hầu lại chầu. Nghĩa là dùng cách đưa đến từ từ, để cho họ khỏi làm điều bạo ngược.",
-    "truyện_của_Trình_Di": null,
-    "bản_nghĩa_của_Chu_Hy": null,
-    "lời_bàn_của_tiên_nho": null,
+    "content_type": "interpretation",
     "notes": {
       "1": "Tức là Khảm.",
       "2": "Tức là Chấn.",
       "3": "Chỉ về Chấn.",
       "4": "Chỉ về Khảm."
-    }
+    },
+    "lời_kinh": "九五:屯其⾻,⼩貞吉,⼤貞凶.",
+    "dịch_âm": "Cửu Ngũ: Truân kỳ cao, tiểu trinh cát, đại trinh hung.",
+    "dịch_nghĩa": "Hào Chín Năm: Gian truân thửa ơn huệ, nhỏ mà trinh thì lành, lớn mà trinh thì dữ.",
+    "truyện_của_Trình_Di": null,
+    "bản_nghĩa_của_Chu_Hy": null,
+    "lời_bàn_của_tiên_nho": null
   },
   {
     "chunk_id": "QUE_TRUAN_014",
     "hexagram": "QUE_TRUAN",
     "que": null,
-    "lời_kinh": "象⽈: 貞其⾻, 施未光也.",
-    "dịch_âm": "Tượng viết: Truân kỳ cao, thỉ vị quang dã.",
-    "dịch_nghĩa": "Lời Tượng nói rằng: Truân thửa ơn huệ, ơn đức chưa sáng vậy. GIẢI NGHĨA",
-    "truyện_của_Trình_Di": "Ơn trạch lan xuống, cho nên đức thì chưa sáng lớn, đó là cảnh truân của đấng nhân quân.",
-    "bản_nghĩa_của_Chu_Hy": null,
-    "lời_bàn_của_tiên_nho": null,
+    "content_type": "interpretation",
     "notes": {
       "1": "Tức là Khảm.",
       "2": "Tức là Chấn.",
       "3": "Chỉ về Chấn.",
       "4": "Chỉ về Khảm."
-    }
+    },
+    "lời_kinh": "象⽈: 貞其⾻, 施未光也.",
+    "dịch_âm": "Tượng viết: Truân kỳ cao, thỉ vị quang dã.",
+    "dịch_nghĩa": "Lời Tượng nói rằng: Truân thửa ơn huệ, ơn đức chưa sáng vậy.",
+    "truyện_của_Trình_Di": null,
+    "bản_nghĩa_của_Chu_Hy": null,
+    "lời_bàn_của_tiên_nho": null
   },
   {
     "chunk_id": "QUE_TRUAN_015",
     "hexagram": "QUE_TRUAN",
     "que": null,
-    "lời_kinh": "上六:乘⾺班如, 泣⾎建如.",
-    "dịch_âm": "Thượng Lục: Thừa mã ban như, khấp huyết liên như.",
-    "dịch_nghĩa": "Hào Sáu Trên: Cưỡi ngựa dường rẽ ra vậy; khóc ra máu đầm đìa vậy. GIẢI NGHĨA",
-    "truyện_của_Trình_Di": "Hào Sáu là Âm nhu, nhằm cuối quẻ Truân , ở chỗ hiểm cực mà không có kẻ ứng viện, ở thì không yên, động thì không có chỗ đi, cưỡi ngựa muốn đi, lại phải rẽ ngang không tiến, cùng truân quá đỗi, đến nỗi khóc ra máu mắt đầm đìa, đó là truân đến cùng cực. Nếu là Dương cương mà có kẻ giúp, thì khi truân đã cùng cực có thể qua được.",
-    "bản_nghĩa_của_Chu_Hy": "Hào Âm không có ứng viện, ở cuối cảnh truân, tiến nữa thì không có chỗ đi, chỉ có lo sợ mà thôi, cho nên tượng nó như thế.",
-    "lời_bàn_của_tiên_nho": null,
+    "content_type": "interpretation",
     "notes": {
       "1": "Tức là Khảm.",
       "2": "Tức là Chấn.",
       "3": "Chỉ về Chấn.",
       "4": "Chỉ về Khảm."
-    }
+    },
+    "lời_kinh": "上六:乘⾺班如, 泣⾎建如.",
+    "dịch_âm": "Thượng Lục: Thừa mã ban như, khấp huyết liên như.",
+    "dịch_nghĩa": "Hào Sáu Trên: Cưỡi ngựa dường rẽ ra vậy; khóc ra máu đầm đìa vậy.",
+    "truyện_của_Trình_Di": null,
+    "bản_nghĩa_của_Chu_Hy": "Hào Âm không có ứng viện, ở cuối cảnh truân, tiến nữa thì không có chỗ đi, chỉ có lo sợ mà thôi, cho nên tượng nó như thế.",
+    "lời_bàn_của_tiên_nho": null
   },
   {
     "chunk_id": "QUE_TRUAN_016",
     "hexagram": "QUE_TRUAN",
     "que": null,
-    "lời_kinh": "象⽈:泣⾎建如, 何可表也.",
-    "dịch_âm": "Tượng viết: Khấp huyết liên như, hà khả trường dã?",
-    "dịch_nghĩa": "Lời tượng nói rằng: Khóc ra máu đầm đìa vậy, sao thể lâu được! GIẢI NGHĨA",
-    "truyện_của_Trình_Di": "Truân nan cùng cực không biết làm gì, cho nên đến nỗi khóc ra máu mắt, điên bái như thế thì còn có thể dài lâu được ư ? Quẻ tức là việc, hào tức là thời của việc, chia làm ba mà lại gấp lên hai lần, đủ để bao quát các lẽ. Theo đó mà suy cho rộng ra việc của thiên hạ hết rồi.",
-    "bản_nghĩa_của_Chu_Hy": null,
-    "lời_bàn_của_tiên_nho": "Khâu Kiến An nói rằng: Quẻ Truân sáu hào; hai hào Dương bốn hào Âm. Hết thảy các quẻ đều dùng những hào Âm Dương ít nhất làm chủ, cho nên quẻ này hai hào Dương làm chủ bốn hào Âm. Nhưng hào Năm ở thể Khảm, hãm mà thất thế, hào Đầu ở thể Chấn động mà được thời, cho nên hào Đầu là chủ quẻ Truân . Hào ấy nói rằng: “Lợi về ở đính chính”, “lợi về sự dựng tước hầu” thế thì quẻ ấy chủ về cái gì có thể biết rồi. Chú thích: [1] Tức là Khảm. [2] Tức là Chấn. [3] Chỉ về Chấn. [4] Chỉ về Khảm.",
+    "content_type": "interpretation",
     "notes": {
       "1": "Tức là Khảm.",
       "2": "Tức là Chấn.",
       "3": "Chỉ về Chấn.",
       "4": "Chỉ về Khảm."
-    }
+    },
+    "lời_kinh": "象⽈:泣⾎建如, 何可表也.",
+    "dịch_âm": "Tượng viết: Khấp huyết liên như, hà khả trường dã?",
+    "dịch_nghĩa": "Lời tượng nói rằng: Khóc ra máu đầm đìa vậy, sao thể lâu được!",
+    "truyện_của_Trình_Di": null,
+    "bản_nghĩa_của_Chu_Hy": null,
+    "lời_bàn_của_tiên_nho": "Khâu Kiến An nói rằng: Quẻ Truân sáu hào; hai hào Dương bốn hào Âm. Hết thảy các quẻ đều dùng những hào Âm Dương ít nhất làm chủ, cho nên quẻ này hai hào Dương làm chủ bốn hào Âm. Nhưng hào Năm ở thể Khảm, hãm mà thất thế, hào Đầu ở thể Chấn động mà được thời, cho nên hào Đầu là chủ quẻ Truân . Hào ấy nói rằng: “Lợi về ở đính chính”, “lợi về sự dựng tước hầu” thế thì quẻ ấy chủ về cái gì có thể biết rồi."
   }
 ]

@@ -3,6 +3,7 @@
     "chunk_id": "QUE_QUAN_001",
     "hexagram": "QUE_QUAN",
     "que": null,
+    "content_type": "preface",
     "lời_kinh": null,
     "dịch_âm": null,
     "dịch_nghĩa": null,
@@ -19,272 +20,289 @@
     "chunk_id": "QUE_QUAN_002",
     "hexagram": "QUE_QUAN",
     "que": null,
-    "lời_kinh": "觀盥⽽不薦,有孚顒若.",
-    "dịch_âm": "Quan, quán nhi bất tiến, hữu phu ngung nhược.",
-    "dịch_nghĩa": "Quẻ quan , rửa mà không cứng, có tin, dường cung kính vậy. GIẢI NGHĨA",
-    "truyện_của_Trình_Di": null,
-    "bản_nghĩa_của_Chu_Hy": "觀 (Quán) là lấy sự trung chính bảo người, bị người ngửa lên mà trông. Hào Chín Năm ở trên, bốn hào Âm ngửa lên trông nó; lại, trong thuận người nhún, mà hào Chín Năm lấy sự trung chính bảo thiên hạ, cho nên là quan 盥 (quan) là khi sắp tế rửa tay cho sạch; 薦 (tiến) là bưng rượu, đồ ăn để tế 顒然 (ngung nhiên) là vẻ tôn kính: ý nói hết lòng tinh khiết mà không khinh thường tự dụng, thì sự phu tín ở trong, ra vẻ trang kính đáng xem. Răn kẻ xem phải nên như thế. Hoặc có người nói: # (hữu phu ngưng nhược), nghĩa là người dưới tin mà ngửa lên xem mình. Quẻ này bốn hào Âm dương lớn là hai hào Dương phải tiêu chính là quẻ tháng tám, mà về sự đặt tên quẻ, lời Hệ lại lấy nghĩa khác, cũng là ý phò Dương nén Âm.",
-    "lời_bàn_của_tiên_nho": null,
+    "content_type": "interpretation",
     "notes": {
       "1": "Chữ 觀 có âm là quan, nghĩa là xem, lại có âm là quán, nghĩa là bị xem.",
       "2": "Chữ 觀 có âm là quan, nghĩa là xem, lại có âm là quán, nghĩa là bị xem",
       "3": "Tức là chính trị giáo hóa."
-    }
+    },
+    "lời_kinh": "觀盥⽽不薦,有孚顒若.",
+    "dịch_âm": "Quan, quán nhi bất tiến, hữu phu ngung nhược.",
+    "dịch_nghĩa": "Quẻ quan , rửa mà không cứng, có tin, dường cung kính vậy.",
+    "truyện_của_Trình_Di": "Ta nghe Hồ Dực Chi tiên sinh nói rằng: “Đấng quân tử ở trên, làm nêu cho thiên hạ, nghĩa là phải cực kỳ trang kính, thì kẻ dưới ngửa xem mà hóa. Cho nên làm người để thiên hạ xem, phải như cuộc tế tôn miếu, trong khi mới rửa, không thể như sau khi đã cúng, thì kẻ hạ dân hết lòng chí thành cung kính mà ngửa xem mình”. Rửa là lúc bắt đầu tế tự, rửa tay rót rượu cự xưởng xuống đất để cầu thần; cúng là lúc dâng đồ tươi, dâng đồ chín. Rửa tay là khi việc mới bắt đầu, người ta đương hết lòng tinh thành, nghiêm trang tột bậc. Sau khi đã cúng, lễ số phiền phức rắc rối, thì lòng người tản mác mà sự tinh nhất không bằng lúc mới rửa tay. Kẻ ở trên, làm cho biểu ghi ngay thẳng, để kẻ hạ dân xem lên, thì nên trang kính như khi tế mới rửa tay, chớ để thành ý hơi tan, như lúc tế đã cúng rồi, thì người thiên hạ, ai cũng hết lòng tin thật, ngửa lên xem mình. Ngung là ngửa lên mà trông.",
+    "bản_nghĩa_của_Chu_Hy": "觀 (Quán) là lấy sự trung chính bảo người, bị người ngửa lên mà trông. Hào Chín Năm ở trên, bốn hào Âm ngửa lên trông nó; lại, trong thuận người nhún, mà hào Chín Năm lấy sự trung chính bảo thiên hạ, cho nên là quan 盥 (quan) là khi sắp tế rửa tay cho sạch; 薦 (tiến) là bưng rượu, đồ ăn để tế 顒然 (ngung nhiên) là vẻ tôn kính: ý nói hết lòng tinh khiết mà không khinh thường tự dụng, thì sự phu tín ở trong, ra vẻ trang kính đáng xem. Răn kẻ xem phải nên như thế. Hoặc có người nói: # (hữu phu ngưng nhược), nghĩa là người dưới tin mà ngửa lên xem mình. Quẻ này bốn hào Âm dương lớn là hai hào Dương phải tiêu chính là quẻ tháng tám, mà về sự đặt tên quẻ, lời Hệ lại lấy nghĩa khác, cũng là ý phò Dương nén Âm.",
+    "lời_bàn_của_tiên_nho": null
   },
   {
     "chunk_id": "QUE_QUAN_003",
     "hexagram": "QUE_QUAN",
     "que": null,
-    "lời_kinh": "彖⽈: ⼤觀在上,順⽽巽,中正以觀天下.",
-    "dịch_âm": "Thoán viết: Đại quan tại thượng, thuận nhi tốn, trung chính dĩ quan thiên hạ. Dịch nghĩa - Lời Thoán nói rằng: Xem lớn ở trên, thuận mà nhún, trung chính để thiên hạ xem. GIẢI NGHĨA",
-    "dịch_nghĩa": null,
-    "truyện_của_Trình_Di": null,
-    "bản_nghĩa_của_Chu_Hy": "Đây dùng thể quẻ, đức quẻ để thích nghĩa tên quẻ.",
-    "lời_bàn_của_tiên_nho": null,
+    "content_type": "interpretation",
     "notes": {
       "1": "Chữ 觀 có âm là quan, nghĩa là xem, lại có âm là quán, nghĩa là bị xem.",
       "2": "Chữ 觀 có âm là quan, nghĩa là xem, lại có âm là quán, nghĩa là bị xem",
       "3": "Tức là chính trị giáo hóa."
-    }
+    },
+    "lời_kinh": "彖⽈: ⼤觀在上,順⽽巽,中正以觀天下.",
+    "dịch_âm": "Thoán viết: Đại quan tại thượng, thuận nhi tốn, trung chính dĩ quan thiên hạ. Dịch nghĩa - Lời Thoán nói rằng: Xem lớn ở trên, thuận mà nhún, trung chính để thiên hạ xem.",
+    "dịch_nghĩa": null,
+    "truyện_của_Trình_Di": "Hào Năm ở ngôi tôn, lấy đức Dương cương trung chính, làm cho kẻ dưới xem lên, đức ấy rất lớn, cho nên nói là “xem lớn ở trên”. Dưới khôn mà trên Tốn, ấy là biết thuận mà nhún. Đó là hào Năm ở chỗ trung chính, lấy đức trung chính nhún thuận làm cái xem cho thiên hạ.",
+    "bản_nghĩa_của_Chu_Hy": "Đây dùng thể quẻ, đức quẻ để thích nghĩa tên quẻ.",
+    "lời_bàn_của_tiên_nho": null
   },
   {
     "chunk_id": "QUE_QUAN_004",
     "hexagram": "QUE_QUAN",
     "que": null,
-    "lời_kinh": "觀盥⽽不薦,不孚釋若,不觀⽽化也.",
-    "dịch_âm": "Quan, quán nhi bất tiến, hữu phu ngung nhược, hạ quan nhi hóa dã.",
-    "dịch_nghĩa": "Quẻ quán , rửa mà không cúng, có tin, dường cung kính vậy, ấy là kẻ dưới xem mà hóa vậy. GIẢI NGHĨA",
-    "truyện_của_Trình_Di": null,
-    "bản_nghĩa_của_Chu_Hy": null,
-    "lời_bàn_của_tiên_nho": null,
+    "content_type": "interpretation",
     "notes": {
       "1": "Chữ 觀 có âm là quan, nghĩa là xem, lại có âm là quán, nghĩa là bị xem.",
       "2": "Chữ 觀 có âm là quan, nghĩa là xem, lại có âm là quán, nghĩa là bị xem",
       "3": "Tức là chính trị giáo hóa."
-    }
+    },
+    "lời_kinh": "觀盥⽽不薦,不孚釋若,不觀⽽化也.",
+    "dịch_âm": "Quan, quán nhi bất tiến, hữu phu ngung nhược, hạ quan nhi hóa dã.",
+    "dịch_nghĩa": "Quẻ quán , rửa mà không cúng, có tin, dường cung kính vậy, ấy là kẻ dưới xem mà hóa vậy.",
+    "truyện_của_Trình_Di": "Cách làm cái xem cho thiên hạ, phải nghiêm kính như khi cuộc tế mới rửa tay, thì kẻ hạ dân thành thật ngửa xem, theo mình mà hóa. Không cúng nghĩa là không để thành ý hơi tan. Bản nghĩa của Chư Hy. - Đây thích lời quẻ.",
+    "bản_nghĩa_của_Chu_Hy": null,
+    "lời_bàn_của_tiên_nho": null
   },
   {
     "chunk_id": "QUE_QUAN_005",
     "hexagram": "QUE_QUAN",
     "que": null,
-    "lời_kinh": "觀天之神道,⽽四時不忒.聖⼈以神⽽关下矣.",
-    "dịch_âm": "Quan thiên chỉ thần đạo nhi tứ thì bất thắc: thánh nhân dĩ thần đạo thiết giáo, nhi thiên hạ phục hỹ.",
-    "dịch_nghĩa": "Xem thần đạo của trời mà bốn mùa không sai; đấng thánh nhân dùng thần đạo đặt sự dạy bảo mà thiên hạ phục vậy. GIẢI NGHĨA",
-    "truyện_của_Trình_Di": null,
-    "bản_nghĩa_của_Chu_Hy": "Đây là nói cho cùng cực sự xem. Bốn mùa không sai, đó là trời làm cái xem; dùng đạo thần đặt sự dạy bảo, đó là đáng thánh nhân làm cái xem.",
-    "lời_bàn_của_tiên_nho": null,
+    "content_type": "interpretation",
     "notes": {
       "1": "Chữ 觀 có âm là quan, nghĩa là xem, lại có âm là quán, nghĩa là bị xem.",
       "2": "Chữ 觀 có âm là quan, nghĩa là xem, lại có âm là quán, nghĩa là bị xem",
       "3": "Tức là chính trị giáo hóa."
-    }
+    },
+    "lời_kinh": "觀天之神道,⽽四時不忒.聖⼈以神⽽关下矣.",
+    "dịch_âm": "Quan thiên chỉ thần đạo nhi tứ thì bất thắc: thánh nhân dĩ thần đạo thiết giáo, nhi thiên hạ phục hỹ.",
+    "dịch_nghĩa": "Xem thần đạo của trời mà bốn mùa không sai; đấng thánh nhân dùng thần đạo đặt sự dạy bảo mà thiên hạ phục vậy.",
+    "truyện_của_Trình_Di": "Đạo trời rất thiêng, cho nên gọi là thần đạo. Xem sự vận hành của trời, bốn mùa không hề sai lỗi, thì thấy được sự thần diệu của trời. Đấng thánh nhân thấy đạo trời thiêng liêng, thể theo cái thần đạo đó mà đặt ra sự dạy bảo, cho nên thiên hạ không ai không phục.",
+    "bản_nghĩa_của_Chu_Hy": "Đây là nói cho cùng cực sự xem. Bốn mùa không sai, đó là trời làm cái xem; dùng đạo thần đặt sự dạy bảo, đó là đáng thánh nhân làm cái xem.",
+    "lời_bàn_của_tiên_nho": null
   },
   {
     "chunk_id": "QUE_QUAN_006",
     "hexagram": "QUE_QUAN",
     "que": null,
-    "lời_kinh": "象⽈: ⾵⾏地上,觀.先王以省⽅觀民設教.",
-    "dịch_âm": "Tượng viết: Phong hành địa thượng, quán, tiên vương dĩ tỉnh phương, quan dân, thiết giáo.",
-    "dịch_nghĩa": "Lời Tượng nói rằng: Gió đi trên đất là quẻ Quán , đấng tiên vương coi đó mà xét các phương, xem tục dân, đặt sự dạy. GIẢI NGHĨA",
-    "truyện_của_Trình_Di": null,
-    "bản_nghĩa_của_Chu_Hy": "Xét các phương để xem dân, đặt sự dạy để làm cái xem.",
-    "lời_bàn_của_tiên_nho": null,
+    "content_type": "interpretation",
     "notes": {
       "1": "Chữ 觀 có âm là quan, nghĩa là xem, lại có âm là quán, nghĩa là bị xem.",
       "2": "Chữ 觀 có âm là quan, nghĩa là xem, lại có âm là quán, nghĩa là bị xem",
       "3": "Tức là chính trị giáo hóa."
-    }
+    },
+    "lời_kinh": "象⽈: ⾵⾏地上,觀.先王以省⽅觀民設教.",
+    "dịch_âm": "Tượng viết: Phong hành địa thượng, quán, tiên vương dĩ tỉnh phương, quan dân, thiết giáo.",
+    "dịch_nghĩa": "Lời Tượng nói rằng: Gió đi trên đất là quẻ Quán , đấng tiên vương coi đó mà xét các phương, xem tục dân, đặt sự dạy.",
+    "truyện_của_Trình_Di": "Gió đi trên đất, khắp tới mọi vật, là Tượng qua trải khắp xem, cho nên đấng Tiên vương thể theo Tượng đó, làm ra lễ xét các phương, để xem tục dân mà đặt chính giáo, Đấng thiên tử đi tuần bốn phương, coi xem tục dân, đặt làm chính giáo, ví như chỗ nào xa xỉ thì thắt lại bằng sự tằn tiện, chỗ nào tằn tiện thì bảo họ lấy đường lễ nghĩa. Xét các phương tức là xem dân, đặt sự dạy tức là làm cái xem cho dân.",
+    "bản_nghĩa_của_Chu_Hy": "Xét các phương để xem dân, đặt sự dạy để làm cái xem.",
+    "lời_bàn_của_tiên_nho": null
   },
   {
     "chunk_id": "QUE_QUAN_007",
     "hexagram": "QUE_QUAN",
     "que": null,
-    "lời_kinh": "初六: 童觀,⼩⼈無咎,君⼦吝.",
-    "dịch_âm": "Sơ Lục: Đồng quán, tiểu nhân vô cữu, quân tử lận.",
-    "dịch_nghĩa": "Hào Sáu Đầu: Trẻ xem, kẻ tiểu nhân không lỗi, đấng quân tử đáng tiếc. GIẢI NGHĨA",
-    "truyện_của_Trình_Di": null,
-    "bản_nghĩa_của_Chu_Hy": "Hào Sáu Đầu nhu ở dưới, không thể thấy xa, là tượng “trẻ em”, ấy là đạo kẻ tiểu nhân, mới là sự hổ thẹn của người quân tử, cho nên lời Chiêm ở kẻ tiểu nhân thì không lỗi, mà đấng quân tử gặp phải thì đáng thẹn.",
-    "lời_bàn_của_tiên_nho": null,
+    "content_type": "interpretation",
     "notes": {
       "1": "Chữ 觀 có âm là quan, nghĩa là xem, lại có âm là quán, nghĩa là bị xem.",
       "2": "Chữ 觀 có âm là quan, nghĩa là xem, lại có âm là quán, nghĩa là bị xem",
       "3": "Tức là chính trị giáo hóa."
-    }
+    },
+    "lời_kinh": "初六: 童觀,⼩⼈無咎,君⼦吝.",
+    "dịch_âm": "Sơ Lục: Đồng quán, tiểu nhân vô cữu, quân tử lận.",
+    "dịch_nghĩa": "Hào Sáu Đầu: Trẻ xem, kẻ tiểu nhân không lỗi, đấng quân tử đáng tiếc.",
+    "truyện_của_Trình_Di": "Hào Sáu lấy chất Âm nhu ở xa hào Dương, cho nên những cái xem thấy nông gần như trẻ nít vậy. Vì vậy nó là “trẻ xem”. Dương cương trung chính, ở trên, ấy là ông vua thánh hiền, gần nó thì thấy đạo đức của nó thịnh lớn, mà sự xem thấy sâu xa; hào Đầu lại xa nó, thửa thấy không rõ, như trẻ nít xem vậy. Tiểu nhân là kẻ hạ dân, cái thấy của họ nông tối, không thể biết đạo quân tử, chính là sự thường, không đáng gọi là lầm lỗi, nếu đấng quân tử mà thế, thì đáng bỉ tiếc.",
+    "bản_nghĩa_của_Chu_Hy": "Hào Sáu Đầu nhu ở dưới, không thể thấy xa, là tượng “trẻ em”, ấy là đạo kẻ tiểu nhân, mới là sự hổ thẹn của người quân tử, cho nên lời Chiêm ở kẻ tiểu nhân thì không lỗi, mà đấng quân tử gặp phải thì đáng thẹn.",
+    "lời_bàn_của_tiên_nho": null
   },
   {
     "chunk_id": "QUE_QUAN_008",
     "hexagram": "QUE_QUAN",
     "que": null,
-    "lời_kinh": "象⽈: 初六童#,⼩⼈道也.",
-    "dịch_âm": "Tượng viết: Sơ Lục đồng quan, tiểu nhân đạo dã.",
-    "dịch_nghĩa": "Lời Tượng nói rằng: Hào Sáu đầu trẻ xem, đạo kẻ tiểu nhân vậy. GIẢI NGHĨA",
-    "truyện_của_Trình_Di": null,
-    "bản_nghĩa_của_Chu_Hy": null,
-    "lời_bàn_của_tiên_nho": null,
+    "content_type": "interpretation",
     "notes": {
       "1": "Chữ 觀 có âm là quan, nghĩa là xem, lại có âm là quán, nghĩa là bị xem.",
       "2": "Chữ 觀 có âm là quan, nghĩa là xem, lại có âm là quán, nghĩa là bị xem",
       "3": "Tức là chính trị giáo hóa."
-    }
+    },
+    "lời_kinh": "象⽈: 初六童#,⼩⼈道也.",
+    "dịch_âm": "Tượng viết: Sơ Lục đồng quan, tiểu nhân đạo dã.",
+    "dịch_nghĩa": "Lời Tượng nói rằng: Hào Sáu đầu trẻ xem, đạo kẻ tiểu nhân vậy.",
+    "truyện_của_Trình_Di": "Sự xem không rõ, như trẻ nít, là phận của kẻ tiểu nhân, cho nên nói rằng “tiểu nhân đạo”.",
+    "bản_nghĩa_của_Chu_Hy": null,
+    "lời_bàn_của_tiên_nho": null
   },
   {
     "chunk_id": "QUE_QUAN_009",
     "hexagram": "QUE_QUAN",
     "que": null,
-    "lời_kinh": "六⼆: 窥觀,利⼥貞.",
-    "dịch_âm": "Lục Nhị: Khuy quan, lợi nữ trinh.",
-    "dịch_nghĩa": "Hào Sáu Hai: Nhòm xem, lợi về sự trinh của con gái. GIẢI NGHĨA Truyện của Trình Đi. - Hai Hào ứng với hào Năm là xem hào Năm. Hào Năm là bậc Dương cương trung chính, không phải là hạng mà kẻ Âm tối, mềm yếu như hào Hai có thể xem được, cho nên chỉ như sự xem bằng cách dòm ngó mà thôi. Sự xem bằng cách dòm ngó thấy ít mà không rõ, hào Hai đã không thể thấy rõ cái đạo Dương cương trung chính, thì lợi cho kẻ trinh như con gái. Tuy thấy không rõ mà biết thuận theo, là đạo con gái, với con gái như thế là trinh; hào Hai đã thấy rõ cái đạo của hào Chín Năm, mà biết thuận theo như thể con gái thì vẫn không mất trung chính, thế mới là lợi.",
-    "truyện_của_Trình_Di": null,
-    "bản_nghĩa_của_Chu_Hy": "Âm nhu ở trong mà xem ra ngoài, là Tượng dòm ngó, tức là sự chính của con gái, cho nên lời Chiêm của nó như thế. Đàn ông mà được hào này không phải lả lợi.",
-    "lời_bàn_của_tiên_nho": null,
+    "content_type": "interpretation",
     "notes": {
       "1": "Chữ 觀 có âm là quan, nghĩa là xem, lại có âm là quán, nghĩa là bị xem.",
       "2": "Chữ 觀 có âm là quan, nghĩa là xem, lại có âm là quán, nghĩa là bị xem",
       "3": "Tức là chính trị giáo hóa."
-    }
+    },
+    "lời_kinh": "六⼆: 窥觀,利⼥貞.",
+    "dịch_âm": "Lục Nhị: Khuy quan, lợi nữ trinh.",
+    "dịch_nghĩa": "Hào Sáu Hai: Nhòm xem, lợi về sự trinh của con gái.",
+    "truyện_của_Trình_Di": null,
+    "bản_nghĩa_của_Chu_Hy": "Âm nhu ở trong mà xem ra ngoài, là Tượng dòm ngó, tức là sự chính của con gái, cho nên lời Chiêm của nó như thế. Đàn ông mà được hào này không phải lả lợi.",
+    "lời_bàn_của_tiên_nho": null
   },
   {
     "chunk_id": "QUE_QUAN_010",
     "hexagram": "QUE_QUAN",
     "que": null,
-    "lời_kinh": "象⽈: 窥觀⼥貞,亦可#也.",
-    "dịch_âm": "Tượng viết: Khuy quan, nữ trinh, diệt khả xú dã. Địch nghĩa. - Lời Tượng nói rằng: Dòm xem, sự trinh của con gái cũng đáng xấu vậy. GIẢI NGHĨA",
-    "dịch_nghĩa": null,
-    "truyện_của_Trình_Di": null,
-    "bản_nghĩa_của_Chu_Hy": "Ở đàn ông là xấu.",
-    "lời_bàn_của_tiên_nho": null,
+    "content_type": "interpretation",
     "notes": {
       "1": "Chữ 觀 có âm là quan, nghĩa là xem, lại có âm là quán, nghĩa là bị xem.",
       "2": "Chữ 觀 có âm là quan, nghĩa là xem, lại có âm là quán, nghĩa là bị xem",
       "3": "Tức là chính trị giáo hóa."
-    }
+    },
+    "lời_kinh": "象⽈: 窥觀⼥貞,亦可#也.",
+    "dịch_âm": "Tượng viết: Khuy quan, nữ trinh, diệt khả xú dã. Địch nghĩa. - Lời Tượng nói rằng: Dòm xem, sự trinh của con gái cũng đáng xấu vậy.",
+    "dịch_nghĩa": null,
+    "truyện_của_Trình_Di": "Đấng quân tử không thể xem thấy đạo lớn Dương cương trung chính mà chỉ dòm ngó được cái phảng phất của nó, tuy rằng có thể thuận theo, nhưng mà giống với sự trinh của con gái, cũng đáng xấu hổ vậy.",
+    "bản_nghĩa_của_Chu_Hy": "Ở đàn ông là xấu.",
+    "lời_bàn_của_tiên_nho": null
   },
   {
     "chunk_id": "QUE_QUAN_011",
     "hexagram": "QUE_QUAN",
     "que": null,
-    "lời_kinh": "六三: 觀我⽣,進退.",
-    "dịch_âm": "Lục Tam: Quan ngã sinh tiến thoái.",
-    "dịch_nghĩa": "Hào Sáu Ba: Xem ta sinh tiến lui. GIẢI NGHĨA",
-    "truyện_của_Trình_Di": null,
-    "bản_nghĩa_của_Chu_Hy": "“Ta sinh” là cái của ta thửa làm. Hào Sáu Ba ở trên quẻ dưới , có thể tiến, có thể lui, cho nên không xua hào Chín Năm mà chỉ xem cái của mình thửa làm là thông hay tắc để làm căn cứ cho sự tiến lui. Kẻ xem nên tự biết.",
-    "lời_bàn_của_tiên_nho": null,
+    "content_type": "interpretation",
     "notes": {
       "1": "Chữ 觀 có âm là quan, nghĩa là xem, lại có âm là quán, nghĩa là bị xem.",
       "2": "Chữ 觀 có âm là quan, nghĩa là xem, lại có âm là quán, nghĩa là bị xem",
       "3": "Tức là chính trị giáo hóa."
-    }
+    },
+    "lời_kinh": "六三: 觀我⽣,進退.",
+    "dịch_âm": "Lục Tam: Quan ngã sinh tiến thoái.",
+    "dịch_nghĩa": "Hào Sáu Ba: Xem ta sinh tiến lui.",
+    "truyện_của_Trình_Di": "Hào Ba ở không phải ngôi, tại chỗ thuận cực, là kẻ biết thuận thời để tiến lui. Nếu ở được đáng ngôi, thì không có nghĩa tiến lui. “Xem ta sinh” nghĩa là xem cái của ta thửa sinh, tức là những sự động tác thi vi do mình mà ra. Xem cái của mình thửa sinh, tùy sự nên chăng mà tiến lui, cho nên tuy là ở không phải ngôi, mà chưa đến nỗi mất đạo. Tùy thời tiến lui, cầu cho không bị mất đạo, cho nên mới không hối hận, vì vậy mới thuận được.",
+    "bản_nghĩa_của_Chu_Hy": "“Ta sinh” là cái của ta thửa làm. Hào Sáu Ba ở trên quẻ dưới , có thể tiến, có thể lui, cho nên không xua hào Chín Năm mà chỉ xem cái của mình thửa làm là thông hay tắc để làm căn cứ cho sự tiến lui. Kẻ xem nên tự biết.",
+    "lời_bàn_của_tiên_nho": null
   },
   {
     "chunk_id": "QUE_QUAN_012",
     "hexagram": "QUE_QUAN",
     "que": null,
-    "lời_kinh": "象⽈: 觀我⽣,進退,未失道也.",
-    "dịch_âm": "Tượng viết: Quan ngã sinh tiến thoái, vị thất đạo dã.",
-    "dịch_nghĩa": "Lời Tượng nói rằng: Xem ta sinh tiến lui, chưa mất đạo vậy. GIẢI NGHĨA",
-    "truyện_của_Trình_Di": null,
-    "bản_nghĩa_của_Chu_Hy": null,
-    "lời_bàn_của_tiên_nho": null,
+    "content_type": "interpretation",
     "notes": {
       "1": "Chữ 觀 có âm là quan, nghĩa là xem, lại có âm là quán, nghĩa là bị xem.",
       "2": "Chữ 觀 có âm là quan, nghĩa là xem, lại có âm là quán, nghĩa là bị xem",
       "3": "Tức là chính trị giáo hóa."
-    }
+    },
+    "lời_kinh": "象⽈: 觀我⽣,進退,未失道也.",
+    "dịch_âm": "Tượng viết: Quan ngã sinh tiến thoái, vị thất đạo dã.",
+    "dịch_nghĩa": "Lời Tượng nói rằng: Xem ta sinh tiến lui, chưa mất đạo vậy.",
+    "truyện_của_Trình_Di": "Xem cái của mình sinh ra mà tiến lui, cho thuận với sự nên phải, cho nên chưa đến mất đạo.",
+    "bản_nghĩa_của_Chu_Hy": null,
+    "lời_bàn_của_tiên_nho": null
   },
   {
     "chunk_id": "QUE_QUAN_013",
     "hexagram": "QUE_QUAN",
     "que": null,
-    "lời_kinh": "六四: 觀國之#,利⽤賓于王.",
-    "dịch_âm": "Lục Tứ: Quạn quốc chi quang, lợi dụng tân vu vương.",
-    "dịch_nghĩa": "Hào Sáu Tư: Xem sự sáng láng của nước, lợi dụng làm khách chưng vua. GIẢI NGHĨA",
-    "truyện_của_Trình_Di": null,
-    "bản_nghĩa_của_Chu_Hy": "Hào Sáu Tư rất gần hào Năm, cho nên mới có Tượng ấy. Lời Chiêm của nó thì là lợi về chầu vua, làm quan.",
-    "lời_bàn_của_tiên_nho": null,
+    "content_type": "interpretation",
     "notes": {
       "1": "Chữ 觀 có âm là quan, nghĩa là xem, lại có âm là quán, nghĩa là bị xem.",
       "2": "Chữ 觀 có âm là quan, nghĩa là xem, lại có âm là quán, nghĩa là bị xem",
       "3": "Tức là chính trị giáo hóa."
-    }
+    },
+    "lời_kinh": "六四: 觀國之#,利⽤賓于王.",
+    "dịch_âm": "Lục Tứ: Quạn quốc chi quang, lợi dụng tân vu vương.",
+    "dịch_nghĩa": "Hào Sáu Tư: Xem sự sáng láng của nước, lợi dụng làm khách chưng vua.",
+    "truyện_của_Trình_Di": "Sự xem không gì rõ bằng ở gần hào Năm, vì nó Dương cương trung chính, lại ở ngôi tôn, tức là ông vua thánh hiền. Hào Tư sát gần với nó, xem thấy cái đạo của nó, cho nên nói rằng “Xem sự sáng láng của nước”. Nghĩa là thấy cái thịnh đức sáng tỏ của nước vậy. Không chỉ vì cái thân ông vua, mà nó rằng “nước” là vì nói về ông vua, há chỉ xem nội những sự hàn vi trong một mình hắn mà thôi? Nên xem tất cả chính [3] hóa của thiên hạ, thì đạo đức của ông ta có thể thấy được. Hào Tư tuy Âm nhu, nhưng là thể Tốn, ở chỗ chính, sát gần hào Năm tức là kẻ xem thấy mà biết thuận theo. “Lợi dụng làm khách chung vua” nghĩa là có đấng thánh vương ở trên, thì kẻ mang tài ôm đức đều muốn tiến vào triều đình, giúp đỡ cho hắn, để cho thiên hạ yên thịnh. Hào Tư đã xem thấy đức của ông vua, cuộc trị của nhà nước, sáng đẹp thịnh tốt, thì nên làm khách chốn vương triều, đem hết trí lực của mình, giúp đỡ cho vua, để ban ơn cho thiên hạ, cho nên nói là “lợi dùng khách chưng vua”. Đời xưa người có hiền đức, ông vua đãi bằng lễ khách, cho nên nói là “làm khách”.",
+    "bản_nghĩa_của_Chu_Hy": "Hào Sáu Tư rất gần hào Năm, cho nên mới có Tượng ấy. Lời Chiêm của nó thì là lợi về chầu vua, làm quan.",
+    "lời_bàn_của_tiên_nho": null
   },
   {
     "chunk_id": "QUE_QUAN_014",
     "hexagram": "QUE_QUAN",
     "que": null,
-    "lời_kinh": "象⽈: 觀國之#,尚賓也.",
-    "dịch_âm": "Tượng viết: Quan quốc chi quang, thượng tân dã.",
-    "dịch_nghĩa": "Lời Tượng nói rằng: Xem sự sáng của nước, chuộng làm khách vậy. GIẢI NGHĨA",
-    "truyện_của_Trình_Di": null,
-    "bản_nghĩa_của_Chu_Hy": null,
-    "lời_bàn_của_tiên_nho": null,
+    "content_type": "interpretation",
     "notes": {
       "1": "Chữ 觀 có âm là quan, nghĩa là xem, lại có âm là quán, nghĩa là bị xem.",
       "2": "Chữ 觀 có âm là quan, nghĩa là xem, lại có âm là quán, nghĩa là bị xem",
       "3": "Tức là chính trị giáo hóa."
-    }
+    },
+    "lời_kinh": "象⽈: 觀國之#,尚賓也.",
+    "dịch_âm": "Tượng viết: Quan quốc chi quang, thượng tân dã.",
+    "dịch_nghĩa": "Lời Tượng nói rằng: Xem sự sáng của nước, chuộng làm khách vậy.",
+    "truyện_của_Trình_Di": "Đã xem thấy sự thịnh đức sáng đẹp của nước, cổ nhân cho là một cuộc gặp gỡ phi thường, cho nên chí muốn tiến lên sân triều nhà vua, để thực hành cái đạo của mình, cho nên nói rằng: “Xem sự sáng của nước, chuộng làm khách vậy”. Thượng là chuộng chí, chí ý của nó thích muốn làm khách ở sân triều nhà vua.",
+    "bản_nghĩa_của_Chu_Hy": null,
+    "lời_bàn_của_tiên_nho": null
   },
   {
     "chunk_id": "QUE_QUAN_015",
     "hexagram": "QUE_QUAN",
     "que": null,
-    "lời_kinh": "九五: 觀我⽣,君⼦無咎.",
-    "dịch_âm": "Cửu Ngũ: Quan ngã sinh, quân tử vô cữu.",
-    "dịch_nghĩa": "Hào Chín Năm: Xem ta sinh, quân tử, không lỗi. GIẢI NGHĨA",
-    "truyện_của_Trình_Di": null,
-    "bản_nghĩa_của_Chu_Hy": "Hào Chín Năm Dương cương trung chính ở ngôỉ tôn, bên dưới bốn hào Âm ngửa lên mà xem, đó là tượng đấng quân tử, cho nên mới răn kẻ ở ngôi ấy được lời chiêm ấy, thì nên xem cái của mình đã làm, ắt cũng Dương minh trung chính như thế thì được không lỗi.",
-    "lời_bàn_của_tiên_nho": null,
+    "content_type": "interpretation",
     "notes": {
       "1": "Chữ 觀 có âm là quan, nghĩa là xem, lại có âm là quán, nghĩa là bị xem.",
       "2": "Chữ 觀 có âm là quan, nghĩa là xem, lại có âm là quán, nghĩa là bị xem",
       "3": "Tức là chính trị giáo hóa."
-    }
+    },
+    "lời_kinh": "九五: 觀我⽣,君⼦無咎.",
+    "dịch_âm": "Cửu Ngũ: Quan ngã sinh, quân tử vô cữu.",
+    "dịch_nghĩa": "Hào Chín Năm: Xem ta sinh, quân tử, không lỗi.",
+    "truyện_của_Trình_Di": "Hào Chín Năm ở ngôi ông vua, đời trị hay loạn, tục tốt hay xấu, quan hệ ở mình mà thôi. Xem cái của mình sinh ra, nếu tục thiên hạ đều là quân tử thì những chính hóa của mình vẫn làm là phải, mới không có lỗi. Nếu tục thiên hạ chưa hợp với đạo quân tử thì là chính trị của mình vẫn làm chưa phải, không thể khỏi lỗi.",
+    "bản_nghĩa_của_Chu_Hy": "Hào Chín Năm Dương cương trung chính ở ngôỉ tôn, bên dưới bốn hào Âm ngửa lên mà xem, đó là tượng đấng quân tử, cho nên mới răn kẻ ở ngôi ấy được lời chiêm ấy, thì nên xem cái của mình đã làm, ắt cũng Dương minh trung chính như thế thì được không lỗi.",
+    "lời_bàn_của_tiên_nho": null
   },
   {
     "chunk_id": "QUE_QUAN_016",
     "hexagram": "QUE_QUAN",
     "que": null,
-    "lời_kinh": "象⽈: 觀我⽣,觀民也.",
-    "dịch_âm": "Tượng viết: Quan ngã sinh, quan dân dã.",
-    "dịch_nghĩa": "Tượng viết: Xem ta sinh, là xem dân vậy. GIẢI NGHĨA",
-    "truyện_của_Trình_Di": null,
-    "bản_nghĩa_của_Chu_Hy": "Đây là đấng Phu Tử lấy nghĩa mà nói, tỏ rằng ông vua muốn đem cái của mình đã làm, không những về sự được hỏng trong một thân mình, lại nên xem cả đức dân phải chăng thế nào, để tự tỉnh xét.",
-    "lời_bàn_của_tiên_nho": null,
+    "content_type": "interpretation",
     "notes": {
       "1": "Chữ 觀 có âm là quan, nghĩa là xem, lại có âm là quán, nghĩa là bị xem.",
       "2": "Chữ 觀 có âm là quan, nghĩa là xem, lại có âm là quán, nghĩa là bị xem",
       "3": "Tức là chính trị giáo hóa."
-    }
+    },
+    "lời_kinh": "象⽈: 觀我⽣,觀民也.",
+    "dịch_âm": "Tượng viết: Quan ngã sinh, quan dân dã.",
+    "dịch_nghĩa": "Tượng viết: Xem ta sinh, là xem dân vậy.",
+    "truyện_của_Trình_Di": "Ta sinh là cái do mình mà ra, ông vua muốn xem sự thi vi của mình có phải hay không, nên xem ở dân, tục dân hay, là chính hóa hay, Vương Bật bảo: “Xem dân để xét cái đạo của mình”, là phải đó.",
+    "bản_nghĩa_của_Chu_Hy": "Đây là đấng Phu Tử lấy nghĩa mà nói, tỏ rằng ông vua muốn đem cái của mình đã làm, không những về sự được hỏng trong một thân mình, lại nên xem cả đức dân phải chăng thế nào, để tự tỉnh xét.",
+    "lời_bàn_của_tiên_nho": null
   },
   {
     "chunk_id": "QUE_QUAN_017",
     "hexagram": "QUE_QUAN",
     "que": null,
-    "lời_kinh": "上九: 觀其⽣,君⼦無咎.",
-    "dịch_âm": "Thượng Cửu: Quan kỳ sinh, quân tử vô cữu.",
-    "dịch_nghĩa": "Hào Chín Trên: Xem thửa sinh, quân tử không lỗi. GIẢI NGHĨA",
-    "truyện_của_Trình_Di": null,
-    "bản_nghĩa_của_Chu_Hy": "Hào Chín Trên là hào Dương cương ở bậc trên ngôi tôn, tuy chẳng đương vào công việc, mà cũng bị kẻ dưới thửa xem, cho nên lời răn của nó cũng giống như Hào Chín Năm, chỉ đổi chữ # (ngã) ra chữ # (kỳ), hơi có chủ khách khác nhau mà thôi.",
-    "lời_bàn_của_tiên_nho": null,
+    "content_type": "interpretation",
     "notes": {
       "1": "Chữ 觀 có âm là quan, nghĩa là xem, lại có âm là quán, nghĩa là bị xem.",
       "2": "Chữ 觀 có âm là quan, nghĩa là xem, lại có âm là quán, nghĩa là bị xem",
       "3": "Tức là chính trị giáo hóa."
-    }
+    },
+    "lời_kinh": "上九: 觀其⽣,君⼦無咎.",
+    "dịch_âm": "Thượng Cửu: Quan kỳ sinh, quân tử vô cữu.",
+    "dịch_nghĩa": "Hào Chín Trên: Xem thửa sinh, quân tử không lỗi.",
+    "truyện_của_Trình_Di": "Hào Chín Trên lấy đức Dương cương, ở trên, bị kẻ dưới thửa xem mà không đáng ngôi, đó là những đấng hiền nhân quân tử không ở ngôi mà đạo đức bị người thiên hạ xem ngửa. Vậy “xem thửa sinh” là xem cái thửa sinh của mình, chỉ về những cái do mình mà ra, tác là đức nghiệp hạnh nghĩa. Đã bị thiên hạ xem ngửa, cho nên tự xem những cái thửa sinh, nếu như đều là quân tử thì không có lỗi, ví mà chưa được quân tử, thì còn lấy gì để cho người ta ngửa xem bắt chước, đó là lỗi vậy.",
+    "bản_nghĩa_của_Chu_Hy": "Hào Chín Trên là hào Dương cương ở bậc trên ngôi tôn, tuy chẳng đương vào công việc, mà cũng bị kẻ dưới thửa xem, cho nên lời răn của nó cũng giống như Hào Chín Năm, chỉ đổi chữ # (ngã) ra chữ # (kỳ), hơi có chủ khách khác nhau mà thôi.",
+    "lời_bàn_của_tiên_nho": null
   },
   {
     "chunk_id": "QUE_QUAN_018",
     "hexagram": "QUE_QUAN",
     "que": null,
-    "lời_kinh": "象⽈: 觀其⽣,志未平也.",
-    "dịch_âm": "Tượng viết: Quan kỳ sinh, chí vị bình dã.",
-    "dịch_nghĩa": "Lời Tượng nói rằng: Xem thửa sinh, chí chưa bình vậy. GIẢI NGHĨA",
-    "truyện_của_Trình_Di": null,
-    "bản_nghĩa_của_Chu_Hy": "“Chí chưa bình” ý nói tuy không được ngôi, chưa thể quên sự răn sợ. Chú thích: [1] Chữ 觀 có âm là quan, nghĩa là xem, lại có âm là quán, nghĩa là bị xem. [2] Chữ 觀 có âm là quan, nghĩa là xem, lại có âm là quán, nghĩa là bị xem [3] Tức là chính trị giáo hóa.",
-    "lời_bàn_của_tiên_nho": null,
+    "content_type": "interpretation",
     "notes": {
       "1": "Chữ 觀 có âm là quan, nghĩa là xem, lại có âm là quán, nghĩa là bị xem.",
       "2": "Chữ 觀 có âm là quan, nghĩa là xem, lại có âm là quán, nghĩa là bị xem",
       "3": "Tức là chính trị giáo hóa."
-    }
+    },
+    "lời_kinh": "象⽈: 觀其⽣,志未平也.",
+    "dịch_âm": "Tượng viết: Quan kỳ sinh, chí vị bình dã.",
+    "dịch_nghĩa": "Lời Tượng nói rằng: Xem thửa sinh, chí chưa bình vậy.",
+    "truyện_của_Trình_Di": "Tuy không ở ngôi, nhưng vì người ta xem đức của mình, dùng làm phép tắc, cho nên phải tự cẩn thận, xem xét cái của mình thửa sinh, nếu có thường thường không lỗi với đạo quân tử thì người ta không mất điều mong mà hóa theo mình, không thể vì cớ không ở ngôi mà cứ yên nhiên phóng túng ý mình, không làm việc gì, đó là chí ý chưa được yên, cho nên nói là “chí chưa bình”. Bình là yên ổn vậy.",
+    "bản_nghĩa_của_Chu_Hy": "“Chí chưa bình” ý nói tuy không được ngôi, chưa thể quên sự răn sợ.",
+    "lời_bàn_của_tiên_nho": null
   }
 ]

@@ -3,7 +3,7 @@ from tqdm import tqdm
 from pymongo import MongoClient
 from langchain_huggingface import HuggingFaceEmbeddings
 from numpy import ndarray
-from .config import MONGO_URI, DB_NAME, COLLECTION, EMBED_MODEL
+from Source.config import MONGO_URI, DB_NAME, COLLECTION, EMBED_MODEL
 
 client       = MongoClient(MONGO_URI)
 collection   = client[DB_NAME][COLLECTION]

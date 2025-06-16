@@ -3,6 +3,7 @@
     "chunk_id": "QUE_QUI_MUOI_001",
     "hexagram": "QUE_QUI_MUOI",
     "que": null,
+    "content_type": "preface",
     "lời_kinh": null,
     "dịch_âm": null,
     "dịch_nghĩa": null,
@@ -20,272 +21,288 @@
     "chunk_id": "QUE_QUI_MUOI_002",
     "hexagram": "QUE_QUI_MUOI",
     "que": null,
-    "lời_kinh": "歸妺征凶,無攸利.",
-    "dịch_âm": "Qui muội chinh hung, vô du lợi.",
-    "dịch_nghĩa": "Quẻ Qui muội, đi hung không thửa lợi. GIẢI NGHĨA",
-    "truyện_của_Trình_Di": null,
-    "bản_nghĩa_của_Chu_Hy": "Đàn bà gọi sự lấy chồng là về; em gái là con gái trẻ. Đoái dưới lấy tư cách là gái trẻ theo Chấn là trai lớn, mà tính của nó lại là lấy sự đẹp lòng mà động, không phải chính đạo. Cho nên quẻ là “em gái lấy chồng” mà các hào trong quẻ, từ hào Hai đến hào Năm đều không chính, hào Ba hào Năm lại lấy chất mềm cưỡi chất cứng, cho nên lời Chiêm của nó là đi thì hung mà không lợi về sự gì.",
-    "lời_bàn_của_tiên_nho": null,
+    "content_type": "interpretation",
     "notes": {
       "1": "Chữ 歸妺 (qui muội) nghĩa là em gái về nhà chồng.",
       "2": "Con gái vua chúa lấy chồng, gọi là “gả xuống”.",
       "3": "Đời xưa thường đựng các thứ rau dưa để cúng vào giỏ.",
       "4": "Tức là con vật để cúng, như bò lợn v.v…"
-    }
+    },
+    "lời_kinh": "歸妺征凶,無攸利.",
+    "dịch_âm": "Qui muội chinh hung, vô du lợi.",
+    "dịch_nghĩa": "Quẻ Qui muội, đi hung không thửa lợi.",
+    "truyện_của_Trình_Di": "Lấy sự đẹp lòng mà động, động mà.",
+    "bản_nghĩa_của_Chu_Hy": "Đàn bà gọi sự lấy chồng là về; em gái là con gái trẻ. Đoái dưới lấy tư cách là gái trẻ theo Chấn là trai lớn, mà tính của nó lại là lấy sự đẹp lòng mà động, không phải chính đạo. Cho nên quẻ là “em gái lấy chồng” mà các hào trong quẻ, từ hào Hai đến hào Năm đều không chính, hào Ba hào Năm lại lấy chất mềm cưỡi chất cứng, cho nên lời Chiêm của nó là đi thì hung mà không lợi về sự gì.",
+    "lời_bàn_của_tiên_nho": null
   },
   {
     "chunk_id": "QUE_QUI_MUOI_003",
     "hexagram": "QUE_QUI_MUOI",
     "que": null,
-    "lời_kinh": "象⽈: 歸妺, 天地之⼤義也. 天地不交⼆萬物不興, 歸妺, ⼈之終始也.",
-    "dịch_âm": "Thoán viết: Qui muội thiên địa chi đại nghĩa dã. Thiên địa bất giao nhị vạn vật bất hưng, qui muội nhân chi chung thủy dã.",
-    "dịch_nghĩa": "Lời thoán nói rằng: Quẻ Qui muội là nghĩa lớn của trời đất vậy. Trời đất giao nhau mà muôn vật chẳng dấy lên. Quẻ Qui muội là chót và đầu của loài người vậy. GIẢI NGHĨA",
-    "truyện_của_Trình_Di": null,
-    "bản_nghĩa_của_Chu_Hy": "Đây thích nghĩa tên quẻ. Về nhà chồng là cuộc chót của con gái, sinh nuôi là cuộc đầu của loài người.",
-    "lời_bàn_của_tiên_nho": null,
+    "content_type": "interpretation",
     "notes": {
       "1": "Chữ 歸妺 (qui muội) nghĩa là em gái về nhà chồng.",
       "2": "Con gái vua chúa lấy chồng, gọi là “gả xuống”.",
       "3": "Đời xưa thường đựng các thứ rau dưa để cúng vào giỏ.",
       "4": "Tức là con vật để cúng, như bò lợn v.v…"
-    }
+    },
+    "lời_kinh": "象⽈: 歸妺, 天地之⼤義也. 天地不交⼆萬物不興, 歸妺, ⼈之終始也.",
+    "dịch_âm": "Thoán viết: Qui muội thiên địa chi đại nghĩa dã. Thiên địa bất giao nhị vạn vật bất hưng, qui muội nhân chi chung thủy dã.",
+    "dịch_nghĩa": "Lời thoán nói rằng: Quẻ Qui muội là nghĩa lớn của trời đất vậy. Trời đất giao nhau mà muôn vật chẳng dấy lên. Quẻ Qui muội là chót và đầu của loài người vậy.",
+    "truyện_của_Trình_Di": "Một Âm một Dương gọi là đạo. Âm Dương cảm nhau, trai gái sánh hợp, là lẽ thường của trời đất vậy. Quẻ Qui muội con gái về với con trai, cho nên gọi là nghĩa lớn của trời đất. Trời đât chẳng giao nhau thì muôn vật bởi đâu mà sinh ra? Gái theo trai là đạo sinh sinh nối nhau, trai gái giao nhau rồi sau mới có sinh đẻ, có sinh đẻ rồi sau đằng chót không cùng. Đằng trước có chót mà đằng sau có đầu, nối nhau không cùng, đó là chót và đầu của loài người.",
+    "bản_nghĩa_của_Chu_Hy": "Đây thích nghĩa tên quẻ. Về nhà chồng là cuộc chót của con gái, sinh nuôi là cuộc đầu của loài người.",
+    "lời_bàn_của_tiên_nho": null
   },
   {
     "chunk_id": "QUE_QUI_MUOI_004",
     "hexagram": "QUE_QUI_MUOI",
     "que": null,
-    "lời_kinh": "說以動, 所歸妺也, 征凶, 位不當也, 無攸利, 柔乘剛也.",
-    "dịch_âm": "Duyệt dĩ động, sở qui muội dã; chinh hung, vị bất đáng dã; vô du lợi, nhu thừa cương dã.",
-    "dịch_nghĩa": "Đẹp lòng mà động, người về là em gái vậy; đi hung ngôi chẳng đáng vậy; không thửa lợi, mềm cưỡi cứng vậy. GIẢI NGHĨA",
-    "truyện_của_Trình_Di": null,
-    "bản_nghĩa_của_Chu_Hy": "Trai gái giao nhau, vốn vẫn đều là lẽ chính, chỉ như quẻ này , thì không được chính.",
-    "lời_bàn_của_tiên_nho": null,
+    "content_type": "interpretation",
     "notes": {
       "1": "Chữ 歸妺 (qui muội) nghĩa là em gái về nhà chồng.",
       "2": "Con gái vua chúa lấy chồng, gọi là “gả xuống”.",
       "3": "Đời xưa thường đựng các thứ rau dưa để cúng vào giỏ.",
       "4": "Tức là con vật để cúng, như bò lợn v.v…"
-    }
+    },
+    "lời_kinh": "說以動, 所歸妺也, 征凶, 位不當也, 無攸利, 柔乘剛也.",
+    "dịch_âm": "Duyệt dĩ động, sở qui muội dã; chinh hung, vị bất đáng dã; vô du lợi, nhu thừa cương dã.",
+    "dịch_nghĩa": "Đẹp lòng mà động, người về là em gái vậy; đi hung ngôi chẳng đáng vậy; không thửa lợi, mềm cưỡi cứng vậy.",
+    "truyện_của_Trình_Di": "Trai gái cảm thích nhau mà động là việc của con gái trẻ, cho nên lấy sự đẹp lòng mà động, thì người theo về là em gái vậy. Sở dĩ đi thì bị hung, là vì các hào đều không đáng ngôi. Ở chỗ bất chính, hành động gì mà chẳng hung? Chẳng những là ngôi không đáng, lại có lỗi về “cưỡi cứng” nữa. Hào Ba hào Năm đều cưỡi kẻ cứng. Trai gái có thứ tự tôn ty, vợ chồng có lễ xướng tùy, ấy là lẽ thường, như quẻ Hằng đó. Nếu không do đạo đường chính, theo tình riêng, động tình dục, chỉ thấy đẹp lòng là đẹp, thì vợ chồng nhàm loạn, trai vướng lòng dục mà mất nết cứng, gái quen đẹp lòng mà quên nết thuận, như quẻ Qui muội cưỡi cứng đó, vì vậy mới hung, không đi đầu mà lợi.",
+    "bản_nghĩa_của_Chu_Hy": "Trai gái giao nhau, vốn vẫn đều là lẽ chính, chỉ như quẻ này , thì không được chính.",
+    "lời_bàn_của_tiên_nho": null
   },
   {
     "chunk_id": "QUE_QUI_MUOI_005",
     "hexagram": "QUE_QUI_MUOI",
     "que": null,
-    "lời_kinh": "象⽈:澤上有雷,歸妺,君⼦以永終知敝.",
-    "dịch_âm": "Tượng viết; Trạch thượng hữu lôi, Qui muội, quân tử dĩ vinh chung tri tệ.",
-    "dịch_nghĩa": "Lời Tượng nói rằng: Trên chằm có sấm là quẻ Qui muội. Đấng quân tử coi đó mà dài lúc chót, biết điều hỏng. GIẢI NGHĨA",
-    "truyện_của_Trình_Di": null,
-    "bản_nghĩa_của_Chu_Hy": "Sấm động chằm là theo, là Tượng “Em gái về nhà chồng” đấng quân tử coi tượng hợp nhau bất chính đó là biết lúc chót sẽ hỏng. Suy ra sự vật, cái gì cũng thế.",
-    "lời_bàn_của_tiên_nho": null,
+    "content_type": "interpretation",
     "notes": {
       "1": "Chữ 歸妺 (qui muội) nghĩa là em gái về nhà chồng.",
       "2": "Con gái vua chúa lấy chồng, gọi là “gả xuống”.",
       "3": "Đời xưa thường đựng các thứ rau dưa để cúng vào giỏ.",
       "4": "Tức là con vật để cúng, như bò lợn v.v…"
-    }
+    },
+    "lời_kinh": "象⽈:澤上有雷,歸妺,君⼦以永終知敝.",
+    "dịch_âm": "Tượng viết; Trạch thượng hữu lôi, Qui muội, quân tử dĩ vinh chung tri tệ.",
+    "dịch_nghĩa": "Lời Tượng nói rằng: Trên chằm có sấm là quẻ Qui muội. Đấng quân tử coi đó mà dài lúc chót, biết điều hỏng.",
+    "truyện_của_Trình_Di": "Sấm nhức ở trên, chằm theo mà động, trai động ở trên, gái đẹp lòng mà theo, đó là Tượng con gái theo con trai, cho nên là quẻ “Em gái lấy chồng”. Đấng quân tử coi tượng trai gái sánh hợp, sinh đẻ với nhau, để làm dài lâu cuộc chót, biết có điều hỏng. Chót là sinh đẻ nối tiếp, dài là làm cho sự truyền nối được lâu: biết điều hỏng là biết các vật có lúc hư hỏng mà làm ra cách nối nhau vậy. Gái về nhà chồng thì có sinh đẻ, cho nên có nghĩa làm dài cuộc chót. Lại, đạo vợ chồng thì nên thường lâu có chót, ắt biết có lẽ hư hỏng, mà răn dỗ cẩn thận. Hư hỏng là chỉ về sự khích bác. Con gái trẻ đẹp lòng là do ở tình cảm động, động thì lỗi với chính đạo, không phải vợ chồng chính đáng có thể thường thường, lâu rồi ắt phải hư hỏng. Biết rằng ắt hỏng thì nên nghic cách làm dài cuộc chót. Những đôi vợ chồng trở mặt với nhau ở thiên hạ, điều là không có cuộc chót vậy.",
+    "bản_nghĩa_của_Chu_Hy": "Sấm động chằm là theo, là Tượng “Em gái về nhà chồng” đấng quân tử coi tượng hợp nhau bất chính đó là biết lúc chót sẽ hỏng. Suy ra sự vật, cái gì cũng thế.",
+    "lời_bàn_của_tiên_nho": null
   },
   {
     "chunk_id": "QUE_QUI_MUOI_006",
     "hexagram": "QUE_QUI_MUOI",
     "que": null,
-    "lời_kinh": "初九: 歸妹以娣, 跛能履, 征吉.",
-    "dịch_âm": "Sơ Cửu: Quy muội dĩ đệ, bí năng lý, chinh cát.",
-    "dịch_nghĩa": "Hào Chín Đầu: Em gái về nhà chồng bằng vợ lẽ, quẻ biết xẻo, đi tốt. GIẢI NGHĨA",
-    "truyện_của_Trình_Di": null,
-    "bản_nghĩa_của_Chu_Hy": "Hào Chín Đầu ở dưới mà không chính ứng, cho nên là Tượng vợ lẽ. Những Dương cứng ở dưới, về con gái thì đức hiền chính, có điều làm kẻ hèn mọn như người vợ lẽ, thì chỉ vâng giúp chồng mình mà thôi, cho nên lại là Tượng kẻ quẻ biết xéo, mà Chiêm của nó thì là “đi tốt”.",
-    "lời_bàn_của_tiên_nho": null,
+    "content_type": "interpretation",
     "notes": {
       "1": "Chữ 歸妺 (qui muội) nghĩa là em gái về nhà chồng.",
       "2": "Con gái vua chúa lấy chồng, gọi là “gả xuống”.",
       "3": "Đời xưa thường đựng các thứ rau dưa để cúng vào giỏ.",
       "4": "Tức là con vật để cúng, như bò lợn v.v…"
-    }
+    },
+    "lời_kinh": "初九: 歸妹以娣, 跛能履, 征吉.",
+    "dịch_âm": "Sơ Cửu: Quy muội dĩ đệ, bí năng lý, chinh cát.",
+    "dịch_nghĩa": "Hào Chín Đầu: Em gái về nhà chồng bằng vợ lẽ, quẻ biết xẻo, đi tốt.",
+    "truyện_của_Trình_Di": "Gái về nhà chồng, ở dưới mà không có chính ứng, là Tượng vợ lẽ vậy, Dương cứng với đàn bà là đức hiền trinh, mà ở chỗ thấp thuận, tức là vợ lẽ hiền chính. Vợ lẽ hèn thấp, dẫu hiền có thể làm gì? Chẳng qua tự làm hay cho thân mình để vâng giúp chồng mà thôi. Ví như kẻ què biết xéo, ý nói không thể tới chỗ xa. Nhưng ở phận nó thì hay, cho nên dùng cách đó mà đi thì tốt.",
+    "bản_nghĩa_của_Chu_Hy": "Hào Chín Đầu ở dưới mà không chính ứng, cho nên là Tượng vợ lẽ. Những Dương cứng ở dưới, về con gái thì đức hiền chính, có điều làm kẻ hèn mọn như người vợ lẽ, thì chỉ vâng giúp chồng mình mà thôi, cho nên lại là Tượng kẻ quẻ biết xéo, mà Chiêm của nó thì là “đi tốt”.",
+    "lời_bàn_của_tiên_nho": null
   },
   {
     "chunk_id": "QUE_QUI_MUOI_007",
     "hexagram": "QUE_QUI_MUOI",
     "que": null,
-    "lời_kinh": "象⽈:歸妺以娣,以恒也,bí能履吉,相承也.",
-    "dịch_âm": "Tượng viết: Qui muội dĩ đệ, dĩ hằng dã; bí năng lý, cát, tương thừa dã.",
-    "dịch_nghĩa": "Lời Tượng nói rằng: Em gái về nhà chồng, bằng vợ lẽ, vì thường thường vậy; quẻ biết xéo, tốt, vâng nhau vậy. GIẢI NGHĨA",
-    "truyện_của_Trình_Di": null,
-    "bản_nghĩa_của_Chu_Hy": null,
-    "lời_bàn_của_tiên_nho": null,
+    "content_type": "interpretation",
     "notes": {
       "1": "Chữ 歸妺 (qui muội) nghĩa là em gái về nhà chồng.",
       "2": "Con gái vua chúa lấy chồng, gọi là “gả xuống”.",
       "3": "Đời xưa thường đựng các thứ rau dưa để cúng vào giỏ.",
       "4": "Tức là con vật để cúng, như bò lợn v.v…"
-    }
+    },
+    "lời_kinh": "象⽈:歸妺以娣,以恒也,bí能履吉,相承也.",
+    "dịch_âm": "Tượng viết: Qui muội dĩ đệ, dĩ hằng dã; bí năng lý, cát, tương thừa dã.",
+    "dịch_nghĩa": "Lời Tượng nói rằng: Em gái về nhà chồng, bằng vợ lẽ, vì thường thường vậy; quẻ biết xéo, tốt, vâng nhau vậy.",
+    "truyện_của_Trình_Di": "Nghĩa quẻ Qui muội lấy sự đẹp lòng mà động, không phải đạo vợ chồng có thể thường thường. Hào Chín là kẻ Dương cương có đức hiền trinh, tuy là vợ lẽ hèn mọn, lại có thể giữ được thường thường, dù nó ở dưới không thể làm gì, như kẻ què biết xéo, nhưng mà đi tốt, là ví nó biết vậy giúp nhau; biết vâng giúp chồng, tức là sự tốt của vợ lẽ.",
+    "bản_nghĩa_của_Chu_Hy": null,
+    "lời_bàn_của_tiên_nho": null
   },
   {
     "chunk_id": "QUE_QUI_MUOI_008",
     "hexagram": "QUE_QUI_MUOI",
     "que": null,
-    "lời_kinh": "九⼆: 眇能視,利幽⼈之貞.",
-    "dịch_âm": "Cửu Nhị: Diểu năng thị, lợi u nhân chi trinh.",
-    "dịch_nghĩa": "Hào Chín Hai: Chột biết trông, lợi về sự chính bền của bậc u nhân. GIẢI NGHĨA",
-    "truyện_của_Trình_Di": null,
-    "bản_nghĩa_của_Chu_Hy": "“Chột biết trông” là theo đoạn trên mà nói: Hào Chín Hai Dương cứng được giữa, tức là bậc con gái hiền. Phía trên có chính ứng mà lại là chất Âm mềm bất chính, tức là gái hiền mà lấy chồng bất lương, không thể làm lớn cái công nội trợ, cho nên là Tượng kẻ chột biết trông, mà Chiêm thì là lợi về nết chính bền của bậc u nhân. U nhân cũng là người ôm đạo, giữ sự chính đính mà không gặp thời.",
-    "lời_bàn_của_tiên_nho": null,
+    "content_type": "interpretation",
     "notes": {
       "1": "Chữ 歸妺 (qui muội) nghĩa là em gái về nhà chồng.",
       "2": "Con gái vua chúa lấy chồng, gọi là “gả xuống”.",
       "3": "Đời xưa thường đựng các thứ rau dưa để cúng vào giỏ.",
       "4": "Tức là con vật để cúng, như bò lợn v.v…"
-    }
+    },
+    "lời_kinh": "九⼆: 眇能視,利幽⼈之貞.",
+    "dịch_âm": "Cửu Nhị: Diểu năng thị, lợi u nhân chi trinh.",
+    "dịch_nghĩa": "Hào Chín Hai: Chột biết trông, lợi về sự chính bền của bậc u nhân.",
+    "truyện_của_Trình_Di": "Hào Chín Hai Dương cứng mà đi được giữ, tức là con gái hiền chính; phía trên có chính ứng mà lại là chất Âm mềm, tức là kẻ động về đẹp lòng. Đó là gái hiền, cũng không thể tự thỏa để làm nên công việc nội trợ chỉ có thể làm hay thân minh, thi hành một cách nho nhỏ, nhưng kẻ chột biết trông mà thôi, nghĩa là không tới được chỗ xa vậy. Hào Năm tuy bất chính, nhưng hào Hai tự giữ lấy đức u tĩnh trinh chính, ấy là đều lợi của nó. Hào Hai có đức cứng chính, tức là người u tĩnh vậy.",
+    "bản_nghĩa_của_Chu_Hy": "“Chột biết trông” là theo đoạn trên mà nói: Hào Chín Hai Dương cứng được giữa, tức là bậc con gái hiền. Phía trên có chính ứng mà lại là chất Âm mềm bất chính, tức là gái hiền mà lấy chồng bất lương, không thể làm lớn cái công nội trợ, cho nên là Tượng kẻ chột biết trông, mà Chiêm thì là lợi về nết chính bền của bậc u nhân. U nhân cũng là người ôm đạo, giữ sự chính đính mà không gặp thời.",
+    "lời_bàn_của_tiên_nho": null
   },
   {
     "chunk_id": "QUE_QUI_MUOI_009",
     "hexagram": "QUE_QUI_MUOI",
     "que": null,
-    "lời_kinh": "象⽈: 利幽⼈之貞,未變常也.",
-    "dịch_âm": "Tượng viết: Lợi u nhân chi trinh, vị biến thường dã.",
-    "dịch_nghĩa": "Lời Tượng nói rằng: Lợi về sự chính bền của bậc u nhân, chưa đổi sự thường vậy. GIẢI NGHĨA",
-    "truyện_của_Trình_Di": null,
-    "bản_nghĩa_của_Chu_Hy": null,
-    "lời_bàn_của_tiên_nho": "Khâu Kiến An nói rằng: Vợ lẽ theo vợ cả, ắt như kẻ què biết xéo, không đủ để cùng đi thì không bị ngờ về lấn người trên, mà phận cả, lẽ rõ ràng; vợ theo chồng ắt như kẻ chột nhìn trông, không đủ có sáng, thì không bị hiềm về sự trở mặt, mà đạo vợ chồng chính đính. Đó là đạo thường của hạng vợ lẽ, đàn bà. Lời Tượng ở hào Đầu nói vì nết thường, ở hào Hai nói chưa đổi thường. Chỉ vì ai nấy đều yêu với lẽ thường của mình, cho nên hào Đầu mới tốt, hào Hai mới lợi đó chăng?",
+    "content_type": "interpretation",
     "notes": {
       "1": "Chữ 歸妺 (qui muội) nghĩa là em gái về nhà chồng.",
       "2": "Con gái vua chúa lấy chồng, gọi là “gả xuống”.",
       "3": "Đời xưa thường đựng các thứ rau dưa để cúng vào giỏ.",
       "4": "Tức là con vật để cúng, như bò lợn v.v…"
-    }
+    },
+    "lời_kinh": "象⽈: 利幽⼈之貞,未變常也.",
+    "dịch_âm": "Tượng viết: Lợi u nhân chi trinh, vị biến thường dã.",
+    "dịch_nghĩa": "Lời Tượng nói rằng: Lợi về sự chính bền của bậc u nhân, chưa đổi sự thường vậy.",
+    "truyện_của_Trình_Di": "Giữ nết u trinh, chưa mất đạo thường chính, của vợ chồng.",
+    "bản_nghĩa_của_Chu_Hy": null,
+    "lời_bàn_của_tiên_nho": "Khâu Kiến An nói rằng: Vợ lẽ theo vợ cả, ắt như kẻ què biết xéo, không đủ để cùng đi thì không bị ngờ về lấn người trên, mà phận cả, lẽ rõ ràng; vợ theo chồng ắt như kẻ chột nhìn trông, không đủ có sáng, thì không bị hiềm về sự trở mặt, mà đạo vợ chồng chính đính. Đó là đạo thường của hạng vợ lẽ, đàn bà. Lời Tượng ở hào Đầu nói vì nết thường, ở hào Hai nói chưa đổi thường. Chỉ vì ai nấy đều yêu với lẽ thường của mình, cho nên hào Đầu mới tốt, hào Hai mới lợi đó chăng?"
   },
   {
     "chunk_id": "QUE_QUI_MUOI_010",
     "hexagram": "QUE_QUI_MUOI",
     "que": null,
-    "lời_kinh": "六三: 歸妺以須,反歸以娣.",
-    "dịch_âm": "Lục Tam: Qui muội dĩ tu, phản qui dĩ đệ.",
-    "dịch_nghĩa": "Hào Sáu Ba: Em gái về bằng sự đợi, lại về bằng vợ lẽ. GIẢI NGHĨA",
-    "truyện_của_Trình_Di": null,
-    "bản_nghĩa_của_Chu_Hy": "Hào Sáu Ba Âm mềm mà chẳng trung chính, lại làm chủ thể đẹp lòng, tức là con gái bất chính, người ta không lấy, cho nên là Tượng “chưa lấy người nào mà trở lại làm lẽ. Hoặc có người nói: “Tu” là hạng con gái hèn”.",
-    "lời_bàn_của_tiên_nho": "Chu Hán Thượng nói rằng: Sách Thiên quan chép: “Ngôi Tu nữ bốn sao, là tiếng gội của bọn vợ lẽ hèn mọn”. Lục Chấn nói rằng: “Trong thiên văn, sao Chức Nữ sang, sao Tu nữ hèn”. Coi đó đủ biết chữ “tu” là con gái hèn.",
+    "content_type": "interpretation",
     "notes": {
       "1": "Chữ 歸妺 (qui muội) nghĩa là em gái về nhà chồng.",
       "2": "Con gái vua chúa lấy chồng, gọi là “gả xuống”.",
       "3": "Đời xưa thường đựng các thứ rau dưa để cúng vào giỏ.",
       "4": "Tức là con vật để cúng, như bò lợn v.v…"
-    }
+    },
+    "lời_kinh": "六三: 歸妺以須,反歸以娣.",
+    "dịch_âm": "Lục Tam: Qui muội dĩ tu, phản qui dĩ đệ.",
+    "dịch_nghĩa": "Hào Sáu Ba: Em gái về bằng sự đợi, lại về bằng vợ lẽ.",
+    "truyện_của_Trình_Di": "Hào Ba ở trên thể dưới, vốn không phải hèn, vì nó thất đức mà không có chinh ứng, cho nên kẻ muốn về nhà chồng mà nhà được về, “Tu” là đợi. Đợi tức là chưa lấy ai. Hào Sáu ở ngôi ba, không đáng ngôi là đức không chính, mềm mà chuộng cứng là nết không thuận; làm chủ thể “đẹp lòng” là dùng sự đẹp lòng mà cầu lấy chồng, tức là động bằng cách trái lễ; phía trên không có ứng, tức là không có kẻ nào nhận nó, không lấy ai cho nên phải đợi. Con gái xử trí như thế ai còn lấy nó? Nó không thể sánh với người ta, chỉ nên quay lại cầu làm lẽ mọn thì được.",
+    "bản_nghĩa_của_Chu_Hy": "Hào Sáu Ba Âm mềm mà chẳng trung chính, lại làm chủ thể đẹp lòng, tức là con gái bất chính, người ta không lấy, cho nên là Tượng “chưa lấy người nào mà trở lại làm lẽ. Hoặc có người nói: “Tu” là hạng con gái hèn”.",
+    "lời_bàn_của_tiên_nho": "Chu Hán Thượng nói rằng: Sách Thiên quan chép: “Ngôi Tu nữ bốn sao, là tiếng gội của bọn vợ lẽ hèn mọn”. Lục Chấn nói rằng: “Trong thiên văn, sao Chức Nữ sang, sao Tu nữ hèn”. Coi đó đủ biết chữ “tu” là con gái hèn."
   },
   {
     "chunk_id": "QUE_QUI_MUOI_011",
     "hexagram": "QUE_QUI_MUOI",
     "que": null,
-    "lời_kinh": "象⽈: 歸妺以須,未當也.",
-    "dịch_âm": "Tượng viết: Qui muội dĩ tu, vị đáng dã.",
-    "dịch_nghĩa": "Lời Tượng nói rằng: Em gái về nhà chồng lấy đợi chưa đáng vậy. GIẢI NGHĨA",
-    "truyện_của_Trình_Di": null,
-    "bản_nghĩa_của_Chu_Hy": null,
-    "lời_bàn_của_tiên_nho": null,
+    "content_type": "interpretation",
     "notes": {
       "1": "Chữ 歸妺 (qui muội) nghĩa là em gái về nhà chồng.",
       "2": "Con gái vua chúa lấy chồng, gọi là “gả xuống”.",
       "3": "Đời xưa thường đựng các thứ rau dưa để cúng vào giỏ.",
       "4": "Tức là con vật để cúng, như bò lợn v.v…"
-    }
+    },
+    "lời_kinh": "象⽈: 歸妺以須,未當也.",
+    "dịch_âm": "Tượng viết: Qui muội dĩ tu, vị đáng dã.",
+    "dịch_nghĩa": "Lời Tượng nói rằng: Em gái về nhà chồng lấy đợi chưa đáng vậy.",
+    "truyện_của_Trình_Di": "Chưa đáng nghĩa là chỗ ở của nó, đức nó, cách cầu lấy chồng của nó đều không đáng, không ai lấy nó, cho nên phải đợi.",
+    "bản_nghĩa_của_Chu_Hy": null,
+    "lời_bàn_của_tiên_nho": null
   },
   {
     "chunk_id": "QUE_QUI_MUOI_012",
     "hexagram": "QUE_QUI_MUOI",
     "que": null,
-    "lời_kinh": "九四: 歸妺愆期,遲歸有時.",
-    "dịch_âm": "Cửu Tứ: Qui muội khiên kỳ, trì qui hữu thì.",
-    "dịch_nghĩa": "Hào Chín Tư: Em gái về nhà chồng lỗi hẹn, chậm về có thời.",
-    "truyện_của_Trình_Di": null,
-    "bản_nghĩa_của_Chu_Hy": "Hào Chín Tư lấy chất Dương ở thể trên mà không có chính ứng, tức là gái hiền không chịu khinh suất theo người. Mà cối lỗi hẹn để đợi. Chính là trái lại với hào Sáu Ba.",
-    "lời_bàn_của_tiên_nho": null,
+    "content_type": "interpretation",
     "notes": {
       "1": "Chữ 歸妺 (qui muội) nghĩa là em gái về nhà chồng.",
       "2": "Con gái vua chúa lấy chồng, gọi là “gả xuống”.",
       "3": "Đời xưa thường đựng các thứ rau dưa để cúng vào giỏ.",
       "4": "Tức là con vật để cúng, như bò lợn v.v…"
-    }
+    },
+    "lời_kinh": "九四: 歸妺愆期,遲歸有時.",
+    "dịch_âm": "Cửu Tứ: Qui muội khiên kỳ, trì qui hữu thì.",
+    "dịch_nghĩa": "Hào Chín Tư: Em gái về nhà chồng lỗi hẹn, chậm về có thời.",
+    "truyện_của_Trình_Di": "Hào Chín lấy chất Dương ở ngôi Tư, ngôi Tư ở thể trên là chỗ cao, đức Dương cứng ở con gái là đức chính, tức là người hiền minh, không có chính ứng, tức là chưa được chỗ về, quá thời chưa về nhà chồng, cho nên nói là lỗi hẹn. Con gái ở chỗ sang cao, có đức hiền minh, lòng người ai cũng muố lấy, cho nên sự lỗi hẹn chính là “có thời”, nghĩa là tự nó còn có chờ đợi, không hải là khong dắt chồng, là đợi được kẻ tốt đôi mới đi.",
+    "bản_nghĩa_của_Chu_Hy": "Hào Chín Tư lấy chất Dương ở thể trên mà không có chính ứng, tức là gái hiền không chịu khinh suất theo người. Mà cối lỗi hẹn để đợi. Chính là trái lại với hào Sáu Ba.",
+    "lời_bàn_của_tiên_nho": null
   },
   {
     "chunk_id": "QUE_QUI_MUOI_013",
     "hexagram": "QUE_QUI_MUOI",
     "que": null,
-    "lời_kinh": "象⽈: 遲歸之志,有待⽽⾏也.",
-    "dịch_âm": "Tượng viết: Khiên kỳ chi chí, hữu đãi nhi hành dã.",
-    "dịch_nghĩa": "Lời Tượng nói rằng: Cái chí lỗi hẹn, có đợi mà đi vậy. GIẢI NGHĨA",
-    "truyện_của_Trình_Di": null,
-    "bản_nghĩa_của_Chu_Hy": null,
-    "lời_bàn_của_tiên_nho": null,
+    "content_type": "interpretation",
     "notes": {
       "1": "Chữ 歸妺 (qui muội) nghĩa là em gái về nhà chồng.",
       "2": "Con gái vua chúa lấy chồng, gọi là “gả xuống”.",
       "3": "Đời xưa thường đựng các thứ rau dưa để cúng vào giỏ.",
       "4": "Tức là con vật để cúng, như bò lợn v.v…"
-    }
+    },
+    "lời_kinh": "象⽈: 遲歸之志,有待⽽⾏也.",
+    "dịch_âm": "Tượng viết: Khiên kỳ chi chí, hữu đãi nhi hành dã.",
+    "dịch_nghĩa": "Lời Tượng nói rằng: Cái chí lỗi hẹn, có đợi mà đi vậy.",
+    "truyện_của_Trình_Di": "Sở dĩ lỗi hẹn là do ở mình không do ở kẻ kia. Con gái hiền là người mà người ta muốn lấy, sở dĩ lỗi hẹn, là tại chí nó muốn có chờ đợi, chờ đợi được người tốt đôi mới đi.",
+    "bản_nghĩa_của_Chu_Hy": null,
+    "lời_bàn_của_tiên_nho": null
   },
   {
     "chunk_id": "QUE_QUI_MUOI_014",
     "hexagram": "QUE_QUI_MUOI",
     "que": null,
-    "lời_kinh": "六五: 帝⼄歸妹, 其君之袂, 不如其娣之袂良, ⽉幾望, 吉.",
-    "dịch_âm": "Lục Ngũ: Đế Ất qui muội, kỳ quân chi quệ, bất như kỳ đệ chi quệ lương, nguyệt cơ vọng, cát!",
-    "dịch_nghĩa": "Hào Sáu Năm: Vua Đế Ất gả chồng em gái, vạt áo của vua nó không đẹp bằng vạt áo của vợ lẽ nó. Mặt trăng hầu tuần vọng, tốt! GIẢI NGHĨA",
-    "truyện_của_Trình_Di": null,
-    "bản_nghĩa_của_Chu_Hy": "Hào Sáu Năm mềm giữa, ở ngôi tôn, phía dưới ứng nhau với hào Chín Hai, chuộng đức mà không chuộng sự trang sức, cho nên là Tượng “con gái vua đi lấy chồng mà đồ mặc không choang chóe”. Nhưng, con gái đức thịnh, không thể hơn thế, cho nên lại là Tượng “mặt trăng hầu tuần vọng”, mà kẻ xem như thế thì tốt.",
-    "lời_bàn_của_tiên_nho": null,
+    "content_type": "interpretation",
     "notes": {
       "1": "Chữ 歸妺 (qui muội) nghĩa là em gái về nhà chồng.",
       "2": "Con gái vua chúa lấy chồng, gọi là “gả xuống”.",
       "3": "Đời xưa thường đựng các thứ rau dưa để cúng vào giỏ.",
       "4": "Tức là con vật để cúng, như bò lợn v.v…"
-    }
+    },
+    "lời_kinh": "六五: 帝⼄歸妹, 其君之袂, 不如其娣之袂良, ⽉幾望, 吉.",
+    "dịch_âm": "Lục Ngũ: Đế Ất qui muội, kỳ quân chi quệ, bất như kỳ đệ chi quệ lương, nguyệt cơ vọng, cát!",
+    "dịch_nghĩa": "Hào Sáu Năm: Vua Đế Ất gả chồng em gái, vạt áo của vua nó không đẹp bằng vạt áo của vợ lẽ nó. Mặt trăng hầu tuần vọng, tốt!",
+    "truyện_của_Trình_Di": "Hào Sáu Năm ở ngôi Tôn là hạng em gái sang cao, [2] phía dưới ứng nhau với hào Chín Hai, là tượng gả xuống . Con gái nhà vua gả xuống kẻ dưới, tự xưa vẫn thế, có điều đến vua Đế Ất mới chính lễ hôn nhân, rõ phận trai gái, dẫu là hạng gái rất sang cũng không được lỗi đạo mềm nhún, có lòng quí kiêu. Cho nên trong Kinh Dịch, chỗ nào hào Âm ở ngôi tông mà có ý nhún xuống thì nói là “vua Đế Ất gả chồng em gái”, tức như hào Sáu Năm quẻ Thái đó. Con gái sang về nhà chồng, chỉ nhún xuống để theo lễ, đó là sang cao, không chuộng trang sức để làm đẹp lòng người ta. Lẽ mọn là kẻ lấy sự trang sức làm công làm việc, vạt áo là đồ để trang sức, hào Sáu Năm chuộng lễ mà không chuộng sự trang sức, cho nên vạt áo của nó không đẹp bằng vạt áo của vợ lẽ nó. Mặt trăng đến tuần vọng là Âm đã đầy, đầy thì chọi nhau với Dương, hầu hết tuần vọng tức là chưa đến nỗi đầy. Hào Năm cao sang, thường không đến nỗi đầy cực, thì không chống nhau với chồng, như thế mới tốt.",
+    "bản_nghĩa_của_Chu_Hy": "Hào Sáu Năm mềm giữa, ở ngôi tôn, phía dưới ứng nhau với hào Chín Hai, chuộng đức mà không chuộng sự trang sức, cho nên là Tượng “con gái vua đi lấy chồng mà đồ mặc không choang chóe”. Nhưng, con gái đức thịnh, không thể hơn thế, cho nên lại là Tượng “mặt trăng hầu tuần vọng”, mà kẻ xem như thế thì tốt.",
+    "lời_bàn_của_tiên_nho": null
   },
   {
     "chunk_id": "QUE_QUI_MUOI_015",
     "hexagram": "QUE_QUI_MUOI",
     "que": null,
-    "lời_kinh": "象⽈: 帝⼄歸妹, 不如其娣之袂良也, 其位在中, 以貴⾏也.",
-    "dịch_âm": "Tượng viết: Đế Ất qui muội, bất như kỳ đệ chi quệ lương dã, kỳ vị tại trung, dĩ quí hành dã.",
-    "dịch_nghĩa": "Lời Tượng nói rằng: Vua Đế Ất gả chồng em gái chẳng đẹp bằng vạt áo của vợ lẽ nó, là tại ngôi nó ở giữa, lấy sang đi vậy. GIẢI NGHĨA",
-    "truyện_của_Trình_Di": null,
-    "bản_nghĩa_của_Chu_Hy": "Vì có đức giữa là đức sang trọng mà đi, cho nên không chuộng đến sự trang sức.",
-    "lời_bàn_của_tiên_nho": null,
+    "content_type": "interpretation",
     "notes": {
       "1": "Chữ 歸妺 (qui muội) nghĩa là em gái về nhà chồng.",
       "2": "Con gái vua chúa lấy chồng, gọi là “gả xuống”.",
       "3": "Đời xưa thường đựng các thứ rau dưa để cúng vào giỏ.",
       "4": "Tức là con vật để cúng, như bò lợn v.v…"
-    }
+    },
+    "lời_kinh": "象⽈: 帝⼄歸妹, 不如其娣之袂良也, 其位在中, 以貴⾏也.",
+    "dịch_âm": "Tượng viết: Đế Ất qui muội, bất như kỳ đệ chi quệ lương dã, kỳ vị tại trung, dĩ quí hành dã.",
+    "dịch_nghĩa": "Lời Tượng nói rằng: Vua Đế Ất gả chồng em gái chẳng đẹp bằng vạt áo của vợ lẽ nó, là tại ngôi nó ở giữa, lấy sang đi vậy.",
+    "truyện_của_Trình_Di": "Lấy cách gả chồng em gái của vua Đế Ất mà nói, vạt áo nó không đẹp bằng vợ lẽ nó, tức là chuộng lễ mà không chuộng sự trang sức. Hào Năm lấy chất mềm giữa ở ngôi sang cao, tức là lấy sự tôn quí mà đi bằng “đường giữa” vậy. Mềm thuận nhún khuất, chuộng lễ mà không chuộng sự trang sức, đó là “đường giữa”.",
+    "bản_nghĩa_của_Chu_Hy": "Vì có đức giữa là đức sang trọng mà đi, cho nên không chuộng đến sự trang sức.",
+    "lời_bàn_của_tiên_nho": null
   },
   {
     "chunk_id": "QUE_QUI_MUOI_016",
     "hexagram": "QUE_QUI_MUOI",
     "que": null,
-    "lời_kinh": "上六: ⼥承筐,無實,⼠刲⽺無⾎,無攸利.",
-    "dịch_âm": "Thượng Lục: Nữ thừa khuông, vô thật: sĩ khuê dương vô huyết; vô du lợi.",
-    "dịch_nghĩa": "Hào Sáu Trên: Con gái vâng giỏ, không đồ đựng; con trai giết dê, không máu; không thửa lợi. GIẢI NGHĨA",
-    "truyện_của_Trình_Di": null,
-    "bản_nghĩa_của_Chu_Hy": "Hào Sáu Trên lấy chất Âm mềm ở chót thì “em gái về nhà chồng”, mà không có ứng, tức là kẻ đã hẹn kết hôn mà không chót, cho nên Tượng nó như thế, mà Chiêm thì không lợi về sự gì.",
-    "lời_bàn_của_tiên_nho": null,
+    "content_type": "interpretation",
     "notes": {
       "1": "Chữ 歸妺 (qui muội) nghĩa là em gái về nhà chồng.",
       "2": "Con gái vua chúa lấy chồng, gọi là “gả xuống”.",
       "3": "Đời xưa thường đựng các thứ rau dưa để cúng vào giỏ.",
       "4": "Tức là con vật để cúng, như bò lợn v.v…"
-    }
+    },
+    "lời_kinh": "上六: ⼥承筐,無實,⼠刲⽺無⾎,無攸利.",
+    "dịch_âm": "Thượng Lục: Nữ thừa khuông, vô thật: sĩ khuê dương vô huyết; vô du lợi.",
+    "dịch_nghĩa": "Hào Sáu Trên: Con gái vâng giỏ, không đồ đựng; con trai giết dê, không máu; không thửa lợi.",
+    "truyện_của_Trình_Di": "Hào Sáu Trên chót thì gái về nhà chồng mà không có ứng, tức là gái về nhà chồng mà không chót. Vợ là người để thờ tiên tổ, vâng tế tự, không vâng được việc tế tự thì không thể làm vợ. Đồ đựng trong [3] giỏ vuông giỏ tròn , là do chức của người vợ phải cung. Đời xưa, đồ cúng trong nhà thờ, như loài dưa dấm, hoàng hậu và phu nhân phải coi; các vua [4] chư hầu khi tế, tự mình phải cắt con sinh ; quan khanh và quan đại phu đều thế, cắt con sinh lấy tiết để tế. Con gái nên vâng việc giỏ vuông, giỏ tròn mà không đồ đựng, không có đồ đựng thì không lấy gì mà tế. Ý nói không thể vâng việc tế tự vậy. Vợ chồng cùng vâng thờ nhà tôn miếu, vợ không thể vâng nổi việc tế tự tức là chồng không vâng nổi việc tế tự đó, cho nên cắt con dê mà không có máu, cũng là không lấy gì tế, ý nói không thể vần việc tế tự vậy. Vợ không vâng được việc tế tự thì nên tuyệt rồi, đó là đạo vợ chồng không chót, còn đi đâu mà lời nữa?",
+    "bản_nghĩa_của_Chu_Hy": "Hào Sáu Trên lấy chất Âm mềm ở chót thì “em gái về nhà chồng”, mà không có ứng, tức là kẻ đã hẹn kết hôn mà không chót, cho nên Tượng nó như thế, mà Chiêm thì không lợi về sự gì.",
+    "lời_bàn_của_tiên_nho": null
   },
   {
     "chunk_id": "QUE_QUI_MUOI_017",
     "hexagram": "QUE_QUI_MUOI",
     "que": null,
-    "lời_kinh": "象⽈:上六無實,承虛筐也.",
-    "dịch_âm": "Tượng viết: Thượng Lục vô thật, thừa hư khuông dã.",
-    "dịch_nghĩa": "Lời Tượng nói rằng: Hào Sáu Trên không đồ đựng, vâng giỏ không vậy. GIẢI NGHĨA",
-    "truyện_của_Trình_Di": null,
-    "bản_nghĩa_của_Chu_Hy": null,
-    "lời_bàn_của_tiên_nho": null,
+    "content_type": "interpretation",
     "notes": {
       "1": "Chữ 歸妺 (qui muội) nghĩa là em gái về nhà chồng.",
       "2": "Con gái vua chúa lấy chồng, gọi là “gả xuống”.",
       "3": "Đời xưa thường đựng các thứ rau dưa để cúng vào giỏ.",
       "4": "Tức là con vật để cúng, như bò lợn v.v…"
-    }
+    },
+    "lời_kinh": "象⽈:上六無實,承虛筐也.",
+    "dịch_âm": "Tượng viết: Thượng Lục vô thật, thừa hư khuông dã.",
+    "dịch_nghĩa": "Lời Tượng nói rằng: Hào Sáu Trên không đồ đựng, vâng giỏ không vậy.",
+    "truyện_của_Trình_Di": "Giỏ không đồ đựng ấy là giỏ không. Giỏ không có thể tế chăng? Ý nói không vâng nỏi việc tế tự vậy. Con gái không vâng nổi việc tế tự, thì lìa đứt đi mà thôi. Đó là gái về nhà chồng không chót.",
+    "bản_nghĩa_của_Chu_Hy": null,
+    "lời_bàn_của_tiên_nho": null
   }
 ]

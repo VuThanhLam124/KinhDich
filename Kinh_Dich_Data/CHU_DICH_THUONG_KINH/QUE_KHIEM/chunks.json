@@ -3,6 +3,7 @@
     "chunk_id": "QUE_KHIEM_001",
     "hexagram": "QUE_KHIEM",
     "que": null,
+    "content_type": "preface",
     "lời_kinh": null,
     "dịch_âm": null,
     "dịch_nghĩa": null,
@@ -11,217 +12,231 @@
     "lời_bàn_của_tiên_nho": null,
     "notes": {
       "1": "Chỉ về quẻ Cấn.",
-      "2": "Chỉ về"
+      "2": "Chỉ về quẻ Khôn ."
     }
   },
   {
     "chunk_id": "QUE_KHIEM_002",
     "hexagram": "QUE_KHIEM",
     "que": null,
-    "lời_kinh": "參⽈:議亨, 天道下濟⽽光明, 地道卑⽽上⾏. 天道虧盈⽽益謙, 地道變盈 ⽽流謙, ⿁神害盈⽽福議, ⼈道惡盈⽽好議. 謙⽽光, 卑⽽天可踊, 君⼦之 鉢也.",
-    "dịch_âm": "Thoán viết: Khiêm hanh, thiên đạo hạ tế nhi quang minh, địa đạo ty nhi thượng hành, thiên đạo khuy doanh nhi ích khiêm, địa đạo biến doanh nhi lưu khiêm, quỉ thần hại doanh nhi phúc khiêm, nhân đạo ố doanh nhi hiếu khiêm. Khiêm tốn nhi quang, ty nhi bất khả du, quân tử chi chung dã.",
-    "dịch_nghĩa": "Lời Thoán nói rằng: Quẻ Khiêm hanh thông, đạo trời giúp xuống mà sáng láng, đạo đất thấp mà đi lên, đạo trời làm vơi chỗ đầy mà thêm chỗ khiêm, đạo đất biến đổi chỗ đầy mà trôi vào chỗ khiêm, quỉ thần làm hại chỗ đầy mà làm phúc cho chỗ khiêm, đạo người ghét chỗ đầy mà yêu chỗ khiêm. Sự khiêm cao mà sáng, thấp mà không hề vượt qua, đó là sau chót của đấng quân tử. GIẢI NGHĨA",
-    "truyện_của_Trình_Di": null,
-    "bản_nghĩa_của_Chu_Hy": "Đây nói kẻ khiêm tôn ắt được hanh thông. Biến nghĩa là nghiêng đổ, lưu nghĩa là tụ lại mà theo về. Người ta biết khiêm tốn thì kẻ ở ngôi cao đức càng sáng tỏ, kẻ ở ngôi thấp, người khác cũng không thể hơn, vì vậy đấng quân tử mới có câu sau chót.",
-    "lời_bàn_của_tiên_nho": null,
+    "content_type": "interpretation",
     "notes": {
       "1": "Chỉ về quẻ Cấn.",
-      "2": "Chỉ về"
-    }
+      "2": "Chỉ về quẻ Khôn ."
+    },
+    "lời_kinh": "參⽈:議亨, 天道下濟⽽光明, 地道卑⽽上⾏. 天道虧盈⽽益謙, 地道變盈 ⽽流謙, ⿁神害盈⽽福議, ⼈道惡盈⽽好議. 謙⽽光, 卑⽽天可踊, 君⼦之 鉢也.",
+    "dịch_âm": "Thoán viết: Khiêm hanh, thiên đạo hạ tế nhi quang minh, địa đạo ty nhi thượng hành, thiên đạo khuy doanh nhi ích khiêm, địa đạo biến doanh nhi lưu khiêm, quỉ thần hại doanh nhi phúc khiêm, nhân đạo ố doanh nhi hiếu khiêm. Khiêm tốn nhi quang, ty nhi bất khả du, quân tử chi chung dã.",
+    "dịch_nghĩa": "Lời Thoán nói rằng: Quẻ Khiêm hanh thông, đạo trời giúp xuống mà sáng láng, đạo đất thấp mà đi lên, đạo trời làm vơi chỗ đầy mà thêm chỗ khiêm, đạo đất biến đổi chỗ đầy mà trôi vào chỗ khiêm, quỉ thần làm hại chỗ đầy mà làm phúc cho chỗ khiêm, đạo người ghét chỗ đầy mà yêu chỗ khiêm. Sự khiêm cao mà sáng, thấp mà không hề vượt qua, đó là sau chót của đấng quân tử.",
+    "truyện_của_Trình_Di": "Chữ 濟 (tế) nên đổi là chữ 際 (tế). Đây là nói rõ cái nghĩa “khiêm mà có thể hanh thông”, đạo trời vì khi giao tế xuống dưới, cho nên có thể hóa nuôi muôn vật, thành đạo sáng láng; đạo đất vì ở dưới thấp, khi nó đi lên giao nhau với trời, đều là vì sự thấp xuống mà được hanh thông. Lấy việc trời mà nói, thì cái đầy phải vơi, cái nhún được thêm, ví như mặt trời mặt trăng, khí Âm khí Dương. Lấy thế đất mà nói, thì cái gì đầy tràn ắt phải nghiêng đổ biến đổi, mà lại trũng xuống; cái gì thấp trũng thì chảy vào mà càng thêm lên. Quỉ thần tức là dấu vết của đấng Tạo hóa, cái gì đầy tràn quỉ thần làm hại, cái gì nhún bớt, quỉ thần giúp phúc, những việc thái quá mà bị tổn, không đủ mà được thêm, đều là lẽ ấy. Tình người ghen ghét kẻ đầy tràn mà yêu thích kẻ khiêm tốn. Khiêm là cái đức tột bậc của người ta, cho nên thánh nhân nói kỹ, để răn kẻ đầy, khuyến khích kẻ nhún. Khiêm là nhún thuận mà đạo của nó cao lớn và sáng rõ, tự xử tuy là thấp kém mà đức của nó thật cao không thể hơn, ấy là không thể vượt qua. Đấng quân tử rất thật với đức khiêm tốn, lúc nào cũng khiêm tốn mà không thay đổi, đó là sau chót, vì vậy mới được cao sáng.",
+    "bản_nghĩa_của_Chu_Hy": "Đây nói kẻ khiêm tôn ắt được hanh thông. Biến nghĩa là nghiêng đổ, lưu nghĩa là tụ lại mà theo về. Người ta biết khiêm tốn thì kẻ ở ngôi cao đức càng sáng tỏ, kẻ ở ngôi thấp, người khác cũng không thể hơn, vì vậy đấng quân tử mới có câu sau chót.",
+    "lời_bàn_của_tiên_nho": null
   },
   {
     "chunk_id": "QUE_KHIEM_003",
     "hexagram": "QUE_KHIEM",
     "que": null,
-    "lời_kinh": "象⽈:地中有⼭, 謙. 君⼦以哀多益寡, 稱物平施.",
-    "dịch_âm": "Tượng viết: Địa trung hữu sơn, Khiêm, quân tử dĩ biểu đa ích quả, xứng vật bình thi.",
-    "dịch_nghĩa": "Lời Tượng nói rằng: Trong đất có núi, là quẻ Khiêm , đấng quân tử coi đó mà rút chỗ nhiều, thêm chỗ ít, cân lường các vật, làm cho sự thi thố được thăng bằng. GIẢI NGHĨA",
-    "truyện_của_Trình_Di": null,
-    "bản_nghĩa_của_Chu_Hy": "Lấy cái thấp mà chứa cái cao, là tượng khiêm tốn. Rút chỗ nhiều, thêm chỗ ít, là để làm cho xứng đáng với sự thích nghi của các vật; mà san đều việc thí cho, bớt chỗ cao thêm vào chỗ thấp, cho tới mực thăng bằng, cũng là ý khiêm tôn.",
-    "lời_bàn_của_tiên_nho": null,
+    "content_type": "interpretation",
     "notes": {
       "1": "Chỉ về quẻ Cấn.",
-      "2": "Chỉ về"
-    }
+      "2": "Chỉ về quẻ Khôn ."
+    },
+    "lời_kinh": "象⽈:地中有⼭, 謙. 君⼦以哀多益寡, 稱物平施.",
+    "dịch_âm": "Tượng viết: Địa trung hữu sơn, Khiêm, quân tử dĩ biểu đa ích quả, xứng vật bình thi.",
+    "dịch_nghĩa": "Lời Tượng nói rằng: Trong đất có núi, là quẻ Khiêm , đấng quân tử coi đó mà rút chỗ nhiều, thêm chỗ ít, cân lường các vật, làm cho sự thi thố được thăng bằng.",
+    "truyện_của_Trình_Di": "Thế đất thấp lùn, núi là vật cao lớn mà ở trong đất, đó là tượng bên ngoài thấp lùn, mà bên trong chứa cái cao lớn, cho nên là Khiêm. Không nói núi ở trong đất, mà nói trong đất có núi, ý muốn tỏ rằng: trong chỗ thấp lùn, chứa cái cao chót. Nếu nói cái cao chốt chứa trong cái thấp lùn thì văn lý không xuôi, các tượng đều thế, coi lời văn thì có thể thấy. “Đấng quân tử coi đó mà rút chỗ nhiều, thêm chỗ ít, cân lường các vật, làm cho sự thi thố được thăng bằng”, nghĩa là đấng quân tử coi tượng quẻ Khiêm : núi mà lại ở dướiđất, ấy là cao thì hạ xuống, thấp thì nâng lên, thấy rõ cái nghĩa nén chỗ cao, nhắc chỗ thấp, bớt chỗ thái quá, thêm vào chỗ bất cập, đem ra thi thố công việc, thì rút lấy của chỗ nhiều, tăng thêm cho chỗ ít, cân nhắc sự nhiều ít của các vật mà làm cho sự thí cho được đều, khiến cho mọi việc được thăng bằng.",
+    "bản_nghĩa_của_Chu_Hy": "Lấy cái thấp mà chứa cái cao, là tượng khiêm tốn. Rút chỗ nhiều, thêm chỗ ít, là để làm cho xứng đáng với sự thích nghi của các vật; mà san đều việc thí cho, bớt chỗ cao thêm vào chỗ thấp, cho tới mực thăng bằng, cũng là ý khiêm tôn.",
+    "lời_bàn_của_tiên_nho": null
   },
   {
     "chunk_id": "QUE_KHIEM_004",
     "hexagram": "QUE_KHIEM",
     "que": null,
-    "lời_kinh": "初六:謙謙君⼦, ⽤涉⼤川, 吉.",
-    "dịch_âm": "Sơ Lục: Khiêm khiêm, quân tử, đụng thiệp đại xuyên,cát.",
-    "dịch_nghĩa": "Hào Sáu Đầu: Đấng quân tử nhún nhún, dùng sang sông lớn, tốt. GIẢI NGHĨA",
-    "truyện_của_Trình_Di": null,
-    "bản_nghĩa_của_Chu_Hy": "Là hào mềm ở ngôi dưới, nhún đến tột bậc, đó là nết của đấng quân tử. Dùng nết đó mà vượt các chỗ hiểm nạn thì đâu mà không qua được? Cho nên, kẻ xem như thế, thì lợi về sự sang sông lớn.",
-    "lời_bàn_của_tiên_nho": null,
+    "content_type": "interpretation",
     "notes": {
       "1": "Chỉ về quẻ Cấn.",
-      "2": "Chỉ về"
-    }
+      "2": "Chỉ về quẻ Khôn ."
+    },
+    "lời_kinh": "初六:謙謙君⼦, ⽤涉⼤川, 吉.",
+    "dịch_âm": "Sơ Lục: Khiêm khiêm, quân tử, đụng thiệp đại xuyên,cát.",
+    "dịch_nghĩa": "Hào Sáu Đầu: Đấng quân tử nhún nhún, dùng sang sông lớn, tốt.",
+    "truyện_của_Trình_Di": "Là hào nhu thuận ở quẻ Khiêm , lại nhằm chỗ dưới nhất trong một quẻ, đó là tự xử cực kỳ thấp kém, tức là Khiêm mà lại Khiêm, cho nên nói là “Khiêm khiêm”, có thể như thế thì là đấng quân tử. Tự xử rất khiêm, mọi người đều cùng với, dẫu dùng để vượt qua chỗ hiểm nạn, cũng không có sự lo hại, huống chi ở chỗ bình dị, thì còn cái gì không tốt?",
+    "bản_nghĩa_của_Chu_Hy": "Là hào mềm ở ngôi dưới, nhún đến tột bậc, đó là nết của đấng quân tử. Dùng nết đó mà vượt các chỗ hiểm nạn thì đâu mà không qua được? Cho nên, kẻ xem như thế, thì lợi về sự sang sông lớn.",
+    "lời_bàn_của_tiên_nho": null
   },
   {
     "chunk_id": "QUE_KHIEM_005",
     "hexagram": "QUE_KHIEM",
     "que": null,
-    "lời_kinh": "象⽈:議謙, 君⼦卑以⾃牧也.",
-    "dịch_âm": "Tượng viết: Khiêm khiêm, quân tử ty dĩ tự mạc dã.",
-    "dịch_nghĩa": "Lời Tượng nói rằng: Nhún nhún, đấng quân tử dùng sự thấp nhún để tự chăn vậy. GIẢI NGHĨA",
-    "truyện_của_Trình_Di": null,
-    "bản_nghĩa_của_Chu_Hy": null,
-    "lời_bàn_của_tiên_nho": "Trương Nam Hiên nói rằng: “Nhún nhún, đấng quân tử dùng sự thấp kém để tự chăn như chăn trâu dê, phải làm cho được quen lành, thì mới có thể nói đến việc khiêm. Khấu Kiến An nói rằng: Mục tức là nuôi, cái đất nuôi đức, chưa có bao gìờ không gây nền tự chỗ thấp. Hễ cái mình nuôi đến tột bậc, thì càng thấp lại càng không thấp.",
+    "content_type": "interpretation",
     "notes": {
       "1": "Chỉ về quẻ Cấn.",
-      "2": "Chỉ về"
-    }
+      "2": "Chỉ về quẻ Khôn ."
+    },
+    "lời_kinh": "象⽈:議謙, 君⼦卑以⾃牧也.",
+    "dịch_âm": "Tượng viết: Khiêm khiêm, quân tử ty dĩ tự mạc dã.",
+    "dịch_nghĩa": "Lời Tượng nói rằng: Nhún nhún, đấng quân tử dùng sự thấp nhún để tự chăn vậy.",
+    "truyện_của_Trình_Di": "Khiêm khiêm tức là nhún đến tột bậc. Ý nói đấng quân tử lấy đạo nhún thấp mà tự chăn mình. Tự chăn tức là tự xử.",
+    "bản_nghĩa_của_Chu_Hy": null,
+    "lời_bàn_của_tiên_nho": "Trương Nam Hiên nói rằng: “Nhún nhún, đấng quân tử dùng sự thấp kém để tự chăn như chăn trâu dê, phải làm cho được quen lành, thì mới có thể nói đến việc khiêm. Khấu Kiến An nói rằng: Mục tức là nuôi, cái đất nuôi đức, chưa có bao gìờ không gây nền tự chỗ thấp. Hễ cái mình nuôi đến tột bậc, thì càng thấp lại càng không thấp."
   },
   {
     "chunk_id": "QUE_KHIEM_006",
     "hexagram": "QUE_KHIEM",
     "que": null,
-    "lời_kinh": "六⼆:鳴謙, 貞吉.",
-    "dịch_âm": "Lục Nhị: Minh khiêm, trinh cát.",
-    "dịch_nghĩa": "Hào Sáu Hai: Kiêu sự nhún, chính bền, tốt. GIẢI NGHĨA",
-    "truyện_của_Trình_Di": null,
-    "bản_nghĩa_của_Chu_Hy": "Mềm thuận trung chính, vì sự nhún mà có tiếng tăm, ấy là kẻ chính mà tốt, cho nên lời Chiêm của nó như thế.",
-    "lời_bàn_của_tiên_nho": null,
+    "content_type": "interpretation",
     "notes": {
       "1": "Chỉ về quẻ Cấn.",
-      "2": "Chỉ về"
-    }
+      "2": "Chỉ về quẻ Khôn ."
+    },
+    "lời_kinh": "六⼆:鳴謙, 貞吉.",
+    "dịch_âm": "Lục Nhị: Minh khiêm, trinh cát.",
+    "dịch_nghĩa": "Hào Sáu Hai: Kiêu sự nhún, chính bền, tốt.",
+    "truyện_của_Trình_Di": "Là kẻ mềm thuận ở ngôi giữa, ấy là đức nhún chứa đầy ở trong, cho nên phát ra bên ngoài, hiện ở thanh âm, nhan sắc, cho nên nói rằng: “Kêu sự nhún”. Ở ngôi giữa được chỗ chính, tức là đức trung chính cho nên nói rằng: “chính bền tốt”.",
+    "bản_nghĩa_của_Chu_Hy": "Mềm thuận trung chính, vì sự nhún mà có tiếng tăm, ấy là kẻ chính mà tốt, cho nên lời Chiêm của nó như thế.",
+    "lời_bàn_của_tiên_nho": null
   },
   {
     "chunk_id": "QUE_KHIEM_007",
     "hexagram": "QUE_KHIEM",
     "que": null,
-    "lời_kinh": "象⽈:鳴議,貞吉, 中⼼得也.",
-    "dịch_âm": "Tượng viết: Minh khiêm trinh cát, trung tâm đắc dã.",
-    "dịch_nghĩa": "Lời Tượng nói rằng: Kêu sự khiêm, chính bền tốt, được tự trong lòng vậy. GIẢI NGHĨA",
-    "truyện_của_Trình_Di": null,
-    "bản_nghĩa_của_Chu_Hy": null,
-    "lời_bàn_của_tiên_nho": null,
+    "content_type": "interpretation",
     "notes": {
       "1": "Chỉ về quẻ Cấn.",
-      "2": "Chỉ về"
-    }
+      "2": "Chỉ về quẻ Khôn ."
+    },
+    "lời_kinh": "象⽈:鳴議,貞吉, 中⼼得也.",
+    "dịch_âm": "Tượng viết: Minh khiêm trinh cát, trung tâm đắc dã.",
+    "dịch_nghĩa": "Lời Tượng nói rằng: Kêu sự khiêm, chính bền tốt, được tự trong lòng vậy.",
+    "truyện_của_Trình_Di": "Đức nhún của hào Hai do lòng chí thành chứa ở bên trong, cho nên phát ra thanh âm, đó là trong lòng tự được, không phải miễn cưỡng mà làm.",
+    "bản_nghĩa_của_Chu_Hy": null,
+    "lời_bàn_của_tiên_nho": null
   },
   {
     "chunk_id": "QUE_KHIEM_008",
     "hexagram": "QUE_KHIEM",
     "que": null,
-    "lời_kinh": "九三:勞謙, 君⼦有終, 吉.",
-    "dịch_âm": "Cửu Tam: Lao khiêm, quân tử hữu chung, cát.",
-    "dịch_nghĩa": "Hào Chín Ba; Đấng quân tử nhọc mà nhún, sau chót, tốt. GIẢI NGHĨA",
-    "truyện_của_Trình_Di": null,
-    "bản_nghĩa_của_Chu_Hy": "Cả quẻ có một hào Dương, ở dưới thể trên, là kẻ cứng mà được chỗ chính đính, kẻ trên người dưới theo về, có công lao mà biết nhún, lại càng là cái người ta vẫn lấy làm khó, cho nên, hễ có sau chót thì tốt. Kẻ xem như thế, thì cũng ứng vào như thế.",
-    "lời_bàn_của_tiên_nho": null,
+    "content_type": "interpretation",
     "notes": {
       "1": "Chỉ về quẻ Cấn.",
-      "2": "Chỉ về"
-    }
+      "2": "Chỉ về quẻ Khôn ."
+    },
+    "lời_kinh": "九三:勞謙, 君⼦有終, 吉.",
+    "dịch_âm": "Cửu Tam: Lao khiêm, quân tử hữu chung, cát.",
+    "dịch_nghĩa": "Hào Chín Ba; Đấng quân tử nhọc mà nhún, sau chót, tốt.",
+    "truyện_của_Trình_Di": "Hào Ba lấy đức Dương cương mà ở thể dưới, được các hào Âm tôn theo; xéo được ngôi chính, là trên thể dưới, ấy là một người trên thì được vua tin dùng, dưới thì được theo về, có công lao mà giữ đức nhún cho nên nói rằng: “nhọc mà nhún”. Đã có thể nhọc mà nhún, lại phải là đấng quân tử làm những sự ấy đến chót thì tốt.",
+    "bản_nghĩa_của_Chu_Hy": "Cả quẻ có một hào Dương, ở dưới thể trên, là kẻ cứng mà được chỗ chính đính, kẻ trên người dưới theo về, có công lao mà biết nhún, lại càng là cái người ta vẫn lấy làm khó, cho nên, hễ có sau chót thì tốt. Kẻ xem như thế, thì cũng ứng vào như thế.",
+    "lời_bàn_của_tiên_nho": null
   },
   {
     "chunk_id": "QUE_KHIEM_009",
     "hexagram": "QUE_KHIEM",
     "que": null,
-    "lời_kinh": "象⽈:勞謙君⼦, 萬民服也. Dịchâm. -Tượng viết: Lao khiêm quân tử, vạn dân phục dã.",
-    "dịch_âm": null,
-    "dịch_nghĩa": "Lời Tượng nói rằng: Đấng quân tử nhọc mà nhún, thì muôn dân phục vậy. GIẢI NGHĨA",
-    "truyện_của_Trình_Di": null,
-    "bản_nghĩa_của_Chu_Hy": null,
-    "lời_bàn_của_tiên_nho": null,
+    "content_type": "interpretation",
     "notes": {
       "1": "Chỉ về quẻ Cấn.",
-      "2": "Chỉ về"
-    }
+      "2": "Chỉ về quẻ Khôn ."
+    },
+    "lời_kinh": "象⽈:勞謙君⼦, 萬民服也. Dịchâm. -Tượng viết: Lao khiêm quân tử, vạn dân phục dã. Dịch nghĩa. - Lời Tượng nói rằng: Đấng quân tử nhọc mà nhún, thì muôn dân phục vậy.",
+    "dịch_âm": null,
+    "dịch_nghĩa": "Lời Tượng nói rằng: Đấng quân tử nhọc mà nhún, thì muôn dân phục vậy.",
+    "truyện_của_Trình_Di": "Đấng quân tử có thể nhọc mà vẫn nhún, ấy là người mà muôn dân phải phục vậy.",
+    "bản_nghĩa_của_Chu_Hy": null,
+    "lời_bàn_của_tiên_nho": null
   },
   {
     "chunk_id": "QUE_KHIEM_010",
     "hexagram": "QUE_KHIEM",
     "que": null,
-    "lời_kinh": "六四:無不利, 偽謙.",
-    "dịch_âm": "Lục Tứ: Vô bất lợi, vi khiêm.",
-    "dịch_nghĩa": "Hào Sáu Tư: Không gì không lợi, vung vẩy sự nhún. GIẢI NGHĨA",
-    "truyện_của_Trình_Di": null,
-    "bản_nghĩa_của_Chu_Hy": "Đức mềm mà ở được chỗ chính, ở trên mà biết tự hạ, lời Chiêm của nó là không gì không lợi. Nhưng vì nó ở trên hào Chín Ba, cho nên lại răn rằng phải phát huy sự nhún của mình, để tỏ cái ý không dám tự cho là yên.",
-    "lời_bàn_của_tiên_nho": null,
+    "content_type": "interpretation",
     "notes": {
       "1": "Chỉ về quẻ Cấn.",
-      "2": "Chỉ về"
-    }
+      "2": "Chỉ về quẻ Khôn ."
+    },
+    "lời_kinh": "六四:無不利, 偽謙.",
+    "dịch_âm": "Lục Tứ: Vô bất lợi, vi khiêm.",
+    "dịch_nghĩa": "Hào Sáu Tư: Không gì không lợi, vung vẩy sự nhún.",
+    "truyện_của_Trình_Di": "Hào Tư ở thể trên, sát gần ngôi vua, ông vua Sáu Năm lại tự xử bằng cách nhún mềm, hào Chín Ba lại có công đức lớn, được người trên dùng, dân chúng tôn, mà mình ở trên nó, phải nên cung kính lo sợ, để thờ ông vua có đức nhún lún thấp khiêm tốn để nhường người bề tôi có công lao mà vần nhún, hành động thi thố không gì không lợi cho sự vung vẩy nết nhún. “Vi” tức là Tượng vung ra, như tay người ta vung vẩy. Động hay nghỉ, tiến hay lùi, ắt phải thi hành nết nhún, vì ở vào chỗ nhiều điều đáng sợ, mà lại đứng trên một người hiền thần, nên phải như thế.",
+    "bản_nghĩa_của_Chu_Hy": "Đức mềm mà ở được chỗ chính, ở trên mà biết tự hạ, lời Chiêm của nó là không gì không lợi. Nhưng vì nó ở trên hào Chín Ba, cho nên lại răn rằng phải phát huy sự nhún của mình, để tỏ cái ý không dám tự cho là yên.",
+    "lời_bàn_của_tiên_nho": null
   },
   {
     "chunk_id": "QUE_KHIEM_011",
     "hexagram": "QUE_KHIEM",
     "que": null,
-    "lời_kinh": "象⽈:無不利, 偽謙, 不違則也.",
-    "dịch_âm": "Tượng viết: Vô bất lợi, vi khiêm, bất vi tắc dã.",
-    "dịch_nghĩa": "Lời Tượng nói rằng. Không gì không lợi, vung vẩy sự nhún, không trái phép vậy. GIẢI NGHĨA",
-    "truyện_của_Trình_Di": null,
-    "bản_nghĩa_của_Chu_Hy": "Ý nói không làm quá đáng.",
-    "lời_bàn_của_tiên_nho": null,
+    "content_type": "interpretation",
     "notes": {
       "1": "Chỉ về quẻ Cấn.",
-      "2": "Chỉ về"
-    }
+      "2": "Chỉ về quẻ Khôn ."
+    },
+    "lời_kinh": "象⽈:無不利, 偽謙, 不違則也.",
+    "dịch_âm": "Tượng viết: Vô bất lợi, vi khiêm, bất vi tắc dã.",
+    "dịch_nghĩa": "Lời Tượng nói rằng. Không gì không lợi, vung vẩy sự nhún, không trái phép vậy.",
+    "truyện_của_Trình_Di": "Sự nhún của người ta, cũng phải có chỗ dùng, không thể làm quá sự thích nghi, như hào Sáu Năm, hoặc dùng lấn đánh, tức là phải đó. Chỉ có hào Tư vì ở chỗ gần vua, đứng ngôi trên kẻ bầy tôi có công lao, cho nên, hết thảy các sự động tác, không sự gì không lợi cho cách vung vẩy nết nhún, như thế rồi mới đúng với phép tắc, cho nên nói rằng “không trái phép”, nghĩa là được sự thích nghi.",
+    "bản_nghĩa_của_Chu_Hy": "Ý nói không làm quá đáng.",
+    "lời_bàn_của_tiên_nho": null
   },
   {
     "chunk_id": "QUE_KHIEM_012",
     "hexagram": "QUE_KHIEM",
     "que": null,
-    "lời_kinh": "六五:不富以其鄰, 利⽤侵伐, 無不利.",
-    "dịch_âm": "Lục Ngũ: Bất phú dĩ kỳ lân, lợi dụng xâm phạt, vô bất lợi.",
-    "dịch_nghĩa": "Hào Sáu Năm: Không giàu, sai khiến được láng giềng, lợi dụng lấn đánh, không gì không lợi. GIẢI NGHĨA",
-    "truyện_của_Trình_Di": null,
-    "bản_nghĩa_của_Chu_Hy": "Lấy đức mềm ở ngôi tôn, ấy là kẻ ở trên mà biết nhún, cho nên là Tượng không giàu mà có thể sai khiến láng giềng. Bởi vì người ta theo về đã nhiều, còn có kẻ nào chưa phục, thì nên đánh đi, mà về việc khác cũng không việc gì không lợi. Người ta mà có đức ấy thì lời Chiêm cũng thế.",
-    "lời_bàn_của_tiên_nho": null,
+    "content_type": "interpretation",
     "notes": {
       "1": "Chỉ về quẻ Cấn.",
-      "2": "Chỉ về"
-    }
+      "2": "Chỉ về quẻ Khôn ."
+    },
+    "lời_kinh": "六五:不富以其鄰, 利⽤侵伐, 無不利.",
+    "dịch_âm": "Lục Ngũ: Bất phú dĩ kỳ lân, lợi dụng xâm phạt, vô bất lợi.",
+    "dịch_nghĩa": "Hào Sáu Năm: Không giàu, sai khiến được láng giềng, lợi dụng lấn đánh, không gì không lợi.",
+    "truyện_của_Trình_Di": "Giàu là kẻ mà người ta theo về, chỉ có của cải mới tụ được người. Hào năm lấy bậc cao của ngôi vua mà giữ đức nhún thuận, để tiếp kẻ dưới, ấy là người mà người ta theo về, cho nên dù không giàu mà cũng có thể chiếm có láng giềng. Láng giềng chỉ chỗ gần gũi, nghĩa là không giàu mà được người ta gần gũi với mình. Làm ông vua mà giữ được đức nhún thuận, thiên hạ sẽ thật bụng theo về. Song mà đạo vua không thể chỉ chuộng mềm nhún mà thôi, phải có oai vũ giúp vào, thì mới có thể khiến cho thiên hạ phục, nên mớilợi dụng lấn đánh. Uy đức cùng tỏ, rồi mới hết sự nên chăng của đạo vua mà không cái gì không lợi. Bởi vì hào Năm là hào mềm nhún, nên phòng sự thái quá, nên mới phát minh ra nghĩa đó.",
+    "bản_nghĩa_của_Chu_Hy": "Lấy đức mềm ở ngôi tôn, ấy là kẻ ở trên mà biết nhún, cho nên là Tượng không giàu mà có thể sai khiến láng giềng. Bởi vì người ta theo về đã nhiều, còn có kẻ nào chưa phục, thì nên đánh đi, mà về việc khác cũng không việc gì không lợi. Người ta mà có đức ấy thì lời Chiêm cũng thế.",
+    "lời_bàn_của_tiên_nho": null
   },
   {
     "chunk_id": "QUE_KHIEM_013",
     "hexagram": "QUE_KHIEM",
     "que": null,
-    "lời_kinh": "象⽈:利⽤侵伐, 征不服也.",
-    "dịch_âm": "Tượng viết: Lợi dụng xâm phạt, chinh bất phục dã.",
-    "dịch_nghĩa": "Lời Tượng nói rằng: Lợi dùng lấn đánh, đánh kẻ không phục vậy. GIẢI NGHĨA",
-    "truyện_của_Trình_Di": null,
-    "bản_nghĩa_của_Chu_Hy": null,
-    "lời_bàn_của_tiên_nho": null,
+    "content_type": "interpretation",
     "notes": {
       "1": "Chỉ về quẻ Cấn.",
-      "2": "Chỉ về"
-    }
+      "2": "Chỉ về quẻ Khôn ."
+    },
+    "lời_kinh": "象⽈:利⽤侵伐, 征不服也.",
+    "dịch_âm": "Tượng viết: Lợi dụng xâm phạt, chinh bất phục dã.",
+    "dịch_nghĩa": "Lời Tượng nói rằng: Lợi dùng lấn đánh, đánh kẻ không phục vậy.",
+    "truyện_của_Trình_Di": "Đánh những kẻ nào mà sự văn đức khiêm tốn không thể làm cho sợ phục mà không dùng oai vũ, thì lấy gì mà trị bình thiên hạ? Cái đó không phải trung đạo của kẻ làm vua mà là lỗi của sự nhún.",
+    "bản_nghĩa_của_Chu_Hy": null,
+    "lời_bàn_của_tiên_nho": null
   },
   {
     "chunk_id": "QUE_KHIEM_014",
     "hexagram": "QUE_KHIEM",
     "que": null,
-    "lời_kinh": "上六:鳴謙, 利⽤⾏師征⾢國.",
-    "dịch_âm": "Thượng Lục: Minh khiêm, lợi dụng hành sư chính ấp quốc.",
-    "dịch_nghĩa": "Hào Sáu Trên: Kêu sự nhún, lợi dụng trẩy quân đánh làng nước. GIẢI NGHĨA",
-    "truyện_của_Trình_Di": null,
-    "bản_nghĩa_của_Chu_Hy": "Nhún đến cùng cực mà có tiếng tăm, ấy là kẻ mà người ta cùng với, cho nên có thể dùng về trẩy quân. Nhưng vì nó chất mềm mà không có ngôi nên có thể đánh chỗ làng nước của mình mà thôi.",
-    "lời_bàn_của_tiên_nho": null,
+    "content_type": "interpretation",
     "notes": {
       "1": "Chỉ về quẻ Cấn.",
-      "2": "Chỉ về"
-    }
+      "2": "Chỉ về quẻ Khôn ."
+    },
+    "lời_kinh": "上六:鳴謙, 利⽤⾏師征⾢國.",
+    "dịch_âm": "Thượng Lục: Minh khiêm, lợi dụng hành sư chính ấp quốc.",
+    "dịch_nghĩa": "Hào Sáu Trên: Kêu sự nhún, lợi dụng trẩy quân đánh làng nước.",
+    "truyện_của_Trình_Di": "Hào Sáu lấy nết mềm ở chỗ mềm, tức là cực thuận, lại ở cùng tột quẻ Khiêm , tức là kẻ cực nhún. Là kẻ cực nhún, mà lại ở vào ngôi cao, chưa được thỏa cái chí nhún, cho nên đến phải phát ra tiếng tăm. Lại, kẻ mềm ở chỗ cùng cực sự nhún, cũng ắt hiện ra thanh sắc, cho nên nói rằng: “kêu sự nhún”. Tuy nó ở chỗ không có ngôi, không phải kẻ làm việc thiên hạ, nhưng mà người ta trị mình, ắt phải cương nhu giúp nhau, hào Trên là chỗ nhún đến cùng cực, hễ mà thái thậm thì là quá đáng, cho nên nó lợi vở sự dùng oai vũ tự trị, “ấp làng nước” là chỗ riêng của mình, “cỏ trẩy quân” là dùng oai vũ, “đánh làng nước” là trị lòng riêng của mình.",
+    "bản_nghĩa_của_Chu_Hy": "Nhún đến cùng cực mà có tiếng tăm, ấy là kẻ mà người ta cùng với, cho nên có thể dùng về trẩy quân. Nhưng vì nó chất mềm mà không có ngôi nên có thể đánh chỗ làng nước của mình mà thôi.",
+    "lời_bàn_của_tiên_nho": null
   },
   {
     "chunk_id": "QUE_KHIEM_015",
     "hexagram": "QUE_KHIEM",
     "que": null,
-    "lời_kinh": "象⽈:鳴謙, 志未得也.可⽤⾏師征國也.",
-    "dịch_âm": "Tượng viết: Minh khiêm, chí vị đắc dã; khả dụng hành sự chinh ấp quốc dã.",
-    "dịch_nghĩa": "Lời Tượng nói rằng: Kêu sự nhún, chí chưa thỏa vậy; có thể dùng để trẩy quân, đánh làng nước vậy. GIẢI NGHĨA",
-    "truyện_của_Trình_Di": null,
-    "bản_nghĩa_của_Chu_Hy": "Âm nhu không ngôi, tài lực không đủ, cho nên chí nó chưa toại, mà đến phải trẩy quân, nhưng cũng vừa đủ đánh làng riêng của mình thôi. Chú thích: [1] Chỉ về quẻ Cấn. [2] Chỉ về quẻ Khôn .",
-    "lời_bàn_của_tiên_nho": null,
+    "content_type": "interpretation",
     "notes": {
       "1": "Chỉ về quẻ Cấn.",
-      "2": "Chỉ về"
-    }
+      "2": "Chỉ về quẻ Khôn ."
+    },
+    "lời_kinh": "象⽈:鳴謙, 志未得也.可⽤⾏師征國也.",
+    "dịch_âm": "Tượng viết: Minh khiêm, chí vị đắc dã; khả dụng hành sự chinh ấp quốc dã.",
+    "dịch_nghĩa": "Lời Tượng nói rằng: Kêu sự nhún, chí chưa thỏa vậy; có thể dùng để trẩy quân, đánh làng nước vậy.",
+    "truyện_của_Trình_Di": "Nhún đã cùng tột mà ở ngôi Trên, cái chí muốn nhún chưa toại, cho nên thiết tha khôn xiết, đến nỗi phải kêu, tuy chẳng đáng ngôi, nhưng mà nhún đã quá cực, nên dùng oai vũ tự trị cái riêng của mình, cho nên nói rằng: “Lợi dụng trẩy quân đánh làng nước”.",
+    "bản_nghĩa_của_Chu_Hy": "Âm nhu không ngôi, tài lực không đủ, cho nên chí nó chưa toại, mà đến phải trẩy quân, nhưng cũng vừa đủ đánh làng riêng của mình thôi.",
+    "lời_bàn_của_tiên_nho": null
   }
 ]

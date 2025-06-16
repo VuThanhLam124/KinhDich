@@ -3,6 +3,7 @@
     "chunk_id": "QUE_TON_2_001",
     "hexagram": "QUE_TON_2",
     "que": null,
+    "content_type": "preface",
     "lời_kinh": null,
     "dịch_âm": null,
     "dịch_nghĩa": null,
@@ -12,314 +13,330 @@
     "notes": {
       "1": "Chữ 巽 (tốn) có nghĩa là núp, là vào, lại có nghĩa nhún nhường.",
       "2": "Tức là khiêm tốn.",
-      "3": "Ngày xưa vua đi săn, thường dùng quân lính bổ vây, rồi cho xe ngựa",
-      "4": "Nghĩa là cân nhắc đắn đo. Chu Hy muốn dùng chữ “quỹ” để thích chứ",
-      "5": "Trong Nho văn “đoạn” là chặt và “đoán” là quyết đoán vốn cùng một chữ",
-      "6": "Câu này Trình Di, Chu Hy không đồng ý nhau, theo Trình Di chữ (hồ)"
+      "3": "Ngày xưa vua đi săn, thường dùng quân lính bổ vây, rồi cho xe ngựa xông vào, trên xe có người chuyên việc đánh xe, có người chuyên dùng cung tên bắn các thú vật.",
+      "4": "Nghĩa là cân nhắc đắn đo. Chu Hy muốn dùng chữ “quỹ” để thích chứ “quý” mà ghép cho nó có nghĩa.",
+      "5": "Trong Nho văn “đoạn” là chặt và “đoán” là quyết đoán vốn cùng một chữ mà đọc khác đi. Vì vậy Trình Di mới dùng cách dây cà dây muống mà giải chữ “phủ” là búa là ra nghĩa quyết đoán, cương quyết.",
+      "6": "Câu này Trình Di, Chu Hy không đồng ý nhau, theo Trình Di chữ (hồ) phải dịch là “chăng” mà theo Chu Hy thì nghĩa là chưng."
     }
   },
   {
     "chunk_id": "QUE_TON_2_002",
     "hexagram": "QUE_TON_2",
     "que": null,
-    "lời_kinh": "巽⼩亨, 利有攸往, 利⾒⼤⼈.",
-    "dịch_âm": "Tốn tiểu hanh, lợi hữu du vãng, lợi kiến đại nhân.",
-    "dịch_nghĩa": "Quẻ Tốn nhỏ hanh thông, lợi có thửa đi, lời thấy người lớn. GIẢI NGHĨA",
-    "truyện_của_Trình_Di": null,
-    "bản_nghĩa_của_Chu_Hy": "Tốn là vòa một hào Âm nấp dưới hai hào Dương, tính nó biết nhún để vào; Tượng nó là gió, cũng là lấy về nghĩa “vào”. Quẻ này hào Âm là chủ, cho nên lời Chiêm của nó là sự hanh nhỏ; lấy Âm theo Dương, cho nên lại “lợi có thửa đi”. Nhưng ắt biết chỗ đáng theo mới được chính đính, vì vậy lại nói “lợi thấy người lớn”.",
-    "lời_bàn_của_tiên_nho": null,
+    "content_type": "interpretation",
     "notes": {
       "1": "Chữ 巽 (tốn) có nghĩa là núp, là vào, lại có nghĩa nhún nhường.",
       "2": "Tức là khiêm tốn.",
-      "3": "Ngày xưa vua đi săn, thường dùng quân lính bổ vây, rồi cho xe ngựa",
-      "4": "Nghĩa là cân nhắc đắn đo. Chu Hy muốn dùng chữ “quỹ” để thích chứ",
-      "5": "Trong Nho văn “đoạn” là chặt và “đoán” là quyết đoán vốn cùng một chữ",
-      "6": "Câu này Trình Di, Chu Hy không đồng ý nhau, theo Trình Di chữ (hồ)"
-    }
+      "3": "Ngày xưa vua đi săn, thường dùng quân lính bổ vây, rồi cho xe ngựa xông vào, trên xe có người chuyên việc đánh xe, có người chuyên dùng cung tên bắn các thú vật.",
+      "4": "Nghĩa là cân nhắc đắn đo. Chu Hy muốn dùng chữ “quỹ” để thích chứ “quý” mà ghép cho nó có nghĩa.",
+      "5": "Trong Nho văn “đoạn” là chặt và “đoán” là quyết đoán vốn cùng một chữ mà đọc khác đi. Vì vậy Trình Di mới dùng cách dây cà dây muống mà giải chữ “phủ” là búa là ra nghĩa quyết đoán, cương quyết.",
+      "6": "Câu này Trình Di, Chu Hy không đồng ý nhau, theo Trình Di chữ (hồ) phải dịch là “chăng” mà theo Chu Hy thì nghĩa là chưng."
+    },
+    "lời_kinh": "巽⼩亨, 利有攸往, 利⾒⼤⼈.",
+    "dịch_âm": "Tốn tiểu hanh, lợi hữu du vãng, lợi kiến đại nhân.",
+    "dịch_nghĩa": "Quẻ Tốn nhỏ hanh thông, lợi có thửa đi, lời thấy người lớn.",
+    "truyện_của_Trình_Di": "Tài quẻ này có thể nho nhỏ hanh thông, lợi có thửa đi, lợi thấy người lớn. Quẻ Tốn và quẻ Đoái đều là kẻ cứng được chỗ giữa chính, nhún và đẹp lòng, nghĩa cũng giống nhau thế mà quẻ Đoái thì hanh, quẻ Tốn thì nhỏ hanh, là vì quẻ Đoái Dương làm việc, quẻ Tốn Âm làm việc, quẻ Đoái hào mềm ở ngoài, tức là dùng cách mềm, quẻ Tốn hào mềm ở trong, tức là tính nó mềm, vì vậy sự hanh thông của quẻ Tốn mới nhỏ.",
+    "bản_nghĩa_của_Chu_Hy": "Tốn là vòa một hào Âm nấp dưới hai hào Dương, tính nó biết nhún để vào; Tượng nó là gió, cũng là lấy về nghĩa “vào”. Quẻ này hào Âm là chủ, cho nên lời Chiêm của nó là sự hanh nhỏ; lấy Âm theo Dương, cho nên lại “lợi có thửa đi”. Nhưng ắt biết chỗ đáng theo mới được chính đính, vì vậy lại nói “lợi thấy người lớn”.",
+    "lời_bàn_của_tiên_nho": null
   },
   {
     "chunk_id": "QUE_TON_2_003",
     "hexagram": "QUE_TON_2",
     "que": null,
-    "lời_kinh": "象⽈: 重巽以申命.",
-    "dịch_âm": "Thoán viết: Trùng Tốn dĩ thân mệnh.",
-    "dịch_nghĩa": "Lời Thoán nói rằng: Hai lần nhún để nhắc lại mệnh. GIẢI NGHĨA",
-    "truyện_của_Trình_Di": null,
-    "bản_nghĩa_của_Chu_Hy": "đây thích nghĩa quẻ. Nhún thuận mà vào ắt đến chỗ thấp là Tượng mệnh lệnh. Hai lần Tốn cho nên là nhắc lại mệnh.",
-    "lời_bàn_của_tiên_nho": null,
+    "content_type": "interpretation",
     "notes": {
       "1": "Chữ 巽 (tốn) có nghĩa là núp, là vào, lại có nghĩa nhún nhường.",
       "2": "Tức là khiêm tốn.",
-      "3": "Ngày xưa vua đi săn, thường dùng quân lính bổ vây, rồi cho xe ngựa",
-      "4": "Nghĩa là cân nhắc đắn đo. Chu Hy muốn dùng chữ “quỹ” để thích chứ",
-      "5": "Trong Nho văn “đoạn” là chặt và “đoán” là quyết đoán vốn cùng một chữ",
-      "6": "Câu này Trình Di, Chu Hy không đồng ý nhau, theo Trình Di chữ (hồ)"
-    }
+      "3": "Ngày xưa vua đi săn, thường dùng quân lính bổ vây, rồi cho xe ngựa xông vào, trên xe có người chuyên việc đánh xe, có người chuyên dùng cung tên bắn các thú vật.",
+      "4": "Nghĩa là cân nhắc đắn đo. Chu Hy muốn dùng chữ “quỹ” để thích chứ “quý” mà ghép cho nó có nghĩa.",
+      "5": "Trong Nho văn “đoạn” là chặt và “đoán” là quyết đoán vốn cùng một chữ mà đọc khác đi. Vì vậy Trình Di mới dùng cách dây cà dây muống mà giải chữ “phủ” là búa là ra nghĩa quyết đoán, cương quyết.",
+      "6": "Câu này Trình Di, Chu Hy không đồng ý nhau, theo Trình Di chữ (hồ) phải dịch là “chăng” mà theo Chu Hy thì nghĩa là chưng."
+    },
+    "lời_kinh": "象⽈: 重巽以申命.",
+    "dịch_âm": "Thoán viết: Trùng Tốn dĩ thân mệnh.",
+    "dịch_nghĩa": "Lời Thoán nói rằng: Hai lần nhún để nhắc lại mệnh.",
+    "truyện_của_Trình_Di": "Hai lần nhún tức là trên dưới đều nhún, người trên dùng đạo thuận mà ra mệnh lệnh, kẻ dưới vâng mệnh lệnh àm thuận theo, trên dưới đều thuận là Tượng “hai lần nhún”. Lại chữ “trùng” còn có ý nghĩa là trùng phúc nữa. Đấng quân tử thể theo nghĩa “hai lần nhún” đó mà nhắc lại mệnh lệnh của mình, nhắc lại tức là làm cho trùng phúc, nghĩa là đinh ninh vậy.",
+    "bản_nghĩa_của_Chu_Hy": "đây thích nghĩa quẻ. Nhún thuận mà vào ắt đến chỗ thấp là Tượng mệnh lệnh. Hai lần Tốn cho nên là nhắc lại mệnh.",
+    "lời_bàn_của_tiên_nho": null
   },
   {
     "chunk_id": "QUE_TON_2_004",
     "hexagram": "QUE_TON_2",
     "que": null,
-    "lời_kinh": "剛巽乎中正⽽志⾏,柔皆順乎剛,是以⼩亨,利有攸往,利⾒⼤⼈.",
-    "dịch_âm": "Cương tốn hồ trung chính nhi chí hành, nhu giai thuận hồ cương, thị dĩ tiểu hanh, lợi hữu du vãng, lợi kiến đại nhân.",
-    "dịch_nghĩa": "Cứng vào chưng giữa chính mà chí được thi hành, mềm đều thuận chưng cứng, cho nên nhỏ hanh, lợi có thửa đi, lợi thấy người lớn. GIẢI NGHĨA",
-    "truyện_của_Trình_Di": null,
-    "bản_nghĩa_của_Chu_Hy": ":Cứng vào chưng giữa chí mà chí được thi hành” là chỉ vào hào Chín Năm, “mềm” chỉ vào hào Đầu và hào Tư.",
-    "lời_bàn_của_tiên_nho": null,
+    "content_type": "interpretation",
     "notes": {
       "1": "Chữ 巽 (tốn) có nghĩa là núp, là vào, lại có nghĩa nhún nhường.",
       "2": "Tức là khiêm tốn.",
-      "3": "Ngày xưa vua đi săn, thường dùng quân lính bổ vây, rồi cho xe ngựa",
-      "4": "Nghĩa là cân nhắc đắn đo. Chu Hy muốn dùng chữ “quỹ” để thích chứ",
-      "5": "Trong Nho văn “đoạn” là chặt và “đoán” là quyết đoán vốn cùng một chữ",
-      "6": "Câu này Trình Di, Chu Hy không đồng ý nhau, theo Trình Di chữ (hồ)"
-    }
+      "3": "Ngày xưa vua đi săn, thường dùng quân lính bổ vây, rồi cho xe ngựa xông vào, trên xe có người chuyên việc đánh xe, có người chuyên dùng cung tên bắn các thú vật.",
+      "4": "Nghĩa là cân nhắc đắn đo. Chu Hy muốn dùng chữ “quỹ” để thích chứ “quý” mà ghép cho nó có nghĩa.",
+      "5": "Trong Nho văn “đoạn” là chặt và “đoán” là quyết đoán vốn cùng một chữ mà đọc khác đi. Vì vậy Trình Di mới dùng cách dây cà dây muống mà giải chữ “phủ” là búa là ra nghĩa quyết đoán, cương quyết.",
+      "6": "Câu này Trình Di, Chu Hy không đồng ý nhau, theo Trình Di chữ (hồ) phải dịch là “chăng” mà theo Chu Hy thì nghĩa là chưng."
+    },
+    "lời_kinh": "剛巽乎中正⽽志⾏,柔皆順乎剛,是以⼩亨,利有攸往,利⾒⼤⼈.",
+    "dịch_âm": "Cương tốn hồ trung chính nhi chí hành, nhu giai thuận hồ cương, thị dĩ tiểu hanh, lợi hữu du vãng, lợi kiến đại nhân.",
+    "dịch_nghĩa": "Cứng vào chưng giữa chính mà chí được thi hành, mềm đều thuận chưng cứng, cho nên nhỏ hanh, lợi có thửa đi, lợi thấy người lớn.",
+    "truyện_của_Trình_Di": "Đây lấy tài quẻ mà nói. Dương cứng ở thể Tốn mà được giữa chính, tức là nhún thuận về đạo giữa chính. Tính Dương đi lên, tức là chí nó muốn đem đạo giữa chính thi hành lên trên; lại các hào mềm trên dưới đều nhún thuận với hào cứng, tài nó như thế, tuy bên trong mềm, cũng có thể nho nhỏ hanh thông. Cái đạo nhún thuận, không đâu không vào được, cho nên lợi có thửa đi. Nhún thuận tuy là đạo hay, nhưng ắt phải biết chỗ đáng theo, nhún thuận với bậc người lớn trung chính, thì là lợi, cho nên lợi thấy người lớn. Dương cứng giữa chính như hào Năm hào Hai tức là người lớn đó.",
+    "bản_nghĩa_của_Chu_Hy": ":Cứng vào chưng giữa chí mà chí được thi hành” là chỉ vào hào Chín Năm, “mềm” chỉ vào hào Đầu và hào Tư.",
+    "lời_bàn_của_tiên_nho": null
   },
   {
     "chunk_id": "QUE_TON_2_005",
     "hexagram": "QUE_TON_2",
     "que": null,
-    "lời_kinh": "象⽈: 隨⾵巽,君⼦以申命⾏事.",
-    "dịch_âm": "Tượng viết: Tùy phong Tốn, Quân tử dĩ thân mệnh hành sự.",
-    "dịch_nghĩa": "Lời Tượng nói rằng: Theo gió là quẻ Tốn . Đấng quân tử coi đó mà nhắc lại mệnh lệnh, làm việc. GIẢI NGHĨA",
-    "truyện_của_Trình_Di": null,
-    "bản_nghĩa_của_Chu_Hy": "“Theo” là nghĩa nối nhau.",
-    "lời_bàn_của_tiên_nho": null,
+    "content_type": "interpretation",
     "notes": {
       "1": "Chữ 巽 (tốn) có nghĩa là núp, là vào, lại có nghĩa nhún nhường.",
       "2": "Tức là khiêm tốn.",
-      "3": "Ngày xưa vua đi săn, thường dùng quân lính bổ vây, rồi cho xe ngựa",
-      "4": "Nghĩa là cân nhắc đắn đo. Chu Hy muốn dùng chữ “quỹ” để thích chứ",
-      "5": "Trong Nho văn “đoạn” là chặt và “đoán” là quyết đoán vốn cùng một chữ",
-      "6": "Câu này Trình Di, Chu Hy không đồng ý nhau, theo Trình Di chữ (hồ)"
-    }
+      "3": "Ngày xưa vua đi săn, thường dùng quân lính bổ vây, rồi cho xe ngựa xông vào, trên xe có người chuyên việc đánh xe, có người chuyên dùng cung tên bắn các thú vật.",
+      "4": "Nghĩa là cân nhắc đắn đo. Chu Hy muốn dùng chữ “quỹ” để thích chứ “quý” mà ghép cho nó có nghĩa.",
+      "5": "Trong Nho văn “đoạn” là chặt và “đoán” là quyết đoán vốn cùng một chữ mà đọc khác đi. Vì vậy Trình Di mới dùng cách dây cà dây muống mà giải chữ “phủ” là búa là ra nghĩa quyết đoán, cương quyết.",
+      "6": "Câu này Trình Di, Chu Hy không đồng ý nhau, theo Trình Di chữ (hồ) phải dịch là “chăng” mà theo Chu Hy thì nghĩa là chưng."
+    },
+    "lời_kinh": "象⽈: 隨⾵巽,君⼦以申命⾏事.",
+    "dịch_âm": "Tượng viết: Tùy phong Tốn, Quân tử dĩ thân mệnh hành sự.",
+    "dịch_nghĩa": "Lời Tượng nói rằng: Theo gió là quẻ Tốn . Đấng quân tử coi đó mà nhắc lại mệnh lệnh, làm việc.",
+    "truyện_của_Trình_Di": "Hai luồng gió chồng nhau, tức là theo gió. “Theo” nghĩa là nối nhau, đấng quân tử coi Tượng hai lần Tốn nối nhau mà nhắc lại mệnh lệnh, thi hành chánh sự. “Theo” và “Chồng” tức là trên dưới đều thuận. Người trên thuận với kẻ dưới mà ban ra, kẻ dưới thuận với người trên mà làm theo, đó là trên dưới đều thuận theo cái nghĩa “hai lần nhún” vậy. Mệnh lệnh chính sự thuận lẽ thì hợp lòng dân mà dân thuận theo.",
+    "bản_nghĩa_của_Chu_Hy": "“Theo” là nghĩa nối nhau.",
+    "lời_bàn_của_tiên_nho": null
   },
   {
     "chunk_id": "QUE_TON_2_006",
     "hexagram": "QUE_TON_2",
     "que": null,
-    "lời_kinh": "初六: 進退,利武⼈之貞.",
-    "dịch_âm": "Sơ Lục: Tiến thoái, lợi vũ nhân chi trinh.",
-    "dịch_nghĩa": "Hào Sáu Đầu: Tiến lui, lợi về sự chính bền của người võ. GIẢI NGHĨA",
-    "truyện_của_Trình_Di": null,
-    "bản_nghĩa_của_Chu_Hy": "Hào Đầu lấy chất Âm ở dưới, làm chủ thể Tốn, là kẻ nhún thấp thái quá, cho nên là Tượng tiến lui không quyết, nếu lấy nết trinh của bọn võ nhân xử vào cảnh đó, thì có thể giúp thêm vào chỗ sức nó không tới, mà được thích nghi,",
-    "lời_bàn_của_tiên_nho": null,
+    "content_type": "interpretation",
     "notes": {
       "1": "Chữ 巽 (tốn) có nghĩa là núp, là vào, lại có nghĩa nhún nhường.",
       "2": "Tức là khiêm tốn.",
-      "3": "Ngày xưa vua đi săn, thường dùng quân lính bổ vây, rồi cho xe ngựa",
-      "4": "Nghĩa là cân nhắc đắn đo. Chu Hy muốn dùng chữ “quỹ” để thích chứ",
-      "5": "Trong Nho văn “đoạn” là chặt và “đoán” là quyết đoán vốn cùng một chữ",
-      "6": "Câu này Trình Di, Chu Hy không đồng ý nhau, theo Trình Di chữ (hồ)"
-    }
+      "3": "Ngày xưa vua đi săn, thường dùng quân lính bổ vây, rồi cho xe ngựa xông vào, trên xe có người chuyên việc đánh xe, có người chuyên dùng cung tên bắn các thú vật.",
+      "4": "Nghĩa là cân nhắc đắn đo. Chu Hy muốn dùng chữ “quỹ” để thích chứ “quý” mà ghép cho nó có nghĩa.",
+      "5": "Trong Nho văn “đoạn” là chặt và “đoán” là quyết đoán vốn cùng một chữ mà đọc khác đi. Vì vậy Trình Di mới dùng cách dây cà dây muống mà giải chữ “phủ” là búa là ra nghĩa quyết đoán, cương quyết.",
+      "6": "Câu này Trình Di, Chu Hy không đồng ý nhau, theo Trình Di chữ (hồ) phải dịch là “chăng” mà theo Chu Hy thì nghĩa là chưng."
+    },
+    "lời_kinh": "初六: 進退,利武⼈之貞.",
+    "dịch_âm": "Sơ Lục: Tiến thoái, lợi vũ nhân chi trinh.",
+    "dịch_nghĩa": "Hào Sáu Đầu: Tiến lui, lợi về sự chính bền của người võ.",
+    "truyện_của_Trình_Di": "Hào Sáu lấy chất Âm mềm ở chỗ nhún thấp mà không được giữa, tức là người ở chỗ rất thấp mà vâng theo kẻ cứng một cách quá nhún thấp vậy. Cái người Âm mềm nhún thấp thái quá thì chí ý sợ hãi không yên, hoặc tiến hoặc lui, không biết đi theo đường nào. Cái lợi của nó chỉ là nết trinh của người võ. Nếu nó có thể dùng theo cái chí cương trinh của hạng võ nhân thì hay. Vì rằng cố làm cương trinh, thì không bị lỗi về sự quá hèn, sợ hãi.",
+    "bản_nghĩa_của_Chu_Hy": "Hào Đầu lấy chất Âm ở dưới, làm chủ thể Tốn, là kẻ nhún thấp thái quá, cho nên là Tượng tiến lui không quyết, nếu lấy nết trinh của bọn võ nhân xử vào cảnh đó, thì có thể giúp thêm vào chỗ sức nó không tới, mà được thích nghi,",
+    "lời_bàn_của_tiên_nho": null
   },
   {
     "chunk_id": "QUE_TON_2_007",
     "hexagram": "QUE_TON_2",
     "que": null,
-    "lời_kinh": "象⽈: 進退,志疑也;利武⼈之貞,志治也.",
-    "dịch_âm": "Tượng viết: Tiến thoái, chí nghi dã, lợi vũ nhân chi trinh, chí trị dã.",
-    "dịch_nghĩa": "Lời Tượng nói rằng: Tiến lui chí ngờ vậy; lợi về nết chính bền của người võ; chí trị vậy. GIẢI NGHĨA",
-    "truyện_của_Trình_Di": null,
-    "bản_nghĩa_của_Chu_Hy": null,
-    "lời_bàn_của_tiên_nho": null,
+    "content_type": "interpretation",
     "notes": {
       "1": "Chữ 巽 (tốn) có nghĩa là núp, là vào, lại có nghĩa nhún nhường.",
       "2": "Tức là khiêm tốn.",
-      "3": "Ngày xưa vua đi săn, thường dùng quân lính bổ vây, rồi cho xe ngựa",
-      "4": "Nghĩa là cân nhắc đắn đo. Chu Hy muốn dùng chữ “quỹ” để thích chứ",
-      "5": "Trong Nho văn “đoạn” là chặt và “đoán” là quyết đoán vốn cùng một chữ",
-      "6": "Câu này Trình Di, Chu Hy không đồng ý nhau, theo Trình Di chữ (hồ)"
-    }
+      "3": "Ngày xưa vua đi săn, thường dùng quân lính bổ vây, rồi cho xe ngựa xông vào, trên xe có người chuyên việc đánh xe, có người chuyên dùng cung tên bắn các thú vật.",
+      "4": "Nghĩa là cân nhắc đắn đo. Chu Hy muốn dùng chữ “quỹ” để thích chứ “quý” mà ghép cho nó có nghĩa.",
+      "5": "Trong Nho văn “đoạn” là chặt và “đoán” là quyết đoán vốn cùng một chữ mà đọc khác đi. Vì vậy Trình Di mới dùng cách dây cà dây muống mà giải chữ “phủ” là búa là ra nghĩa quyết đoán, cương quyết.",
+      "6": "Câu này Trình Di, Chu Hy không đồng ý nhau, theo Trình Di chữ (hồ) phải dịch là “chăng” mà theo Chu Hy thì nghĩa là chưng."
+    },
+    "lời_kinh": "象⽈: 進退,志疑也;利武⼈之貞,志治也.",
+    "dịch_âm": "Tượng viết: Tiến thoái, chí nghi dã, lợi vũ nhân chi trinh, chí trị dã.",
+    "dịch_nghĩa": "Lời Tượng nói rằng: Tiến lui chí ngờ vậy; lợi về nết chính bền của người võ; chí trị vậy.",
+    "truyện_của_Trình_Di": "Tiến lui không biết chỗ nào ở yên, là tại chí nó ngờ sợ. Lợi dụng nết cương trinh của người dùng võ để dựng chí mình, thì chí mình trị: “Trị” nghĩa là sửa dựng vậy.",
+    "bản_nghĩa_của_Chu_Hy": null,
+    "lời_bàn_của_tiên_nho": null
   },
   {
     "chunk_id": "QUE_TON_2_008",
     "hexagram": "QUE_TON_2",
     "que": null,
-    "lời_kinh": "九⼆: 巽在床下, ⽤史巫 紛若, 吉,⽆咎",
-    "dịch_âm": "Cửu Nhị: Tôn tại sàng hạ, dựng sử vu phân nhược, cát! Vo cữu!",
-    "dịch_nghĩa": "Hào Chín Hai: Nhún ở dưới giường , dùng thày bói, thày cúng bời bời vậy, tốt! Không lỗi! GỊẢI NGHĨA",
-    "truyện_của_Trình_Di": null,
-    "bản_nghĩa_của_Chu_Hy": "Hào Hai là chất Dương, động ngôi Âm mà ở chỗ [2] thấp, có ý chẳng yên. Nhưng trong thì nhún, chẳng chán sự thấp , mà hào Hai lại có đức giữa, không đến quá lắm, cho nên lời Chiêm của nó, là: Có thể quá nhún mà lại đinh ninh phiền phức nói cho hết lời, để tự thông đạt, thì có thể tốt mà không lỗi. Cũng là lời Chiêm tốt lành về việc hết lòng thành để cúng tế vậy.",
-    "lời_bàn_của_tiên_nho": null,
+    "content_type": "interpretation",
     "notes": {
       "1": "Chữ 巽 (tốn) có nghĩa là núp, là vào, lại có nghĩa nhún nhường.",
       "2": "Tức là khiêm tốn.",
-      "3": "Ngày xưa vua đi săn, thường dùng quân lính bổ vây, rồi cho xe ngựa",
-      "4": "Nghĩa là cân nhắc đắn đo. Chu Hy muốn dùng chữ “quỹ” để thích chứ",
-      "5": "Trong Nho văn “đoạn” là chặt và “đoán” là quyết đoán vốn cùng một chữ",
-      "6": "Câu này Trình Di, Chu Hy không đồng ý nhau, theo Trình Di chữ (hồ)"
-    }
+      "3": "Ngày xưa vua đi săn, thường dùng quân lính bổ vây, rồi cho xe ngựa xông vào, trên xe có người chuyên việc đánh xe, có người chuyên dùng cung tên bắn các thú vật.",
+      "4": "Nghĩa là cân nhắc đắn đo. Chu Hy muốn dùng chữ “quỹ” để thích chứ “quý” mà ghép cho nó có nghĩa.",
+      "5": "Trong Nho văn “đoạn” là chặt và “đoán” là quyết đoán vốn cùng một chữ mà đọc khác đi. Vì vậy Trình Di mới dùng cách dây cà dây muống mà giải chữ “phủ” là búa là ra nghĩa quyết đoán, cương quyết.",
+      "6": "Câu này Trình Di, Chu Hy không đồng ý nhau, theo Trình Di chữ (hồ) phải dịch là “chăng” mà theo Chu Hy thì nghĩa là chưng."
+    },
+    "lời_kinh": "九⼆: 巽在床下, ⽤史巫 紛若, 吉,⽆咎",
+    "dịch_âm": "Cửu Nhị: Tôn tại sàng hạ, dựng sử vu phân nhược, cát! Vo cữu!",
+    "dịch_nghĩa": "Hào Chín Hai: Nhún ở dưới giường , dùng thày bói, thày cúng bời bời vậy, tốt! Không lỗi! GỊẢI NGHĨA",
+    "truyện_của_Trình_Di": "Hào Hai thực là cứng giữa, tuy thể Tốn mà ở chỗ mềm, là kẻ quá nhún, không phải là cố tà tâm. Kính nhún quá độ, tuy chẳng phải là lễ chính, nhưng cũng có thể xa sự sỉ nhục, tuyệt sự oán trách. Thày bói thày cúng là người thông đạt lòng thành tín với đấng thành minh. “Bởi vậy” tức là nhiều. Nết rất thành thực mà yên về đường khiêm nhún, có thể khiến cho thành ý thông đạt được nhiều thì tốt mà không lỗi, nghĩa là lòng thành của mình đủ để cảm động người ta vậy. Người ta không xét đến cái thành ý của mình, thì sẽ cho sự quá nhún là sự nịnh hót.",
+    "bản_nghĩa_của_Chu_Hy": "Hào Hai là chất Dương, động ngôi Âm mà ở chỗ [2] thấp, có ý chẳng yên. Nhưng trong thì nhún, chẳng chán sự thấp , mà hào Hai lại có đức giữa, không đến quá lắm, cho nên lời Chiêm của nó, là: Có thể quá nhún mà lại đinh ninh phiền phức nói cho hết lời, để tự thông đạt, thì có thể tốt mà không lỗi. Cũng là lời Chiêm tốt lành về việc hết lòng thành để cúng tế vậy.",
+    "lời_bàn_của_tiên_nho": null
   },
   {
     "chunk_id": "QUE_TON_2_009",
     "hexagram": "QUE_TON_2",
     "que": null,
-    "lời_kinh": "象 ⽈ . 紛 若 之 吉 .得 中 也 .",
-    "dịch_âm": "Tượng viết: Phán nhược chi cát, đắc trung dã.",
-    "dịch_nghĩa": "Lời Tượng nói rằng: Dường hời vậy mà tốt, được giữa vậy. GIẢI NGHĨA Truyện của Trinh Di. - Hào Hai vì đóng ngôi mềm, ở chỗ thấp là tượng quá nhún, mà có thể khiến cho thông đạt thành ý của mình, nhiều đến bời bời vậy, là tại nó được giữa vậy. Hào Dương ở giữa là Tượng trong thật. Bên trong đã thành thật thì người ta tự nhiên tin mình bằng ý thật, mà không phải là nịnh hót, sợ sệt nữa. Vì vậy mới tốt mà không lỗi.",
-    "truyện_của_Trình_Di": null,
-    "bản_nghĩa_của_Chu_Hy": null,
-    "lời_bàn_của_tiên_nho": null,
+    "content_type": "interpretation",
     "notes": {
       "1": "Chữ 巽 (tốn) có nghĩa là núp, là vào, lại có nghĩa nhún nhường.",
       "2": "Tức là khiêm tốn.",
-      "3": "Ngày xưa vua đi săn, thường dùng quân lính bổ vây, rồi cho xe ngựa",
-      "4": "Nghĩa là cân nhắc đắn đo. Chu Hy muốn dùng chữ “quỹ” để thích chứ",
-      "5": "Trong Nho văn “đoạn” là chặt và “đoán” là quyết đoán vốn cùng một chữ",
-      "6": "Câu này Trình Di, Chu Hy không đồng ý nhau, theo Trình Di chữ (hồ)"
-    }
+      "3": "Ngày xưa vua đi săn, thường dùng quân lính bổ vây, rồi cho xe ngựa xông vào, trên xe có người chuyên việc đánh xe, có người chuyên dùng cung tên bắn các thú vật.",
+      "4": "Nghĩa là cân nhắc đắn đo. Chu Hy muốn dùng chữ “quỹ” để thích chứ “quý” mà ghép cho nó có nghĩa.",
+      "5": "Trong Nho văn “đoạn” là chặt và “đoán” là quyết đoán vốn cùng một chữ mà đọc khác đi. Vì vậy Trình Di mới dùng cách dây cà dây muống mà giải chữ “phủ” là búa là ra nghĩa quyết đoán, cương quyết.",
+      "6": "Câu này Trình Di, Chu Hy không đồng ý nhau, theo Trình Di chữ (hồ) phải dịch là “chăng” mà theo Chu Hy thì nghĩa là chưng."
+    },
+    "lời_kinh": "象 ⽈ . 紛 若 之 吉 .得 中 也 .",
+    "dịch_âm": "Tượng viết: Phán nhược chi cát, đắc trung dã.",
+    "dịch_nghĩa": "Lời Tượng nói rằng: Dường hời vậy mà tốt, được giữa vậy.",
+    "truyện_của_Trình_Di": null,
+    "bản_nghĩa_của_Chu_Hy": null,
+    "lời_bàn_của_tiên_nho": null
   },
   {
     "chunk_id": "QUE_TON_2_010",
     "hexagram": "QUE_TON_2",
     "que": null,
-    "lời_kinh": "九 三 . 頻 巽 吝 .",
-    "dịch_âm": "Cửu Tam: Tần tốn lận",
-    "dịch_nghĩa": "Hào Chín Ba: Liền nhún, đáng tiếc. GIẢI NGHĨA",
-    "truyện_của_Trình_Di": null,
-    "bản_nghĩa_của_Chu_Hy": "Quá cứng chẳng giữa, ở trên thể dưới, không phải kẻ ở thể nhún. Cố gượng mà làm, luôn luôn lỗi mất là cách đáng tiếc vậy, cho nên Tượng, Chiêm của nỏ như thế.",
-    "lời_bàn_của_tiên_nho": null,
+    "content_type": "interpretation",
     "notes": {
       "1": "Chữ 巽 (tốn) có nghĩa là núp, là vào, lại có nghĩa nhún nhường.",
       "2": "Tức là khiêm tốn.",
-      "3": "Ngày xưa vua đi săn, thường dùng quân lính bổ vây, rồi cho xe ngựa",
-      "4": "Nghĩa là cân nhắc đắn đo. Chu Hy muốn dùng chữ “quỹ” để thích chứ",
-      "5": "Trong Nho văn “đoạn” là chặt và “đoán” là quyết đoán vốn cùng một chữ",
-      "6": "Câu này Trình Di, Chu Hy không đồng ý nhau, theo Trình Di chữ (hồ)"
-    }
+      "3": "Ngày xưa vua đi săn, thường dùng quân lính bổ vây, rồi cho xe ngựa xông vào, trên xe có người chuyên việc đánh xe, có người chuyên dùng cung tên bắn các thú vật.",
+      "4": "Nghĩa là cân nhắc đắn đo. Chu Hy muốn dùng chữ “quỹ” để thích chứ “quý” mà ghép cho nó có nghĩa.",
+      "5": "Trong Nho văn “đoạn” là chặt và “đoán” là quyết đoán vốn cùng một chữ mà đọc khác đi. Vì vậy Trình Di mới dùng cách dây cà dây muống mà giải chữ “phủ” là búa là ra nghĩa quyết đoán, cương quyết.",
+      "6": "Câu này Trình Di, Chu Hy không đồng ý nhau, theo Trình Di chữ (hồ) phải dịch là “chăng” mà theo Chu Hy thì nghĩa là chưng."
+    },
+    "lời_kinh": "九 三 . 頻 巽 吝 .",
+    "dịch_âm": "Cửu Tam: Tần tốn lận",
+    "dịch_nghĩa": "Hào Chín Ba: Liền nhún, đáng tiếc.",
+    "truyện_của_Trình_Di": "Hào Ba là chất Dương đóng ngôi cứng, không được gỉữa lại ở bên trên thể dưới, lây chất Dương kháng mà ở vào thì nhún thuận, không phải kẻ có thể nhún, miễn cưỡng mà làm, cho nên hay lận, Đương thời nhún, ở thể dưới mà kẻ ở trên đã lây sự nhún sát tới, và hào Tư lại lấy chất mềm nhún gần nhau với nó, kẻ có cưỡi lên là chểt cứng, ở trên lại có hai lần cứng nữa, dẫu muốn không nhún được chăng? Vì vậy liền lỗi mà liền phải nhún, đó là đáng tiếc vậy.",
+    "bản_nghĩa_của_Chu_Hy": "Quá cứng chẳng giữa, ở trên thể dưới, không phải kẻ ở thể nhún. Cố gượng mà làm, luôn luôn lỗi mất là cách đáng tiếc vậy, cho nên Tượng, Chiêm của nỏ như thế.",
+    "lời_bàn_của_tiên_nho": null
   },
   {
     "chunk_id": "QUE_TON_2_011",
     "hexagram": "QUE_TON_2",
     "que": null,
-    "lời_kinh": "象 ⽈ . 頻 巽 之 吝 . 志 窮 也 .",
-    "dịch_âm": "Tượng viết: Tần tốn chi lận, chí cùng dã.",
-    "dịch_nghĩa": "Lời Tượng nói rằng: Liền nhún mà đáng tiếc, chí cùng vậy. GIẢI NGHĨA",
-    "truyện_của_Trình_Di": null,
-    "bản_nghĩa_của_Chu_Hy": null,
-    "lời_bàn_của_tiên_nho": null,
+    "content_type": "interpretation",
     "notes": {
       "1": "Chữ 巽 (tốn) có nghĩa là núp, là vào, lại có nghĩa nhún nhường.",
       "2": "Tức là khiêm tốn.",
-      "3": "Ngày xưa vua đi săn, thường dùng quân lính bổ vây, rồi cho xe ngựa",
-      "4": "Nghĩa là cân nhắc đắn đo. Chu Hy muốn dùng chữ “quỹ” để thích chứ",
-      "5": "Trong Nho văn “đoạn” là chặt và “đoán” là quyết đoán vốn cùng một chữ",
-      "6": "Câu này Trình Di, Chu Hy không đồng ý nhau, theo Trình Di chữ (hồ)"
-    }
+      "3": "Ngày xưa vua đi săn, thường dùng quân lính bổ vây, rồi cho xe ngựa xông vào, trên xe có người chuyên việc đánh xe, có người chuyên dùng cung tên bắn các thú vật.",
+      "4": "Nghĩa là cân nhắc đắn đo. Chu Hy muốn dùng chữ “quỹ” để thích chứ “quý” mà ghép cho nó có nghĩa.",
+      "5": "Trong Nho văn “đoạn” là chặt và “đoán” là quyết đoán vốn cùng một chữ mà đọc khác đi. Vì vậy Trình Di mới dùng cách dây cà dây muống mà giải chữ “phủ” là búa là ra nghĩa quyết đoán, cương quyết.",
+      "6": "Câu này Trình Di, Chu Hy không đồng ý nhau, theo Trình Di chữ (hồ) phải dịch là “chăng” mà theo Chu Hy thì nghĩa là chưng."
+    },
+    "lời_kinh": "象 ⽈ . 頻 巽 之 吝 . 志 窮 也 .",
+    "dịch_âm": "Tượng viết: Tần tốn chi lận, chí cùng dã.",
+    "dịch_nghĩa": "Lời Tượng nói rằng: Liền nhún mà đáng tiếc, chí cùng vậy.",
+    "truyện_của_Trình_Di": "Tài chất hào Ba vốn không phải kẻ biết nhún, kẻ ở trên lại sát với nó bằng sự nhún vâng hai lần cứng mà xéo lên hào cứng, thế nó không thể thi hành chí mình, cho nên liền lỗi mà liền nhún, ấy là chí nộ cùng quấn, đáng tiếc lắm vậy.",
+    "bản_nghĩa_của_Chu_Hy": null,
+    "lời_bàn_của_tiên_nho": null
   },
   {
     "chunk_id": "QUE_TON_2_012",
     "hexagram": "QUE_TON_2",
     "que": null,
-    "lời_kinh": "六 四 . 悔 亡 . ⽥ 獲 三 品 .",
-    "dịch_âm": "Lục Tứ: Hối vong, điền hoạch tam phẩm.",
-    "dịch_nghĩa": "Hào Sáu Tư: Ăn năn mất, săn được ba phẩm. GIẢI NGHĨA",
-    "truyện_của_Trình_Di": null,
-    "bản_nghĩa_của_Chu_Hy": null,
-    "lời_bàn_của_tiên_nho": null,
+    "content_type": "interpretation",
     "notes": {
       "1": "Chữ 巽 (tốn) có nghĩa là núp, là vào, lại có nghĩa nhún nhường.",
       "2": "Tức là khiêm tốn.",
-      "3": "Ngày xưa vua đi săn, thường dùng quân lính bổ vây, rồi cho xe ngựa",
-      "4": "Nghĩa là cân nhắc đắn đo. Chu Hy muốn dùng chữ “quỹ” để thích chứ",
-      "5": "Trong Nho văn “đoạn” là chặt và “đoán” là quyết đoán vốn cùng một chữ",
-      "6": "Câu này Trình Di, Chu Hy không đồng ý nhau, theo Trình Di chữ (hồ)"
-    }
+      "3": "Ngày xưa vua đi săn, thường dùng quân lính bổ vây, rồi cho xe ngựa xông vào, trên xe có người chuyên việc đánh xe, có người chuyên dùng cung tên bắn các thú vật.",
+      "4": "Nghĩa là cân nhắc đắn đo. Chu Hy muốn dùng chữ “quỹ” để thích chứ “quý” mà ghép cho nó có nghĩa.",
+      "5": "Trong Nho văn “đoạn” là chặt và “đoán” là quyết đoán vốn cùng một chữ mà đọc khác đi. Vì vậy Trình Di mới dùng cách dây cà dây muống mà giải chữ “phủ” là búa là ra nghĩa quyết đoán, cương quyết.",
+      "6": "Câu này Trình Di, Chu Hy không đồng ý nhau, theo Trình Di chữ (hồ) phải dịch là “chăng” mà theo Chu Hy thì nghĩa là chưng."
+    },
+    "lời_kinh": "六 四 . 悔 亡 . ⽥ 獲 三 品 .",
+    "dịch_âm": "Lục Tứ: Hối vong, điền hoạch tam phẩm.",
+    "dịch_nghĩa": "Hào Sáu Tư: Ăn năn mất, săn được ba phẩm.",
+    "truyện_của_Trình_Di": "Âm mềm không có ứng viện, mà kẻ nó vâng theo và kẻ nó cưỡi lên đều cứng, đáng có ăn năng, nhưng hào Tư lấy chất Âm đóng ở ngôi Âm, được lẽ chính của sự nhún, ở dưới thể trên, là kẻ ở trên mà biết nhún. ở dưới thể trên là nhún với người trên; lấy sự nhún tới kẻ dưới; là nhún với kẻ dưới; khéo xử như thế, cho đên được sự ăn năn mất đi. Sở dĩ được ăn năn mất đi, là vì nó giống như việc đi săn ba phẩm. Đi săn đưuợc ba phẩm tức là kịp thời trên dưới. Số bắt được trong khi săn bắn, chia ra làm ba phẩm: một là phần ướp mắm, hai là phần để cung khách khứa và dùng vào [3] bếp nước, ba là phần để ban cho quân sĩ và kẻ đánh xe . Hào Tư biết nhún với các hào Dương trên dưới, như săn bắn được ba phẩm, nghĩa là khắp tới trên dưới vậy. Địa vị của hào Tư vốn có ăn năn, vì nó ở khéo, cho nên sự ăn năn mất đi mà lại có công. Bản nghĩa cửa Chu Hy. - Âm mềm khổng có ứng viện, kẻ nó vâng theo và kẻ nó cưỡi lên, đều là chất cứng, đáng có ăn năn, nhưng nó lấy chất Âm đóng ngôi Âm, ở dưới quẻ trên cho nên được sự ăn năn mất đi mà lại là lời Chiêm tốt về việc bói đi săn vậy. Ba phẩm là: một phần để ướp mắm, một phần để cung khách khứa, một phần để cung vảo bếp nước. Léi bàn của Tiên Nho. - Chu Hy nói rằng: Câu “săn được ba phẩm” Y Xuyên chủ trương giải làm “nhún với người dưới” giải vậy thật khiên cưỡng. Hồ Song Hồ nói rằng: Ở Thiên Vương Chế (Kinh Lễ) thì mỗi năm ba lần đi săn, một để làm “cau đậu”, hai để cung khách khứa, ba để cung vào bếp của tiên quân. Truyện họ Cốc Lương chua rằng: “cau đậu” tức là ướp mắm để làm đố cúng.",
+    "bản_nghĩa_của_Chu_Hy": null,
+    "lời_bàn_của_tiên_nho": null
   },
   {
     "chunk_id": "QUE_TON_2_013",
     "hexagram": "QUE_TON_2",
     "que": null,
-    "lời_kinh": "象 ⽈ . ⽥ 獲 三 品 . 有 功 也 .",
-    "dịch_âm": "Tượng viết: Điền hoạch tam phẩm, hữu công dã.",
-    "dịch_nghĩa": "Lời Tượng nói rằng: Săn được ba phẩm, có công vậy. GIẢI NGHĨA",
-    "truyện_của_Trình_Di": null,
-    "bản_nghĩa_của_Chu_Hy": null,
-    "lời_bàn_của_tiên_nho": "Trương Trung Khuê nói rằng: Săn bắn mà được ba phẩm, là được mồi nhiều, cho nên nói là cò công.",
+    "content_type": "interpretation",
     "notes": {
       "1": "Chữ 巽 (tốn) có nghĩa là núp, là vào, lại có nghĩa nhún nhường.",
       "2": "Tức là khiêm tốn.",
-      "3": "Ngày xưa vua đi săn, thường dùng quân lính bổ vây, rồi cho xe ngựa",
-      "4": "Nghĩa là cân nhắc đắn đo. Chu Hy muốn dùng chữ “quỹ” để thích chứ",
-      "5": "Trong Nho văn “đoạn” là chặt và “đoán” là quyết đoán vốn cùng một chữ",
-      "6": "Câu này Trình Di, Chu Hy không đồng ý nhau, theo Trình Di chữ (hồ)"
-    }
+      "3": "Ngày xưa vua đi săn, thường dùng quân lính bổ vây, rồi cho xe ngựa xông vào, trên xe có người chuyên việc đánh xe, có người chuyên dùng cung tên bắn các thú vật.",
+      "4": "Nghĩa là cân nhắc đắn đo. Chu Hy muốn dùng chữ “quỹ” để thích chứ “quý” mà ghép cho nó có nghĩa.",
+      "5": "Trong Nho văn “đoạn” là chặt và “đoán” là quyết đoán vốn cùng một chữ mà đọc khác đi. Vì vậy Trình Di mới dùng cách dây cà dây muống mà giải chữ “phủ” là búa là ra nghĩa quyết đoán, cương quyết.",
+      "6": "Câu này Trình Di, Chu Hy không đồng ý nhau, theo Trình Di chữ (hồ) phải dịch là “chăng” mà theo Chu Hy thì nghĩa là chưng."
+    },
+    "lời_kinh": "象 ⽈ . ⽥ 獲 三 品 . 有 功 也 .",
+    "dịch_âm": "Tượng viết: Điền hoạch tam phẩm, hữu công dã.",
+    "dịch_nghĩa": "Lời Tượng nói rằng: Săn được ba phẩm, có công vậy.",
+    "truyện_của_Trình_Di": "Nhún với trên dưới, như đi săn được ba phẩm mà khắp tới trên dưới, tức là thành công của sự nhứn vậy.",
+    "bản_nghĩa_của_Chu_Hy": null,
+    "lời_bàn_của_tiên_nho": "Trương Trung Khuê nói rằng: Săn bắn mà được ba phẩm, là được mồi nhiều, cho nên nói là cò công."
   },
   {
     "chunk_id": "QUE_TON_2_014",
     "hexagram": "QUE_TON_2",
     "que": null,
-    "lời_kinh": "九 五 . 貞 吉 . 悔 亡 . 無 不 利 . 無 初 有 終 . 先 庚 三 ⽇ . 后 庚 三 ⽇ . 吉 . Dịch âni. – Cửu ngũ: Trinh cát, hối vong, vô bất lợi, vô cơ hữu chung, tiêu canh tam nhật, hâu canh tam nhật, cát.",
-    "dịch_âm": null,
-    "dịch_nghĩa": "Hào Chín Năm: Chính bền tốt, ăn năn mất, không gì lợi, không đầu có chót, trước canh bà ngày, sau canh ba ngày tốt! GIẢI NGHĨA",
-    "truyện_của_Trình_Di": null,
-    "bản_nghĩa_của_Chu_Hy": "Hào Chín Năm cứng mạnh giữa chính mà ở thể Tốn, cho nên có sự ăn năn. Vì nó có đức chính bên, mà tốt, cho nên được sự ăn năn mất đi mà không gì không lợi. Có ăn năng là “không đầu” sự ăn năn mất đi là có chót. Canh là canh cải, tức là việc bị thay đổi. Trước canh ba ngày là đinh, sau canh ba ngày là quý, đinh là để mà đinh ninh về trước khi [4] thay đổi, quý là để quỹ đạc về sau khi thay đổi. Có sự thay đổi mà được hào này, xem như thế thì tốt.",
-    "lời_bàn_của_tiên_nho": null,
+    "content_type": "interpretation",
     "notes": {
       "1": "Chữ 巽 (tốn) có nghĩa là núp, là vào, lại có nghĩa nhún nhường.",
       "2": "Tức là khiêm tốn.",
-      "3": "Ngày xưa vua đi săn, thường dùng quân lính bổ vây, rồi cho xe ngựa",
-      "4": "Nghĩa là cân nhắc đắn đo. Chu Hy muốn dùng chữ “quỹ” để thích chứ",
-      "5": "Trong Nho văn “đoạn” là chặt và “đoán” là quyết đoán vốn cùng một chữ",
-      "6": "Câu này Trình Di, Chu Hy không đồng ý nhau, theo Trình Di chữ (hồ)"
-    }
+      "3": "Ngày xưa vua đi săn, thường dùng quân lính bổ vây, rồi cho xe ngựa xông vào, trên xe có người chuyên việc đánh xe, có người chuyên dùng cung tên bắn các thú vật.",
+      "4": "Nghĩa là cân nhắc đắn đo. Chu Hy muốn dùng chữ “quỹ” để thích chứ “quý” mà ghép cho nó có nghĩa.",
+      "5": "Trong Nho văn “đoạn” là chặt và “đoán” là quyết đoán vốn cùng một chữ mà đọc khác đi. Vì vậy Trình Di mới dùng cách dây cà dây muống mà giải chữ “phủ” là búa là ra nghĩa quyết đoán, cương quyết.",
+      "6": "Câu này Trình Di, Chu Hy không đồng ý nhau, theo Trình Di chữ (hồ) phải dịch là “chăng” mà theo Chu Hy thì nghĩa là chưng."
+    },
+    "lời_kinh": "九 五 . 貞 吉 . 悔 亡 . 無 不 利 . 無 初 有 終 . 先 庚 三 ⽇ . 后 庚 三 ⽇ . 吉 . Dịch âni. – Cửu ngũ: Trinh cát, hối vong, vô bất lợi, vô cơ hữu chung, tiêu canh tam nhật, hâu canh tam nhật, cát. Dịch nghĩa. - Hào Chín Năm: Chính bền tốt, ăn năn mất, không gì lợi, không đầu có chót, trước canh bà ngày, sau canh ba ngày tốt!",
+    "dịch_âm": null,
+    "dịch_nghĩa": "Hào Chín Năm: Chính bền tốt, ăn năn mất, không gì lợi, không đầu có chót, trước canh bà ngày, sau canh ba ngày tốt!",
+    "truyện_của_Trình_Di": null,
+    "bản_nghĩa_của_Chu_Hy": "Hào Chín Năm cứng mạnh giữa chính mà ở thể Tốn, cho nên có sự ăn năn. Vì nó có đức chính bên, mà tốt, cho nên được sự ăn năn mất đi mà không gì không lợi. Có ăn năng là “không đầu” sự ăn năn mất đi là có chót. Canh là canh cải, tức là việc bị thay đổi. Trước canh ba ngày là đinh, sau canh ba ngày là quý, đinh là để mà đinh ninh về trước khi [4] thay đổi, quý là để quỹ đạc về sau khi thay đổi. Có sự thay đổi mà được hào này, xem như thế thì tốt.",
+    "lời_bàn_của_tiên_nho": null
   },
   {
     "chunk_id": "QUE_TON_2_015",
     "hexagram": "QUE_TON_2",
     "que": null,
-    "lời_kinh": "象 ⽈ . 九 五 之 吉 . 位 正 中 也 .",
-    "dịch_âm": "Tượng viết: Cửu Ngũ chi cát, vị chính trung dã.",
-    "dịch_nghĩa": "Lời Tượng nói rằng: Cái tốt của hào Chín Năm ngôi chính giữa vậy. GIẢI NGHĨA",
-    "truyện_của_Trình_Di": null,
-    "bản_nghĩa_của_Chu_Hy": null,
-    "lời_bàn_của_tiên_nho": null,
+    "content_type": "interpretation",
     "notes": {
       "1": "Chữ 巽 (tốn) có nghĩa là núp, là vào, lại có nghĩa nhún nhường.",
       "2": "Tức là khiêm tốn.",
-      "3": "Ngày xưa vua đi săn, thường dùng quân lính bổ vây, rồi cho xe ngựa",
-      "4": "Nghĩa là cân nhắc đắn đo. Chu Hy muốn dùng chữ “quỹ” để thích chứ",
-      "5": "Trong Nho văn “đoạn” là chặt và “đoán” là quyết đoán vốn cùng một chữ",
-      "6": "Câu này Trình Di, Chu Hy không đồng ý nhau, theo Trình Di chữ (hồ)"
-    }
+      "3": "Ngày xưa vua đi săn, thường dùng quân lính bổ vây, rồi cho xe ngựa xông vào, trên xe có người chuyên việc đánh xe, có người chuyên dùng cung tên bắn các thú vật.",
+      "4": "Nghĩa là cân nhắc đắn đo. Chu Hy muốn dùng chữ “quỹ” để thích chứ “quý” mà ghép cho nó có nghĩa.",
+      "5": "Trong Nho văn “đoạn” là chặt và “đoán” là quyết đoán vốn cùng một chữ mà đọc khác đi. Vì vậy Trình Di mới dùng cách dây cà dây muống mà giải chữ “phủ” là búa là ra nghĩa quyết đoán, cương quyết.",
+      "6": "Câu này Trình Di, Chu Hy không đồng ý nhau, theo Trình Di chữ (hồ) phải dịch là “chăng” mà theo Chu Hy thì nghĩa là chưng."
+    },
+    "lời_kinh": "象 ⽈ . 九 五 之 吉 . 位 正 中 也 .",
+    "dịch_âm": "Tượng viết: Cửu Ngũ chi cát, vị chính trung dã.",
+    "dịch_nghĩa": "Lời Tượng nói rằng: Cái tốt của hào Chín Năm ngôi chính giữa vậy.",
+    "truyện_của_Trình_Di": "Cái tốt của hào Chín Năm, vì nó ở chỗ giữa chính. Được đạo chính giữa thì tốt mà sự ăn năn mất đi.",
+    "bản_nghĩa_của_Chu_Hy": null,
+    "lời_bàn_của_tiên_nho": null
   },
   {
     "chunk_id": "QUE_TON_2_016",
     "hexagram": "QUE_TON_2",
     "que": null,
-    "lời_kinh": "上 九 . 巽 在 床 下 . 喪 其 資 斧 . 貞 凶 .",
-    "dịch_âm": "Thượng Cửu: Tốn tại sàng hạ, táng kỳ tư phủ, hung!",
-    "dịch_nghĩa": "Hào Chín Trên: Nhún ở dưới giường, mất thửa của búa, hung!. GIẢI NGHĨA",
-    "truyện_của_Trình_Di": null,
-    "bản_nghĩa_của_Chu_Hy": null,
-    "lời_bàn_của_tiên_nho": null,
+    "content_type": "interpretation",
     "notes": {
       "1": "Chữ 巽 (tốn) có nghĩa là núp, là vào, lại có nghĩa nhún nhường.",
       "2": "Tức là khiêm tốn.",
-      "3": "Ngày xưa vua đi săn, thường dùng quân lính bổ vây, rồi cho xe ngựa",
-      "4": "Nghĩa là cân nhắc đắn đo. Chu Hy muốn dùng chữ “quỹ” để thích chứ",
-      "5": "Trong Nho văn “đoạn” là chặt và “đoán” là quyết đoán vốn cùng một chữ",
-      "6": "Câu này Trình Di, Chu Hy không đồng ý nhau, theo Trình Di chữ (hồ)"
-    }
+      "3": "Ngày xưa vua đi săn, thường dùng quân lính bổ vây, rồi cho xe ngựa xông vào, trên xe có người chuyên việc đánh xe, có người chuyên dùng cung tên bắn các thú vật.",
+      "4": "Nghĩa là cân nhắc đắn đo. Chu Hy muốn dùng chữ “quỹ” để thích chứ “quý” mà ghép cho nó có nghĩa.",
+      "5": "Trong Nho văn “đoạn” là chặt và “đoán” là quyết đoán vốn cùng một chữ mà đọc khác đi. Vì vậy Trình Di mới dùng cách dây cà dây muống mà giải chữ “phủ” là búa là ra nghĩa quyết đoán, cương quyết.",
+      "6": "Câu này Trình Di, Chu Hy không đồng ý nhau, theo Trình Di chữ (hồ) phải dịch là “chăng” mà theo Chu Hy thì nghĩa là chưng."
+    },
+    "lời_kinh": "上 九 . 巽 在 床 下 . 喪 其 資 斧 . 貞 凶 .",
+    "dịch_âm": "Thượng Cửu: Tốn tại sàng hạ, táng kỳ tư phủ, hung!",
+    "dịch_nghĩa": "Hào Chín Trên: Nhún ở dưới giường, mất thửa của búa, hung!.",
+    "truyện_của_Trình_Di": "Giường là chỗ người ta ở yên. “Ở dưới giường” tức là vượt qua chỗ ở yên. Hào Chín ở chỗ cùng cực thể Tốn, tức là kẻ quá nhún. [5] Của là vật nó có, búa là đồ để chặt. Dương cứng vốn có tính quyết đoán , vì nó quá nhún mà mất cái tính cương đoán, mất cái sẵn có, tức là mất của, búa đó. ở trên mà quá nhún, tự mình làm mất bản tính của mình, với đạo “thẳng” là hung. Bận nghĩa củạ Chu Hy. – nhún ở dưới giường là quá nhún, mất thửa của, búa, là mất cái để chặt, như thế tuy chính cũng hung. ở vào cùng cực thể Tốn, mất đức Dương cúng, cho nên Tượng, Chiêm như thế.",
+    "bản_nghĩa_của_Chu_Hy": null,
+    "lời_bàn_của_tiên_nho": null
   },
   {
     "chunk_id": "QUE_TON_2_017",
     "hexagram": "QUE_TON_2",
     "que": null,
-    "lời_kinh": "象 ⽈ .巽 在 床 下 . 上 窮 也 . 喪 其 資 斧 . 正 乎 凶 也 .",
-    "dịch_âm": "Tượng viết: Tốn tại sàng hạ, thượng cùng dã; táng kỳ tư phủ, chính hồ hung dã.",
-    "dịch_nghĩa": "Lời tượng nói rằng: Nhún ở dưới giường, trên cùng vậy; mất [6] thửa của búa, chỉnh chưng hung vậy. GIẢI NGHĨA",
-    "truyện_của_Trình_Di": null,
-    "bản_nghĩa_của_Chu_Hy": "“Chính chưng hung”, ý nói ắt hung. Chú thích: [1] Chữ 巽 (tốn) có nghĩa là núp, là vào, lại có nghĩa nhún nhường. [2] Tức là khiêm tốn. [3] Ngày xưa vua đi săn, thường dùng quân lính bổ vây, rồi cho xe ngựa xông vào, trên xe có người chuyên việc đánh xe, có người chuyên dùng cung tên bắn các thú vật. [4] Nghĩa là cân nhắc đắn đo. Chu Hy muốn dùng chữ “quỹ” để thích chứ “quý” mà ghép cho nó có nghĩa. [5] Trong Nho văn “đoạn” là chặt và “đoán” là quyết đoán vốn cùng một chữ mà đọc khác đi. Vì vậy Trình Di mới dùng cách dây cà dây muống mà giải chữ “phủ” là búa là ra nghĩa quyết đoán, cương quyết. [6] Câu này Trình Di, Chu Hy không đồng ý nhau, theo Trình Di chữ (hồ) phải dịch là “chăng” mà theo Chu Hy thì nghĩa là chưng.",
-    "lời_bàn_của_tiên_nho": null,
+    "content_type": "interpretation",
     "notes": {
       "1": "Chữ 巽 (tốn) có nghĩa là núp, là vào, lại có nghĩa nhún nhường.",
       "2": "Tức là khiêm tốn.",
-      "3": "Ngày xưa vua đi săn, thường dùng quân lính bổ vây, rồi cho xe ngựa",
-      "4": "Nghĩa là cân nhắc đắn đo. Chu Hy muốn dùng chữ “quỹ” để thích chứ",
-      "5": "Trong Nho văn “đoạn” là chặt và “đoán” là quyết đoán vốn cùng một chữ",
-      "6": "Câu này Trình Di, Chu Hy không đồng ý nhau, theo Trình Di chữ (hồ)"
-    }
+      "3": "Ngày xưa vua đi săn, thường dùng quân lính bổ vây, rồi cho xe ngựa xông vào, trên xe có người chuyên việc đánh xe, có người chuyên dùng cung tên bắn các thú vật.",
+      "4": "Nghĩa là cân nhắc đắn đo. Chu Hy muốn dùng chữ “quỹ” để thích chứ “quý” mà ghép cho nó có nghĩa.",
+      "5": "Trong Nho văn “đoạn” là chặt và “đoán” là quyết đoán vốn cùng một chữ mà đọc khác đi. Vì vậy Trình Di mới dùng cách dây cà dây muống mà giải chữ “phủ” là búa là ra nghĩa quyết đoán, cương quyết.",
+      "6": "Câu này Trình Di, Chu Hy không đồng ý nhau, theo Trình Di chữ (hồ) phải dịch là “chăng” mà theo Chu Hy thì nghĩa là chưng."
+    },
+    "lời_kinh": "象 ⽈ .巽 在 床 下 . 上 窮 也 . 喪 其 資 斧 . 正 乎 凶 也 .",
+    "dịch_âm": "Tượng viết: Tốn tại sàng hạ, thượng cùng dã; táng kỳ tư phủ, chính hồ hung dã.",
+    "dịch_nghĩa": "Lời tượng nói rằng: Nhún ở dưới giường, trên cùng vậy; mất [6] thửa của búa, chỉnh chưng hung vậy.",
+    "truyện_của_Trình_Di": "Nhún ở dưới giường là quá nhún, đến nỗi tự mình làm mất bản tính, được là chính đính ư? Đó là đạo hung vậy. Sự nhún vốn là nết hay, cho nên đặt lời hoài nghi mà rằng:”được là chính chăng?” và lại đoán rằng “đó là hung vậy”.",
+    "bản_nghĩa_của_Chu_Hy": "“Chính chưng hung”, ý nói ắt hung.",
+    "lời_bàn_của_tiên_nho": null
   }
 ]

@@ -3,6 +3,7 @@
     "chunk_id": "QUE_DAI_HUU_001",
     "hexagram": "QUE_DAI_HUU",
     "que": null,
+    "content_type": "preface",
     "lời_kinh": null,
     "dịch_âm": null,
     "dịch_nghĩa": null,
@@ -18,225 +19,240 @@
     "chunk_id": "QUE_DAI_HUU_002",
     "hexagram": "QUE_DAI_HUU",
     "que": null,
-    "lời_kinh": "⼤有元亨.",
-    "dịch_âm": "Đại hữu nguyên hanh.",
-    "dịch_nghĩa": "Quẻ Đại hữu cả lớn hanh thông. GIẢI NGHĨA",
-    "truyện_của_Trình_Di": null,
-    "bản_nghĩa_của_Chu_Hy": "Đại hữu tức là sự “có” cả lớn. Ly ở trên Kiền, ấy là lửa ở trên trời, không gì không soi. Lại hào Sáu Năm là một hào Âm ở ngôi tôn, được chỗ giữa, mà năm hào Dương ứng theo với nó, cho nên là cả có. Kiền mạnh có Ly sống, ở ngôi tôn mà ứng với trời, có cơ hanh thông. Kẻ xem có đức ấy thì rất hay và hanh thông.",
-    "lời_bàn_của_tiên_nho": null,
+    "content_type": "interpretation",
     "notes": {
       "1": "Đại hữu có nghĩa là cả có.",
       "2": "Dịch theo Bản nghĩa của Chu Hy."
-    }
+    },
+    "lời_kinh": "⼤有元亨.",
+    "dịch_âm": "Đại hữu nguyên hanh.",
+    "dịch_nghĩa": "Quẻ Đại hữu cả lớn hanh thông.",
+    "truyện_của_Trình_Di": "Tức là tài quẻ có thể hơn hanh thông. Vì nó cương kiên văn minh, ứng nhau với trời mà làm việc phải thì, cho nên có thể cả lớn hanh thông.",
+    "bản_nghĩa_của_Chu_Hy": "Đại hữu tức là sự “có” cả lớn. Ly ở trên Kiền, ấy là lửa ở trên trời, không gì không soi. Lại hào Sáu Năm là một hào Âm ở ngôi tôn, được chỗ giữa, mà năm hào Dương ứng theo với nó, cho nên là cả có. Kiền mạnh có Ly sống, ở ngôi tôn mà ứng với trời, có cơ hanh thông. Kẻ xem có đức ấy thì rất hay và hanh thông.",
+    "lời_bàn_của_tiên_nho": null
   },
   {
     "chunk_id": "QUE_DAI_HUU_003",
     "hexagram": "QUE_DAI_HUU",
     "que": null,
-    "lời_kinh": "象⽈:⼤有, 柔得尊位,⼤中⽽上下應之, ⽈⼤有. 其德剛婕⽽⽀明, 應乎天⽽時作, 羌以元亨.",
-    "dịch_âm": "Thoán viết: Đại hữu, nhu đắc tôn vị, đại trung nhi thượng hạ ứng chi, viết Đại hữu. Kỳ đức cương kiện nhi văn minh, ứng hồ thiên nhi thì hành, thị dĩ nguyên hanh.",
-    "dịch_nghĩa": "Lời Thoán nói rằng: Quẻ đại hữu, kẻ mềm được ngôi tôn, cả giữa mà trên dưới ứng nhau với nó, gọi là Đại hữu. Đức nó cứng mạnh mà văn vẻ sáng láng, ứng nhau với trời mà đi đúng thì, cho nên cả lớn hanh thông. GIẢI NGHĨA",
-    "truyện_của_Trình_Di": null,
-    "bản_nghĩa_của_Chu_Hy": "Đoạn trên dùng thể quẻ thích nghĩa tên quẻ. Nhu chỉ về hào Sáu Năm, thượng hạ chỉ về năm hào Dương; đoạn dưới dùng đức quẻ, thể quẻ để thích lời quẻ; ứng với trời, chỉ về hào Sáu Năm.",
-    "lời_bàn_của_tiên_nho": null,
+    "content_type": "interpretation",
     "notes": {
       "1": "Đại hữu có nghĩa là cả có.",
       "2": "Dịch theo Bản nghĩa của Chu Hy."
-    }
+    },
+    "lời_kinh": "象⽈:⼤有, 柔得尊位,⼤中⽽上下應之, ⽈⼤有. 其德剛婕⽽⽀明, 應乎天⽽時作, 羌以元亨.",
+    "dịch_âm": "Thoán viết: Đại hữu, nhu đắc tôn vị, đại trung nhi thượng hạ ứng chi, viết Đại hữu. Kỳ đức cương kiện nhi văn minh, ứng hồ thiên nhi thì hành, thị dĩ nguyên hanh.",
+    "dịch_nghĩa": "Lời Thoán nói rằng: Quẻ đại hữu, kẻ mềm được ngôi tôn, cả giữa mà trên dưới ứng nhau với nó, gọi là Đại hữu. Đức nó cứng mạnh mà văn vẻ sáng láng, ứng nhau với trời mà đi đúng thì, cho nên cả lớn hanh thông.",
+    "truyện_của_Trình_Di": "Đây nói tại sao quẻ này là quẻ Đại hữu. Hào Năm là hào Âm, ở ngôi vua, ấy là kẻ mềm được ngôi tôn; ở giữa tức là được đạo “cả giữa”; được các hào Dương tôn quý, tức là trên dưới ứng nhau với nó. Ở ngôi tôn giữ được mềm, vẫn là kẻ mà mọi người theo về, mà lại có đức trống giữa, văn vẻ sáng láng, cho nên trên dưới đồng lòng ứng nhau với nó, vì vậy mới là Đại hữu. Quẻ này trong cứng mạnh mà ngoài văn vẻ sáng láng, ông vua Sáu Năm ứng nhau với hào Chín Hai của quẻ Kiền . Tính hào Năm mềm thuận mà sáng suốt, có thể ứng nhau với hào Hai, hào Hai là chủ quẻ Kiền , ấy là ứng nhau với Kiền; êm thuận mà ứng nhau với quẻ Kiền , ấy là thuận theo thời trời, cho nên nói rằng: ứng nhau với trời mà đi đúng thì. Đức nó như thế, cho nên cả lớn hanh thông.",
+    "bản_nghĩa_của_Chu_Hy": "Đoạn trên dùng thể quẻ thích nghĩa tên quẻ. Nhu chỉ về hào Sáu Năm, thượng hạ chỉ về năm hào Dương; đoạn dưới dùng đức quẻ, thể quẻ để thích lời quẻ; ứng với trời, chỉ về hào Sáu Năm.",
+    "lời_bàn_của_tiên_nho": null
   },
   {
     "chunk_id": "QUE_DAI_HUU_004",
     "hexagram": "QUE_DAI_HUU",
     "que": null,
-    "lời_kinh": "象⽈:⽕在天上, ⼤⽉. 君⼦以遏惡揚善, 順天休命.",
-    "dịch_âm": "Tượng viết: Hỏa tại thiên thượng. Đại hữu, quân tử dĩ át ác dương thiện, thuận thiên hưu mệnh.",
-    "dịch_nghĩa": "Lời Tượng nói rằng: Lửa cao ở trên trời, là quẻ Đại hữu, đấng quân tử coi đó mà ngăn kẻ ác, biểu dương người thiện, thuận theo mệnh tốt của trời. GIẢI NGHĨA",
-    "truyện_của_Trình_Di": null,
-    "bản_nghĩa_của_Chu_Hy": "Lửa ở trên trời, nó soi rất rộng, là tượng cả có. Cái có đã cả, không có cách gì mà trị, thì sự hớ hé tai hạisẽ sinh ở trong. Mệnh trời có thiện không có ác cho nên ngăn ác nêu thiện là để thuận theo trời, quay lại mình mình cũng như thế mà thôi.",
-    "lời_bàn_của_tiên_nho": null,
+    "content_type": "interpretation",
     "notes": {
       "1": "Đại hữu có nghĩa là cả có.",
       "2": "Dịch theo Bản nghĩa của Chu Hy."
-    }
+    },
+    "lời_kinh": "象⽈:⽕在天上, ⼤⽉. 君⼦以遏惡揚善, 順天休命.",
+    "dịch_âm": "Tượng viết: Hỏa tại thiên thượng. Đại hữu, quân tử dĩ át ác dương thiện, thuận thiên hưu mệnh.",
+    "dịch_nghĩa": "Lời Tượng nói rằng: Lửa cao ở trên trời, là quẻ Đại hữu, đấng quân tử coi đó mà ngăn kẻ ác, biểu dương người thiện, thuận theo mệnh tốt của trời.",
+    "truyện_của_Trình_Di": "Lửa cao ở trên trời, soi thấy muôn vật đông nhiều, cho nên là quẻ Đại hữu. Đại hữu nghĩa là rậm nhiều. Đấng quân tử coi tượng Đại hữu, để ngăn dứt mọi kẻ ác, nêu rõ loài thiện, vâng theo cái mệnh tốt đẹp của trời. Muôn vật đông nhiều, thì có thiện ác khác nhau, đấng quân tử hưởng sự thịnh vượng của cuộc cả có, nên thay thợ trời trị nuôi mọi loài. Cái đạo trị người, cốt ở ngăn kẻ ác nêu kẻ thiện. Kẻ ác bị răn, kẻ thiện được khuyến khích, là để thuận theo mệnh trời, làm yên các loài “sống”.",
+    "bản_nghĩa_của_Chu_Hy": "Lửa ở trên trời, nó soi rất rộng, là tượng cả có. Cái có đã cả, không có cách gì mà trị, thì sự hớ hé tai hạisẽ sinh ở trong. Mệnh trời có thiện không có ác cho nên ngăn ác nêu thiện là để thuận theo trời, quay lại mình mình cũng như thế mà thôi.",
+    "lời_bàn_của_tiên_nho": null
   },
   {
     "chunk_id": "QUE_DAI_HUU_005",
     "hexagram": "QUE_DAI_HUU",
     "que": null,
-    "lời_kinh": "初九:無交害, 匪咎, 難則無咎.",
-    "dịch_âm": "Sơ Cửu: Vô giao hại, phỉ cữu, nan tắc vô cữu.",
-    "dịch_nghĩa": "Hào Chín Đầu: Không dính tới sự hại, chẳng phải lỗi. Khó nhọc thì không lỗi. GIẢI NGHĨA",
-    "truyện_của_Trình_Di": null,
-    "bản_nghĩa_của_Chu_Hy": "Đương thì cả có, nhưng là hào Dương, ở dưới, trên không hệ ứng mà nhằm khi việc mới bắt đầu, chưa dính đến hại thì còn lỗi gì? Nhưng cũng phải xử với cảnh đó cách khó nhọc thì mới không lỗi. Đó là răn kẻ xem phải như thế.",
-    "lời_bàn_của_tiên_nho": null,
+    "content_type": "interpretation",
     "notes": {
       "1": "Đại hữu có nghĩa là cả có.",
       "2": "Dịch theo Bản nghĩa của Chu Hy."
-    }
+    },
+    "lời_kinh": "初九:無交害, 匪咎, 難則無咎.",
+    "dịch_âm": "Sơ Cửu: Vô giao hại, phỉ cữu, nan tắc vô cữu.",
+    "dịch_nghĩa": "Hào Chín Đầu: Không dính tới sự hại, chẳng phải lỗi. Khó nhọc thì không lỗi.",
+    "truyện_của_Trình_Di": "Nhằm đầu cuộc cả có, chưa đến lúc thịnh, ở chỗ thấp, không có kẻ nào ứng với, chưa có cái lỗi về sự kiêu càng tự đắc, cho nên không dính tới sự tai, nghĩa là chưa phải dính vào sự hại. Đại phàm kẻ giàu có, ít người không có hại… “Chẳng phải lỗi, khó nhọc thì không lỗi”, ý nói sự giàu có vốn không có lỗi, người ta vì giàu có tự làm ra lỗi mà thôi. Nếu như hưởng sự giàu có vốn không có lỗi, người ta vì giàu có tự làm ra lỗi mà thôi. Nếu như hưởng sự giàu có mà biết chỗ khó nhọc thì tự nhiên không lỗi. Ở cảnh giàu cómà không nghĩ sự khó nhọc, nơm nớp lo sợ, thì lòng kiêu căng xa xỉ sẽ sinh ra, vì vậy mà có lỗi.",
+    "bản_nghĩa_của_Chu_Hy": "Đương thì cả có, nhưng là hào Dương, ở dưới, trên không hệ ứng mà nhằm khi việc mới bắt đầu, chưa dính đến hại thì còn lỗi gì? Nhưng cũng phải xử với cảnh đó cách khó nhọc thì mới không lỗi. Đó là răn kẻ xem phải như thế.",
+    "lời_bàn_của_tiên_nho": null
   },
   {
     "chunk_id": "QUE_DAI_HUU_006",
     "hexagram": "QUE_DAI_HUU",
     "que": null,
-    "lời_kinh": "象⽈:⼤有初九,無交害也.",
-    "dịch_âm": "Tượng viết: Đại hữu Sơ Cửu, vô giao hại dã.",
-    "dịch_nghĩa": "Lời Tượng nói rằng: Quẻ Đại hữu hào Chín Đầu, chưa dính đến sự hại vậy. GIẢI NGHĨA",
-    "truyện_của_Trình_Di": null,
-    "bản_nghĩa_của_Chu_Hy": null,
-    "lời_bàn_của_tiên_nho": null,
+    "content_type": "interpretation",
     "notes": {
       "1": "Đại hữu có nghĩa là cả có.",
       "2": "Dịch theo Bản nghĩa của Chu Hy."
-    }
+    },
+    "lời_kinh": "象⽈:⼤有初九,無交害也.",
+    "dịch_âm": "Tượng viết: Đại hữu Sơ Cửu, vô giao hại dã.",
+    "dịch_nghĩa": "Lời Tượng nói rằng: Quẻ Đại hữu hào Chín Đầu, chưa dính đến sự hại vậy.",
+    "truyện_của_Trình_Di": "Ở đầu cuộc cả có, biết nghĩ đến sự khó nhọc, thì lòng kiêu dật, không vì đâu mà sinh ra. Vì vậy mới không dính dáng tới sự tai hại.",
+    "bản_nghĩa_của_Chu_Hy": null,
+    "lời_bàn_của_tiên_nho": null
   },
   {
     "chunk_id": "QUE_DAI_HUU_007",
     "hexagram": "QUE_DAI_HUU",
     "que": null,
-    "lời_kinh": "九⼆:⼤⾞以裁, 與攸往,無咎.",
-    "dịch_âm": "Cửu Nhị: Đại xa dĩ tái, hữu du văng, vô cữu.",
-    "dịch_nghĩa": "Hào Chín Hai: Xe lớn để chở, có thừa đi, không lỗi. GIẢI NGHĨA",
-    "truyện_của_Trình_Di": null,
-    "bản_nghĩa_của_Chu_Hy": "Cứng giữa ở dưới, thì được kẻ ứng với ở trên, là Tượng xe lớn để chở. Có thửa đi mà như thế thì không có lỗi. Kẻ xem ắt có đức ấy thì mới ứng với lời Chiêm ấy.",
-    "lời_bàn_của_tiên_nho": null,
+    "content_type": "interpretation",
     "notes": {
       "1": "Đại hữu có nghĩa là cả có.",
       "2": "Dịch theo Bản nghĩa của Chu Hy."
-    }
+    },
+    "lời_kinh": "九⼆:⼤⾞以裁, 與攸往,無咎.",
+    "dịch_âm": "Cửu Nhị: Đại xa dĩ tái, hữu du văng, vô cữu.",
+    "dịch_nghĩa": "Hào Chín Hai: Xe lớn để chở, có thừa đi, không lỗi.",
+    "truyện_của_Trình_Di": "Hào Chín Hai lấy đức Dương cương ở ngôi Hai, bị vua Sáu Năm tin dùng, cứng mạnh thì hơn về phần tài, ở chỗ mềm thì nhún thuận, được mực giữa không có lỗi. Tài nó như thế, nên mới gánh nổi trách nhiệm của cuộc cả có, như sức chiếc xe lớn, cứng mạnh, thì có thể chở được vật nặng, cho nên có thửa đi mà không lỗi.",
+    "bản_nghĩa_của_Chu_Hy": "Cứng giữa ở dưới, thì được kẻ ứng với ở trên, là Tượng xe lớn để chở. Có thửa đi mà như thế thì không có lỗi. Kẻ xem ắt có đức ấy thì mới ứng với lời Chiêm ấy.",
+    "lời_bàn_của_tiên_nho": null
   },
   {
     "chunk_id": "QUE_DAI_HUU_008",
     "hexagram": "QUE_DAI_HUU",
     "que": null,
-    "lời_kinh": "象⽈:⼤⾞以載, 積中不敗也.",
-    "dịch_âm": "Tượng viết: Đại xa dĩ tái, tích trung bất bại dã.",
-    "dịch_nghĩa": "Lời Tượng nói rằng: Xe lớn để chở, chứa ở trong không hỏng vậy. GIẢI NGHĨA",
-    "truyện_của_Trình_Di": null,
-    "bản_nghĩa_của_Chu_Hy": null,
-    "lời_bàn_của_tiên_nho": null,
+    "content_type": "interpretation",
     "notes": {
       "1": "Đại hữu có nghĩa là cả có.",
       "2": "Dịch theo Bản nghĩa của Chu Hy."
-    }
+    },
+    "lời_kinh": "象⽈:⼤⾞以載, 積中不敗也.",
+    "dịch_âm": "Tượng viết: Đại xa dĩ tái, tích trung bất bại dã.",
+    "dịch_nghĩa": "Lời Tượng nói rằng: Xe lớn để chở, chứa ở trong không hỏng vậy.",
+    "truyện_của_Trình_Di": "Cái xe chắc lớn, đồ chứa nặng đựng ở bên trong mà không hư hỏng, cũng như hào Chín Hai tài sức mạnh giỏi có thể gánh nổi trách nhiệm trong cuộc cả có.",
+    "bản_nghĩa_của_Chu_Hy": null,
+    "lời_bàn_của_tiên_nho": null
   },
   {
     "chunk_id": "QUE_DAI_HUU_009",
     "hexagram": "QUE_DAI_HUU",
     "que": null,
-    "lời_kinh": "九三:公⽤亨于天⼦,⼩⼈不克. [2]",
-    "dịch_âm": "Cửu Tam: Công dụng hưởng vu thiên tử, tiểu nhân phất khắc.",
-    "dịch_nghĩa": "Hào Chín Ba. Tước Công dùng hưởng của đấng thiên tử, kẻ tiểu nhân không thể được. GIẢI NGHĨA",
-    "truyện_của_Trình_Di": null,
-    "bản_nghĩa_của_Chu_Hy": "Chữ 亨 truyện Xuân thu chép làm chữ 享 (hưởng), nghĩa là chầu dâng. Đời xưa, chữ 亨 (hanh) trong tiếng 亨通 (hanh thông), chữ 享 (hưởng) trong tiếng 享獻 (hưởng hiến), chữ 烹 (phanh) trong tiếng 烹飪 (phanh nhẫm) đều viết chữ 亨(hanh). Hào Chín Ba ở trên thể dưới, là Tượng tước Công tước Hầu, cứng mạnh mà được chính đính, trên có ông vua Sáu Năm sẵn lòng chiều đãi người hiền, cho nên là tượng “hưởng của đấng thiên tử”. Kẻ xem có đức ấy thì lời Chiêm cũng như thế. Kẻ tiểu nhân không có đức cương chính, thì tuy có được hào này cũng không thể đương nổi.",
-    "lời_bàn_của_tiên_nho": null,
+    "content_type": "interpretation",
     "notes": {
       "1": "Đại hữu có nghĩa là cả có.",
       "2": "Dịch theo Bản nghĩa của Chu Hy."
-    }
+    },
+    "lời_kinh": "九三:公⽤亨于天⼦,⼩⼈不克. [2]",
+    "dịch_âm": "Cửu Tam: Công dụng hưởng vu thiên tử, tiểu nhân phất khắc.",
+    "dịch_nghĩa": "Hào Chín Ba. Tước Công dùng hưởng của đấng thiên tử, kẻ tiểu nhân không thể được.",
+    "truyện_của_Trình_Di": "Hào Ba ở trên thể dưới, ấy là ở ngôi dưới mà ở trên người ta, tức là Tượng ông vua chư hầu. Tước Công tước Hầu thì vâng theo đấng thiên tử, đấng thiên tử ở ngôi cao nhất thiên hạ, suốt trong bến đất, không đâu không phải là tôi nhà vua. Kẻ ở dưới đâu dám tự chuyên cái của mình có? Tất cả đất giầu, dân nhiều đều là đấng thiên tử, đó là lý phải như thế. Cho nên hào Ba đương thì cả có ở ngôi chư hầu, có sự giàu thịnh, ắt dùng để làm hanh thông cho đấng thiên tử, nghĩa là đem cái có của mình làm cái có của đấng thiên tử. Đó là nghĩa thường của kẻ làm tôi. Nếu mà tiểu nhân ở vào cảnh đó, nó sẽ tự chuyên cái giàu của nó để làm của riêng, không biết đem của mình mà vâng người trên, cho nên nói rằng: “tiểu nhân không thể được”.",
+    "bản_nghĩa_của_Chu_Hy": "Chữ 亨 truyện Xuân thu chép làm chữ 享 (hưởng), nghĩa là chầu dâng. Đời xưa, chữ 亨 (hanh) trong tiếng 亨通 (hanh thông), chữ 享 (hưởng) trong tiếng 享獻 (hưởng hiến), chữ 烹 (phanh) trong tiếng 烹飪 (phanh nhẫm) đều viết chữ 亨(hanh). Hào Chín Ba ở trên thể dưới, là Tượng tước Công tước Hầu, cứng mạnh mà được chính đính, trên có ông vua Sáu Năm sẵn lòng chiều đãi người hiền, cho nên là tượng “hưởng của đấng thiên tử”. Kẻ xem có đức ấy thì lời Chiêm cũng như thế. Kẻ tiểu nhân không có đức cương chính, thì tuy có được hào này cũng không thể đương nổi.",
+    "lời_bàn_của_tiên_nho": null
   },
   {
     "chunk_id": "QUE_DAI_HUU_010",
     "hexagram": "QUE_DAI_HUU",
     "que": null,
-    "lời_kinh": "象⽈:公⽤亨于天⼦, ⼩⼈害也.",
-    "dịch_âm": "Tượng viết: Công dụng hưởng vu thiên tử, tiểu nhân hại dã.",
-    "dịch_nghĩa": "Lời Tượng nói rằng: Tước Công dùng hưởng của đấng thiên tử, hại cho kẻ tiểu nhân vậy. GIẢI NGHĨA",
-    "truyện_của_Trình_Di": null,
-    "bản_nghĩa_của_Chu_Hy": null,
-    "lời_bàn_của_tiên_nho": null,
+    "content_type": "interpretation",
     "notes": {
       "1": "Đại hữu có nghĩa là cả có.",
       "2": "Dịch theo Bản nghĩa của Chu Hy."
-    }
+    },
+    "lời_kinh": "象⽈:公⽤亨于天⼦, ⼩⼈害也.",
+    "dịch_âm": "Tượng viết: Công dụng hưởng vu thiên tử, tiểu nhân hại dã.",
+    "dịch_nghĩa": "Lời Tượng nói rằng: Tước Công dùng hưởng của đấng thiên tử, hại cho kẻ tiểu nhân vậy.",
+    "truyện_của_Trình_Di": "Tước Công nên làm hanh thông cho đấng thiên tử, nếu kẻ tiểu nhân ở địa vị đó thì hại. Từ xưa những nước Hầu biết giữ phận làm bề tôi, hết lòng trung thuận vâng thờ người trên, thì phải nuôi cho dân chúng đông nhiều để làm phên tường cho nhà vua; làm cho của cải giàu thịnh để đợi người trên đòi lấy; nếu kẻ tiểu nhân ở địa vị đó, thì không biết đạo làm tôi phụng thờ người trên, vì họ chỉ vì lòng riêng vị mình, dân nhiều của thịnh, thì lại tự chuyên sự giàu của mình càng làm những điều không thuận ấy là kẻ tiểu nhân cả có thì là tai hại, mà sự cả có cũng là cái hại của kẻ tiểu nhân.",
+    "bản_nghĩa_của_Chu_Hy": null,
+    "lời_bàn_của_tiên_nho": null
   },
   {
     "chunk_id": "QUE_DAI_HUU_011",
     "hexagram": "QUE_DAI_HUU",
     "que": null,
-    "lời_kinh": "九⽈:匪其彭, 無咎.",
-    "dịch_âm": "Cửu Tứ: Phỉ kỳ bàng, vô cữu.",
-    "dịch_nghĩa": "Hào Chín Tư: Chẳng phải sự thịnh của mình; không lỗi. GIẢI NGHĨA",
-    "truyện_của_Trình_Di": null,
-    "bản_nghĩa_của_Chu_Hy": "Chữ 彭 chưa rõ âm là nghĩa là gì. Trình truyện cho là “vẻ thịnh nhiều” hoặc giả có lý. Hào Sáu Năm là vua mềm yếu ở giữa, Hào Chín Tư là kẻ cứng mạnh mà ở gần nó, có sự hiểm nghi về việc tiến bức, nhưng vì nó ở ngoài ngôi mềm, có Tượng “không làm cùng cực sự thịnh vượng của mình mà được không lỗi”. Đó là răn kẻ xem phải nên như thế.",
-    "lời_bàn_của_tiên_nho": null,
+    "content_type": "interpretation",
     "notes": {
       "1": "Đại hữu có nghĩa là cả có.",
       "2": "Dịch theo Bản nghĩa của Chu Hy."
-    }
+    },
+    "lời_kinh": "九⽈:匪其彭, 無咎.",
+    "dịch_âm": "Cửu Tứ: Phỉ kỳ bàng, vô cữu.",
+    "dịch_nghĩa": "Hào Chín Tư: Chẳng phải sự thịnh của mình; không lỗi.",
+    "truyện_của_Trình_Di": "Hào Chín Tư ở thì cả có đã quá giữa rồi ấy là cuộc cả có rất thịnh, quá thịnh thì hung, cái lỗi ở đó mà ra, cho nên cái đạo ở vào cảnh đó, hễ không phải sự thịnh của mình thì không có lỗi, nghĩa là hễ biết khiêm tốn, không chịu ở chỗ quá thịnh thì không có lỗi. Hào Tư nhằm chỗ gần vua, nếu mà cứ ở vào cảnh quá thịnh, thì sẽ phải đến hung lỗi. Chữ 彭 (bàng) là vẻ thịnh nhiều. Trong Kinh Thi, thơ Tàichì nói rằng:⾏⼈彭彭 (hành nhân, bàng bàng - người đi đầy dẫy), ấy là hình trạng người đi thịnh nhiều; thơ Đại minh nói rằng: 駟矖彭彭 (Tứ nguyên bàng bàng- ngựa tứ ngựa nguyên đầy dẫy) ấy là quân ngựa của vua Vũ thịnh lắm.",
+    "bản_nghĩa_của_Chu_Hy": "Chữ 彭 chưa rõ âm là nghĩa là gì. Trình truyện cho là “vẻ thịnh nhiều” hoặc giả có lý. Hào Sáu Năm là vua mềm yếu ở giữa, Hào Chín Tư là kẻ cứng mạnh mà ở gần nó, có sự hiểm nghi về việc tiến bức, nhưng vì nó ở ngoài ngôi mềm, có Tượng “không làm cùng cực sự thịnh vượng của mình mà được không lỗi”. Đó là răn kẻ xem phải nên như thế.",
+    "lời_bàn_của_tiên_nho": null
   },
   {
     "chunk_id": "QUE_DAI_HUU_012",
     "hexagram": "QUE_DAI_HUU",
     "que": null,
-    "lời_kinh": "冬⽈:匪其彭, 無咎, 明辯晳也",
-    "dịch_âm": "Tượng viết: Phỉ kỳ bàng, vô cữu, minh biệt tích dã.",
-    "dịch_nghĩa": "Lời Tượng nói rằng: Chẳng phải sự thịnh, không lỗi, vì phân biệt rõ ràng vậy. GIẢI NGHĨA",
-    "truyện_của_Trình_Di": null,
-    "bản_nghĩa_của_Chu_Hy": "Chữ “tích” là vẻ sáng tỏ.",
-    "lời_bàn_của_tiên_nho": null,
+    "content_type": "interpretation",
     "notes": {
       "1": "Đại hữu có nghĩa là cả có.",
       "2": "Dịch theo Bản nghĩa của Chu Hy."
-    }
+    },
+    "lời_kinh": "冬⽈:匪其彭, 無咎, 明辯晳也",
+    "dịch_âm": "Tượng viết: Phỉ kỳ bàng, vô cữu, minh biệt tích dã.",
+    "dịch_nghĩa": "Lời Tượng nói rằng: Chẳng phải sự thịnh, không lỗi, vì phân biệt rõ ràng vậy.",
+    "truyện_của_Trình_Di": "Biết không tự ở vào chỗ thịnh vượng mà được không lỗi, tức là kẻ có trí khôn về sự phân biệt. Tích là sáng khôn. Những người hiền trí, biện biệt vật lý một cách rõ ràng, gặp lúc đương thịnh, thì biết cái lỗi sắp đến, cho nên mới tự nén bớt, không dám để cho đến nỗi quá thịnh.",
+    "bản_nghĩa_của_Chu_Hy": "Chữ “tích” là vẻ sáng tỏ.",
+    "lời_bàn_của_tiên_nho": null
   },
   {
     "chunk_id": "QUE_DAI_HUU_013",
     "hexagram": "QUE_DAI_HUU",
     "que": null,
-    "lời_kinh": "六⽈:厥孚交如, 威如, 吉.",
-    "dịch_âm": "Lục Ngũ: Quyết phu giao như, uy như, cát.",
-    "dịch_nghĩa": "Hào Sáu Năm: Thửa tin dường giao nhau vậy, dường oai nghiêm vây, tốt. GIẢI NGHĨA",
-    "truyện_của_Trình_Di": null,
-    "bản_nghĩa_của_Chu_Hy": "Trong đời cả có, hào Sáu Năm lấy đức mềm thuận trung bình mà ở ngôi tôn, trống rỗng lòng mình để ứng nhau với người hiền ở hào Chín Hai mà trên dưới theo về, ấy là sự phu tín giao nhau. Nhưng đạo làm ông vua quý ở sự cứng, mềm quá thì hỏng, nên phải dùng oai giúp thêm thì tốt. Bởi vậy, Tượng và lời Chiêm của nó như thế, và đó cũng là lời răn.",
-    "lời_bàn_của_tiên_nho": null,
+    "content_type": "interpretation",
     "notes": {
       "1": "Đại hữu có nghĩa là cả có.",
       "2": "Dịch theo Bản nghĩa của Chu Hy."
-    }
+    },
+    "lời_kinh": "六⽈:厥孚交如, 威如, 吉.",
+    "dịch_âm": "Lục Ngũ: Quyết phu giao như, uy như, cát.",
+    "dịch_nghĩa": "Hào Sáu Năm: Thửa tin dường giao nhau vậy, dường oai nghiêm vây, tốt.",
+    "truyện_của_Trình_Di": "Hào Sáu Năm gặp thì cả có, ở ngôi vua trống rỗng bên trong là Tượng phu tín. Ông vua giữa đức mềm, theo lẽ trung bình mà lấy lòng phu tín để tiếp kẻ dưới thì kẻ dưới cũng hết lòng thành tín để thờ người trên; ấy là kẻ trên người dưới lấy sự phu tín giao kết với nhau. Lấy đức mềm ở ngôi tôn, đương thì cả có, lòng người yên ổn mà hay khinh thường, nếu chỉ chuyên chuộng một mặt mềm thuận thì sẽ sinh ra lấn áp khinh nhờn, ắt phải có vẻ oai nghiêm thì tốt. Uy như nghĩa là oai nghiêm. Mình đã dùng sự mềm mỏng, ôn hòa, phu tín để tiếp kẻ dưới, lòng người vui đẹp mà theo, lại có oai nghiêm, khiến họ có sự răn sợ, ấy là kẻ khéo xử cuộc có, đủ biết là tốt.",
+    "bản_nghĩa_của_Chu_Hy": "Trong đời cả có, hào Sáu Năm lấy đức mềm thuận trung bình mà ở ngôi tôn, trống rỗng lòng mình để ứng nhau với người hiền ở hào Chín Hai mà trên dưới theo về, ấy là sự phu tín giao nhau. Nhưng đạo làm ông vua quý ở sự cứng, mềm quá thì hỏng, nên phải dùng oai giúp thêm thì tốt. Bởi vậy, Tượng và lời Chiêm của nó như thế, và đó cũng là lời răn.",
+    "lời_bàn_của_tiên_nho": null
   },
   {
     "chunk_id": "QUE_DAI_HUU_014",
     "hexagram": "QUE_DAI_HUU",
     "que": null,
-    "lời_kinh": "象⽈:厥孚交如, 信以發志也. 威如之吉, 易以無備也.",
-    "dịch_âm": "Tượng viết: Quyết phu giao như, tín dĩ phát chí dã; uy như chi cát, dị nhi vô bị dã.",
-    "dịch_nghĩa": "Lời Tượng nói rằng: Thửa tin dường giao như vậy, dùng đức tin để phát chí ý vậy; dường oai nghiêm vậy mà tốt, vì khinh thường mà không phòng bị vậy. GIẢI NGHĨA",
-    "truyện_của_Trình_Di": null,
-    "bản_nghĩa_của_Chu_Hy": "Đức tín của một người đủ để mở mang chí ý kẻ trên người dưới. Quá mềm thì người ta sẽ khinh thường mình mà không có lòng lo sợ phòng bị.",
-    "lời_bàn_của_tiên_nho": null,
+    "content_type": "interpretation",
     "notes": {
       "1": "Đại hữu có nghĩa là cả có.",
       "2": "Dịch theo Bản nghĩa của Chu Hy."
-    }
+    },
+    "lời_kinh": "象⽈:厥孚交如, 信以發志也. 威如之吉, 易以無備也.",
+    "dịch_âm": "Tượng viết: Quyết phu giao như, tín dĩ phát chí dã; uy như chi cát, dị nhi vô bị dã.",
+    "dịch_nghĩa": "Lời Tượng nói rằng: Thửa tin dường giao như vậy, dùng đức tin để phát chí ý vậy; dường oai nghiêm vậy mà tốt, vì khinh thường mà không phòng bị vậy.",
+    "truyện_của_Trình_Di": "Chí của kẻ dưới vẫn theo người trên, người trên dùng sự phu tín mà tiếp kẻ dưới, thì kẻ dưới cũng lấy lòng thành tín mà thờ người trên có sự phu tín để mở chí ý kẻ dưới, thì kẻ dưới theo người trên, như vang theo tiếng. Dường oai nghiêm vậy mà được tốt, là vì nếu không uy nghiêm, thì kẻ dưới dễ nhờn mà không răn sợ phòng bị, nghĩa là họ không kính sợ, phòng bị người trên cẩu trách đến họ.",
+    "bản_nghĩa_của_Chu_Hy": "Đức tín của một người đủ để mở mang chí ý kẻ trên người dưới. Quá mềm thì người ta sẽ khinh thường mình mà không có lòng lo sợ phòng bị.",
+    "lời_bàn_của_tiên_nho": null
   },
   {
     "chunk_id": "QUE_DAI_HUU_015",
     "hexagram": "QUE_DAI_HUU",
     "que": null,
-    "lời_kinh": "上九:⾃天L祐之, 吉, 無不利.",
-    "dịch_âm": "Thượng Cửu: Tự thiên hựu chi, cát, vô bất lợi.",
-    "dịch_nghĩa": "Hào Chín Trên: Tự trời giúp nó, tốt, không gì không lợi. GIẢI NGHĨA",
-    "truyện_của_Trình_Di": null,
-    "bản_nghĩa_của_Chu_Hy": "Trong đời cả có, lấy đức cứng, ở ngôi trên mà biết hạ xuống theo hào Sáu Năm, ấy là kẻ biết xéo coi điều tín, nghĩ đến sự thuận mà chuộng người, đầy mà không tràn, cho nên lời Chiêm của nó như thế.",
-    "lời_bàn_của_tiên_nho": null,
+    "content_type": "interpretation",
     "notes": {
       "1": "Đại hữu có nghĩa là cả có.",
       "2": "Dịch theo Bản nghĩa của Chu Hy."
-    }
+    },
+    "lời_kinh": "上九:⾃天L祐之, 吉, 無不利.",
+    "dịch_âm": "Thượng Cửu: Tự thiên hựu chi, cát, vô bất lợi.",
+    "dịch_nghĩa": "Hào Chín Trên: Tự trời giúp nó, tốt, không gì không lợi.",
+    "truyện_của_Trình_Di": "Hào Chín Trên ở cuối quẻ, nhằm chỗ không ngôi, đó là cuộc cả có đã cùng cực, mà không tự nhận sự có. Ở trên quẻ Ly là chỗ cực sáng. Vì là rất sáng, nên không tự nhận sự có của mình, không đến quá cực. Cực có mà không tự nhận, thì không có cái hại về sự tràn đầy, ấy là kẻ biết thuận lẽ. Phu tín như hào Năm, mà hào Trên lại xéo trên nó, đó tức là noi xéo sự thành tín; hào Năm có đức văn vẻ sáng láng, mà hào Trên lại biết hạ chi để ứng nhau với nó, đó tức là chuộng người hiền, trọng kẻ thiện; xử được như thế chính là cách tốt cực điểm, tự nhiên được hưởng phúc khánh. “Tự trời giúp - nó”, nghĩa là làm việc thuận theo với trời, mà được trờigiúp, cho nên đi đâu cũng tốt, không gì không lợi.",
+    "bản_nghĩa_của_Chu_Hy": "Trong đời cả có, lấy đức cứng, ở ngôi trên mà biết hạ xuống theo hào Sáu Năm, ấy là kẻ biết xéo coi điều tín, nghĩ đến sự thuận mà chuộng người, đầy mà không tràn, cho nên lời Chiêm của nó như thế.",
+    "lời_bàn_của_tiên_nho": null
   },
   {
     "chunk_id": "QUE_DAI_HUU_016",
     "hexagram": "QUE_DAI_HUU",
     "que": null,
-    "lời_kinh": "象⽈:⼤有上吉, ⾃天祐之. Dich âm. -Tượng viết: Đại hữu thượng cát, tự thiên hựu dã.",
-    "dịch_âm": null,
-    "dịch_nghĩa": "Lời Tượng nói rằng: Trên quẻ Đại hữu được tốt sự trời giúp vậy. GIẢI NGHĨA",
-    "truyện_của_Trình_Di": null,
-    "bản_nghĩa_của_Chu_Hy": null,
-    "lời_bàn_của_tiên_nho": "Dương Thành Trai nói rằng: Trong tám quẻ, quẻ Kiền là tôn; trong sáu tư quẻ, quẻ Thái là thịnh; nhưng hào Chín Trên của quẻ Kiền phải ăn năn về sự quá cực, hào Sáu Trên của quẻ Thái , phải hối tiếc về sự rối loạn. Thịnh trị đủ phúc, không quẻ nào bằng quẻ Đại hữu, trong sáu hào một hào hanh thông, hai hào tốt, ba hào không lỗi, minh chủ ở trên, các người hiền đều hội họp, không có một kẻ tiểu nhân bại loạn, không có một kẻ vô đức bại việc trị. Kẻ sĩ sinh trong đời ấy, bận áo bông rách đẹp hơn đeo ngọc, uống nước lã ngon hơn đồ ăn bầy vạc, huống chi lại có bậc đại thần trong hào Chín Hai, vua chư hầu trong hào Chín Ba và bậc kỳ cựu “công thành thân lui” trong hào Chín Trên… Than ôi thịnh thay! Chú thích: [1] Đại hữu có nghĩa là cả có. [2] Dịch theo Bản nghĩa của Chu Hy.",
+    "content_type": "interpretation",
     "notes": {
       "1": "Đại hữu có nghĩa là cả có.",
       "2": "Dịch theo Bản nghĩa của Chu Hy."
-    }
+    },
+    "lời_kinh": "象⽈:⼤有上吉, ⾃天祐之. Dich âm. -Tượng viết: Đại hữu thượng cát, tự thiên hựu dã. Dịch nghĩa. - Lời Tượng nói rằng: Trên quẻ Đại hữu được tốt sự trời giúp vậy.",
+    "dịch_âm": null,
+    "dịch_nghĩa": "Lời Tượng nói rằng: Trên quẻ Đại hữu được tốt sự trời giúp vậy.",
+    "truyện_của_Trình_Di": "Trên quẻ Đại hữu, có sự cùng cực, đáng phải biến đổi, bởi sự làm của nó thuận với trời mà hợp với đạo, cho nên trời giúp đỡ nó, vì vậy mới tốt. Đấng quân tử đầy mà không tràn, tức là trời giúp.",
+    "bản_nghĩa_của_Chu_Hy": null,
+    "lời_bàn_của_tiên_nho": "Dương Thành Trai nói rằng: Trong tám quẻ, quẻ Kiền là tôn; trong sáu tư quẻ, quẻ Thái là thịnh; nhưng hào Chín Trên của quẻ Kiền phải ăn năn về sự quá cực, hào Sáu Trên của quẻ Thái , phải hối tiếc về sự rối loạn. Thịnh trị đủ phúc, không quẻ nào bằng quẻ Đại hữu, trong sáu hào một hào hanh thông, hai hào tốt, ba hào không lỗi, minh chủ ở trên, các người hiền đều hội họp, không có một kẻ tiểu nhân bại loạn, không có một kẻ vô đức bại việc trị. Kẻ sĩ sinh trong đời ấy, bận áo bông rách đẹp hơn đeo ngọc, uống nước lã ngon hơn đồ ăn bầy vạc, huống chi lại có bậc đại thần trong hào Chín Hai, vua chư hầu trong hào Chín Ba và bậc kỳ cựu “công thành thân lui” trong hào Chín Trên… Than ôi thịnh thay!"
   }
 ]
