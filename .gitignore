@@ -3,6 +3,7 @@ __pycache__/
 *.py[cod]
 *.pyo
 *.pyd
+*.pyc
 
 # Ignore virtual environments
 .env/
@@ -28,6 +29,7 @@ hf_cache/
 *.pt
 *.ckpt
 *.onnx
+*.bin
 
 # Ignore logs and temp files
 *.log
@@ -43,3 +45,6 @@ hf_cache/
 
 # Ignore Git lock
 .git/index.lock
+
+# ignore folder models_cache
+models_cache/
