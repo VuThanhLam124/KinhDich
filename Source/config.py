@@ -1,42 +1,60 @@
+# config.py
 from pathlib import Path
 import os
 
-# ─── Database Configuration ──────────────────────────────────────
-# MONGO_URI = (
-#     "mongodb+srv://thanhlamdev:lamvthe180779@cluster0.jvlxnix.mongodb.net/"
-#     "?retryWrites=true&w=majority"
-# )
+# ═══════════════════════════════════════════════════════════════
+# DATABASE & API CONFIGURATION
+# ═══════════════════════════════════════════════════════════════
+
 MONGO_URI = (
-    "mongodb+srv://vuthanhlam848:bfwYK9jyLG5fqHoX@cluster0.s9cdtme.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0"
+    "mongodb+srv://thanhlamdev:lamvthe180779@cluster0.jvlxnix.mongodb.net/"
+    "?retryWrites=true&w=majority"
 )
-DB_NAME = "kinhdich_db"
+DB_NAME = "kinhdich_kb"
 COLLECTION = "chunks"
 
-# ─── Embedding Models ───────────────────────────────────────────
-# Thay đổi model để tối ưu cho retrieval tiếng Việt
-EMBED_MODEL = "keepitreal/vietnamese-sbert"  # 768-d, tốt hơn cho Vietnamese
-# EMBED_MODEL = "AITeamVN/Vietnamese_Embedding"  # Alternative: 1024-d, SOTA performance
-CE_MODEL = "intfloat/multilingual-e5-base"  # Cross-encoder for reranking
+# ═══════════════════════════════════════════════════════════════
+# MODEL CONFIGURATION - Optimized for Vietnamese
+# ═══════════════════════════════════════════════════════════════
 
-# ─── LLM Configuration ──────────────────────────────────────────
+EMBED_MODEL = "keepitreal/vietnamese-sbert"  # Better for Vietnamese retrieval
+CE_MODEL = "intfloat/multilingual-e5-base"   # Cross-encoder for reranking
 GEMINI_API_KEY = "AIzaSyAHYqXx9o3dk6oswVKhISFIOija6Be91Uc"
 GEMINI_MODEL = "gemini-2.0-flash-exp"
 
-# ─── Cache và Performance ───────────────────────────────────────
+# ═══════════════════════════════════════════════════════════════
+# CACHE & PERFORMANCE OPTIMIZATION
+# ═══════════════════════════════════════════════════════════════
+
 CACHE_DIR = Path("./models_cache").resolve()
 CACHE_DIR.mkdir(exist_ok=True)
 
+# Set environment variables for model caching
 for env in ("TRANSFORMERS_CACHE", "HF_HOME", "HUGGINGFACE_HUB_CACHE", "SENTENCE_TRANSFORMERS_HOME"):
     os.environ[env] = str(CACHE_DIR)
 
-# ─── Search Parameters ──────────────────────────────────────────
+# ═══════════════════════════════════════════════════════════════
+# SEARCH OPTIMIZATION PARAMETERS
+# ═══════════════════════════════════════════════════════════════
+
+# Optimized based on testing
+TOP_K_RETRIEVE = 15      # Reduced for better precision
+TOP_K_RERANK = 8         # Optimal for context window
+SIMILARITY_THRESHOLD = 0.25  # Lowered to avoid empty results
+
+# Vietnamese stop words for better search
 STOP_WORDS = {
     "và", "là", "của", "cho", "trong", "một", "các", "đã", "với", "không",
     "có", "này", "để", "cũng", "thì", "như", "lại", "nếu", "sẽ", "được",
-    "về", "từ", "theo", "tại", "hay", "hoặc", "khi", "đến", "ra", "up"
+    "về", "từ", "theo", "tại", "hay", "hoặc", "khi", "đến", "ra", "up",
+    "quẻ", "que", "gì", "là"
 }
 
-# Search configuration
-TOP_K_RETRIEVE = 20  # Giảm xuống để tăng tốc
-TOP_K_RERANK = 15     # Tối ưu cho context window
-SIMILARITY_THRESHOLD = 0.5  # Ngưỡng similarity tối thiểu
+# ═══════════════════════════════════════════════════════════════
+# XAI & CITATION CONFIGURATION
+# ═══════════════════════════════════════════════════════════════
+
+ENABLE_XAI = True
+ENABLE_CITATIONS = True
+MAX_CITATIONS = 10
+CONFIDENCE_LEVELS = ["low", "medium", "high"]
