@@ -1,5 +1,6 @@
 # reasoning_agent.py - Tích hợp Reranking + Response Generation
 import re
+import logging
 from typing import List, Dict, Any
 from sentence_transformers import CrossEncoder
 import numpy as np
@@ -7,6 +8,8 @@ import numpy as np
 from base_agent import BaseAgent, AgentType, ProcessingState
 from llm import generate_advanced
 from config import *
+
+logger = logging.getLogger(__name__)
 
 class ReasoningAgent(BaseAgent):
     """Tích hợp reranking và response generation"""
@@ -39,7 +42,7 @@ class ReasoningAgent(BaseAgent):
         state.confidence = response_data["confidence"]
         
         state.reasoning_chain.extend([
-            f"Reranked {len(state.retrieved_docs)} → {len(reranked_docs)} documents",
+            f"Reranked {len(state.retrieved_docs)} -> {len(reranked_docs)} documents",
             f"Generated response with confidence: {state.confidence:.2%}"
         ])
         

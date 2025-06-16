@@ -1,52 +1,34 @@
 # base_agent.py - Base architecture cho multi-agent system
 import asyncio
 import logging
+import time
 from abc import ABC, abstractmethod
 from typing import Dict, Any, List, Optional
-from dataclasses import dataclass
+from dataclasses import dataclass, field
 from enum import Enum
-import time
 from tqdm import tqdm
 
 logger = logging.getLogger(__name__)
 
 class AgentType(Enum):
     DISPATCHER = "dispatcher"
-    LINGUISTICS = "linguistics"  # Tích hợp NER + WSD + Expansion
+    LINGUISTICS = "linguistics"
     RETRIEVAL = "retrieval"
-    REASONING = "reasoning"      # Tích hợp Reranking + Response
-
-@dataclass
-class AgentMessage:
-    """Standardized message format giữa agents"""
-    type: str
-    content: Any
-    metadata: Dict[str, Any]
-    timestamp: float
-    source_agent: str
-    target_agent: Optional[str] = None
+    REASONING = "reasoning"
 
 @dataclass
 class ProcessingState:
     """Shared state giữa các agents"""
     query: str
     query_type: str = ""
-    entities: Dict[str, List[str]] = None
+    entities: Dict[str, List[str]] = field(default_factory=dict)
     expanded_query: str = ""
-    retrieved_docs: List[Dict] = None
-    reranked_docs: List[Dict] = None
+    retrieved_docs: List[Dict] = field(default_factory=list)
+    reranked_docs: List[Dict] = field(default_factory=list)
     final_response: str = ""
     confidence: float = 0.0
-    reasoning_chain: List[str] = None
-    processing_time: Dict[str, float] = None
-    
-    def __post_init__(self):
-        if self.entities is None:
-            self.entities = {}
-        if self.reasoning_chain is None:
-            self.reasoning_chain = []
-        if self.processing_time is None:
-            self.processing_time = {}
+    reasoning_chain: List[str] = field(default_factory=list)
+    processing_time: Dict[str, float] = field(default_factory=dict)
 
 class BaseAgent(ABC):
     """Base class cho tất cả agents"""

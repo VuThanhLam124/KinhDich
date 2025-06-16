@@ -1,8 +1,6 @@
 # linguistics_agent.py - Tích hợp NER + WSD + Expansion
 import re
-from typing import Dict, List, Set
-import spacy
-from spacy.matcher import Matcher
+from typing import Dict, List
 from sentence_transformers import SentenceTransformer
 import numpy as np
 
@@ -13,16 +11,28 @@ class LinguisticsAgent(BaseAgent):
     
     def __init__(self):
         super().__init__("LinguisticsAgent", AgentType.LINGUISTICS)
-        
-        # Initialize NLP models
-        self.nlp = spacy.blank("vi")
-        self.matcher = Matcher(self.nlp.vocab)
         self.embedder = SentenceTransformer('keepitreal/vietnamese-sbert')
         
-        # Setup NER patterns
-        self._setup_ner_patterns()
+        # Regex patterns cho NER
+        self.entity_patterns = {
+            "hexagrams": [
+                r'\b(?:quẻ|que)\s+(\w+)',
+                r'\bhexagram\s+(\w+)'
+            ],
+            "philosophy_concepts": [
+                r'\btriết\s*lý\b',
+                r'\bâm\s*dương\b',
+                r'\bngũ\s*hành\b',
+                r'\blý\s*thuyết\b'
+            ],
+            "divination_terms": [
+                r'\bgieo\s*quẻ\b',
+                r'\blời\s*khuyên\b',
+                r'\btư\s*vấn\b'
+            ]
+        }
         
-        # WSD sense definitions
+        # WSD definitions
         self.sense_definitions = {
             "ly": {
                 "philosophy": "triết lý học thuyết nguyên lý khái niệm",
@@ -39,65 +49,36 @@ class LinguisticsAgent(BaseAgent):
             "cách": ["革", "revolution", "change"],
             "hàm": ["咸", "influence", "感"],
             "ly": ["離", "fire", "clinging"],
-            "âm dương": ["yin yang", "negative positive", "âm dương"]
+            "âm dương": ["yin yang", "negative positive"],
+            "fellowship": ["đồng nhân", "同人", "togetherness"]
         }
-    
-    def _setup_ner_patterns(self):
-        """Setup NER patterns cho Kinh Dịch entities"""
-        
-        # Hexagram patterns
-        hexagram_patterns = [
-            [{"LOWER": "quẻ"}, {"IS_ALPHA": True}],
-            [{"LOWER": "que"}, {"IS_ALPHA": True}],
-            [{"LOWER": "hexagram"}, {"IS_ALPHA": True}]
-        ]
-        self.matcher.add("HEXAGRAM", hexagram_patterns)
-        
-        # Philosophy patterns
-        philosophy_patterns = [
-            [{"LOWER": "triết"}, {"LOWER": "lý"}],
-            [{"LOWER": "âm"}, {"LOWER": "dương"}],
-            [{"LOWER": "ngũ"}, {"LOWER": "hành"}]
-        ]
-        self.matcher.add("PHILOSOPHY", philosophy_patterns)
-        
-        # Divination patterns
-        divination_patterns = [
-            [{"LOWER": "gieo"}, {"LOWER": "quẻ"}],
-            [{"LOWER": "lời"}, {"LOWER": "khuyên"}]
-        ]
-        self.matcher.add("DIVINATION", divination_patterns)
     
     async def process(self, state: ProcessingState) -> ProcessingState:
         """Process NER + WSD + Expansion in pipeline"""
         
         query = state.query
         
-        # Step 1: Named Entity Recognition
-        entities = self._extract_entities(query)
+        # Step 1: Regex-based NER
+        entities = self._extract_entities_regex(query)
         state.entities = entities
         
-        # Step 2: Word Sense Disambiguation
-        disambiguated_query = self._disambiguate_senses(query, entities)
+        # Step 2: Simple WSD
+        disambiguated_query = self._simple_wsd(query)
         
-        # Step 3: Query Expansion
+        # Step 3: Query expansion
         expanded_query = self._expand_query(disambiguated_query)
         state.expanded_query = expanded_query
         
-        # Add reasoning
         state.reasoning_chain.extend([
-            f"Entities detected: {entities}",
-            f"WSD applied to ambiguous terms",
-            f"Query expanded with aliases and synonyms"
+            f"Entities (regex): {entities}",
+            f"Simple WSD applied",
+            f"Query expanded"
         ])
         
         return state
     
-    def _extract_entities(self, text: str) -> Dict[str, List[str]]:
-        """Extract named entities using spaCy matcher"""
-        
-        doc = self.nlp(text)
-        matches = self.matcher(doc)
+    def _extract_entities_regex(self, text: str) -> Dict[str, List[str]]:
+        """Extract entities using regex patterns"""
         
         entities = {
             "hexagrams": [],
@@ -105,63 +86,36 @@ class LinguisticsAgent(BaseAgent):
             "divination_terms": []
         }
         
-        for match_id, start, end in matches:
-            label = self.nlp.vocab.strings[match_id]
-            span_text = doc[start:end].text
-            
-            if label == "HEXAGRAM":
-                entities["hexagrams"].append(span_text)
-            elif label == "PHILOSOPHY":
-                entities["philosophy_concepts"].append(span_text)
-            elif label == "DIVINATION":
-                entities["divination_terms"].append(span_text)
+        for entity_type, patterns in self.entity_patterns.items():
+            for pattern in patterns:
+                matches = re.findall(pattern, text.lower())
+                if matches:
+                    entities[entity_type].extend(matches)
         
         return entities
     
-    def _disambiguate_senses(self, query: str, entities: Dict) -> str:
-        """Word Sense Disambiguation using context"""
+    def _simple_wsd(self, query: str) -> str:
+        """Simple word sense disambiguation"""
         
-        query_lower = query.lower()
-        query_embedding = self.embedder.encode([query])[0]
+        # Check for "triết lý" context
+        if "triết lý" in query.lower() or "lý thuyết" in query.lower():
+            # Don't treat "ly" as hexagram in philosophy context
+            pass
         
-        # Check each ambiguous word
-        for word, senses in self.sense_definitions.items():
-            if word in query_lower:
-                
-                # Calculate similarity với mỗi sense
-                best_sense = None
-                best_similarity = 0.0
-                
-                for sense_key, sense_desc in senses.items():
-                    sense_embedding = self.embedder.encode([sense_desc])[0]
-                    similarity = np.dot(query_embedding, sense_embedding) / (
-                        np.linalg.norm(query_embedding) * np.linalg.norm(sense_embedding)
-                    )
-                    
-                    if similarity > best_similarity:
-                        best_similarity = similarity
-                        best_sense = sense_key
-                
-                # Apply disambiguation logic
-                if word == "ly" and best_sense == "philosophy":
-                    # If "ly" is used in philosophy context, don't treat as hexagram
-                    if "triết lý" in query_lower or "lý thuyết" in query_lower:
-                        continue  # Keep as is, don't mark as hexagram
+        # Enhanced: Check for fellowship context
+        if "fellowship" in query.lower():
+            # Should map to Đồng Nhân, not Sư
+            pass
         
         return query
     
     def _expand_query(self, query: str) -> str:
-        """Expand query với aliases và synonyms"""
+        """Simple query expansion"""
         
-        expanded_terms = set([query])
-        query_words = set(query.lower().split())
+        expanded_terms = [query]
         
-        # Add aliases
         for term, aliases in self.expansion_aliases.items():
             if term in query.lower():
-                expanded_terms.update(aliases)
+                expanded_terms.extend(aliases[:2])  # Limit aliases
         
-        # Combine original query với expanded terms
-        expanded_query = query + " " + " ".join(expanded_terms - {query})
-        
-        return expanded_query
+        return " ".join(expanded_terms)

@@ -81,7 +81,8 @@ class MultiAgentKinhDichApp:
                 examples=[
                     "Quẻ Cách có ý nghĩa gì trong Kinh Dịch?",
                     "Triết lý âm dương được hiểu như thế nào?",
-                    "Tôi gieo được ngửa-úp-úp-ngửa-ngửa-úp, cho tôi lời khuyên"
+                    "Tôi gieo được ngửa-úp-úp-ngửa-ngửa-úp, cho tôi lời khuyên",
+                    "Fellowship liên quan tới quẻ nào?"
                 ],
                 inputs=msg_box
             )

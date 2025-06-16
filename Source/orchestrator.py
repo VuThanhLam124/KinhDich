@@ -1,7 +1,8 @@
 # orchestrator.py - Điều phối tất cả agents
 import asyncio
 import time
-from typing import Dict, Any
+import logging
+from typing import Dict, Any, List
 from tqdm.asyncio import tqdm
 
 from base_agent import ProcessingState
@@ -9,6 +10,8 @@ from dispatcher_agent import DispatcherAgent
 from linguistics_agent import LinguisticsAgent
 from retrieval_agent import RetrievalAgent
 from reasoning_agent import ReasoningAgent
+
+logger = logging.getLogger(__name__)
 
 class MultiAgentOrchestrator:
     """Orchestrates multi-agent workflow cho Kinh Dịch chatbot"""
@@ -81,7 +84,7 @@ class MultiAgentOrchestrator:
         except Exception as e:
             return self._create_error_response(query, str(e))
     
-    def _format_sources(self, docs: list[Dict]) -> list[Dict]:
+    def _format_sources(self, docs: List[Dict]) -> List[Dict]:
         """Format sources cho UI display"""
         
         sources = []

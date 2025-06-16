@@ -20,8 +20,7 @@ class DispatcherAgent(BaseAgent):
                 "ngửa úp", "gieo quẻ", "bói toán"
             ],
             "hexagram_specific": [
-                "quẻ [name] là gì", "quẻ [name] có ý nghĩa", 
-                "que [name]", "hexagram [name]"
+                "quẻ", "que", "hexagram"
             ],
             "philosophy": [
                 "triết lý", "được hiểu như thế nào", "ý nghĩa của",
@@ -82,7 +81,7 @@ class DispatcherAgent(BaseAgent):
         # Create template embeddings
         template_embeddings = {}
         for category, templates in self.query_templates.items():
-            if category != "hexagram_specific":  # Skip pattern-based category
+            if category != "hexagram_specific":
                 combined_template = " ".join(templates)
                 template_embeddings[category] = self.classifier_model.encode([combined_template])[0]
         
