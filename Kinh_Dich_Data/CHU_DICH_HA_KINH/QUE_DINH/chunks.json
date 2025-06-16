@@ -1,308 +1,162 @@
 [
   {
-    "chunk_id": "QUE_DINH_001",
-    "hexagram": "QUE_DINH",
-    "que": null,
-    "content_type": "preface",
-    "lời_kinh": null,
-    "dịch_âm": null,
-    "dịch_nghĩa": null,
-    "truyện_của_Trình_Di": null,
-    "bản_nghĩa_của_Chu_Hy": null,
-    "lời_bàn_của_tiên_nho": null,
-    "notes": {
-      "1": "Chữ ⿍ (đỉnh) nghĩa là cái vạc.",
-      "2": "Sáng là tinh mắt, suốt là thính tai, hai chữ khác nghĩa nhau.",
-      "3": "Nghĩa là cái đạo cùng tột, không có ngừng đọng.",
-      "4": "Theo Trình Di, thì chữ “hình ốc”, nghĩa là hình dáng đầm đìa. Đây địch theo ý Chu Hy. “Hình ốc” là tội nặng. Ở sách Chu lể Thiên Thu quan, có chữ ốc tru (ốc tru). Trịnh Tư Nông chua rằng: “Ôc tru tức là giết cả ba họ”. Trần Kiến thích hai tự truyện của Hán thư, thì cho “ốc tru” là giết kẻ đại thần trong nhà, không để lộ ra. Vậy chữ “ốc tru” có thể dịch là giết kín hay là giết cả ba họ."
-    }
+    "chunk_id": "QUE_DINH_01_KINH_VAN",
+    "hexagram": "QUẺ ĐỈNH",
+    "que": "☲ Ly trên\n☴ Tốn dưới",
+    "content_type": "Kinh văn và Luận giải",
+    "lời_kinh": "鼎,元吉,亨.",
+    "dịch_âm": "Đỉnh, nguyên cát, hanh.",
+    "dịch_nghĩa": "Quẻ Đỉnh: Cả tốt, hanh thông.",
+    "truyện_của_Trình_Di": "Sau khi thay đổi, không gì bằng cái đỉnh để nuôi người hiền. Đỉnh là đồ dùng để nấu nướng, nuôi người hiền tài. Nuôi người hiền tài là cái đạo rất lớn, cho nên cả tốt, hanh thông. Lấy Tượng của quẻ mà nói, thì Tốn là cây, Ly là lửa, dùng cây đốt lửa để nấu các vật, đó là Tượng của cái đỉnh. Lại nữa, hào Đầu là chân đỉnh, hào Hai, Ba, Tư là bụng đỉnh, hào Năm là tai đỉnh, hào Trên là đòn đỉnh. Đó cũng là Tượng của cái đỉnh.",
+    "bản_nghĩa_của_Chu_Hy": "Đỉnh là tên quẻ. Đỉnh là đồ dùng để nấu nướng, nuôi người, cho nên Tượng của nó là Tốn ở dưới, Ly ở trên, là Tượng dùng cây đốt lửa. Lại giống như hình cái đỉnh. Cho nên sau quẻ Cách là quẻ Đỉnh. Lời Chiêm của nó là 'cả tốt, hanh thông'.",
+    "lời_bàn_của_tiên_nho": "Chu Hy nói rằng: Có người hỏi rằng: Tại sao quẻ này chỉ tốt mà không nói 'lợi trinh'? Đáp rằng: Đỉnh là đồ dùng để nuôi người, không thể không chính, cho nên không đợi phải nói 'trinh'. Lại nữa, sự hanh thông của cái đỉnh, là vì nó có thể nuôi người, đó là cái lợi của nó, cho nên cũng không đợi phải nói 'lợi'."
   },
   {
-    "chunk_id": "QUE_DINH_002",
-    "hexagram": "QUE_DINH",
+    "chunk_id": "QUE_DINH_02_THOAN_TRUYEN",
+    "hexagram": "QUẺ ĐỈNH",
     "que": null,
-    "content_type": "interpretation",
-    "notes": {
-      "1": "Chữ ⿍ (đỉnh) nghĩa là cái vạc.",
-      "2": "Sáng là tinh mắt, suốt là thính tai, hai chữ khác nghĩa nhau.",
-      "3": "Nghĩa là cái đạo cùng tột, không có ngừng đọng.",
-      "4": "Theo Trình Di, thì chữ “hình ốc”, nghĩa là hình dáng đầm đìa. Đây địch theo ý Chu Hy. “Hình ốc” là tội nặng. Ở sách Chu lể Thiên Thu quan, có chữ ốc tru (ốc tru). Trịnh Tư Nông chua rằng: “Ôc tru tức là giết cả ba họ”. Trần Kiến thích hai tự truyện của Hán thư, thì cho “ốc tru” là giết kẻ đại thần trong nhà, không để lộ ra. Vậy chữ “ốc tru” có thể dịch là giết kín hay là giết cả ba họ."
-    },
-    "lời_kinh": "⿍, 元 吉 亨.",
-    "dịch_âm": "Đỉnh nguyên cát hanh.",
-    "dịch_nghĩa": "Quẻ Đỉnh , cả tốt hanh.",
-    "truyện_của_Trình_Di": "Đây lấy tài quẻ mà nói. Như tài quẻ này , có thể đem đến được sự cả hanh vậy. Chỉ nên nói, “nguyên hanh”, chữ “cát” là thừa. Vì tài quẻ này có thể đem đến được sự cả hanh, chưa thể có sự cả tốt. Lời Thoán nói “nguyên hanh” nghĩa đó rõ lắm.",
-    "bản_nghĩa_của_Chu_Hy": "Vạc là đồ để ninh nấu. Trong quẻ, hào Âm ở dưới chân, hào Hai, hào Ba, hào Tư, thuộc Dương, là lòng; hào Năm thuộc Âm là tai, hào Trên thuộc Dương là quai, có Tượng cái vạc. Lại lấy cây Tốn vào lửa Ly, mà nên ninh nấu, cũng là công dụng của cái vạc, cho nên mới là quẻ Đỉnh . Thể Tốn ở dưới là nhún, thể Ly ở trên là mắt, mà hào Năm là tai, có [2] Tượng trong nhún thuận mà ngoài sáng suốt . Quẻ này do ở quẻ Tốn mà lại; hào Âm lên ở ngôi năm mà phía dưới ứng nhau với hào Chín Hai là một hào Dương, cho nên lời Chiêm của nó là “cả hanh” chữ “cát” thừa.",
-    "lời_bàn_của_tiên_nho": null
+    "content_type": "Thoán Truyện",
+    "lời_kinh": "彖曰:鼎,象也.以木巽火,烹飪也.聖人烹以享上帝,而大烹以養聖賢.巽而耳目聰明,柔進而上行,得中而應乎剛,是以元亨.",
+    "dịch_âm": "Thoán viết: Đỉnh, tượng dã. Dĩ mộc tốn hỏa, phanh nhẫm dã. Thánh nhân phanh dĩ hưởng Thượng đế, nhi đại phanh dĩ dưỡng thánh hiền. Tốn nhi nhĩ mục thông minh, nhu tiến nhi thượng hành, đắc trung nhi ứng hồ cương, thị dĩ nguyên hanh.",
+    "dịch_nghĩa": "Lời Thoán nói rằng: Đỉnh, là Tượng vậy. Lấy cây vào lửa, nấu nướng vậy. Thánh nhân nấu để cúng Thượng đế, và nấu nhiều để nuôi thánh hiền. Nhún mà tai mắt sáng suốt, mềm tiến mà đi lên, được giữa mà ứng với cứng, cho nên cả hanh thông.",
+    "truyện_của_Trình_Di": "Đỉnh là Tượng của đồ vật. Lấy cây vào lửa để nấu nướng, đó là công dụng của cái đỉnh. Thánh nhân dùng nó để cúng Thượng đế và nuôi thánh hiền. Đó là việc lớn của cái đỉnh. Tốn là nhún, Ly là sáng. Nhún thuận mà tai mắt sáng suốt, đó là đức của người bề tôi. Hào Năm mềm mà tiến lên ở ngôi tôn, được giữa mà ứng với hào Hai là cứng, đó là tài của quẻ. Có đức, có tài như thế, cho nên cả tốt, hanh thông.",
+    "bản_nghĩa_của_Chu_Hy": "Đây thích về tên quẻ và lời quẻ. Lấy Tượng cái đỉnh và công dụng nấu nướng của nó làm Tượng của quẻ. 'Nhún mà tai mắt sáng suốt' là nói về đức của quẻ. 'Mềm tiến mà đi lên' là nói về hào Năm. 'Được giữa mà ứng với cứng' là nói về hào Năm và hào Hai. Vì có đức, có tài như thế, cho nên có thể làm được hai việc lớn kia, và được cả tốt, hanh thông."
   },
   {
-    "chunk_id": "QUE_DINH_003",
-    "hexagram": "QUE_DINH",
+    "chunk_id": "QUE_DINH_03_DAI_TUONG",
+    "hexagram": "QUẺ ĐỈNH",
     "que": null,
-    "content_type": "interpretation",
-    "notes": {
-      "1": "Chữ ⿍ (đỉnh) nghĩa là cái vạc.",
-      "2": "Sáng là tinh mắt, suốt là thính tai, hai chữ khác nghĩa nhau.",
-      "3": "Nghĩa là cái đạo cùng tột, không có ngừng đọng.",
-      "4": "Theo Trình Di, thì chữ “hình ốc”, nghĩa là hình dáng đầm đìa. Đây địch theo ý Chu Hy. “Hình ốc” là tội nặng. Ở sách Chu lể Thiên Thu quan, có chữ ốc tru (ốc tru). Trịnh Tư Nông chua rằng: “Ôc tru tức là giết cả ba họ”. Trần Kiến thích hai tự truyện của Hán thư, thì cho “ốc tru” là giết kẻ đại thần trong nhà, không để lộ ra. Vậy chữ “ốc tru” có thể dịch là giết kín hay là giết cả ba họ."
-    },
-    "lời_kinh": "彖 ⽈: ⿍ 象 也, 以 ⽊ 巽 ⽕, 亨 飪 也, 聖 ⼈ 亨 以 亨 上 帝, ⽽ ⼤ 亨 以 養 聖 賢.",
-    "dịch_âm": "Thoán viết: Đỉnh tượng dã; dĩ mộc tốn hỏa, phanh nhẫm dã, Thánh nhân hanh dĩ hưởng thượng đế, nhi đại hanh dĩ dưỡng thánh hiền.",
-    "dịch_nghĩa": "Lời Thoán nói rằng: Quẻ Đỉnh là Tượng vậy; lấy cây nhún lửa, ninh nấu vậy, đấng thánh nhân dùng sự hanh để cúng đấng thượng đế, dùng sự cả hanh để nuôi bậc thánh hiền.",
-    "truyện_của_Trình_Di": "Quẻ này mà thành quẻ Đỉnh là lấy theo Tượng cái vạc; cái vạc mà thành ra đổ, là bắt chước Tượng của quẻ này “Lấy cây nhúm lửa” nghĩa là dùng cây theo lửa, để mà ninh nấu. Vạc là thứ đồ loài người phải nhờ, rất là cần thiết. Nói cho cùng cực công dụng lớn lao của nó, thì là “đấng thánh nhân dùng sự hanh để cúng đấng thượng đế, dùng sự cả hanh để nuôi bậc thánh hiền”. Chữ “thánh nhân” chỉ về các đấng thánh vương đời xưa, chữ “cả” là nói về sự rộng của nó.",
-    "bản_nghĩa_của_Chu_Hy": "Đây lấy hai Tượng trong thể quẻ thích nghĩa tên quẻ, nhân thể nói cho cùng cực sự lớn lao của nó. Cúng đấng thượng đế quý ở lòng thành, dùng con bê thôi; nuôi người hiền thì phải bữa sớm, bữa tối, có cỗ thịt bò, nên rất thịnh soạn, cho nên nói là “cả hanh”.",
-    "lời_bàn_của_tiên_nho": null
+    "content_type": "Đại Tượng",
+    "lời_kinh": "象曰:木上有火,鼎.君子以正位凝命.",
+    "dịch_âm": "Tượng viết: Mộc thượng hữu hỏa, Đỉnh. Quân tử dĩ chính vị ngưng mệnh.",
+    "dịch_nghĩa": "Lời Tượng nói rằng: Trên cây có lửa, là quẻ Đỉnh. Đấng quân tử coi đó mà chính ngôi, giữ mệnh.",
+    "truyện_của_Trình_Di": "Trên cây có lửa, đó là Tượng cái đỉnh. Đấng quân tử coi Tượng cái đỉnh, mà làm cho ngôi mình được chính, và giữ cho mệnh mình được vững. Đỉnh là đồ trọng khí của nước, vua phải ở ngôi chính, thì mệnh trời mới vững.",
+    "bản_nghĩa_của_Chu_Hy": "'Ngưng' là làm cho vững. Đỉnh là đồ trọng khí, Tượng của ngôi. Đấng quân tử coi Tượng ấy, mà trên thì làm cho ngôi mình được chính, dưới thì làm cho mệnh mình được vững."
   },
   {
-    "chunk_id": "QUE_DINH_004",
-    "hexagram": "QUE_DINH",
-    "que": null,
-    "content_type": "interpretation",
-    "notes": {
-      "1": "Chữ ⿍ (đỉnh) nghĩa là cái vạc.",
-      "2": "Sáng là tinh mắt, suốt là thính tai, hai chữ khác nghĩa nhau.",
-      "3": "Nghĩa là cái đạo cùng tột, không có ngừng đọng.",
-      "4": "Theo Trình Di, thì chữ “hình ốc”, nghĩa là hình dáng đầm đìa. Đây địch theo ý Chu Hy. “Hình ốc” là tội nặng. Ở sách Chu lể Thiên Thu quan, có chữ ốc tru (ốc tru). Trịnh Tư Nông chua rằng: “Ôc tru tức là giết cả ba họ”. Trần Kiến thích hai tự truyện của Hán thư, thì cho “ốc tru” là giết kẻ đại thần trong nhà, không để lộ ra. Vậy chữ “ốc tru” có thể dịch là giết kín hay là giết cả ba họ."
-    },
-    "lời_kinh": "巽 ⽽ ⽿ ⽬ 聰 明, 柔 進 ⽽ 上 ⾏, 得 中 ⽽ 應 乎 剛, 是 從 元 亨.",
-    "dịch_âm": "Tốn nhi nhĩ mục thông minh, nhu tiến nhi thượng hành, đắc trung nhi ứng hồ cương, thị dĩ nguyên hanh.",
-    "dịch_nghĩa": "Nhún mà tai mắt suốt sáng, mềm tiến mà đi lên được giữa mà ứng nhau với hào cứng cho nên cả hanh.",
-    "truyện_của_Trình_Di": "Trên đã nói về công dụng của cái vạc, đây lại lấy tài quẻ mà nói. Người ta có thể như tài quẻ này , thì sẽ có thể đem đến được sự cả hanh. Thể dưới là quẻ Tốn , tức là nhún thuận với lẽ; quẻ Ly sang mà rỗng giữa ở trên, là tượng tai mắt suốt sáng. Hễ mà quẻ Ly ở trên đều nói “mềm tiến mà đi lên” mềm là vật ở dưới, thế mà lại ở ngôi tôn, tức là tiến mà đi lên. Lấy chất sáng ở ngôi tôn mà được đạo giữa, ứng nhau với hào cứng, ấy là biết dùng cách Dương cứng Hào Năm ở giữa, lại lấy chất mềm ứng nhau với hào cứng là được đạo giữa. Tài nó như thế, cho nên mới được cả hanh.",
-    "bản_nghĩa_của_Chu_Hy": "Đây dùng tượng quẻ, sự biến đổi của quẻ và thể quẻ mà thích lời quẻ.",
-    "lời_bàn_của_tiên_nho": null
-  },
-  {
-    "chunk_id": "QUE_DINH_005",
-    "hexagram": "QUE_DINH",
-    "que": null,
-    "content_type": "interpretation",
-    "notes": {
-      "1": "Chữ ⿍ (đỉnh) nghĩa là cái vạc.",
-      "2": "Sáng là tinh mắt, suốt là thính tai, hai chữ khác nghĩa nhau.",
-      "3": "Nghĩa là cái đạo cùng tột, không có ngừng đọng.",
-      "4": "Theo Trình Di, thì chữ “hình ốc”, nghĩa là hình dáng đầm đìa. Đây địch theo ý Chu Hy. “Hình ốc” là tội nặng. Ở sách Chu lể Thiên Thu quan, có chữ ốc tru (ốc tru). Trịnh Tư Nông chua rằng: “Ôc tru tức là giết cả ba họ”. Trần Kiến thích hai tự truyện của Hán thư, thì cho “ốc tru” là giết kẻ đại thần trong nhà, không để lộ ra. Vậy chữ “ốc tru” có thể dịch là giết kín hay là giết cả ba họ."
-    },
-    "lời_kinh": "象 ⽈: ⽊ 上 有 ⽕, ⿍, 君 ⼦ 以 正 位 凝 命.",
-    "dịch_âm": "Tượng viết: Mộc thượng hữu hỏa, Đỉnh, quân tử dĩ chính vị ngưng mệnh.",
-    "dịch_nghĩa": "Lời Tượng nói rằng: Trên cây có lửa, là quẻ Đỉnh . Đấng quân tử coi đó mà chính ngôi đóng mệnh.",
-    "truyện_của_Trình_Di": "Trên cây có lửa, ấy là lấy cây vào lửa, tức là Tượng việc ninh nấu, cho nên mới là cái vạc. Đấng quân tử coi Tượng cái vạc đó mà tự chính ngôi, đóng mệnh. Vạc là thứ đồ bắt chước ở Tượng mà làm ra, hình nó ngay thẳng, thể nó yên lặng. Lấy về tượng ngay thẳng của cái vạc, thì phải làm cho chính đính cái ngôi của mình ở. Đấng quân tử đã ở, ắt phải chính đính từ cái nhỏ nhặt, chiếu không ngay không ngồi, không khếch chân, không dựa dẫm. Lấy về Tượng yên lặng của cái vạc, thì phải “đóng đọng” mệnh lệnh của mình, nghĩa là làm cho mệnh lên yên trọng vậy. “Đóng” là “tụ lại”, “đậu lại”, chỉ về sự an trọng vậy. Đây chỉ nói về mệnh lệnh mà thôi, thật ra hết thảy các sự hành động đều nên an trọng.",
-    "bản_nghĩa_của_Chu_Hy": "Vạc là vật nặng, cho nên có ý “chính ngôi đóng mệnh”. Chữ “đóng” này cũng như chữ “đóng” trong câu “chí đạo chẳng [3] đóng” của sách Lão Tử, tức là cái ý “hợp chưng trên dưới, để vâng mệnh của trời” ở Thư truyện vậy.",
-    "lời_bàn_của_tiên_nho": null
-  },
-  {
-    "chunk_id": "QUE_DINH_006",
-    "hexagram": "QUE_DINH",
-    "que": null,
-    "content_type": "interpretation",
-    "notes": {
-      "1": "Chữ ⿍ (đỉnh) nghĩa là cái vạc.",
-      "2": "Sáng là tinh mắt, suốt là thính tai, hai chữ khác nghĩa nhau.",
-      "3": "Nghĩa là cái đạo cùng tột, không có ngừng đọng.",
-      "4": "Theo Trình Di, thì chữ “hình ốc”, nghĩa là hình dáng đầm đìa. Đây địch theo ý Chu Hy. “Hình ốc” là tội nặng. Ở sách Chu lể Thiên Thu quan, có chữ ốc tru (ốc tru). Trịnh Tư Nông chua rằng: “Ôc tru tức là giết cả ba họ”. Trần Kiến thích hai tự truyện của Hán thư, thì cho “ốc tru” là giết kẻ đại thần trong nhà, không để lộ ra. Vậy chữ “ốc tru” có thể dịch là giết kín hay là giết cả ba họ."
-    },
-    "lời_kinh": "初 六: ⿍ 顛 趾, 利 出 否, 得 妾 以 其 ⼦, 無 咎.",
+    "chunk_id": "QUE_DINH_04_HAO_SO_LUC",
+    "hexagram": "QUẺ ĐỈNH",
+    "que": "Hào Sơ Lục",
+    "content_type": "Lời Kinh Hào",
+    "lời_kinh": "初六:鼎顛趾,利出否,得妾以其子,無咎.",
     "dịch_âm": "Sơ Lục: Đỉnh điên chỉ, lợi xuất bĩ, đắc thiếp dĩ kỳ tử, vô cữu.",
-    "dịch_nghĩa": "Hào Sáu Đầu: Vạc chổng chân, lợi ra vật hư xấu, được, nàng hầu, lấy thửa con, không lỗi.",
-    "truyện_của_Trình_Di": "Hào Sáu ở dưới vạc, là Tượng cái chân, phía trên, nó ứng nhau vói hào Tư, chân mà ngảnh lên, là Tượng chổng ngược. Vạc đổ thì chân chổng, chân chổng thì đổ cái chứa của nó, đó không phải là cách thuận, nhưng cũng có khi nên chổng; nghĩa là giốc hết những vật hư xấu, để làm cho nó sạch sẽ và lấy cái mới mẻ, thì được. Cho nên, chổng chân lợi về vật hư xấu, “bĩ” nghĩa là “xấu”… “Được nàng hầu lây thửa con, không lỗi” là sao? Sáu là hào Âm mà thấp, cho nên là nàng hầu. “Được nàng hầu” nghĩa là được người. Nếu được nàng hầu tử tế, thì nó có thể giúp đỡ cho chủ, khiến chủ không lỗi. “Con” tức là chủ; “lấy thửa con” nghĩa là đưa chủ đến chỗ không lỗi.",
-    "bản_nghĩa_của_Chu_Hy": "Ở dưới quẻ Đỉnh là Tượng chân vạc, phía trên ứng với nhau với hào Chín Tư, thì là đổ rồi. Nhưng đương đầu quẻ, vạc chưa đựng gì, mà vật hư xấu, từ trước vẫn chứa ở đó, nhân nó đổ mà dốc hết ra, thì là lợi rồi. “Được nàng hầu, rồi được thửa con” cũng bởi cớ đó. Hào này Tượng như thế mà Chiêm thì không lỗi, vì nhân bị hỏng mà thành công, nhân hèn hạ mà nên sang.",
-    "lời_bàn_của_tiên_nho": null
+    "dịch_nghĩa": "Hào Sáu Đầu: Đỉnh lật chân, lợi ra của xấu, được nàng hầu vì con nó, không lỗi.",
+    "truyện_của_Trình_Di": "Hào Sáu Đầu là chân đỉnh, ở dưới chót mà là hào Âm, đó là Tượng 'đỉnh lật chân'. 'Lợi ra của xấu' là vì đỉnh đã lật, thì những của xấu trong đó đều đổ ra. 'Được nàng hầu vì con nó' là Tượng của sự hèn mà có ích. Nàng hầu tuy hèn, nhưng con nó có thể làm cho dòng dõi được nối, đó là hèn mà có ích. Hào này ở dưới chót, tuy là hèn, nhưng ở trên có hào Tư là ứng với nó, có thể dùng được nó, cho nên không có lỗi.",
+    "bản_nghĩa_của_Chu_Hy": "Hào này là Âm, ở dưới chót, đó là Tượng 'chân đỉnh'. Lật là vì hào Âm không thể đứng vững. 'Của xấu' là những vật không sạch trong đỉnh. Hào này ở dưới chót, có thể làm đổ những của xấu đi, mà không hại gì đến của tốt ở trên. Lại nữa, nó ứng với hào Tư, mà hào Tư là Âm, đó là Tượng 'nàng hầu'. Con của nàng hầu, tức là hào Ba, là Dương, ở gần hào Tư. Hào Tư tuy là Âm, nhưng vì có hào Ba, nên có thể dùng được. Cho nên, lời Chiêm của hào này thì là: 'lợi về việc ấy, mà không có lỗi'."
   },
   {
-    "chunk_id": "QUE_DINH_007",
-    "hexagram": "QUE_DINH",
-    "que": null,
-    "content_type": "interpretation",
-    "notes": {
-      "1": "Chữ ⿍ (đỉnh) nghĩa là cái vạc.",
-      "2": "Sáng là tinh mắt, suốt là thính tai, hai chữ khác nghĩa nhau.",
-      "3": "Nghĩa là cái đạo cùng tột, không có ngừng đọng.",
-      "4": "Theo Trình Di, thì chữ “hình ốc”, nghĩa là hình dáng đầm đìa. Đây địch theo ý Chu Hy. “Hình ốc” là tội nặng. Ở sách Chu lể Thiên Thu quan, có chữ ốc tru (ốc tru). Trịnh Tư Nông chua rằng: “Ôc tru tức là giết cả ba họ”. Trần Kiến thích hai tự truyện của Hán thư, thì cho “ốc tru” là giết kẻ đại thần trong nhà, không để lộ ra. Vậy chữ “ốc tru” có thể dịch là giết kín hay là giết cả ba họ."
-    },
-    "lời_kinh": "象 ⽈: ⿍ 顛 趾, 未 悖 也, 利 出 否, 以 從 貴 也.",
-    "dịch_âm": "Tượng viết: Đỉnh điên chỉ, vị bội dã, lợi xuất bĩ, dĩ tòng quí dã.",
-    "dịch_nghĩa": "Lời Tượng nói rằng: Vạc chổng chân, chưa trái vậy, lợi ra vật hư xấu, vì theo sang vậy.",
-    "truyện_của_Trình_Di": "Vạc đổ mà chân chổng lên, tức là trái đạo. Nhưng mà chưa hẳn là trái, vò nó có khi phải dốc hết vật hư xấu đi. Bỏ cái cũ mà đựng cái mới, đổ cái hư xấu mà nhận cái tốt, là nghĩa “theo sang”, ứng với hào Tư tức là lên theo kẻ sang.",
-    "bản_nghĩa_của_Chu_Hy": null,
-    "lời_bàn_của_tiên_nho": null
+    "chunk_id": "QUE_DINH_05_TIEU_TUONG_SO_LUC",
+    "hexagram": "QUẺ ĐỈNH",
+    "que": "Hào Sơ Lục",
+    "content_type": "Tiểu Tượng",
+    "lời_kinh": "象曰:鼎顛趾,未悖也.利出否,以從貴也.",
+    "dịch_âm": "Tượng viết: Đỉnh điên chỉ, vị bội dã. Lợi xuất bĩ, dĩ tòng quý dã.",
+    "dịch_nghĩa": "Lời Tượng nói rằng: Đỉnh lật chân, chưa trái vậy. Lợi ra của xấu, để theo sang vậy.",
+    "truyện_của_Trình_Di": "Đỉnh lật chân, chưa phải là trái đạo. Lợi ra của xấu, là để theo kẻ sang ở trên, tức là hào Tư."
   },
   {
-    "chunk_id": "QUE_DINH_008",
-    "hexagram": "QUE_DINH",
-    "que": null,
-    "content_type": "interpretation",
-    "notes": {
-      "1": "Chữ ⿍ (đỉnh) nghĩa là cái vạc.",
-      "2": "Sáng là tinh mắt, suốt là thính tai, hai chữ khác nghĩa nhau.",
-      "3": "Nghĩa là cái đạo cùng tột, không có ngừng đọng.",
-      "4": "Theo Trình Di, thì chữ “hình ốc”, nghĩa là hình dáng đầm đìa. Đây địch theo ý Chu Hy. “Hình ốc” là tội nặng. Ở sách Chu lể Thiên Thu quan, có chữ ốc tru (ốc tru). Trịnh Tư Nông chua rằng: “Ôc tru tức là giết cả ba họ”. Trần Kiến thích hai tự truyện của Hán thư, thì cho “ốc tru” là giết kẻ đại thần trong nhà, không để lộ ra. Vậy chữ “ốc tru” có thể dịch là giết kín hay là giết cả ba họ."
-    },
-    "lời_kinh": "九 ⼆: ⿍ 有 實, 我 仇 有 疾, 不 我 能 即, 吉.",
-    "dịch_âm": "Cửu Nhị: Đỉnh hữu thật, ngã cừu hữu tật, bất ngã năng tức, cát!",
-    "dịch_nghĩa": "Hào Chín Hai: Vạc có cái chứa, kẻ thù ta có tật, chẳng ta hay tới, tốt!",
-    "truyện_của_Trình_Di": "Lấy chất cứng đặc ở giữa, tức là trong vạc có cái chứa. “Thù” nghĩa là đối nhau. Âm đối với Dương, chỉ về hào Đầu. Theo nó thì, không chính đính mà hại đến nghĩa, thế là “có tật”. Hào Hai nên tự giữ bằng cách chính đính, khiến nó - hào Đầu - không thể đi đến với mình, người ta hễ biết tự giữ bằng cách chính đính, thì kẻ bất chính không thể đi đến với mình, vì vậy mới tốt.",
-    "bản_nghĩa_của_Chu_Hy": "Lấy chất cứng ở ngôi giữa, là Tượng trong vạc có đồ chứa. “Kẻ thù ta” chỉ hào Đầu. Âm Dương tìm nhau và không chính đính, thì sẽ hãm nhau vào sự ác mà thành ra thù. Hào Hai lấy đức cứng giữa tự giữ, thì hào Đầu tuy gần, không thể tới nói, Tượng như thế mà Chiêm như thế là tốt.",
-    "lời_bàn_của_tiên_nho": null
+    "chunk_id": "QUE_DINH_06_HAO_CUU_NHI",
+    "hexagram": "QUẺ ĐỈNH",
+    "que": "Hào Cửu Nhị",
+    "content_type": "Lời Kinh Hào",
+    "lời_kinh": "九二:鼎有實,我仇有疾,不我能即,吉.",
+    "dịch_âm": "Cửu Nhị: Đỉnh hữu thực, ngã cừu hữu tật, bất ngã năng tức, cát.",
+    "dịch_nghĩa": "Hào Cửu Nhị: Đỉnh có của thực, đứa ghét ta có tật, chẳng ta được đến, tốt.",
+    "truyện_của_Trình_Di": "Hào Chín Hai cứng mà ở giữa, đó là bụng đỉnh có của thực. 'Đứa ghét ta' chỉ về hào Năm, vì hai hào cùng là Dương, không ứng nhau. 'Có tật' là có sự ghen ghét. Nó ghét ta mà không thể đến gần ta, đó là vì ta có đức trung, nó không thể làm hại được. Cho nên tốt.",
+    "bản_nghĩa_của_Chu_Hy": "Hào này là Dương cương trung chính, có của thực mà không càn bậy, cho nên Tượng nó như thế. Lời Chiêm thì là tốt. 'Đứa ghét' chỉ về hào Năm, vì nó cùng là Dương, không ứng nhau."
   },
   {
-    "chunk_id": "QUE_DINH_009",
-    "hexagram": "QUE_DINH",
-    "que": null,
-    "content_type": "interpretation",
-    "notes": {
-      "1": "Chữ ⿍ (đỉnh) nghĩa là cái vạc.",
-      "2": "Sáng là tinh mắt, suốt là thính tai, hai chữ khác nghĩa nhau.",
-      "3": "Nghĩa là cái đạo cùng tột, không có ngừng đọng.",
-      "4": "Theo Trình Di, thì chữ “hình ốc”, nghĩa là hình dáng đầm đìa. Đây địch theo ý Chu Hy. “Hình ốc” là tội nặng. Ở sách Chu lể Thiên Thu quan, có chữ ốc tru (ốc tru). Trịnh Tư Nông chua rằng: “Ôc tru tức là giết cả ba họ”. Trần Kiến thích hai tự truyện của Hán thư, thì cho “ốc tru” là giết kẻ đại thần trong nhà, không để lộ ra. Vậy chữ “ốc tru” có thể dịch là giết kín hay là giết cả ba họ."
-    },
-    "lời_kinh": "象 ⽈: ⿍ 有 實, 慎 所 之 也, 我 仇 有 疾, 終 無 尤 也.",
-    "dịch_âm": "Tượng viết: Đỉnh hữu thật, thận sở chi dã, ngã cừu hữu tật, chung vô vưu dã.",
-    "dịch_nghĩa": "Lời Tượng nói rằng: Vạc có đồ chứa, cẩn thận thửa đi vậy; kẻ thù ta có tật, trọn không lỗi vậy.",
-    "truyện_của_Trình_Di": "Hào Hai không chịu gần gũi với hào Đầu mà lên theo hào Sáu Năm là chính ứng của nó, thế là cẩn thận thửa đi. Kẻ thù là kẻ đối nhau với mình, chỉ về hào Đầu. Đã tự giữ bằng cách chính đính, thì nó không thể tới lại với ta. Vì vậy, sau chót không có sai lỗi.",
-    "bản_nghĩa_của_Chu_Hy": null,
-    "lời_bàn_của_tiên_nho": null
+    "chunk_id": "QUE_DINH_07_TIEU_TUONG_CUU_NHI",
+    "hexagram": "QUẺ ĐỈNH",
+    "que": "Hào Cửu Nhị",
+    "content_type": "Tiểu Tượng",
+    "lời_kinh": "象曰:鼎有實,慎所之也.我仇有疾,終無尤也.",
+    "dịch_âm": "Tượng viết: Đỉnh hữu thực, thận sở chi dã. Ngã cừu hữu tật, chung vô vưu dã.",
+    "dịch_nghĩa": "Lời Tượng nói rằng: Đỉnh có của thực, thửa đi vậy. Đứa ghét ta có tật, rốt không oán vậy.",
+    "truyện_của_Trình_Di": "Có của thực, nên phải thận trọng khi đi. Đứa ghét ta có tật, nhưng vì ta có thể tự giữ, cho nên rốt cuộc không oán trách gì."
   },
   {
-    "chunk_id": "QUE_DINH_010",
-    "hexagram": "QUE_DINH",
-    "que": null,
-    "content_type": "interpretation",
-    "notes": {
-      "1": "Chữ ⿍ (đỉnh) nghĩa là cái vạc.",
-      "2": "Sáng là tinh mắt, suốt là thính tai, hai chữ khác nghĩa nhau.",
-      "3": "Nghĩa là cái đạo cùng tột, không có ngừng đọng.",
-      "4": "Theo Trình Di, thì chữ “hình ốc”, nghĩa là hình dáng đầm đìa. Đây địch theo ý Chu Hy. “Hình ốc” là tội nặng. Ở sách Chu lể Thiên Thu quan, có chữ ốc tru (ốc tru). Trịnh Tư Nông chua rằng: “Ôc tru tức là giết cả ba họ”. Trần Kiến thích hai tự truyện của Hán thư, thì cho “ốc tru” là giết kẻ đại thần trong nhà, không để lộ ra. Vậy chữ “ốc tru” có thể dịch là giết kín hay là giết cả ba họ."
-    },
-    "lời_kinh": "九 三:⿍ ⽿ ⾰, 其 ⾏ 塞, 雉 膏 不 ⾷, ⽅ ⾬, 虧 悔 終, 吉.",
-    "dịch_âm": "Cửu Tam: Đỉnh nhĩ cách, kỳ hành tắc, trĩ cao bất thực, phương vũ, khuy hối chung, cát.",
-    "dịch_nghĩa": "Hào Chín Ba: Tai vạc đổi, thửa đi lấp, mỡ con chim trĩ không ăn, đang mưa, ăn năn về thiếu, chọn tốt.",
-    "truyện_của_Trình_Di": "Tai vạc tức hào Sáu Năm, là chủ quẻ Đỉnh . Đổi là thay đổi cho thảnh khác nhau; hào Ba với hào Sáu Năm khác nhau mà không hợp nhau vậy. Thửa đi lấp, nghĩa là không được hanh thông; không hợp với vua, thì không được có trách nhiệm để thi hành tài dụng của mình. Mỡ là vật ngon ngọt, tức là lộc vị vậy; con chim trĩ chỉ hào Năm, hào ấy có văn vẻ sáng sủa, cho nên gọi là chim trĩ; hào Ba có tài dụng mà không được lộc vị của hào Năm, đó là “không được mỡ con chim trĩ mà ăn” Âm Dương hòa họp với nhau thì mưa, đang mưa nghĩa là đang sắp mưa, ý nói hào Năm với hào Ba dương sắp hòa hợp. Ăn năn về thiếu trọn tốt nghĩa là có, cái ăn năn về sự chẳng đủ, sau chót nên được tốt lành. Hào Ba có tài mà không gặp thì, cho nên có sự ăn năn về lỗi không được như nguyền, nhưng nó có đức Dương cứng, người trên là bậc sáng suốt, kẻ dưới là thể nhún thuận, sau chót ắt tương đắc với nhau, cho nên được tốt.",
-    "bản_nghĩa_của_Chu_Hy": "Lấy chất Dương ở trong bụng vạc, vốn là sự tốt đẹp đầy đặc, nhưng vì nó quá cứng, mất giữa, vượt hào Năm mà ứng nhau với hào Trên, lại ở chỗ chót thể dưới, là thời biến đổi, cho nên mối là tai vạc đương đổi, không thể nhắc mà dời đi. Dầu nó được cái “béo” về sự văn vẻ sáng sủa của quẻ trên mà không được dùng làm đồ ăn cho người. Song nó lấy chất Dương ở ngôi Dương là được chỗ chính, nếu biết tự giữa, thì Âm Dương sẽ hòa hợp nhau mà làm mất sự ăn năn. Kẻ xem như thế, thì lúc đầu tuy chẳng lợi, nhưng về sau ắt được tốt.",
-    "lời_bàn_của_tiên_nho": null
+    "chunk_id": "QUE_DINH_08_HAO_CUU_TAM",
+    "hexagram": "QUẺ ĐỈNH",
+    "que": "Hào Cửu Tam",
+    "content_type": "Lời Kinh Hào",
+    "lời_kinh": "九三:鼎耳革,其行塞,雉膏不食,方雨虧,悔究,終吉.",
+    "dịch_âm": "Cửu Tam: Đỉnh nhĩ cách, kỳ hành tắc, trĩ cao bất thực, phương vũ khuy, hối cứu, chung cát.",
+    "dịch_nghĩa": "Hào Cửu Tam: Tai đỉnh đổi, thửa đi tắc, mỡ trĩ chẳng ăn, sắp mưa kém, ăn năn cùng, rốt tốt.",
+    "truyện_của_Trình_Di": "Hào Chín Ba là tai đỉnh, nhưng bị hào Sáu Trên là Âm che lấp, đó là Tượng 'tai đỉnh đổi'. Tai đỉnh đã đổi, thì không thể xỏ đòn mà khiêng đi, cho nên 'thửa đi tắc'. Mỡ trĩ là của ngon, không ăn được, là vì không đi được. 'Sắp mưa kém' là Âm Dương hòa nhau thì có mưa. Hào này là Dương, ứng với hào Sáu Trên là Âm, đó là Tượng 'sắp mưa'. Nhưng hào Sáu Trên không phải là đôi của nó, cho nên sự hòa hợp đó bị kém đi. Đến cuối cùng, hào Năm là vua, biết tài của nó, mà dùng nó, thì được tốt. Lúc đầu tuy có ăn năn, nhưng rốt cuộc tốt.",
+    "bản_nghĩa_của_Chu_Hy": "Hào này là Dương cứng, nhưng không giữa, lại bị hào Tư che lấp, cho nên có Tượng và Chiêm như thế. 'Ăn năn cùng, rốt tốt' là vì nó ứng với hào Sáu Trên, mà được hào Năm tin dùng."
   },
   {
-    "chunk_id": "QUE_DINH_011",
-    "hexagram": "QUE_DINH",
-    "que": null,
-    "content_type": "interpretation",
-    "notes": {
-      "1": "Chữ ⿍ (đỉnh) nghĩa là cái vạc.",
-      "2": "Sáng là tinh mắt, suốt là thính tai, hai chữ khác nghĩa nhau.",
-      "3": "Nghĩa là cái đạo cùng tột, không có ngừng đọng.",
-      "4": "Theo Trình Di, thì chữ “hình ốc”, nghĩa là hình dáng đầm đìa. Đây địch theo ý Chu Hy. “Hình ốc” là tội nặng. Ở sách Chu lể Thiên Thu quan, có chữ ốc tru (ốc tru). Trịnh Tư Nông chua rằng: “Ôc tru tức là giết cả ba họ”. Trần Kiến thích hai tự truyện của Hán thư, thì cho “ốc tru” là giết kẻ đại thần trong nhà, không để lộ ra. Vậy chữ “ốc tru” có thể dịch là giết kín hay là giết cả ba họ."
-    },
-    "lời_kinh": "象 ⽈: ⿍ ⽿ ⾰, 失 其 義 也.",
+    "chunk_id": "QUE_DINH_09_TIEU_TUONG_CUU_TAM",
+    "hexagram": "QUẺ ĐỈNH",
+    "que": "Hào Cửu Tam",
+    "content_type": "Tiểu Tượng",
+    "lời_kinh": "象曰:鼎耳革,失其義也.",
     "dịch_âm": "Tượng viết: Đỉnh nhĩ cách, thất kỳ nghĩa dã.",
-    "dịch_nghĩa": "Lời Tượng nói rằng: Tai vạc đổi, mất thửa nghĩa vậy.",
-    "truyện_của_Trình_Di": "Lúc đầu đổi khác với tai vạc, là mất cái nghĩa tìm nhau; không phải kẻ ứng với hào Năm, là mất cái đạo cầu hợp với nhau; không được giữa, là Tượng không phải cùng chí với nhau. Vì thế sự đi của nó bị lấp không thông. Nhưng trên sáng mà dưới có tài, sau cùng ắt hòa hợp, cho nên “sắp mưa mà tốt”.",
-    "bản_nghĩa_của_Chu_Hy": null,
-    "lời_bàn_của_tiên_nho": null
+    "dịch_nghĩa": "Lời Tượng nói rằng: Tai đỉnh đổi, mất thửa nghĩa vậy.",
+    "truyện_của_Trình_Di": "Tai đỉnh đổi, là mất cái nghĩa của tai đỉnh."
   },
   {
-    "chunk_id": "QUE_DINH_012",
-    "hexagram": "QUE_DINH",
-    "que": null,
-    "content_type": "interpretation",
-    "notes": {
-      "1": "Chữ ⿍ (đỉnh) nghĩa là cái vạc.",
-      "2": "Sáng là tinh mắt, suốt là thính tai, hai chữ khác nghĩa nhau.",
-      "3": "Nghĩa là cái đạo cùng tột, không có ngừng đọng.",
-      "4": "Theo Trình Di, thì chữ “hình ốc”, nghĩa là hình dáng đầm đìa. Đây địch theo ý Chu Hy. “Hình ốc” là tội nặng. Ở sách Chu lể Thiên Thu quan, có chữ ốc tru (ốc tru). Trịnh Tư Nông chua rằng: “Ôc tru tức là giết cả ba họ”. Trần Kiến thích hai tự truyện của Hán thư, thì cho “ốc tru” là giết kẻ đại thần trong nhà, không để lộ ra. Vậy chữ “ốc tru” có thể dịch là giết kín hay là giết cả ba họ."
-    },
-    "lời_kinh": "九四: ⿍折⾜, 覆公錬, 其形屋, 凶.",
-    "dịch_âm": "Cửu Tứ: Đỉnh chiết túc, phúc công tốc, kỳ hình ốc, hung!.",
-    "dịch_nghĩa": "Hào Chín Tư: Vạc gẫy chân, đổ đồ ăn của Ông, thửa tội giết [4] kín hung!",
-    "truyện_của_Trình_Di": null,
-    "bản_nghĩa_của_Chu_Hy": "Họ Triều nói rằng: Hai chữ 形屋 (hình ốc: hình dáng đầm đìa), các bản đều chép là 形屋 (hình ốc: tội giết kín), chỉ về hình phạt nặng, nay theo thuyết đó. Hào Tư ở ngôi trên, là kẻ gánh vác việc nặng, mà nó lại ứng với hào Đầu ở dưới là một hào Âm, thì không gánh nổi trách nhiệm, cho nên Tượng nó như thế mà Chiêm thì hung.",
-    "lời_bàn_của_tiên_nho": null
+    "chunk_id": "QUE_DINH_10_HAO_CUU_TU",
+    "hexagram": "QUẺ ĐỈNH",
+    "que": "Hào Cửu Tứ",
+    "content_type": "Lời Kinh Hào",
+    "lời_kinh": "九四:鼎折足,覆公餗,其形渥,凶.",
+    "dịch_âm": "Cửu Tứ: Đỉnh chiết túc, phúc công tốc, kỳ hình渥, hung.",
+    "dịch_nghĩa": "Hào Cửu Tứ: Đỉnh gãy chân, đổ của ngon vua, thửa hình ướt, hung.",
+    "truyện_của_Trình_Di": "Hào Chín Tư ở ngôi đại thần, mà là hào Dương không giữa, tài không đủ mà ở ngôi cao, đó là kẻ không kham nổi việc đời. Nó ứng với hào Đầu là Âm, đó là tin dùng kẻ tiểu nhân, cho nên có Tượng 'đỉnh gãy chân'. 'Của ngon vua' là những của ngon trong đỉnh. Đỉnh đã gãy chân, thì của ngon đổ hết. 'Thửa hình ướt' là bị dơ bẩn. Lời răn của nó là hung.",
+    "bản_nghĩa_của_Chu_Hy": "Hào này là Dương cứng không giữa, ở ngôi đại thần, mà tài không đủ, lại tin dùng hào Sáu Đầu là Âm mềm, cho nên có Tượng và Chiêm như thế."
   },
   {
-    "chunk_id": "QUE_DINH_013",
-    "hexagram": "QUE_DINH",
-    "que": null,
-    "content_type": "interpretation",
-    "notes": {
-      "1": "Chữ ⿍ (đỉnh) nghĩa là cái vạc.",
-      "2": "Sáng là tinh mắt, suốt là thính tai, hai chữ khác nghĩa nhau.",
-      "3": "Nghĩa là cái đạo cùng tột, không có ngừng đọng.",
-      "4": "Theo Trình Di, thì chữ “hình ốc”, nghĩa là hình dáng đầm đìa. Đây địch theo ý Chu Hy. “Hình ốc” là tội nặng. Ở sách Chu lể Thiên Thu quan, có chữ ốc tru (ốc tru). Trịnh Tư Nông chua rằng: “Ôc tru tức là giết cả ba họ”. Trần Kiến thích hai tự truyện của Hán thư, thì cho “ốc tru” là giết kẻ đại thần trong nhà, không để lộ ra. Vậy chữ “ốc tru” có thể dịch là giết kín hay là giết cả ba họ."
-    },
-    "lời_kinh": "象 ⽈: 覆 公 觫, 信 如 何 也.",
-    "dịch_âm": "Tượng viết: Phúc cộng tốc, tín như hà dã.",
-    "dịch_nghĩa": "Lời Tượng nói rằng: Đổ đồ của Ông, tin đường sao vậy.",
-    "truyện_của_Trình_Di": "Kẻ đại thần gánh lây cái trách nhiệm của thiên hạ, ắt phải làm nên cuộc thịnh trị cho thiên hạ, thì mới không lỡ sự nương tựa của đấng quân thượng, sự trông mong của kẻ hạ dân, và chí “đem thân gánh đạo” của mình, chẳng sai sự hẹn, là “tin”. Nếu không được thế, thì là bỏ mất chức việc, làm lỡ sự ủy thác của người trên, còn được là “tin” nữa chăng? Vì vậy mới nói: “tin dường sao vậy”.",
-    "bản_nghĩa_của_Chu_Hy": "Ý nói mất sự tin.",
-    "lời_bàn_của_tiên_nho": null
+    "chunk_id": "QUE_DINH_11_TIEU_TUONG_CUU_TU",
+    "hexagram": "QUẺ ĐỈNH",
+    "que": "Hào Cửu Tứ",
+    "content_type": "Tiểu Tượng",
+    "lời_kinh": "象曰:覆公餗,信如何也.",
+    "dịch_âm": "Tượng viết: Phúc công tốc, tín như hà dã.",
+    "dịch_nghĩa": "Lời Tượng nói rằng: Đổ của ngon vua, lòng tin thế nào vậy?",
+    "truyện_của_Trình_Di": "Đổ của ngon vua, là vì lòng tin của nó không ngay chính."
   },
   {
-    "chunk_id": "QUE_DINH_014",
-    "hexagram": "QUE_DINH",
-    "que": null,
-    "content_type": "interpretation",
-    "notes": {
-      "1": "Chữ ⿍ (đỉnh) nghĩa là cái vạc.",
-      "2": "Sáng là tinh mắt, suốt là thính tai, hai chữ khác nghĩa nhau.",
-      "3": "Nghĩa là cái đạo cùng tột, không có ngừng đọng.",
-      "4": "Theo Trình Di, thì chữ “hình ốc”, nghĩa là hình dáng đầm đìa. Đây địch theo ý Chu Hy. “Hình ốc” là tội nặng. Ở sách Chu lể Thiên Thu quan, có chữ ốc tru (ốc tru). Trịnh Tư Nông chua rằng: “Ôc tru tức là giết cả ba họ”. Trần Kiến thích hai tự truyện của Hán thư, thì cho “ốc tru” là giết kẻ đại thần trong nhà, không để lộ ra. Vậy chữ “ốc tru” có thể dịch là giết kín hay là giết cả ba họ."
-    },
-    "lời_kinh": "六 五: ⿍ 黄 ⽿, ⾦ 鉉 利 貞.",
-    "dịch_âm": "Lục Ngũ: Đỉnh hoàng nhĩ, kim huyên, lợi trinh.",
-    "dịch_nghĩa": "Hào Sáu Năm: Vạc tai vàng, quai màu vàng, lợi về chính bền.",
-    "truyện_của_Trình_Di": "Hào Năm ở trên quẻ Đỉnh , là Tượng tai vạc. Cái vạc nhắc lên đặt xuống, cốt ở cái tai, nên nó là chủ quẻ Đỉnh , hào Năm có đức giữa, cho nên nói là tai vàng. Quai là vật để vào cái tai; hào Hai ứng với hào Năm, đến theo cái tai, tức là cái quai. Hào Hai có đức cứng giữa, thể Dương cứng giữa sắc vàng, cho nên nói là quai màu vàng. Hào Năm văn vẻ sáng sủa, được chỗ giữa mà ứng với kẻ cứng, hào Hai cứng giữa, thể nhún, mà ứng lên, tài nó không gì không đủ, thế là ứng nhau rất khéo, lợi ở chính bền mà thôi.",
-    "bản_nghĩa_của_Chu_Hy": "Hào Năm, về Tượng là tai, mà có đức giữa, cho nên nói rằng “tai vàng”. Vàng là vật cứng rắn, quai là cái xâu vào tai vạc để nhấc vạc lên, Hào Năm trống rỗng bên trong để ứng với hào Chín Hai là hào cứng rắn, cho nên Tượng nó như thế, mà Chiêm thì là lợi về chính bền.",
-    "lời_bàn_của_tiên_nho": null
+    "chunk_id": "QUE_DINH_12_HAO_LUC_NGU",
+    "hexagram": "QUẺ ĐỈNH",
+    "que": "Hào Lục Ngũ",
+    "content_type": "Lời Kinh Hào",
+    "lời_kinh": "六五:鼎黃耳,金鉉,利貞.",
+    "dịch_âm": "Lục Ngũ: Đỉnh hoàng nhĩ, kim huyễn, lợi trinh.",
+    "dịch_nghĩa": "Hào Lục Ngũ: Đỉnh tai vàng, đòn vàng, lợi về nết trinh.",
+    "truyện_của_Trình_Di": "Hào Lục Ngũ mềm mà ở ngôi tôn, được giữa, đó là Tượng 'tai vàng'. Vàng là sắc giữa, đó là đức trung. Đòn là vật để khiêng đỉnh. 'Đòn vàng' là dùng cách cứng mà giữ đức trung. Tai là Âm, đòn là Dương. Mềm mà dùng cứng, đó là đạo vợ chồng. Lợi về nết trinh là vì nó có đức trung, lại biết dùng cứng.",
+    "bản_nghĩa_của_Chu_Hy": "Hào này mềm mà ở ngôi tôn, được giữa, đó là Tượng 'rỗng lòng mà nghe theo kẻ dưới'. Cho nên có Tượng và Chiêm như thế."
   },
   {
-    "chunk_id": "QUE_DINH_015",
-    "hexagram": "QUE_DINH",
-    "que": null,
-    "content_type": "interpretation",
-    "notes": {
-      "1": "Chữ ⿍ (đỉnh) nghĩa là cái vạc.",
-      "2": "Sáng là tinh mắt, suốt là thính tai, hai chữ khác nghĩa nhau.",
-      "3": "Nghĩa là cái đạo cùng tột, không có ngừng đọng.",
-      "4": "Theo Trình Di, thì chữ “hình ốc”, nghĩa là hình dáng đầm đìa. Đây địch theo ý Chu Hy. “Hình ốc” là tội nặng. Ở sách Chu lể Thiên Thu quan, có chữ ốc tru (ốc tru). Trịnh Tư Nông chua rằng: “Ôc tru tức là giết cả ba họ”. Trần Kiến thích hai tự truyện của Hán thư, thì cho “ốc tru” là giết kẻ đại thần trong nhà, không để lộ ra. Vậy chữ “ốc tru” có thể dịch là giết kín hay là giết cả ba họ."
-    },
-    "lời_kinh": "象 ⽈: ⿍ 黄 ⽿, 中 以 為 實 也.",
-    "dịch_âm": "Tượng viết: Đỉnh hoàng nhĩ, trung dĩ vi thật dã.",
-    "dịch_nghĩa": "Lời Tượng nói rằng: Vạc tai vàng giữa lấy làm thật vậy.",
-    "truyện_của_Trình_Di": "Hào Sáu Năm lấy sự được giữa làm hay, đó là lấy “giữa” làm đức thật vậy.",
-    "bản_nghĩa_của_Chu_Hy": null,
-    "lời_bàn_của_tiên_nho": null
+    "chunk_id": "QUE_DINH_13_TIEU_TUONG_LUC_NGU",
+    "hexagram": "QUẺ ĐỈNH",
+    "que": "Hào Lục Ngũ",
+    "content_type": "Tiểu Tượng",
+    "lời_kinh": "象曰:鼎黃耳,中以為實也.",
+    "dịch_âm": "Tượng viết: Đỉnh hoàng nhĩ, trung dĩ vi thực dã.",
+    "dịch_nghĩa": "Lời Tượng nói rằng: Đỉnh tai vàng, lấy giữa làm của thực vậy.",
+    "truyện_của_Trình_Di": "Đỉnh tai vàng, là vì nó lấy đức trung làm của thực."
   },
   {
-    "chunk_id": "QUE_DINH_016",
-    "hexagram": "QUE_DINH",
-    "que": null,
-    "content_type": "interpretation",
-    "notes": {
-      "1": "Chữ ⿍ (đỉnh) nghĩa là cái vạc.",
-      "2": "Sáng là tinh mắt, suốt là thính tai, hai chữ khác nghĩa nhau.",
-      "3": "Nghĩa là cái đạo cùng tột, không có ngừng đọng.",
-      "4": "Theo Trình Di, thì chữ “hình ốc”, nghĩa là hình dáng đầm đìa. Đây địch theo ý Chu Hy. “Hình ốc” là tội nặng. Ở sách Chu lể Thiên Thu quan, có chữ ốc tru (ốc tru). Trịnh Tư Nông chua rằng: “Ôc tru tức là giết cả ba họ”. Trần Kiến thích hai tự truyện của Hán thư, thì cho “ốc tru” là giết kẻ đại thần trong nhà, không để lộ ra. Vậy chữ “ốc tru” có thể dịch là giết kín hay là giết cả ba họ."
-    },
-    "lời_kinh": "上 九: ⿍ ⽟ 鉉, ⼤ 吉, 無 不 利.",
-    "dịch_âm": "Thượng cửu: Đỉnh ngọc huyên, đại cát, vô bất lợi.",
-    "dịch_nghĩa": "Hào Chín Trên: Đỉnh quai ngọc, cả tốt, không gì không lợi.",
-    "truyện_của_Trình_Di": "Ở trên là Tượng cái quai, cứng mà ôn hòa là ngọc. Hào Chín tuy cứng mà ở ngôi Âm, xéo chỗ mềm, là không cứng quá mà biết ôn hòa. Cứng mềm vừa phải, động tĩnh không thái quá, thì là cả tốt, không gì không lợi.",
-    "bản_nghĩa_của_Chu_Hy": "Hào Trên, về Tượng là cái quai, mà nó lấy chất Dương ở ngôi Âm, cứng mà lại biết ôn hòa, cho nên có Tượng “quai ngọc”, mà lời Chiêm thì là “cả tốt, không gì không hợp”.",
-    "lời_bàn_của_tiên_nho": null
+    "chunk_id": "QUE_DINH_14_HAO_THUONG_CUU",
+    "hexagram": "QUẺ ĐỈNH",
+    "que": "Hào Thượng Cửu",
+    "content_type": "Lời Kinh Hào",
+    "lời_kinh": "上九:鼎玉鉉,大吉,無不利.",
+    "dịch_âm": "Thượng Cửu: Đỉnh ngọc huyễn, đại cát, vô bất lợi.",
+    "dịch_nghĩa": "Hào Chín Trên: Đỉnh đòn ngọc, cả tốt, không gì chẳng lợi.",
+    "truyện_của_Trình_Di": "Hào Chín Trên ở cuối quẻ Đỉnh, mà là hào Dương cứng, đó là Tượng 'đòn ngọc'. Ngọc là vật cứng mà nhuận. Cứng mà không quá, đó là đức tốt. Dùng đức ấy mà làm việc, thì cả tốt, không gì chẳng lợi. Hào này ở trên hào Năm là Âm, đó là Tượng vua mềm mà tôi cứng. Vua mềm thì tôi phải cứng, mới có thể làm nên việc.",
+    "bản_nghĩa_của_Chu_Hy": "Ở cuối quẻ, mà là Dương, ở trên hào Năm là Âm, đó là Tượng vua mềm, tôi cứng. Ngọc là vật cứng mà nhuận. Cho nên có Tượng và Chiêm như thế."
   },
   {
-    "chunk_id": "QUE_DINH_017",
-    "hexagram": "QUE_DINH",
-    "que": null,
-    "content_type": "interpretation",
-    "notes": {
-      "1": "Chữ ⿍ (đỉnh) nghĩa là cái vạc.",
-      "2": "Sáng là tinh mắt, suốt là thính tai, hai chữ khác nghĩa nhau.",
-      "3": "Nghĩa là cái đạo cùng tột, không có ngừng đọng.",
-      "4": "Theo Trình Di, thì chữ “hình ốc”, nghĩa là hình dáng đầm đìa. Đây địch theo ý Chu Hy. “Hình ốc” là tội nặng. Ở sách Chu lể Thiên Thu quan, có chữ ốc tru (ốc tru). Trịnh Tư Nông chua rằng: “Ôc tru tức là giết cả ba họ”. Trần Kiến thích hai tự truyện của Hán thư, thì cho “ốc tru” là giết kẻ đại thần trong nhà, không để lộ ra. Vậy chữ “ốc tru” có thể dịch là giết kín hay là giết cả ba họ."
-    },
-    "lời_kinh": "象 ⽈: ⽟ 鉉 在 上, 剛 柔 節 也.",
-    "dịch_âm": "Tượng viết: Ngọc huyên tại thượng, cương nhu tiết dã.",
-    "dịch_nghĩa": "Lời Tượng nói rằng: Tai ngọc ở trên, cứng mềm có chừng độ vậy.",
-    "truyện_của_Trình_Di": "Cứng mà ôn hòa là có chừng độ. Hào Trên ở chỗ “nên công đến dùng” mà cứng mềm đúng với tiết độ, cho nên cả tốt, không gì không lợi.",
-    "bản_nghĩa_của_Chu_Hy": null,
-    "lời_bàn_của_tiên_nho": null
+    "chunk_id": "QUE_DINH_15_TIEU_TUONG_THUONG_CUU",
+    "hexagram": "QUẺ ĐỈNH",
+    "que": "Hào Thượng Cửu",
+    "content_type": "Tiểu Tượng",
+    "lời_kinh": "象曰:玉鉉在上,剛柔節也.",
+    "dịch_âm": "Tượng viết: Ngọc huyễn tại thượng, cương nhu tiết dã.",
+    "dịch_nghĩa": "Lời Tượng nói rằng: Đòn ngọc ở trên, cứng mềm tiết vậy.",
+    "truyện_của_Trình_Di": "Đòn ngọc ở trên, là vì cứng mềm có tiết độ."
   }
 ]

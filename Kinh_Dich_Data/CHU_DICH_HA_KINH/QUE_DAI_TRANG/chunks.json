@@ -1,257 +1,161 @@
 [
   {
-    "chunk_id": "QUE_DAI_TRANG_001",
-    "hexagram": "QUE_DAI_TRANG",
-    "que": null,
-    "content_type": "preface",
-    "lời_kinh": null,
-    "dịch_âm": null,
-    "dịch_nghĩa": null,
-    "truyện_của_Trình_Di": null,
-    "bản_nghĩa_của_Chu_Hy": null,
-    "lời_bàn_của_tiên_nho": null,
-    "notes": {
-      "1": "Chữ Đại tráng nghĩa lớn mạnh."
-    }
+    "chunk_id": "QUE_DAI_TRANG_01_KINH_VAN",
+    "hexagram": "QUẺ ĐẠI TRÁNG",
+    "que": "☳ Chấn trên\n☰ Kiền dưới",
+    "content_type": "Kinh văn và Luận giải",
+    "lời_kinh": "大壯,利貞.",
+    "dịch_âm": "Đại tráng, lợi trinh.",
+    "dịch_nghĩa": "Quẻ Đại Tráng: Lớn mạnh, lợi về nết trinh.",
+    "truyện_của_Trình_Di": "Tráng là mạnh. Quẻ này bốn hào Dương ở dưới, Dương đương thịnh mà tiến lên, cho nên là Đại Tráng. Đã quá nửa, gần đến chỗ cùng cực, thì sự mạnh đó không thể không ngay chính, cho nên lợi về nết trinh. Mạnh mà không trinh, thì là càn bậy, mạnh mà càn bậy, thì hung, cho nên răn rằng 'lợi về nết trinh'.",
+    "bản_nghĩa_của_Chu_Hy": "Đại Tráng, nghĩa là lớn mạnh. Kiền ở dưới, Chấn ở trên, Kiền mạnh, Chấn động, mạnh mà động, cho nên là Đại Tráng. Lại nữa, bốn hào Dương ở dưới lớn dần lên, cho nên cũng là Đại Tráng. Tráng là sự mạnh đã quá, cho nên lời Chiêm của nó chỉ 'lợi về nết trinh'."
   },
   {
-    "chunk_id": "QUE_DAI_TRANG_002",
-    "hexagram": "QUE_DAI_TRANG",
+    "chunk_id": "QUE_DAI_TRANG_02_THOAN_TRUYEN",
+    "hexagram": "QUẺ ĐẠI TRÁNG",
     "que": null,
-    "content_type": "interpretation",
-    "notes": {
-      "1": "Chữ Đại tráng nghĩa lớn mạnh."
-    },
-    "lời_kinh": "⼤壯剩貞.",
-    "dịch_âm": "Đại tráng lợi trinh.",
-    "dịch_nghĩa": "Quẻ Đại tráng lợi về sự chính.",
-    "truyện_của_Trình_Di": "Cái đạo lớn mạnh lợi về trinh chính. Lớn mạnh mà không đúng với chính đạo, tức là sự hành vi của kẻ hung tợn, không phải đạo đấng quân tử.",
-    "bản_nghĩa_của_Chu_Hy": "Lớn chỉ về Dương, bốn hào Dương thịnh lớn, cho nên là lớn mạnh, tức là quẻ về tháng hai. Dương mạnh thì kẻ xem tốt lành hanh thông, không cần phải nói, có điều lợi ở chính bền mà thôi.",
-    "lời_bàn_của_tiên_nho": null
+    "content_type": "Thoán Truyện",
+    "lời_kinh": "彖曰:大壯,大者壯也.剛以動,故壯.大壯利貞,大者正也.正大,而天地之情可見矣.",
+    "dịch_âm": "Thoán viết: Đại Tráng, đại giả tráng dã. Cương dĩ động, cố tráng. Đại Tráng lợi trinh, đại giả chính dã. Chính đại, nhi thiên địa chi tình khả kiến hỹ.",
+    "dịch_nghĩa": "Lời Thoán nói rằng: Đại Tráng, lớn mà mạnh vậy. Cứng mà động, cho nên mạnh. Đại Tráng lợi về nết trinh, lớn mà chính vậy. Chính và lớn, thì tình của trời đất có thể thấy vậy.",
+    "truyện_của_Trình_Di": "Lớn mà mạnh, đó là nghĩa của Đại Tráng. Lớn đây chỉ về Dương. Dương là vật lớn. Quẻ này bốn hào Dương, Dương đương thịnh, cho nên là lớn mạnh. Cứng là đức của Kiền, động là đức của Chấn. Cứng mà động, đó là nói về tài của quẻ. Mạnh mà không ngay chính thì không thể hanh thông, cho nên 'lợi về nết trinh'. Lớn ắt phải chính, vật gì lớn mà không chính, thì không thể còn. Chính và lớn, đó là đạo của trời đất. Quân tử thể theo đó, thì tình của trời đất có thể thấy được.",
+    "bản_nghĩa_của_Chu_Hy": "Đây thích về tên và lời của quẻ. Lớn chỉ về bốn hào Dương. Cứng là Kiền, động là Chấn. Hết."
   },
   {
-    "chunk_id": "QUE_DAI_TRANG_003",
-    "hexagram": "QUE_DAI_TRANG",
+    "chunk_id": "QUE_DAI_TRANG_03_DAI_TUONG",
+    "hexagram": "QUẺ ĐẠI TRÁNG",
     "que": null,
-    "content_type": "interpretation",
-    "notes": {
-      "1": "Chữ Đại tráng nghĩa lớn mạnh."
-    },
-    "lời_kinh": "彖⽈:⼤莊⼤者狀也,剛以動故壯.",
-    "dịch_âm": "Thoán viết: Đại tráng, đại giả tráng dã, cương dĩ động, cố tráng.",
-    "dịch_nghĩa": "Lời Thoán nói rằng: Quẻ tráng , là lớn thì mạnh vậy. Dùng đức cứng mà động, cho nên lớn mạnh.",
-    "truyện_của_Trình_Di": "Sở dĩ gọi là quẻ Đại tráng, nghĩa là lớn thì mạnh vậy. Âm là nhỏ, Dương là lớn, khí Dương lớn lên và thịnh vượng, thế là cái lớn thì mạnh. Dưới cứng mà trên động, lấy thể Kiền là vật rất cứng mà động, cho nên là lớn mạnh, là cái lớn thì mạnh, là sự mạnh to lớn.",
-    "bản_nghĩa_của_Chu_Hy": "Đây thích nghĩa tên quẻ. Nói về thể quẻ thì khí Dương lớn lên, đã quá bậc giữa, tức là cái lớn thì mạnh. Nói về đức quẻ, thì Kiền cứng, Chấn động, cho nên là mạnh.",
-    "lời_bàn_của_tiên_nho": null
+    "content_type": "Đại Tượng",
+    "lời_kinh": "象曰:雷在天上,大壯.君子以非禮弗履.",
+    "dịch_âm": "Tượng viết: Lôi tại thiên thượng, Đại Tráng. Quân tử dĩ phi lễ phất lý.",
+    "dịch_nghĩa": "Lời Tượng nói rằng: Sấm ở trên trời, là quẻ Đại Tráng. Đấng quân tử coi đó mà chẳng phải lễ thì không đi.",
+    "truyện_của_Trình_Di": "Sấm ở trên trời, đó là Tượng của sự lớn mạnh. Đấng quân tử coi Tượng lớn mạnh đó, mà tự giữ mình, chẳng phải lễ thì không đi. Lớn mạnh mà không giữ bằng lễ, thì sẽ thành càn bậy.",
+    "bản_nghĩa_của_Chu_Hy": "Sấm ở trên trời, Tượng rất lớn mạnh. 'Không đi' tức là không làm."
   },
   {
-    "chunk_id": "QUE_DAI_TRANG_004",
-    "hexagram": "QUE_DAI_TRANG",
-    "que": null,
-    "content_type": "interpretation",
-    "notes": {
-      "1": "Chữ Đại tráng nghĩa lớn mạnh."
-    },
-    "lời_kinh": "⼤壯利貞,⼤者正也.正⼤⽽天地之眷可⾒矣.",
-    "dịch_âm": "Đại tráng lợi trinh, đại giả chính dã, chính đại nhi thiên địa chi tình khả kiến hỹ.",
-    "dịch_nghĩa": "Lớn mạnh lợi về sự chính, là cái lớn thì chính vậy; chính lớn mà tình trời đất có thể thấy được.",
-    "truyện_của_Trình_Di": "Cái lớn đã mạnh, thì lợi về sự trinh chính. Chính mà lớn, tức là Đạo đó. Cùng cực cái lẽ chính lớn thì tình của trời đất có thể thấy được. Đạo của trời đất thường lâu không thôi, là cái rất lớn rất chính. Cái lẽ “chính lớn” kẻ học phải im lặng ghi lấy và hiểu ở trong lòng, mới được.",
-    "bản_nghĩa_của_Chu_Hy": "Đây thích nghĩa chữ lợi trinh mà nói: cho cùng cực ra.",
-    "lời_bàn_của_tiên_nho": null
-  },
-  {
-    "chunk_id": "QUE_DAI_TRANG_005",
-    "hexagram": "QUE_DAI_TRANG",
-    "que": null,
-    "content_type": "interpretation",
-    "notes": {
-      "1": "Chữ Đại tráng nghĩa lớn mạnh."
-    },
-    "lời_kinh": "象⽈:雷在天上,⼤壯,君⼦以肥禮弗履.",
-    "dịch_âm": "Tượng viết: Lôi tại thiên thượng. Đại tráng, quân tử dĩ phi lễ vật lý.",
-    "dịch_nghĩa": "Lời Tượng nói rằng: Sấm ở trên trời, là quẻ Đại tráng. Đấng quân tử coi đó mà không phải lễ chớ xéo vào.",
-    "truyện_của_Trình_Di": "Sấm động ở trên trời, là lớn mà mạnh, đấng quân tử coi Tượng lớn mạnh đó mà thực hành sự mạnh của mình. Cái lớn mạnh của đấng quân tử, không gì bằng nén lòng riêng mình, trở lại điều lễ. Người xưa nói rằng: “Mình thắng được mình gọi là mạnh”; sách Trung Dung nói những sự “hòa mà không trôi”, “đứng giữa mà không tựa” đều nói là “mạnh thay mạnh”. Nhảy vào nước sôi, lửa nóng, xéo lên lưỡi gươm sắc, bọn vũ phu hung tợn có thể làm được. Đến như nén lòng riêng mình, trở lại điều lễ, phi đấng quân tử cả mạnh thì không làm nổi, cho nên nói rằng: “Đấng quân tử coi đó mà không có lễ đừng xéo vào”.",
-    "bản_nghĩa_của_Chu_Hy": "Mình thắng được mình là mạnh.",
-    "lời_bàn_của_tiên_nho": null
-  },
-  {
-    "chunk_id": "QUE_DAI_TRANG_006",
-    "hexagram": "QUE_DAI_TRANG",
-    "que": null,
-    "content_type": "interpretation",
-    "notes": {
-      "1": "Chữ Đại tráng nghĩa lớn mạnh."
-    },
+    "chunk_id": "QUE_DAI_TRANG_04_HAO_SO_CUU",
+    "hexagram": "QUẺ ĐẠI TRÁNG",
+    "que": "Hào Sơ Cửu",
+    "content_type": "Lời Kinh Hào",
     "lời_kinh": "初九:壯于趾,征凶,有孚.",
-    "dịch_âm": "Sơ Cửu: Tráng vu chỉ, chính hung, hữu phu.",
-    "dịch_nghĩa": "Hào Chín Đầu: Mạnh ở ngón chân, đi thì hung, có tin.",
-    "truyện_của_Trình_Di": "Hào Đầu, chất Dương cứng, thể Kiền, mà ở dưới, ấy là kẻ mạnh về sự tiến. Ở dưới mà dùng sự mạnh; tức là mạnh ở ngón chân. Ngón chân là vật ở dưới mà tiến và động, hào Chín ở dưới, dùng sự mạnh mà không đúng mực vừa phải. Ôi lấy chất cứng, ở chỗ mạnh, dù là ngôi trên cũng không thể đi, huống chi ở dưới. Cho nên, đi thì hung “có tin”. “Tin” là chắc hẳn, ý nói nếu dùng sự mạnh mà đi, chắc hẳn phải hung.",
-    "bản_nghĩa_của_Chu_Hy": "Ngón chân ở dưới mà tiến là vật hay động. Dương cứng ở dưới mà đương thì mạnh, tức là kẻ mạnh về sự tiến, cho nên mới có Tượng ấy. Sự hung của nó có thể chắc hẳn, cho nên lời Chiêm như thế.",
-    "lời_bàn_của_tiên_nho": null
+    "dịch_âm": "Sơ Cửu: Tráng vu chỉ, chinh hung, hữu phu.",
+    "dịch_nghĩa": "Hào Chín Đầu: Mạnh ở ngón chân, đi hung, có tin.",
+    "truyện_của_Trình_Di": "Hào Chín Đầu ở dưới chót, tức là kẻ mới mạnh. Ngón chân là vật ở dưới chót, chỉ dùng sức mạnh ở ngón chân, đó là kẻ hèn kém mà ham đi, cho nên đi thì hung. Hào này với hào Tư là ứng nhau, hào Tư ở trên quẻ dưới, là kẻ cũng muốn đi, hai bên tin nhau, cho nên nói 'có tin'.",
+    "bản_nghĩa_của_Chu_Hy": "Mạnh ở ngón chân, là Tượng của kẻ chỉ muốn đi. Ở dưới chót mà chỉ muốn đi, thì hung. Nhưng vì nó ứng với hào Tư, cho nên lời Chiêm của nó lại có câu 'có tin'."
   },
   {
-    "chunk_id": "QUE_DAI_TRANG_007",
-    "hexagram": "QUE_DAI_TRANG",
-    "que": null,
-    "content_type": "interpretation",
-    "notes": {
-      "1": "Chữ Đại tráng nghĩa lớn mạnh."
-    },
-    "lời_kinh": "象⽈:壯于趾, 貞孚窮也.",
+    "chunk_id": "QUE_DAI_TRANG_05_TIEU_TUONG_SO_CUU",
+    "hexagram": "QUẺ ĐẠI TRÁNG",
+    "que": "Hào Sơ Cửu",
+    "content_type": "Tiểu Tượng",
+    "lời_kinh": "象曰:壯于趾,其孚窮也.",
     "dịch_âm": "Tượng viết: Tráng vu chỉ, kỳ phu cùng dã.",
-    "dịch_nghĩa": "Lời tượng nói rằng: Mạnh ở ngón chân, thửa tin cùng vậy.",
-    "truyện_của_Trình_Di": "Ở chỗ dưới nhất mà dùng sự mạnh để đi, có thể tin hẳn là sẽ cùng khốn mà hung.",
-    "bản_nghĩa_của_Chu_Hy": "Ý nói ắt phải cùng khốn.",
-    "lời_bàn_của_tiên_nho": null
+    "dịch_nghĩa": "Lời Tượng nói rằng: Mạnh ở ngón chân, thửa tin cùng vậy.",
+    "truyện_của_Trình_Di": "Chỉ dùng sức mạnh ở ngón chân, mà lòng tin của nó đã đến cùng cực, thì sẽ đến chỗ hung."
   },
   {
-    "chunk_id": "QUE_DAI_TRANG_008",
-    "hexagram": "QUE_DAI_TRANG",
-    "que": null,
-    "content_type": "interpretation",
-    "notes": {
-      "1": "Chữ Đại tráng nghĩa lớn mạnh."
-    },
-    "lời_kinh": "九⼆:貞吉.",
-    "dịch_âm": "Cửu Nhị: Trình cát",
-    "dịch_nghĩa": "Hào Chín Hai: Chính tốt.",
-    "truyện_của_Trình_Di": "Tuy là lấy chất Dương cứng đương thời lớn mạnh, nhưng nó đóng chỗ mềm, ở ngôi giữa, ấy là cứng mềm vừa phải, không đến quá mạnh, nên được trinh chính mà tốt. Hoặc có người nói: Chữ “trinh” có phải là răn hảo Chín mà ở ngôi Hai hay không? Đáp rằng: Kinh Dịch dừng cái thắng hơn làm nghĩa, Hào này là Dương cứng, ở thế mạnh, đương thời lớn mạnh, xử đúng trung đạo, không có điều gì không chính. Còn ở hào Tư thì có lời răn về sự bất chính. Người ta hễ biết thì nghĩa khinh trọng, thì có thể học được Kinh Dịch.",
-    "bản_nghĩa_của_Chu_Hy": "Là hào Dương ở ngôi Âm, đã là không được chính rồi. Nhưng vì nó được chỗ giữa, cũng còn có thể nhân đó mà không bị mất sự chính, cho nên mới răn kẻ xem phải nhân đạo “giữa” mà tìm sự chính, rồi sau sẽ được tốt lành.",
-    "lời_bàn_của_tiên_nho": null
+    "chunk_id": "QUE_DAI_TRANG_06_HAO_CUU_NHI",
+    "hexagram": "QUẺ ĐẠI TRÁNG",
+    "que": "Hào Cửu Nhị",
+    "content_type": "Lời Kinh Hào",
+    "lời_kinh": "九二:貞吉.",
+    "dịch_âm": "Cửu Nhị: Trinh cát.",
+    "dịch_nghĩa": "Hào Cửu Nhị: Chính tốt.",
+    "truyện_của_Trình_Di": "Hào Chín Hai cứng mà được giữa, đó là kẻ có thể giữ được đạo chính trong lúc mạnh. Mạnh mà giữ được chính, thì tốt. Hào này ở giữa, nên chỉ nói 'chính tốt'.",
+    "bản_nghĩa_của_Chu_Hy": "Dương cứng mà được giữa, cho nên lời Chiêm của nó là 'chính tốt'."
   },
   {
-    "chunk_id": "QUE_DAI_TRANG_009",
-    "hexagram": "QUE_DAI_TRANG",
-    "que": null,
-    "content_type": "interpretation",
-    "notes": {
-      "1": "Chữ Đại tráng nghĩa lớn mạnh."
-    },
-    "lời_kinh": "象⽈:九⼆負吉,以中也",
+    "chunk_id": "QUE_DAI_TRANG_07_TIEU_TUONG_CUU_NHI",
+    "hexagram": "QUẺ ĐẠI TRÁNG",
+    "que": "Hào Cửu Nhị",
+    "content_type": "Tiểu Tượng",
+    "lời_kinh": "象曰:九二貞吉,以中也.",
     "dịch_âm": "Tượng viết: Cửu Nhị trinh cát, dĩ trung dã.",
-    "dịch_nghĩa": "Lời Tương nói rằng: Hào Chín Hai chính tốt, về giữa vậy.",
-    "truyện_của_Trình_Di": "Sở dĩ chính và tốt, vì nó được đạo “giữa” vậy. “Giữa” thì không lỗi sự chính, huống chi nó lại là chất Dương cứng mà ở thể Kiền…!",
-    "bản_nghĩa_của_Chu_Hy": null,
-    "lời_bàn_của_tiên_nho": null
+    "dịch_nghĩa": "Lời Tượng nói rằng: Hào Chín Hai chính tốt, vì giữa vậy.",
+    "truyện_của_Trình_Di": "Chính tốt là vì nó có đức trung."
   },
   {
-    "chunk_id": "QUE_DAI_TRANG_010",
-    "hexagram": "QUE_DAI_TRANG",
-    "que": null,
-    "content_type": "interpretation",
-    "notes": {
-      "1": "Chữ Đại tráng nghĩa lớn mạnh."
-    },
-    "lời_kinh": "九三:⼩⼈⽤壯,君⼦⽤罔,貞鷹.羝⽺觸藩,羸其⾓.",
-    "dịch_âm": "Cửu Tam: Tiểu nhân dụng tráng, quân tử dụng võng, trinh lệ, đê dương xúc phiên, doanh kỳ giốc.",
-    "dịch_nghĩa": "Hào Chín Ba: Kẻ tiểu nhân dùng mạnh, đấng quân tử dùng chẳng, chính nguy! Dê đực húc giậu, mắc thửa sừng.",
-    "truyện_của_Trình_Di": "Hào Chín Ba là chất cứng, đóng ngôi Dương mà ở thì mạnh, lại nhằm vào chót thể Kiền, tức là mạnh đến cùng tột. Cực mạnh như thế, ở kẻ tiểu nhân thì là dùng sự “mạnh” ở đấng quân tử thì dùng sự “chẳng”. Kẻ tiểu nhân chuộng về sức cho nên mới dùng sự mạnh tợn của họ; đấng quân tử chí ở cứng cỏi, vì vậy mới dùng sự “chẳng”. “Chẳng”,tức là “không”, ý cũng như nói “không coi vào đâu”. Vì nó rất cứng, không coi các việc vào đâu, mà không kiêng sợ gì cả. Những chữ quân tử tiểu nhân là lấy địa vị mà nói, cũng như câu “Đấng quân tử có dũng mà không có nghĩa là loạn”. Cứng mềm vừa phải, thì không gẫy không cong, đem mà dùng với thiên hạ, không có chỗ nào không nên; nếu cứng quá thì không có đức hòa thuận, hay mếch lòng mà không ai vào hùa với mình. Giữ mãi lối đó, tức là cách nguy. Các vật, không vật nào không dùng sự mạnh của nó: răng thì cắn, sừng thì hức, móng thì đá, dê mạnh ở đầu, dê đực là giống thích húc cho nến mới dùng làm Tượng. Loài dê thích húc phên giậu, vì những cái đó chắn ở trước nó. Nghĩa là nó đụng vào đâu thì ắt húc đấy, thích dùng sự mạnh như thế, tất phải mắc vướng cái sừng; cũng như người ta chuộng sự cứng mạnh, đụng đâu ắt dùng vào đấy, tất nhiên phải đến gẫy quị. Hào Ba mạnh lắm như thế mà không đến hung là sao? Đáp rằng: Như cách hảng vi của hào Ba, nếu đi thì đủ phải dung, đây mới nói sự nguy của nó, cho nên chưa kịp nói đến sự hung. Hễ có thể đến hung mà nó chưa tới, thì gọi là “nguy”.",
-    "bản_nghĩa_của_Chu_Hy": "Quá cứng không giữa, đương vào thì mạnh, đó tiểu nhân thì dùng sự mạnh, mà quân tử thì dùng sự “chẳng”. “Chẳng” tức là “không”, coi đó như không, đó là quá về dường dũng. Như thế, tuy chính cũng nguy. Dê đực là vật cứng mạnh thích húc, giậu là cái phên, mắc là bị khốn, lời Chiêm của sự trinh lệ. Tượng nó như thế.",
-    "lời_bàn_của_tiên_nho": null
+    "chunk_id": "QUE_DAI_TRANG_08_HAO_CUU_TAM",
+    "hexagram": "QUẺ ĐẠI TRÁNG",
+    "que": "Hào Cửu Tam",
+    "content_type": "Lời Kinh Hào",
+    "lời_kinh": "九三:小人用壯,君子用罔,貞厲.羝羊觸藩,羸其角.",
+    "dịch_âm": "Cửu Tam: Tiểu nhân dụng tráng, quân tử dụng võng, trinh lệ. Đê dương xúc phan, luy kỳ giác.",
+    "dịch_nghĩa": "Hào Cửu Tam: Tiểu nhân dùng mạnh, quân tử dùng không, chính nguy. Dê đực húc giậu, mệt cái sừng.",
+    "truyện_của_Trình_Di": "Hào Chín Ba Dương cứng không giữa, lại ở trên quẻ Kiền, là kẻ rất mạnh. Kẻ tiểu nhân mà mạnh, tất cậy sức mạnh của mình; đấng quân tử thì không thế, tuy có mạnh, cũng coi như không. Dùng sức mạnh là việc nguy, cho nên nói 'chính nguy'. Dê đực là giống hay húc, sừng nó tuy cứng, nhưng húc vào giậu, thì chỉ làm cho mệt sừng mà thôi. Đó là Tượng của kẻ cậy mạnh.",
+    "bản_nghĩa_của_Chu_Hy": "Hào này Dương cứng quá lắm, cho nên có Tượng và Chiêm như thế. 'Võng' là không, ý nói quân tử không dùng sức mạnh."
   },
   {
-    "chunk_id": "QUE_DAI_TRANG_011",
-    "hexagram": "QUE_DAI_TRANG",
-    "que": null,
-    "content_type": "interpretation",
-    "notes": {
-      "1": "Chữ Đại tráng nghĩa lớn mạnh."
-    },
-    "lời_kinh": "象⽈:⼩⼈⽤壯,君⼦⽤罔也.",
+    "chunk_id": "QUE_DAI_TRANG_09_TIEU_TUONG_CUU_TAM",
+    "hexagram": "QUẺ ĐẠI TRÁNG",
+    "que": "Hào Cửu Tam",
+    "content_type": "Tiểu Tượng",
+    "lời_kinh": "象曰:小人用壯,君子罔也.",
     "dịch_âm": "Tượng viết: Tiểu nhân dụng tráng, quân tử võng dã.",
-    "dịch_nghĩa": "Lời Tượng nói rằng: Kẻ tiểu nhân dùng mạnh, đấng quân tử chẳng vậy.",
-    "truyện_của_Trình_Di": "Ở kẻ tiểu nhân thì là dùng sức khỏe mạnh của họ, ở đấng quân tử thì là dùng “chẳng”, nghĩa là chí khí cứng mạnh, không coi các việc vào đâu; không kiêng sợ gì cả.",
-    "bản_nghĩa_của_Chu_Hy": "Kẻ tiểu nhân vì mạnh mà hỏng, đấng quân tứ vì “chẳng” mà khốn.",
-    "lời_bàn_của_tiên_nho": null
+    "dịch_nghĩa": "Lời Tượng nói rằng: Tiểu nhân dùng mạnh, quân tử không vậy.",
+    "truyện_của_Trình_Di": "Tiểu nhân thì dùng sức mạnh, quân tử thì không dùng."
   },
   {
-    "chunk_id": "QUE_DAI_TRANG_012",
-    "hexagram": "QUE_DAI_TRANG",
-    "que": null,
-    "content_type": "interpretation",
-    "notes": {
-      "1": "Chữ Đại tráng nghĩa lớn mạnh."
-    },
-    "lời_kinh": "九四:貞吉,悔亡,藩決不羸,壯于⼤輿之馥.",
-    "dịch_âm": "Cử Trinh cát, hối vong, phiên quyết bất doanh, tráng vụ đại dư chỉ phúc.",
-    "dịch_nghĩa": "Hào Chín Tư: Chính thì tốt, ăn năn mất, phên bựt chẳng mắc, mạnh ở vành trục xe lớn.",
-    "truyện_của_Trình_Di": "Hào Tư Dương cứng lớn thịnh, sự mạnh đã qua mực giữa, ấy là mạnh lắm. Nhưng nó ở ngôi Tư, tức là bất chính, nhằm khi đạo đấng quân tử đương lớn lên, không thể có sự bất chính, vì vậy, răn rằng: hễ chính thì tốt, mà sự ăn năn sẽ mất. Bởi vì nhằm khi Đạo đương lớn lên, hơi có sai lỗi thì hại đến thế hanh tiến, thế là có ăn năn. Nếu ở quẻ khác , hai lần cứng mà ở ngôi mềm, chưa hẳn không hay, tức như quẻ Đại quá vậy. Giậu là cái để ngăn cách, giậu phên bựt mở, thì không làm mắc sự mạnh của nó. Cái xe cao lớn, bánh trục khỏe mạnh, sự đi mà lợi có thể biết chắc, cho nên nói rằng: “Mạnh ở vành trục xe lớn”. Vành trục là chỗ cốt yếu củã bánh xe. Xe hỏng thường vì gãy cái vành trục, vành trục mạnh thì xe mạnh. Nói rằng “mạnh ở vành trục” nghĩa là mạnh về sự tiến vậy.",
-    "bản_nghĩa_của_Chu_Hy": "Bốn chữ “trình cát, hối vong” cũng như lời Chiêm của hào Chín Tư quẻ Hằng , Giậu bựt chẳng mắc, là nói tiếp theo hào trên. Bựt tức là mở, trước hào Ba có hào Tư là còn có giậu; trước hào Tư đến hai hào Âm, thì là giậu bựt. Mạnh ở vành trục xe lớn cùng là Tượng có thể tiến được. Là chất Dương, ở ngôi Âm, không đến cứng quá cho nên Tượng. Chiêm của nó như thế.",
-    "lời_bàn_của_tiên_nho": null
+    "chunk_id": "QUE_DAI_TRANG_10_HAO_CUU_TU",
+    "hexagram": "QUẺ ĐẠI TRÁNG",
+    "que": "Hào Cửu Tứ",
+    "content_type": "Lời Kinh Hào",
+    "lời_kinh": "九四:貞吉,悔亡.藩決不羸,壯于大輿之輹.",
+    "dịch_âm": "Cửu Tứ: Trinh cát, hối vong. Phan quyết bất luy, tráng vu đại dư chi phức.",
+    "dịch_nghĩa": "Hào Cửu Tứ: Chính tốt, ăn năn mất. Giậu bung chẳng mệt, mạnh ở trục xe lớn.",
+    "truyện_của_Trình_Di": "Hào Chín Tư ở ngôi Âm, đó là kẻ không mạnh. Không mạnh mà gặp lúc mạnh, ắt có ăn năn. Nhưng nó cứng mà không quá, lại ở trên ba hào Dương, đó là kẻ có thể giữ chính. Mạnh mà giữ chính thì tốt, mà ăn năn mất. 'Giậu bung chẳng mệt' là vì giậu đã bung, thì dê không phải húc nữa. Trục xe là vật rất quan trọng, nó mạnh thì cả xe đi được. Hào này ví như cái trục xe, có thể làm cho các hào Dương ở dưới tiến lên.",
+    "bản_nghĩa_của_Chu_Hy": "Hào này Dương cứng mà ở ngôi Âm, đáng lẽ có ăn năn. Nhưng nó là hào Dương thứ tư, sự mạnh đã thịnh, mà nó lại có thể giữ chính, cho nên tốt mà ăn năn mất. Vì vậy, giậu đã bung, không còn gì ngăn trở, mà sức mạnh của nó lại có chỗ dùng như cái trục xe lớn. Đó là Tượng và Chiêm của nó."
   },
   {
-    "chunk_id": "QUE_DAI_TRANG_013",
-    "hexagram": "QUE_DAI_TRANG",
-    "que": null,
-    "content_type": "interpretation",
-    "notes": {
-      "1": "Chữ Đại tráng nghĩa lớn mạnh."
-    },
-    "lời_kinh": "象⽈:藩決不赢, 尚斧也.",
-    "dịch_âm": "Tượng viết: Phiên quyết bất doanh, thượng vãng dã.",
-    "dịch_nghĩa": "Lời Tượng nói rằng: Giậu bựt chẳng mắc, còn đi vậy. ,",
-    "truyện_của_Trình_Di": "Dương cứng lớn lên, ắt đến cùng tột. Hào Tư duy Dương đã thịnh, nhưng sự đi của nó chưa thôi. Lấy chất Dương rất thịnh, dùng sự mạnh mà tiến lên, cho nên chẳng gì đương nổi, giậu phải bựt mở, không làm vướng mắc sức nó. “Còn đi”, tức là tiến lên không thôi.",
-    "bản_nghĩa_của_Chu_Hy": null,
-    "lời_bàn_của_tiên_nho": null
+    "chunk_id": "QUE_DAI_TRANG_11_TIEU_TUONG_CUU_TU",
+    "hexagram": "QUẺ ĐẠI TRÁNG",
+    "que": "Hào Cửu Tứ",
+    "content_type": "Tiểu Tượng",
+    "lời_kinh": "象曰:藩決不羸,尚行也.",
+    "dịch_âm": "Tượng viết: Phan quyết bất luy, thượng hành dã.",
+    "dịch_nghĩa": "Lời Tượng nói rằng: Giậu bung chẳng mệt, chuộng đi vậy.",
+    "truyện_của_Trình_Di": "Giậu đã bung, không còn gì mệt, đó là chuộng đi lên trên."
   },
   {
-    "chunk_id": "QUE_DAI_TRANG_014",
-    "hexagram": "QUE_DAI_TRANG",
-    "que": null,
-    "content_type": "interpretation",
-    "notes": {
-      "1": "Chữ Đại tráng nghĩa lớn mạnh."
-    },
-    "lời_kinh": "六五:喪⽺予易,無悔.",
-    "dịch_âm": "Lục Ngũ: Táng dương vu dị, vỏ hổi.",
-    "dịch_nghĩa": "Hào Sáu Năm: Mất dê ở sự dễ không ăn năm.",
-    "truyện_của_Trình_Di": "Dê là giống đi đàn mà thích húc, dùng để hình dung những hào Dương cùng tiên. Bốc hào Dương đương lớn mà tiến, hào Năm là chất Âm, ở trên, nếu lấy sức mà nén những hào kia, thì khó thắng được mà có sự ăn năn. Chỉ nên đối đãi bằng cách hòa dễ, thì các hào Dương không thể dùng sự cứng của nó thế là làm mất cái mạnh của nó bằng sự hòa dễ. Như thể thì không ăn năn. Hào Năm, nói và ngôi thì chính, nói về đức thì “giữa”, cho nên có thể dùng đạo hòa dễ làm cho các hào Dương dù mạnh cùng không dùng gì.",
-    "bản_nghĩa_của_Chu_Hy": "Thể quẻ này giống quẻ Đoái , có tượng con dê, tức là ngoài mềm mà trong cứng. Riêng hào Sáu Năm lấy chất mềm, ở ngôi giữa, không thể cầy húc, dẫu mất sự mạnh, nhưng cũng không phải ăn năn, cho nên Tượng nó như thế, mà lời Chiêm thì cùng như hào Chín Năm quẻ Hàm . Dị là dễ dàng, ý nói thình lình không biết nó mất. Chữ 易 có người cho là chữ 場 (trường) như chữ 場 (trường là bãi) trong tiếng 嫌場 (cương trường), cũng thông. Thiên Thực hóa chí trong Hán thư, chữ 場 (trường) viết là 易 (trường).",
-    "lời_bàn_của_tiên_nho": "Chu Hy nói rằng: Chữ 易 trong câu 喪 ⽺于易 đọc là “dị” không bằng đọc là “trường”, như chữ 場 (trường) trong tiếng 韁場 (cương trường). Sau đây lại có câu 喪⽺于易 cũng cùng nghĩa đó."
+    "chunk_id": "QUE_DAI_TRANG_12_HAO_LUC_NGU",
+    "hexagram": "QUẺ ĐẠI TRÁNG",
+    "que": "Hào Lục Ngũ",
+    "content_type": "Lời Kinh Hào",
+    "lời_kinh": "六五:喪羊于易,無悔.",
+    "dịch_âm": "Lục Ngũ: Táng dương vu dị, vô hối.",
+    "dịch_nghĩa": "Hào Lục Ngũ: Mất dê ở đất Dị, không ăn năn.",
+    "truyện_của_Trình_Di": "Hào Lục Ngũ mềm mà ở ngôi tôn, không thể chống với sự mạnh của các hào Dương ở dưới, cho nên có Tượng 'mất dê'. Đất Dị là đất dễ dàng, mất dê ở đất Dị là mất một cách dễ dàng. Mềm mà ở trên cứng, đó là điều đáng ăn năn. Nhưng hào này ở ngôi tôn, có đức trung, lại là lúc Dương đương thịnh, biết là không thể chống được, cho nên không ăn năn.",
+    "bản_nghĩa_của_Chu_Hy": "Hào này là Âm, ở ngôi Dương, không đáng ngôi. Dưới có bốn hào Dương đương mạnh, cho nên có Tượng 'mất dê'. 'Dị' là đất biên giới. Mềm mà ở ngôi tôn, có thể dứt khoát mà không quá câu nệ, cho nên không ăn năn."
   },
   {
-    "chunk_id": "QUE_DAI_TRANG_015",
-    "hexagram": "QUE_DAI_TRANG",
-    "que": null,
-    "content_type": "interpretation",
-    "notes": {
-      "1": "Chữ Đại tráng nghĩa lớn mạnh."
-    },
-    "lời_kinh": "象⽈:喪⽺于易,位不當也.",
-    "dịch_âm": "Tượng viết: Táng dương vu dị, vị bất đáng dã.",
-    "dịch_nghĩa": "Lời Tượng nói rằng: Mất dê ở sự dễ, ngôi không đáng vậy.",
-    "truyện_của_Trình_Di": "Sở dĩ phải dùng cách mềm mại hòa thuận, là vì hào này lấy chất Âm mềm ở ngôi tôn. Nếu là chất Dương cứng trung chính được ngôi tôn, thì ở dưới không có kẻ mạnh. Lấy hào ở ngôi Năm, là ngôi không đáng, cho nên mới đặt ra cái nghĩa “mất dê ở sự dễ”.",
-    "bản_nghĩa_của_Chu_Hy": null,
-    "lời_bàn_của_tiên_nho": null
+    "chunk_id": "QUE_DAI_TRANG_13_TIEU_TUONG_LUC_NGU",
+    "hexagram": "QUẺ ĐẠI TRÁNG",
+    "que": "Hào Lục Ngũ",
+    "content_type": "Tiểu Tượng",
+    "lời_kinh": "象曰:喪羊于易,位不當也.",
+    "dịch_âm": "Tượng viết: Táng dương vu dị, vị bất đương dã.",
+    "dịch_nghĩa": "Lời Tượng nói rằng: Mất dê ở đất Dị, ngôi chẳng đáng vậy.",
+    "truyện_của_Trình_Di": "Mất dê ở đất Dị, là vì ngôi nó không đáng. Mềm mà ở ngôi tôn, không đáng."
   },
   {
-    "chunk_id": "QUE_DAI_TRANG_016",
-    "hexagram": "QUE_DAI_TRANG",
-    "que": null,
-    "content_type": "interpretation",
-    "notes": {
-      "1": "Chữ Đại tráng nghĩa lớn mạnh."
-    },
-    "lời_kinh": "上六:羝⽺觸藩,不能退,不能逐,無攸利,難則吉.",
-    "dịch_âm": "Thượng lục: Dê dương xúc phiên, bất năng thoái, bất năng toại, vô du lợi, gian tắc cát.",
-    "dịch_nghĩa": "Hào Sáu Trên: Dê đực húc giậu, chẳng hay lui, chẳng hai toại, không thửa lợi, khó thì tốt.",
-    "truyện_của_Trình_Di": "Chữ “dê đực” chỉ lấy về nghĩa dùng mạnh, cho nên hào Âm cũng gọi tên ấy. Là chất Âm, ở chót thể Chấn, mà đương vào chỗ cùng tột của sự mạnh, đủ biết là quá, giống như dê đực húc giậu phên, tiến lên thì vướng mình, lùi lại thì hại sừng, tiến lui đều không được. Tài nó vốn là Âm mềm; cho nên không thắng được lòng riêng mình để tới điều nghĩa, thế là chẳng hay lui. Cái người Âm mềm, dù cho hết lòng dùng mạnh, cũng không thể giữ trọn sự mạnh, hễ bị bẻ thì phải rụt lại, thế là chẳng hay toại. Sự hành vi của nó như thế không đi đâu mà lợi. Chất Âm mềm, ở thời mạnh, không thể vững sự cầm giữ của mình, nếu gặp sự khó khăn, ắt là phải mất sức mạnh, mất sức mạnh thì là đúng với phận kẻ Âm mềm thế là khó nhọc thì được tốt.",
-    "bản_nghĩa_của_Chu_Hy": "Chót sự mạnh, cùng tột sự động, cho nên húc giậu mà không biết lui. Nhưng vì chất nó vốn mềm, cho nên lại không toại được sự tiến. Tượng nó như thế, đủ biết lời Chiêm ra sao. May mà nó không cứng, cho nên biết xử bằng cách khó nhọc, thì còn có thể đươc tốt.",
-    "lời_bàn_của_tiên_nho": null
+    "chunk_id": "QUE_DAI_TRANG_14_HAO_THUONG_LUC",
+    "hexagram": "QUẺ ĐẠI TRÁNG",
+    "que": "Hào Thượng Lục",
+    "content_type": "Lời Kinh Hào",
+    "lời_kinh": "上六:羝羊觸藩,不能退,不能遂,無攸利,艱則吉.",
+    "dịch_âm": "Thượng Lục: Đê dương xúc phan, bất năng thoái, bất năng toại, vô du lợi, gian tắc cát.",
+    "dịch_nghĩa": "Hào Sáu Trên: Dê đực húc giậu, chẳng lui được, chẳng tới được, không sự lợi, khó thì tốt.",
+    "truyện_của_Trình_Di": "Hào Sáu Trên ở cuối cuộc mạnh, mà là hào Âm, đó là kẻ không biết lượng sức. Dê đực hay húc, húc vào giậu, thì lui không được, tới cũng không xong. Dùng sức mạnh một cách càn bậy, thì không có gì lợi. Biết là khó mà dừng lại, thì tốt.",
+    "bản_nghĩa_của_Chu_Hy": "Ở cuối cuộc mạnh, mà không biết tự lượng, cho nên có Tượng và Chiêm như thế."
   },
   {
-    "chunk_id": "QUE_DAI_TRANG_017",
-    "hexagram": "QUE_DAI_TRANG",
-    "que": null,
-    "content_type": "interpretation",
-    "notes": {
-      "1": "Chữ Đại tráng nghĩa lớn mạnh."
-    },
-    "lời_kinh": "象⽈:不能逐,不能逐,不詳也,艱則吉;咎不⾧也.",
-    "dịch_âm": "Tượng viết: Bất năng thoái, bất năng toại, bất tường dã, gian tắc cát, cữu bất trường dã.",
-    "dịch_nghĩa": "Lời Tượng nói rằng: Chẳng hay lui, chẳng hay toại, là chẳng tường vậy; khó thì tốt, là lỗi chẳng dài vậy.",
-    "truyện_của_Trình_Di": "Ở không phải chỗ, cho nên không thể tiến lui, ấy là tự xử không được tinh tường cẩn thận. Khó thì tốt, nghĩa là chất mềm gặp sự khó nhọc, lại ở vào cuối cuộc mạnh, tự nó nên phải biến đổi, biến đổi thì hợp với phận, tội lỗi không thể lâu dài mới được tốt lành.",
-    "bản_nghĩa_của_Chu_Hy": null,
-    "lời_bàn_của_tiên_nho": null
+    "chunk_id": "QUE_DAI_TRANG_15_TIEU_TUONG_THUONG_LUC",
+    "hexagram": "QUẺ ĐẠI TRÁNG",
+    "que": "Hào Thượng Lục",
+    "content_type": "Tiểu Tượng",
+    "lời_kinh": "象曰:不能退,不能遂,不詳也.艱則吉,咎不長也.",
+    "dịch_âm": "Tượng viết: Bất năng thoái, bất năng toại, bất tường dã. Gian tắc cát, cữu bất trường dã.",
+    "dịch_nghĩa": "Lời Tượng nói rằng: Chẳng lui được, chẳng tới được, chẳng tường vậy. Khó thì tốt, lỗi chẳng dài vậy.",
+    "truyện_của_Trình_Di": "Chẳng lui được, chẳng tới được, đó là không xét kỹ. Khó mà dừng lại thì tốt, đó là lỗi không thể lâu dài."
   }
 ]
