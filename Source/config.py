@@ -21,6 +21,7 @@ EMBED_MODEL = "keepitreal/vietnamese-sbert"  # Better for Vietnamese retrieval
 CE_MODEL = "intfloat/multilingual-e5-base"   # Cross-encoder for reranking
 GEMINI_API_KEY = "AIzaSyAHYqXx9o3dk6oswVKhISFIOija6Be91Uc"
 GEMINI_MODEL = "gemini-2.0-flash-exp"
+# GEMINI_MODEL = "gemini-2.5-flash"
 
 # ═══════════════════════════════════════════════════════════════
 # CACHE & PERFORMANCE OPTIMIZATION
@@ -38,9 +39,9 @@ for env in ("TRANSFORMERS_CACHE", "HF_HOME", "HUGGINGFACE_HUB_CACHE", "SENTENCE_
 # ═══════════════════════════════════════════════════════════════
 
 # Optimized based on testing
-TOP_K_RETRIEVE = 15      # Reduced for better precision
-TOP_K_RERANK = 8         # Optimal for context window
-SIMILARITY_THRESHOLD = 0.25  # Lowered to avoid empty results
+TOP_K_RETRIEVE = 20      # Reduced for better precision
+TOP_K_RERANK = 10         # Optimal for context window
+SIMILARITY_THRESHOLD = 0.3  # Lowered to avoid empty results
 
 # Vietnamese stop words for better search
 STOP_WORDS = {

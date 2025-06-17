@@ -18,7 +18,7 @@ HEXAGRAM_MAP = {
     "QUE_MONG": ["mông", "que mông", "quẻ mông", "meng", "youthful folly"],
     "QUE_XU": ["nhu", "que nhu", "quẻ nhu", "xu", "waiting", "nourishment"],
     "QUE_TUNG": ["tụng", "que tụng", "quẻ tụng", "song", "conflict"],
-    "QUE_SU": ["sư", "que sư", "quẻ sư", "shi", "army", "troops"],
+    "QUE_SU": ["sư", "que sư", "quẻ sư", "shi", "army", "troops","quân đội, chiến tranh","quân nhân","chiến binh","military", "warfare","chiến sĩ"],
     "QUE_TI": ["tỷ", "que tỷ", "quẻ tỷ", "bi", "holding together"],
     "QUE_TIEU_CAO": ["tiểu súc", "que tiểu súc", "quẻ tiểu súc", "small taming"],
     "QUE_LY": ["lý", "que lý", "quẻ lý", "li", "treading"],
