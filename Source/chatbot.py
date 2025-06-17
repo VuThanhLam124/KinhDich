@@ -464,3 +464,64 @@ def answer(query: str, user_name: str = None) -> str:
     chatbot = EnhancedKinhDichChatbot()
     result = chatbot.answer_with_xai(query, user_name)
     return result["answer"]
+
+# chatbot.py - THÊM vào cuối file (trước class CitationTracker)
+
+# Global instance for orchestrator compatibility
+_global_chatbot_instance = None
+
+def get_global_chatbot():
+    """Get or create global chatbot instance"""
+    global _global_chatbot_instance
+    if _global_chatbot_instance is None:
+        _global_chatbot_instance = EnhancedKinhDichChatbot()
+    return _global_chatbot_instance
+
+def answer_with_agents(query: str, user_name: str = None, session_id: str = "default") -> Dict[str, Any]:
+    """
+    MISSING FUNCTION - Entry point với agents compatibility
+    Routes to enhanced XAI chatbot
+    """
+    try:
+        chatbot = get_global_chatbot()
+        
+        # Use existing answer_with_xai method
+        result = chatbot.answer_with_xai(query, user_name, session_id)
+        
+        # Ensure compatibility với app.py expectations
+        if "context" not in result:
+            result["context"] = {
+                "scope": "general",
+                "bypass_rerank": False,
+                "target_hexagram": result.get("detected_hexagram", ""),
+                "confidence": result.get("confidence", {}).get("overall", 0.0)
+            }
+        
+        # Add reasoning if missing
+        if "reasoning" not in result:
+            result["reasoning"] = {
+                "retrieval_strategy": "enhanced_xai_search", 
+                "total_documents": len(result.get("sources", [])),
+                "processing_method": "xai_enhanced"
+            }
+        
+        logger.info(f"answer_with_agents processed: {query[:50]}...")
+        return result
+        
+    except Exception as e:
+        logger.error(f"answer_with_agents error: {e}")
+        return {
+            "answer": f"Đã xảy ra lỗi: {str(e)}. Vui lòng thử lại.",
+            "query": query,
+            "context": {"scope": "error", "error": str(e)},
+            "sources": [],
+            "confidence": {"overall": 0.0, "level": "error"},
+            "reasoning": {"error": str(e)}
+        }
+
+# Keep existing compatibility functions...
+def answer(query: str, user_name: str = None) -> str:
+    """Compatibility function for basic usage"""
+    result = answer_with_agents(query, user_name)
+    return result["answer"]
+

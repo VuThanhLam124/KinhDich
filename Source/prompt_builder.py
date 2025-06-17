@@ -150,7 +150,7 @@ YÊU CẦU ĐẶC BIỆT:
 - Đưa ra lời khuyên thực tế và khả thi
 - Giải thích tại sao quẻ này phù hợp
 
-TRẢ LỜI (tối đa 400 từ):"""
+TRẢ LỜI (tối đa 750 từ):"""
     
     def _build_knowledge_prompt(self, query: str, context: str, citations: str, 
                               user_name: str = None) -> str:
@@ -176,7 +176,7 @@ YÊU CẦU ĐẶC BIỆT:
 - Đưa ra ví dụ minh họa cụ thể
 - Liên hệ với đời sống hiện đại
 
-TRẢ LỜI (tối đa 400 từ):"""
+TRẢ LỜI (tối đa 700 từ):"""
     
     def _detect_query_type(self, query: str) -> str:
         """Detect query type"""
