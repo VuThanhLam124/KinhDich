@@ -12,13 +12,13 @@ import re
 # Map 64 quẻ Kinh Dịch với các keywords phổ biến
 HEXAGRAM_MAP = {
     # Thượng Kinh (Quẻ 1-30)
-    "QUE_KIEN": ["kiên", "que kiên", "quẻ kiên", "qian", "creative", "heaven"],
+    "QUE_KIEN": ["kiền", "que kiền", "quẻ kiền", "qian", "creative", "heaven"],
     "QUE_KHON": ["khôn", "que khôn", "quẻ khôn", "kun", "receptive", "earth"],
     "QUE_TUAN": ["tun", "que tun", "quẻ tun", "zhun", "difficulty", "sprouting"],
     "QUE_MONG": ["mông", "que mông", "quẻ mông", "meng", "youthful folly"],
     "QUE_XU": ["nhu", "que nhu", "quẻ nhu", "xu", "waiting", "nourishment"],
     "QUE_TUNG": ["tụng", "que tụng", "quẻ tụng", "song", "conflict"],
-    "QUE_SU": ["sư", "que sư", "quẻ sư", "shi", "army", "troops","quân đội, chiến tranh","quân nhân","chiến binh","military", "warfare","chiến sĩ"],
+    "QUE_SU": ["sư", "que sư", "quẻ sư", "shi", "army", "troops","quân đội, chiến tranh","quân nhân","chiến binh","military", "warfare","chiến tranh"],
     "QUE_TI": ["tỷ", "que tỷ", "quẻ tỷ", "bi", "holding together"],
     "QUE_TIEU_CAO": ["tiểu súc", "que tiểu súc", "quẻ tiểu súc", "small taming"],
     "QUE_LY": ["lý", "que lý", "quẻ lý", "li", "treading"],
@@ -26,7 +26,7 @@ HEXAGRAM_MAP = {
     "QUE_PHI": ["phì", "que phì", "quẻ phì", "pi", "standstill"],
     "QUE_DONG_NHAN": ["đồng nhân", "que đồng nhân", "fellowship"],
     "QUE_DAI_HUU": ["đại hữu", "que đại hữu", "great possession"],
-    "QUE_KIEN_2": ["khiêm", "que khiêm", "quẻ khiêm", "qian", "modesty"],
+    "QUE_KIEN_2": ["khiêm", "que khiêm", "quẻ khiêm", "qian", "modesty", "humility"],
     "QUE_DU": ["dự", "que dự", "quẻ dự", "yu", "enthusiasm"],
     "QUE_TUI": ["tùy", "que tùy", "quẻ tùy", "sui", "following"],
     "QUE_CO": ["cỗ", "que cỗ", "quẻ cỗ", "gu", "work on decay"],

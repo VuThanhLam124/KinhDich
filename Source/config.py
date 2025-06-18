@@ -40,8 +40,8 @@ for env in ("TRANSFORMERS_CACHE", "HF_HOME", "HUGGINGFACE_HUB_CACHE", "SENTENCE_
 
 # Optimized based on testing
 TOP_K_RETRIEVE = 20      # Reduced for better precision
-TOP_K_RERANK = 10         # Optimal for context window
-SIMILARITY_THRESHOLD = 0.3  # Lowered to avoid empty results
+TOP_K_RERANK = 12         # Optimal for context window
+SIMILARITY_THRESHOLD = 0.25  # Lowered to avoid empty results
 
 # Vietnamese stop words for better search
 STOP_WORDS = {
