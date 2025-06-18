@@ -1,0 +1,16 @@
+version: '3.8'
+services:
+  web:
+    image: thanhlamdev/kinhdich:latest
+    build: .
+    ports:
+      - "80:7860"
+    env_file:
+      - .env
+    volumes:
+      - .:/app
+      - models_cache:/app/.cache
+    restart: unless-stopped
+
+volumes:
+  models_cache:

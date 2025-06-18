@@ -10,7 +10,7 @@ MONGO_URI = (
     "mongodb+srv://thanhlamdev:lamvthe180779@cluster0.jvlxnix.mongodb.net/"
     "?retryWrites=true&w=majority"
 )
-DB_NAME = "kinhdich_kb"
+DB_NAME = "kinhdich_db"
 COLLECTION = "chunks"
 
 CHUNKS_DATA_DIR = os.getenv(
