@@ -1,19 +1,4 @@
 # retrieval_agent.py
-"""Hybrid retrieval agent – fuzzy concept detection **plus cached Mongo results**.
-
-Highlights
-----------
-* **Inline concept mapping** (64 hexagrams) → đơn giản deploy.
-* **Fuzzy matching** với RapidFuzz (`partial_ratio ≥ 80`).
-* **TTLCache** (cachetools) cho:
-  * Hexagram lookup (`_HEX_CACHE`, 10 phút)
-  * Semantic vector search (`_SEM_CACHE`, 5 phút)
-  * Text search (`_TXT_CACHE`, 5 phút)
-  Nhờ đó giảm round‑trip tới Mongo khi truy vấn lặp.
-* Giữ nguyên fallback semantic → text → random.
-* Xử lý IndexOptionsConflict khi tạo text index.
-"""
-
 from __future__ import annotations
 
 import asyncio

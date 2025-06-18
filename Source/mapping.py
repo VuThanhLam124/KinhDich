@@ -336,31 +336,3 @@ def search_hexagram_by_keyword(keyword: str) -> List[str]:
                 break
     
     return matching_codes
-
-# ──────────────────────────────────────────────────────────────
-# Test Functions (for debugging)
-# ──────────────────────────────────────────────────────────────
-
-def test_mapping():
-    """Test các function mapping"""
-    test_cases = [
-        "Quẻ Cách có ý nghĩa gì?",
-        "Tôi gieo được ngửa-úp-úp-ngửa-ngửa-úp",
-        "revolution hexagram",
-        "heads-tails-tails-heads-heads-tails"
-    ]
-    
-    print("=== Test Hexagram Detection ===")
-    for text in test_cases:
-        detected = detect_hexagram(text)
-        is_divination = detect_divination_query(text)
-        coin_result = parse_coin_sequence(text)
-        
-        print(f"Text: {text}")
-        print(f"  Detected: {detected}")
-        print(f"  Divination: {is_divination}")
-        print(f"  Coin parse: {coin_result}")
-        print()
-
-if __name__ == "__main__":
-    test_mapping()
