@@ -7,8 +7,7 @@ import os
 # ═══════════════════════════════════════════════════════════════
 
 MONGO_URI = (
-    "mongodb+srv://thanhlamdev:lamvthe180779@cluster0.jvlxnix.mongodb.net/"
-    "?retryWrites=true&w=majority"
+    "mongodb+srv://thanhlamdev:Vuthanhlam124@cluster0.s9cdtme.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0"
 )
 DB_NAME = "kinhdich_db"
 COLLECTION = "chunks"
