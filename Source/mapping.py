@@ -1,4 +1,3 @@
-# mapping.py
 """
 Module mapping cho hệ thống Kinh Dịch - Phát hiện và chuyển đổi quẻ
 """
@@ -14,39 +13,39 @@ HEXAGRAM_MAP = {
     # Thượng Kinh (Quẻ 1-30)
     "QUE_KIEN": ["kiền", "que kiền", "quẻ kiền", "qian", "creative", "heaven"],
     "QUE_KHON": ["khôn", "que khôn", "quẻ khôn", "kun", "receptive", "earth"],
-    "QUE_TUAN": ["tun", "que tun", "quẻ tun", "zhun", "difficulty", "sprouting"],
+    "QUE_TRUAN": ["truân", "que truân", "quẻ truân", "zhun", "difficulty", "sprouting"],
     "QUE_MONG": ["mông", "que mông", "quẻ mông", "meng", "youthful folly"],
-    "QUE_XU": ["nhu", "que nhu", "quẻ nhu", "xu", "waiting", "nourishment"],
+    "QUE_NHU": ["nhu", "que nhu", "quẻ nhu", "xu", "waiting", "nourishment"],
     "QUE_TUNG": ["tụng", "que tụng", "quẻ tụng", "song", "conflict"],
-    "QUE_SU": ["sư", "que sư", "quẻ sư", "shi", "army", "troops","quân đội, chiến tranh","quân nhân","chiến binh","military", "warfare","chiến tranh"],
-    "QUE_TI": ["tỷ", "que tỷ", "quẻ tỷ", "bi", "holding together"],
-    "QUE_TIEU_CAO": ["tiểu súc", "que tiểu súc", "quẻ tiểu súc", "small taming"],
+    "QUE_SU": ["sư", "que sư", "quẻ sư", "shi", "army", "troops","quân đội", "chiến tranh","quân nhân","chiến binh","military", "warfare"],
+    "QUE_TY": ["tỷ", "que tỷ", "quẻ tỷ", "bi", "holding together"],
+    "QUE_TIEU_SUC": ["tiểu súc", "que tiểu súc", "quẻ tiểu súc", "small taming"],
     "QUE_LY": ["lý", "que lý", "quẻ lý", "li", "treading"],
     "QUE_THAI": ["thái", "que thái", "quẻ thái", "tai", "peace"],
-    "QUE_PHI": ["phì", "que phì", "quẻ phì", "pi", "standstill"],
+    "QUE_PHE_HAP": ["phế hạp", "que phế hạp", "pi", "standstill"],
     "QUE_DONG_NHAN": ["đồng nhân", "que đồng nhân", "fellowship"],
     "QUE_DAI_HUU": ["đại hữu", "que đại hữu", "great possession"],
-    "QUE_KIEN_2": ["khiêm", "que khiêm", "quẻ khiêm", "qian", "modesty", "humility"],
+    "QUE_KHIEM": ["khiêm", "que khiêm", "quẻ khiêm", "qian", "modesty", "humility"],
     "QUE_DU": ["dự", "que dự", "quẻ dự", "yu", "enthusiasm"],
-    "QUE_TUI": ["tùy", "que tùy", "quẻ tùy", "sui", "following"],
-    "QUE_CO": ["cỗ", "que cỗ", "quẻ cỗ", "gu", "work on decay"],
-    "QUE_LAN": ["lâm", "que lâm", "quẻ lâm", "lin", "approach"],
+    "QUE_TUY": ["tùy", "que tùy", "quẻ tùy", "sui", "following"],
+    "QUE_CO": ["cổ", "que cổ", "quẻ cổ", "gu", "work on decay"],
+    "QUE_LAM": ["lâm", "que lâm", "quẻ lâm", "lin", "approach"],
     "QUE_QUAN": ["quán", "que quán", "quẻ quán", "guan", "contemplation"],
-    "QUE_THICH_HAC": ["thích hạc", "que thích hạc", "biting through"],
-    "QUE_TI": ["bí", "que bí", "quẻ bí", "bi", "grace"],
+    "QUE_PHE_HAP": ["phế hạp", "que phế hạp", "biting through"],
+    "QUE_BI": ["bí", "que bí", "quẻ bí", "bi", "grace"],
     "QUE_BAC": ["bác", "que bác", "quẻ bác", "bo", "splitting apart"],
     "QUE_PHUC": ["phục", "que phục", "quẻ phục", "fu", "return"],
-    "QUE_VO_VONG": ["vô vong", "que vô vọng", "innocence"],
-    "QUE_DAI_CAO": ["đại súc", "que đại súc", "great taming"],
+    "QUE_VO_VONG": ["vô vọng", "que vô vọng", "innocence"],
+    "QUE_DAI_SUC": ["đại súc", "que đại súc", "great taming"],
     "QUE_DI": ["di", "que di", "quẻ di", "yi", "nourishment"],
-    "QUE_DAI_QUAT": ["đại quá", "que đại quá", "great exceeding"],
-    "QUE_CAM": ["khảm", "que khảm", "quẻ khảm", "kan", "water", "abyss"],
+    "QUE_DAI_QUA": ["đại quá", "que đại quá", "great exceeding"],
+    "QUE_TAP_KHAM": ["tập khảm", "que tập khảm", "quẻ tập khảm", "kan", "water", "abyss"],
     "QUE_LY_2": ["ly", "que ly", "quẻ ly", "li", "fire", "clinging"],
 
     # Hạ Kinh (Quẻ 31-64)
     "QUE_HAM": ["hàm", "que hàm", "quẻ hàm", "xian", "influence"],
     "QUE_HANG": ["hằng", "que hằng", "quẻ hằng", "heng", "duration"],
-    "QUE_DUN": ["độn", "que độn", "quẻ độn", "dun", "retreat"],
+    "QUE_DON": ["độn", "que độn", "quẻ độn", "dun", "retreat"],
     "QUE_DAI_TRANG": ["đại tráng", "que đại tráng", "great power"],
     "QUE_TAN": ["tấn", "que tấn", "quẻ tấn", "jin", "progress"],
     "QUE_MINH_DI": ["minh di", "que minh di", "darkening light"],
@@ -56,9 +55,9 @@ HEXAGRAM_MAP = {
     "QUE_GIAI": ["giải", "que giải", "quẻ giải", "jie", "deliverance"],
     "QUE_TON": ["tổn", "que tổn", "quẻ tổn", "sun", "decrease"],
     "QUE_ICH": ["ích", "que ích", "quẻ ích", "yi", "increase"],
-    "QUE_QUAI": ["quái", "que quái", "quẻ quái", "guai", "breakthrough"],
+    "QUE_QUAI": ["quải", "que quải", "quẻ quải", "guai", "breakthrough"],
     "QUE_CAU": ["cấu", "que cấu", "quẻ cấu", "gou", "coming to meet"],
-    "QUE_TOI": ["tụy", "que tụy", "quẻ tụy", "cui", "gathering"],
+    "QUE_TUY": ["tụy", "que tụy", "quẻ tụy", "cui", "gathering"],
     "QUE_THANG": ["thăng", "que thăng", "quẻ thăng", "sheng", "pushing upward"],
     "QUE_KHON_2": ["khốn", "que khốn", "quẻ khốn", "kun", "oppression"],
     "QUE_TINH": ["tỉnh", "que tỉnh", "quẻ tỉnh", "jing", "well"],
@@ -75,8 +74,8 @@ HEXAGRAM_MAP = {
     "QUE_HOAN": ["hoán", "que hoán", "quẻ hoán", "huan", "dispersion"],
     "QUE_TIET": ["tiết", "que tiết", "quẻ tiết", "jie", "limitation"],
     "QUE_TRUNG_PHU": ["trung phu", "que trung phu", "inner truth"],
-    "QUE_TIEU_QUAT": ["tiểu quá", "que tiểu quá", "small exceeding"],
-    "QUE_KI_TE": ["kí tế", "que kí tế", "after completion"],
+    "QUE_TIEU_QUA": ["tiểu quá", "que tiểu quá", "small exceeding"],
+    "QUE_KY_TE": ["ký tế", "que ký tế", "after completion"],
     "QUE_VI_TE": ["vị tế", "que vị tế", "before completion"]
 }
 
@@ -99,39 +98,39 @@ HEXAGRAM_LOOKUP = {
     # Thượng Kinh (Quẻ 1-30)
     ("☰", "☰"): (1, "QUE_KIEN"),          # 乾 Qian - The Creative
     ("☷", "☷"): (2, "QUE_KHON"),          # 坤 Kun - The Receptive
-    ("☵", "☳"): (3, "QUE_TUAN"),          # 屯 Zhun - Difficulty at the Beginning
+    ("☵", "☳"): (3, "QUE_TRUAN"),         # 屯 Zhun - Difficulty at the Beginning
     ("☶", "☵"): (4, "QUE_MONG"),          # 蒙 Meng - Youthful Folly
-    ("☵", "☰"): (5, "QUE_XU"),            # 需 Xu - Waiting
+    ("☵", "☰"): (5, "QUE_NHU"),           # 需 Xu - Waiting
     ("☰", "☵"): (6, "QUE_TUNG"),          # 訟 Song - Conflict
     ("☷", "☵"): (7, "QUE_SU"),            # 師 Shi - The Army
-    ("☵", "☷"): (8, "QUE_TI"),            # 比 Bi - Holding Together
-    ("☴", "☰"): (9, "QUE_TIEU_CAO"),      # 小畜 Xiao Xu - Small Taming
+    ("☵", "☷"): (8, "QUE_TY"),            # 比 Bi - Holding Together
+    ("☴", "☰"): (9, "QUE_TIEU_SUC"),      # 小畜 Xiao Xu - Small Taming
     ("☰", "☱"): (10, "QUE_LY"),           # 履 Lu - Treading
     ("☷", "☰"): (11, "QUE_THAI"),         # 泰 Tai - Peace
-    ("☰", "☷"): (12, "QUE_PHI"),          # 否 Pi - Standstill
+    ("☰", "☷"): (12, "QUE_PHE_HAP"),      # 否 Pi - Standstill
     ("☰", "☲"): (13, "QUE_DONG_NHAN"),    # 同人 Tong Ren - Fellowship
     ("☲", "☰"): (14, "QUE_DAI_HUU"),      # 大有 Da You - Great Possession
-    ("☷", "☶"): (15, "QUE_KIEN_2"),       # 謙 Qian - Modesty
+    ("☷", "☶"): (15, "QUE_KHIEM"),        # 謙 Qian - Modesty
     ("☳", "☷"): (16, "QUE_DU"),           # 豫 Yu - Enthusiasm
-    ("☱", "☳"): (17, "QUE_TUI"),          # 隨 Sui - Following
+    ("☱", "☳"): (17, "QUE_TUY"),          # 隨 Sui - Following
     ("☶", "☴"): (18, "QUE_CO"),           # 蠱 Gu - Work on the Decayed
-    ("☷", "☱"): (19, "QUE_LAN"),          # 臨 Lin - Approach
+    ("☷", "☱"): (19, "QUE_LAM"),          # 臨 Lin - Approach
     ("☴", "☷"): (20, "QUE_QUAN"),         # 觀 Guan - Contemplation
-    ("☲", "☳"): (21, "QUE_THICH_HAC"),    # 噬嗑 Shi He - Biting Through
-    ("☶", "☲"): (22, "QUE_TI"),           # 賁 Bi - Grace
+    ("☲", "☳"): (21, "QUE_PHE_HAP"),      # 噬嗑 Shi He - Biting Through
+    ("☶", "☲"): (22, "QUE_BI"),           # 賁 Bi - Grace
     ("☶", "☷"): (23, "QUE_BAC"),          # 剝 Bo - Splitting Apart
     ("☷", "☳"): (24, "QUE_PHUC"),         # 復 Fu - Return
     ("☰", "☳"): (25, "QUE_VO_VONG"),      # 無妄 Wu Wang - Innocence
-    ("☶", "☰"): (26, "QUE_DAI_CAO"),      # 大畜 Da Xu - Great Taming
+    ("☶", "☰"): (26, "QUE_DAI_SUC"),      # 大畜 Da Xu - Great Taming
     ("☶", "☳"): (27, "QUE_DI"),           # 頤 Yi - Nourishment
-    ("☱", "☴"): (28, "QUE_DAI_QUAT"),     # 大過 Da Guo - Great Exceeding
-    ("☵", "☵"): (29, "QUE_CAM"),          # 坎 Kan - The Abysmal Water
+    ("☱", "☴"): (28, "QUE_DAI_QUA"),      # 大過 Da Guo - Great Exceeding
+    ("☵", "☵"): (29, "QUE_TAP_KHAM"),     # 坎 Kan - The Abysmal Water
     ("☲", "☲"): (30, "QUE_LY_2"),         # 離 Li - The Clinging Fire
     
     # Hạ Kinh (Quẻ 31-64)
     ("☱", "☶"): (31, "QUE_HAM"),          # 咸 Xian - Influence
     ("☳", "☴"): (32, "QUE_HANG"),         # 恆 Heng - Duration
-    ("☰", "☶"): (33, "QUE_DUN"),          # 遯 Dun - Retreat
+    ("☰", "☶"): (33, "QUE_DON"),          # 遯 Dun - Retreat
     ("☳", "☰"): (34, "QUE_DAI_TRANG"),    # 大壯 Da Zhuang - Great Power
     ("☲", "☷"): (35, "QUE_TAN"),          # 晉 Jin - Progress
     ("☷", "☲"): (36, "QUE_MINH_DI"),      # 明夷 Ming Yi - Darkening of the Light
@@ -143,7 +142,7 @@ HEXAGRAM_LOOKUP = {
     ("☴", "☳"): (42, "QUE_ICH"),          # 益 Yi - Increase
     ("☱", "☰"): (43, "QUE_QUAI"),         # 夬 Guai - Breakthrough
     ("☰", "☴"): (44, "QUE_CAU"),          # 姤 Gou - Coming to Meet
-    ("☱", "☷"): (45, "QUE_TOI"),          # 萃 Cui - Gathering Together
+    ("☱", "☷"): (45, "QUE_TUY"),          # 萃 Cui - Gathering Together
     ("☷", "☴"): (46, "QUE_THANG"),        # 升 Sheng - Pushing Upward
     ("☱", "☵"): (47, "QUE_KHON_2"),       # 困 Kun - Oppression
     ("☵", "☴"): (48, "QUE_TINH"),         # 井 Jing - The Well
@@ -160,8 +159,8 @@ HEXAGRAM_LOOKUP = {
     ("☴", "☵"): (59, "QUE_HOAN"),         # 渙 Huan - Dispersion
     ("☵", "☱"): (60, "QUE_TIET"),         # 節 Jie - Limitation
     ("☴", "☱"): (61, "QUE_TRUNG_PHU"),    # 中孚 Zhong Fu - Inner Truth
-    ("☳", "☶"): (62, "QUE_TIEU_QUAT"),    # 小過 Xiao Guo - Small Exceeding
-    ("☲", "☵"): (63, "QUE_KI_TE"),        # 既濟 Ji Ji - After Completion
+    ("☳", "☶"): (62, "QUE_TIEU_QUA"),     # 小過 Xiao Guo - Small Exceeding
+    ("☲", "☵"): (63, "QUE_KY_TE"),        # 既濟 Ji Ji - After Completion
     ("☵", "☲"): (64, "QUE_VI_TE")         # 未濟 Wei Ji - Before Completion
 }
 

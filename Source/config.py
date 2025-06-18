@@ -13,6 +13,14 @@ MONGO_URI = (
 DB_NAME = "kinhdich_kb"
 COLLECTION = "chunks"
 
+CHUNKS_DATA_DIR = os.getenv(
+    "CHUNKS_DATA_DIR",
+    str(Path(__file__).resolve().parent.parent / "Kinh_Dich_Data")
+)
+
+# Kích thước batch khi insert MongoDB
+BATCH_SIZE = int(os.getenv("BATCH_SIZE", "100"))
+
 # ═══════════════════════════════════════════════════════════════
 # MODEL CONFIGURATION - Optimized for Vietnamese
 # ═══════════════════════════════════════════════════════════════

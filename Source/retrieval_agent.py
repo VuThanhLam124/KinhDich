@@ -1,4 +1,6 @@
-# retrieval_agent.py
+"""
+Module retrieval_agent.py - Agent truy xuất dữ liệu với fuzzy matching & cached Mongo queries
+"""
 from __future__ import annotations
 
 import asyncio
@@ -24,7 +26,6 @@ _HEX_CACHE: TTLCache = TTLCache(maxsize=1024, ttl=600)   # 10 min
 _SEM_CACHE: TTLCache = TTLCache(maxsize=512, ttl=300)    # 5 min
 _TXT_CACHE: TTLCache = TTLCache(maxsize=512, ttl=300)    # 5 min
 
-
 class RetrievalAgent(BaseAgent):
     """Retrieval agent with fuzzy matching & cached Mongo queries."""
 
@@ -36,7 +37,7 @@ class RetrievalAgent(BaseAgent):
         self.collection = self.client[DB_NAME][COLLECTION]
         self.embedder = SentenceTransformer(EMBED_MODEL, cache_folder=CACHE_DIR)
 
-        # Full concept mapping dict (⚠️ phải điền đủ 64 quẻ) -------------
+        # Full concept mapping dict
         self.concept_mapping: Dict[str, str] = {
             # ═══════════════════════════════════════════════════════════════
             # THƯỢNG KINH (Quẻ 1-30) - Upper Canon
@@ -54,11 +55,11 @@ class RetrievalAgent(BaseAgent):
             "tiếp_nhận": "QUE_KHON", "nuôi_dưỡng": "QUE_KHON", "hỗ_trợ": "QUE_KHON",
             "kiên_nhẫn": "QUE_KHON", "đất": "QUE_KHON",
             
-            # Quẻ 3: Tun - Initial Difficulty
-            "difficulty": "QUE_TUAN", "beginning": "QUE_TUAN", "struggle": "QUE_TUAN",
-            "perseverance": "QUE_TUAN", "sprouting": "QUE_TUAN",
-            "khó_khăn": "QUE_TUAN", "bắt_đầu": "QUE_TUAN", "đấu_tranh": "QUE_TUAN",
-            "kiên_trì": "QUE_TUAN", "mới_mầm": "QUE_TUAN",
+            # Quẻ 3: Truân - Initial Difficulty
+            "difficulty": "QUE_TRUAN", "beginning": "QUE_TRUAN", "struggle": "QUE_TRUAN",
+            "perseverance": "QUE_TRUAN", "sprouting": "QUE_TRUAN",
+            "khó_khăn": "QUE_TRUAN", "bắt_đầu": "QUE_TRUAN", "đấu_tranh": "QUE_TRUAN",
+            "kiên_trì": "QUE_TRUAN", "mới_mầm": "QUE_TRUAN",
             
             # Quẻ 4: Mông - Youthful Folly
             "learning": "QUE_MONG", "inexperience": "QUE_MONG", "teaching": "QUE_MONG",
@@ -67,10 +68,10 @@ class RetrievalAgent(BaseAgent):
             "hướng_dẫn": "QUE_MONG", "trẻ_trung": "QUE_MONG",
             
             # Quẻ 5: Nhu - Waiting
-            "waiting": "QUE_XU", "patience": "QUE_XU", "preparation": "QUE_XU",
-            "nourishment": "QUE_XU", "timing": "QUE_XU",
-            "chờ_đợi": "QUE_XU", "kiên_nhẫn": "QUE_XU", "chuẩn_bị": "QUE_XU",
-            "nuôi_dưỡng": "QUE_XU", "thời_cơ": "QUE_XU",
+            "waiting": "QUE_NHU", "patience": "QUE_NHU", "preparation": "QUE_NHU",
+            "nourishment": "QUE_NHU", "timing": "QUE_NHU",
+            "chờ_đợi": "QUE_NHU", "kiên_nhẫn": "QUE_NHU", "chuẩn_bị": "QUE_NHU",
+            "nuôi_dưỡng": "QUE_NHU", "thời_cơ": "QUE_NHU",
             
             # Quẻ 6: Tụng - Conflict
             "conflict": "QUE_TUNG", "dispute": "QUE_TUNG", "lawsuit": "QUE_TUNG",
@@ -82,21 +83,21 @@ class RetrievalAgent(BaseAgent):
             "army": "QUE_SU", "discipline": "QUE_SU", "organization": "QUE_SU",
             "leadership": "QUE_SU", "collective": "QUE_SU",
             "quân_đội": "QUE_SU", "kỷ_luật": "QUE_SU", "tổ_chức": "QUE_SU",
-            "lãnh_đạo": "QUE_SU", "tập_thể": "QUE_SU","quân nhân": "QUE_SU",
+            "lãnh_đạo": "QUE_SU", "tập_thể": "QUE_SU", "quân_nhân": "QUE_SU",
             "quân_lực": "QUE_SU", "chiến_tranh": "QUE_SU", "bộ_đội": "QUE_SU",
             "người_lính": "QUE_SU", "chiến_sĩ": "QUE_SU",
             
             # Quẻ 8: Tỷ - Holding Together
-            "unity": "QUE_TI", "cooperation": "QUE_TI", "alliance": "QUE_TI",
-            "support": "QUE_TI", "bonding": "QUE_TI",
-            "đoàn_kết": "QUE_TI", "hợp_tác": "QUE_TI", "liên_minh": "QUE_TI",
-            "ủng_hộ": "QUE_TI", "gắn_kết": "QUE_TI",
+            "unity": "QUE_TY", "cooperation": "QUE_TY", "alliance": "QUE_TY",
+            "support": "QUE_TY", "bonding": "QUE_TY",
+            "đoàn_kết": "QUE_TY", "hợp_tác": "QUE_TY", "liên_minh": "QUE_TY",
+            "ủng_hộ": "QUE_TY", "gắn_kết": "QUE_TY",
             
             # Quẻ 9: Tiểu Súc - Small Taming
-            "restraint": "QUE_TIEU_CAO", "accumulation": "QUE_TIEU_CAO", "patience": "QUE_TIEU_CAO",
-            "gathering": "QUE_TIEU_CAO", "preparation": "QUE_TIEU_CAO",
-            "kiềm_chế": "QUE_TIEU_CAO", "tích_lũy": "QUE_TIEU_CAO", "nhẫn_nại": "QUE_TIEU_CAO",
-            "thu_thập": "QUE_TIEU_CAO", "chuẩn_bị": "QUE_TIEU_CAO",
+            "restraint": "QUE_TIEU_SUC", "accumulation": "QUE_TIEU_SUC", "patience": "QUE_TIEU_SUC",
+            "gathering": "QUE_TIEU_SUC", "preparation": "QUE_TIEU_SUC",
+            "kiềm_chế": "QUE_TIEU_SUC", "tích_lũy": "QUE_TIEU_SUC", "nhẫn_nại": "QUE_TIEU_SUC",
+            "thu_thập": "QUE_TIEU_SUC", "chuẩn_bị": "QUE_TIEU_SUC",
             
             # Quẻ 10: Lý - Treading
             "conduct": "QUE_LY", "behavior": "QUE_LY", "etiquette": "QUE_LY",
@@ -104,18 +105,17 @@ class RetrievalAgent(BaseAgent):
             "ứng_xử": "QUE_LY", "hành_vi": "QUE_LY", "lễ_nghi": "QUE_LY",
             "cẩn_thận": "QUE_LY", "đúng_đắn": "QUE_LY", "chỉn_chu": "QUE_LY",
             
-            
             # Quẻ 11: Thái - Peace
             "peace": "QUE_THAI", "harmony": "QUE_THAI", "prosperity": "QUE_THAI",
             "balance": "QUE_THAI", "success": "QUE_THAI",
             "hòa_bình": "QUE_THAI", "hài_hòa": "QUE_THAI", "thịnh_vượng": "QUE_THAI",
             "cân_bằng": "QUE_THAI", "thành_công": "QUE_THAI",
             
-            # Quẻ 12: Phì - Standstill
-            "stagnation": "QUE_PHI", "obstruction": "QUE_PHI", "decline": "QUE_PHI",
-            "separation": "QUE_PHI", "blockage": "QUE_PHI",
-            "trì_trệ": "QUE_PHI", "cản_trở": "QUE_PHI", "suy_thoái": "QUE_PHI",
-            "chia_ly": "QUE_PHI", "tắc_nghẽn": "QUE_PHI",
+            # Quẻ 12: Phế Hạp - Standstill
+            "stagnation": "QUE_PHE_HAP", "obstruction": "QUE_PHE_HAP", "decline": "QUE_PHE_HAP",
+            "separation": "QUE_PHE_HAP", "blockage": "QUE_PHE_HAP",
+            "trì_trệ": "QUE_PHE_HAP", "cản_trở": "QUE_PHE_HAP", "suy_thoái": "QUE_PHE_HAP",
+            "chia_ly": "QUE_PHE_HAP", "tắc_nghẽn": "QUE_PHE_HAP",
             
             # Quẻ 13: Đồng Nhân - Fellowship
             "fellowship": "QUE_DONG_NHAN", "community": "QUE_DONG_NHAN", "cooperation": "QUE_DONG_NHAN",
@@ -130,10 +130,10 @@ class RetrievalAgent(BaseAgent):
             "thành_công": "QUE_DAI_HUU", "sở_hữu": "QUE_DAI_HUU",
             
             # Quẻ 15: Khiêm - Modesty
-            "modesty": "QUE_KIEN_2", "humility": "QUE_KIEN_2", "simplicity": "QUE_KIEN_2",
-            "balance": "QUE_KIEN_2", "virtue": "QUE_KIEN_2",
-            "khiêm_tốn": "QUE_KIEN_2", "khiêm_nhường": "QUE_KIEN_2", "giản_dị": "QUE_KIEN_2",
-            "cân_bằng": "QUE_KIEN_2", "đức_hạnh": "QUE_KIEN_2",
+            "modesty": "QUE_KHIEM", "humility": "QUE_KHIEM", "simplicity": "QUE_KHIEM",
+            "balance": "QUE_KHIEM", "virtue": "QUE_KHIEM",
+            "khiêm_tốn": "QUE_KHIEM", "khiêm_nhường": "QUE_KHIEM", "giản_dị": "QUE_KHIEM",
+            "cân_bằng": "QUE_KHIEM", "đức_hạnh": "QUE_KHIEM",
             
             # Quẻ 16: Dự - Enthusiasm
             "enthusiasm": "QUE_DU", "inspiration": "QUE_DU", "music": "QUE_DU",
@@ -142,22 +142,22 @@ class RetrievalAgent(BaseAgent):
             "kỷ_niệm": "QUE_DU", "vui_vẻ": "QUE_DU",
             
             # Quẻ 17: Tùy - Following
-            "following": "QUE_TUI", "adaptation": "QUE_TUI", "flexibility": "QUE_TUI",
-            "compliance": "QUE_TUI", "responsive": "QUE_TUI",
-            "theo_dõi": "QUE_TUI", "thích_nghi": "QUE_TUI", "linh_hoạt": "QUE_TUI",
-            "tuân_thủ": "QUE_TUI", "đáp_ứng": "QUE_TUI",
+            "following": "QUE_TUY", "adaptation": "QUE_TUY", "flexibility": "QUE_TUY",
+            "compliance": "QUE_TUY", "responsive": "QUE_TUY",
+            "theo_dõi": "QUE_TUY", "thích_nghi": "QUE_TUY", "linh_hoạt": "QUE_TUY",
+            "tuân_thủ": "QUE_TUY", "đáp_ứng": "QUE_TUY",
             
-            # Quẻ 18: Cỗ - Work on Decay
+            # Quẻ 18: Cổ - Work on Decay
             "decay": "QUE_CO", "corruption": "QUE_CO", "repair": "QUE_CO",
             "renovation": "QUE_CO", "healing": "QUE_CO",
             "hư_hỏng": "QUE_CO", "tham_nhũng": "QUE_CO", "sửa_chữa": "QUE_CO",
             "cải_tạo": "QUE_CO", "chữa_lành": "QUE_CO",
             
             # Quẻ 19: Lâm - Approach
-            "approach": "QUE_LAN", "leadership": "QUE_LAN", "supervision": "QUE_LAN",
-            "guidance": "QUE_LAN", "care": "QUE_LAN",
-            "tiếp_cận": "QUE_LAN", "lãnh_đạo": "QUE_LAN", "giám_sát": "QUE_LAN",
-            "hướng_dẫn": "QUE_LAN", "chăm_sóc": "QUE_LAN",
+            "approach": "QUE_LAM", "leadership": "QUE_LAM", "supervision": "QUE_LAM",
+            "guidance": "QUE_LAM", "care": "QUE_LAM",
+            "tiếp_cận": "QUE_LAM", "lãnh_đạo": "QUE_LAM", "giám_sát": "QUE_LAM",
+            "hướng_dẫn": "QUE_LAM", "chăm_sóc": "QUE_LAM",
             
             # Quẻ 20: Quán - Contemplation
             "contemplation": "QUE_QUAN", "observation": "QUE_QUAN", "meditation": "QUE_QUAN",
@@ -165,17 +165,17 @@ class RetrievalAgent(BaseAgent):
             "chiêm_ngưỡng": "QUE_QUAN", "quan_sát": "QUE_QUAN", "thiền_định": "QUE_QUAN",
             "sáng_suốt": "QUE_QUAN", "suy_ngẫm": "QUE_QUAN",
             
-            # Quẻ 21: Thích Hạc - Biting Through
-            "justice": "QUE_THICH_HAC", "punishment": "QUE_THICH_HAC", "decision": "QUE_THICH_HAC",
-            "breakthrough": "QUE_THICH_HAC", "resolution": "QUE_THICH_HAC",
-            "công_lý": "QUE_THICH_HAC", "trừng_phạt": "QUE_THICH_HAC", "quyết_định": "QUE_THICH_HAC",
-            "đột_phá": "QUE_THICH_HAC", "giải_quyết": "QUE_THICH_HAC",
+            # Quẻ 21: Phế Hạp - Biting Through
+            "justice": "QUE_PHE_HAP", "punishment": "QUE_PHE_HAP", "decision": "QUE_PHE_HAP",
+            "breakthrough": "QUE_PHE_HAP", "resolution": "QUE_PHE_HAP",
+            "công_lý": "QUE_PHE_HAP", "trừng_phạt": "QUE_PHE_HAP", "quyết_định": "QUE_PHE_HAP",
+            "đột_phá": "QUE_PHE_HAP", "giải_quyết": "QUE_PHE_HAP",
             
-            # Quẻ 22: Bí - Grace
-            "beauty": "QUE_BI", "grace": "QUE_BI", "elegance": "QUE_BI",
-            "refinement": "QUE_BI", "culture": "QUE_BI",
-            "vẻ_đẹp": "QUE_BI", "duyên_dáng": "QUE_BI", "tao_nhã": "QUE_BI",
-            "tinh_tế": "QUE_BI", "văn_hóa": "QUE_BI",
+            # Quẻ 22: Bí - Grace (Quẻ 22 là QUE_BI_2 theo danh sách)
+            "beauty": "QUE_BI_2", "grace": "QUE_BI_2", "elegance": "QUE_BI_2",
+            "refinement": "QUE_BI_2", "culture": "QUE_BI_2",
+            "vẻ_đẹp": "QUE_BI_2", "duyên_dáng": "QUE_BI_2", "tao_nhã": "QUE_BI_2",
+            "tinh_tế": "QUE_BI_2", "văn_hóa": "QUE_BI_2",
             
             # Quẻ 23: Bác - Splitting Apart
             "splitting": "QUE_BAC", "dissolution": "QUE_BAC", "decay": "QUE_BAC",
@@ -189,17 +189,17 @@ class RetrievalAgent(BaseAgent):
             "trở_về": "QUE_PHUC", "đổi_mới": "QUE_PHUC", "hồi_sinh": "QUE_PHUC",
             "tái_sinh": "QUE_PHUC", "phục_hồi": "QUE_PHUC",
             
-            # Quẻ 25: Vô Vong - Innocence
+            # Quẻ 25: Vô Vọng - Innocence
             "innocence": "QUE_VO_VONG", "spontaneity": "QUE_VO_VONG", "natural": "QUE_VO_VONG",
             "sincerity": "QUE_VO_VONG", "authenticity": "QUE_VO_VONG",
             "ngây_thơ": "QUE_VO_VONG", "tự_phát": "QUE_VO_VONG", "tự_nhiên": "QUE_VO_VONG",
             "chân_thành": "QUE_VO_VONG", "thật_thà": "QUE_VO_VONG",
             
             # Quẻ 26: Đại Súc - Great Taming
-            "restraint": "QUE_DAI_CAO", "accumulation": "QUE_DAI_CAO", "strength": "QUE_DAI_CAO",
-            "control": "QUE_DAI_CAO", "discipline": "QUE_DAI_CAO",
-            "kiềm_chế": "QUE_DAI_CAO", "tích_lũy": "QUE_DAI_CAO", "sức_mạnh": "QUE_DAI_CAO",
-            "kiểm_soát": "QUE_DAI_CAO", "kỷ_luật": "QUE_DAI_CAO",
+            "restraint": "QUE_DAI_SUC", "accumulation": "QUE_DAI_SUC", "strength": "QUE_DAI_SUC",
+            "control": "QUE_DAI_SUC", "discipline": "QUE_DAI_SUC",
+            "kiềm_chế": "QUE_DAI_SUC", "tích_lũy": "QUE_DAI_SUC", "sức_mạnh": "QUE_DAI_SUC",
+            "kiểm_soát": "QUE_DAI_SUC", "kỷ_luật": "QUE_DAI_SUC",
             
             # Quẻ 27: Di - Nourishment
             "nourishment": "QUE_DI", "nutrition": "QUE_DI", "feeding": "QUE_DI",
@@ -208,16 +208,16 @@ class RetrievalAgent(BaseAgent):
             "duy_trì": "QUE_DI", "chăm_sóc": "QUE_DI",
             
             # Quẻ 28: Đại Quá - Great Exceeding
-            "excess": "QUE_DAI_QUAT", "burden": "QUE_DAI_QUAT", "overload": "QUE_DAI_QUAT",
-            "critical": "QUE_DAI_QUAT", "extreme": "QUE_DAI_QUAT",
-            "thừa_thãi": "QUE_DAI_QUAT", "gánh_nặng": "QUE_DAI_QUAT", "quá_tải": "QUE_DAI_QUAT",
-            "quan_trọng": "QUE_DAI_QUAT", "cực_đoan": "QUE_DAI_QUAT",
+            "excess": "QUE_DAI_QUA", "burden": "QUE_DAI_QUA", "overload": "QUE_DAI_QUA",
+            "critical": "QUE_DAI_QUA", "extreme": "QUE_DAI_QUA",
+            "thừa_thãi": "QUE_DAI_QUA", "gánh_nặng": "QUE_DAI_QUA", "quá_tải": "QUE_DAI_QUA",
+            "quan_trọng": "QUE_DAI_QUA", "cực_đoan": "QUE_DAI_QUA",
             
-            # Quẻ 29: Khảm - Water/Abyss
-            "danger": "QUE_CAM", "difficulty": "QUE_CAM", "water": "QUE_CAM",
-            "flowing": "QUE_CAM", "persistence": "QUE_CAM",
-            "nguy_hiểm": "QUE_CAM", "khó_khăn": "QUE_CAM", "nước": "QUE_CAM",
-            "chảy": "QUE_CAM", "kiên_trì": "QUE_CAM",
+            # Quẻ 29: Tập Khảm - Water/Abyss
+            "danger": "QUE_TAP_KHAM", "difficulty": "QUE_TAP_KHAM", "water": "QUE_TAP_KHAM",
+            "flowing": "QUE_TAP_KHAM", "persistence": "QUE_TAP_KHAM",
+            "nguy_hiểm": "QUE_TAP_KHAM", "khó_khăn": "QUE_TAP_KHAM", "nước": "QUE_TAP_KHAM",
+            "chảy": "QUE_TAP_KHAM", "kiên_trì": "QUE_TAP_KHAM",
             
             # Quẻ 30: Ly - Fire/Clinging
             "fire": "QUE_LY_2", "brightness": "QUE_LY_2", "clarity": "QUE_LY_2",
@@ -242,10 +242,10 @@ class RetrievalAgent(BaseAgent):
             "nhất_quán": "QUE_HANG", "ổn_định": "QUE_HANG",
             
             # Quẻ 33: Độn - Retreat
-            "retreat": "QUE_DUN", "withdrawal": "QUE_DUN", "strategic": "QUE_DUN",
-            "yielding": "QUE_DUN", "timing": "QUE_DUN",
-            "rút_lui": "QUE_DUN", "rút_về": "QUE_DUN", "chiến_lược": "QUE_DUN",
-            "nhường_bộ": "QUE_DUN", "thời_điểm": "QUE_DUN",
+            "retreat": "QUE_DON", "withdrawal": "QUE_DON", "strategic": "QUE_DON",
+            "yielding": "QUE_DON", "timing": "QUE_DON",
+            "rút_lui": "QUE_DON", "rút_về": "QUE_DON", "chiến_lược": "QUE_DON",
+            "nhường_bộ": "QUE_DON", "thời_điểm": "QUE_DON",
             
             # Quẻ 34: Đại Tráng - Great Power
             "power": "QUE_DAI_TRANG", "strength": "QUE_DAI_TRANG", "vigor": "QUE_DAI_TRANG",
@@ -277,7 +277,7 @@ class RetrievalAgent(BaseAgent):
             "đối_lập": "QUE_KHUE", "xung_đột": "QUE_KHUE", "xa_cách": "QUE_KHUE",
             "chia_rẽ": "QUE_KHUE", "hiểu_lầm": "QUE_KHUE",
             
-            # Quẻ 39: Giản - Obstruction
+            # Quẻ 39: Giản - Obstruction (cần xác nhận tên chính xác)
             "obstruction": "QUE_GIAN", "difficulty": "QUE_GIAN", "impediment": "QUE_GIAN",
             "barrier": "QUE_GIAN", "challenge": "QUE_GIAN",
             "cản_trở": "QUE_GIAN", "khó_khăn": "QUE_GIAN", "trở_ngại": "QUE_GIAN",
@@ -301,7 +301,7 @@ class RetrievalAgent(BaseAgent):
             "tăng": "QUE_ICH", "lợi_ích": "QUE_ICH", "thuận_lợi": "QUE_ICH",
             "thu_được": "QUE_ICH", "tăng_trưởng": "QUE_ICH",
             
-            # Quẻ 43: Quái - Breakthrough
+            # Quẻ 43: Quải - Breakthrough
             "breakthrough": "QUE_QUAI", "resolution": "QUE_QUAI", "determination": "QUE_QUAI",
             "decisive": "QUE_QUAI", "elimination": "QUE_QUAI",
             "đột_phá": "QUE_QUAI", "giải_quyết": "QUE_QUAI", "quyết_tâm": "QUE_QUAI",
@@ -314,10 +314,10 @@ class RetrievalAgent(BaseAgent):
             "quyến_rũ": "QUE_CAU", "nhường_bộ": "QUE_CAU",
             
             # Quẻ 45: Tụy - Gathering
-            "gathering": "QUE_TOI", "collection": "QUE_TOI", "assembly": "QUE_TOI",
-            "unity": "QUE_TOI", "concentration": "QUE_TOI",
-            "tập_hợp": "QUE_TOI", "sưu_tầm": "QUE_TOI", "hội_họp": "QUE_TOI",
-            "đoàn_kết": "QUE_TOI", "tập_trung": "QUE_TOI",
+            "gathering": "QUE_TUY", "collection": "QUE_TUY", "assembly": "QUE_TUY",
+            "unity": "QUE_TUY", "concentration": "QUE_TUY",
+            "tập_hợp": "QUE_TUY", "sưu_tầm": "QUE_TUY", "hội_họp": "QUE_TUY",
+            "đoàn_kết": "QUE_TUY", "tập_trung": "QUE_TUY",
             
             # Quẻ 46: Thăng - Pushing Upward
             "ascending": "QUE_THANG", "growth": "QUE_THANG", "promotion": "QUE_THANG",
@@ -325,17 +325,14 @@ class RetrievalAgent(BaseAgent):
             "thăng_tiến": "QUE_THANG", "tăng_trưởng": "QUE_THANG", "thăng_chức": "QUE_THANG",
             "dâng_cao": "QUE_THANG", "phát_triển": "QUE_THANG",
             
-            # Quẻ 47: Khốn - Oppression
-            "oppression": "QUE_KHON_2", "exhaustion": "QUE_KHON_2", "hardship": "QUE_KHON_2",
-            "adversity": "QUE_KHON_2", "constraint": "QUE_KHON_2",
-            "áp_bức": "QUE_KHON_2", "kiệt_sức": "QUE_KHON_2", "gian_khổ": "QUE_KHON_2",
-            "nghịch_cảnh": "QUE_KHON_2", "ràng_buộc": "QUE_KHON_2",
+            # Quẻ 47: Khốn - Oppression (cần xác nhận có trong danh sách không)
+            # Tạm thời bỏ qua vì không có trong danh sách bạn cung cấp
             
             # Quẻ 48: Tỉnh - The Well
             "well": "QUE_TINH", "source": "QUE_TINH", "nourishment": "QUE_TINH",
             "community": "QUE_TINH", "renewal": "QUE_TINH",
             "giếng": "QUE_TINH", "nguồn": "QUE_TINH", "nuôi_dưỡng": "QUE_TINH",
-            "cộng_đồng": "QUE_TINH", "đổi_mới": "QUE_TINH","gốc": "QUE_TINH",
+            "cộng_đồng": "QUE_TINH", "đổi_mới": "QUE_TINH", "gốc": "QUE_TINH",
             "căn_bản": "QUE_TINH", "cội_nguồn": "QUE_TINH",
             
             # Quẻ 49: Cách - Revolution
@@ -349,17 +346,16 @@ class RetrievalAgent(BaseAgent):
             "cauldron": "QUE_DINH", "transformation": "QUE_DINH", "nourishment": "QUE_DINH",
             "culture": "QUE_DINH", "refinement": "QUE_DINH",
             "chung": "QUE_DINH", "biến_đổi": "QUE_DINH", "nuôi_dưỡng": "QUE_DINH",
-            "văn_hóa": "QUE_DINH", "tinh_tế": "QUE_DINH", ""
+            "văn_hóa": "QUE_DINH", "tinh_tế": "QUE_DINH",
             
             # Quẻ 51: Chấn - Thunder
             "thunder": "QUE_CHAN", "shock": "QUE_CHAN", "arousing": "QUE_CHAN",
             "movement": "QUE_CHAN", "awakening": "QUE_CHAN",
             "sấm": "QUE_CHAN", "chấn_động": "QUE_CHAN", "khởi_động": "QUE_CHAN",
             "chuyển_động": "QUE_CHAN", "thức_tỉnh": "QUE_CHAN", "đánh_thức": "QUE_CHAN",
-            "kích_thích": "QUE_CHAN"," khơi_gợi": "QUE_CHAN","động_lực": "QUE_CHAN",
-            "kích_hoạt": "QUE_CHAN", "kích_động": "QUE_CHAN"," khơi_dậy": "QUE_CHAN",
-            "kích_thích": "QUE_CHAN", "kích_động": "QUE_CHAN","bừng_tỉnh": "QUE_CHAN",
-            "sốc":"QUE_CHAN",
+            "kích_thích": "QUE_CHAN", "khơi_gợi": "QUE_CHAN", "động_lực": "QUE_CHAN",
+            "kích_hoạt": "QUE_CHAN", "kích_động": "QUE_CHAN", "khơi_dậy": "QUE_CHAN",
+            "bừng_tỉnh": "QUE_CHAN", "sốc": "QUE_CHAN",
             
             # Quẻ 52: Cấn - Mountain
             "mountain": "QUE_CAN", "stillness": "QUE_CAN", "meditation": "QUE_CAN",
@@ -379,7 +375,7 @@ class RetrievalAgent(BaseAgent):
             "hôn_nhân": "QUE_QUI_MUOI", "phụ_thuộc": "QUE_QUI_MUOI", "vị_trí": "QUE_QUI_MUOI",
             "đúng_mực": "QUE_QUI_MUOI", "quan_hệ": "QUE_QUI_MUOI", "cưới_hỏi": "QUE_QUI_MUOI",
             "lấy_chồng": "QUE_QUI_MUOI", "kết_hôn": "QUE_QUI_MUOI", "lấy_vợ": "QUE_QUI_MUOI",
-            "hôn_uớc": "QUE_QUI_MUOI", "hôn_lễ": "QUE_QUI_MUOI", "lễ_cưới": "QUE_QUI_MUOI",
+            "hôn_ước": "QUE_QUI_MUOI", "hôn_lễ": "QUE_QUI_MUOI", "lễ_cưới": "QUE_QUI_MUOI",
             "tình_yêu": "QUE_QUI_MUOI", "tình_cảm": "QUE_QUI_MUOI", "đám_cưới": "QUE_QUI_MUOI",
             
             # Quẻ 55: Phong - Abundance
@@ -400,7 +396,7 @@ class RetrievalAgent(BaseAgent):
             "nhẹ_nhàng": "QUE_TON_2", "thấm_sâu": "QUE_TON_2", "gió": "QUE_TON_2",
             "ảnh_hưởng": "QUE_TON_2", "dai_dẳng": "QUE_TON_2", "mềm_mại": "QUE_TON_2",
             "mềm_dẻo": "QUE_TON_2", "dịu_dàng": "QUE_TON_2",
-            "êm_ái": "QUE_TON_2", "êm_dịu": "QUE_TON_2", "mềm_mỏng": "QUE_TON_2","uyển_chuyển": "QUE_TON_2",
+            "êm_ái": "QUE_TON_2", "êm_dịu": "QUE_TON_2", "mềm_mỏng": "QUE_TON_2", "uyển_chuyển": "QUE_TON_2",
             
             # Quẻ 58: Đoài - Joyous Lake
             "joy": "QUE_DOAI", "pleasure": "QUE_DOAI", "lake": "QUE_DOAI",
@@ -427,23 +423,23 @@ class RetrievalAgent(BaseAgent):
             "nội_tâm": "QUE_TRUNG_PHU", "đức_tin": "QUE_TRUNG_PHU",
             
             # Quẻ 62: Tiểu Quá - Small Exceeding
-            "exceeding": "QUE_TIEU_QUAT", "small": "QUE_TIEU_QUAT", "detail": "QUE_TIEU_QUAT",
-            "caution": "QUE_TIEU_QUAT", "humility": "QUE_TIEU_QUAT",
-            "vượt_quá": "QUE_TIEU_QUAT", "nhỏ": "QUE_TIEU_QUAT", "chi_tiết": "QUE_TIEU_QUAT",
-            "thận_trọng": "QUE_TIEU_QUAT", "khiêm_tốn": "QUE_TIEU_QUAT",
+            "exceeding": "QUE_TIEU_QUA", "small": "QUE_TIEU_QUA", "detail": "QUE_TIEU_QUA",
+            "caution": "QUE_TIEU_QUA", "humility": "QUE_TIEU_QUA",
+            "vượt_quá": "QUE_TIEU_QUA", "nhỏ": "QUE_TIEU_QUA", "chi_tiết": "QUE_TIEU_QUA",
+            "thận_trọng": "QUE_TIEU_QUA", "khiêm_tốn": "QUE_TIEU_QUA",
             
             # Quẻ 63: Ký Tế - After Completion
-            "completion": "QUE_KI_TE", "accomplished": "QUE_KI_TE", "finished": "QUE_KI_TE",
-            "success": "QUE_KI_TE", "fulfillment": "QUE_KI_TE",
-            "hoàn_thành": "QUE_KI_TE", "đạt_được": "QUE_KI_TE", "kết_thúc": "QUE_KI_TE",
-            "thành_công": "QUE_KI_TE", "thỏa_mãn": "QUE_KI_TE",
+            "completion": "QUE_KY_TE", "accomplished": "QUE_KY_TE", "finished": "QUE_KY_TE",
+            "success": "QUE_KY_TE", "fulfillment": "QUE_KY_TE",
+            "hoàn_thành": "QUE_KY_TE", "đạt_được": "QUE_KY_TE", "kết_thúc": "QUE_KY_TE",
+            "thành_công": "QUE_KY_TE", "thỏa_mãn": "QUE_KY_TE",
             
             # Quẻ 64: Vị Tế - Before Completion
             "incomplete": "QUE_VI_TE", "unfinished": "QUE_VI_TE", "transition": "QUE_VI_TE",
             "potential": "QUE_VI_TE", "preparation": "QUE_VI_TE",
             "chưa_hoàn_thành": "QUE_VI_TE", "chưa_xong": "QUE_VI_TE", "chuyển_tiếp": "QUE_VI_TE",
             "tiềm_năng": "QUE_VI_TE", "chuẩn_bị": "QUE_VI_TE", "chưa_sẵn_sàng": "QUE_VI_TE",
-            "chưa_hoàn_tất": "QUE_VI_TE","chưa_hoàn_mĩ": "QUE_VI_TE","chưa_hoàn_hảo": "QUE_VI_TE",
+            "chưa_hoàn_tất": "QUE_VI_TE", "chưa_hoàn_mĩ": "QUE_VI_TE", "chưa_hoàn_hảo": "QUE_VI_TE",
             "chưa_hoàn_thiện": "QUE_VI_TE"
         }
         self._concept_keys = list(self.concept_mapping.keys())
