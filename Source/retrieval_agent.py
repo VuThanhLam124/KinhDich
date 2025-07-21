@@ -449,6 +449,19 @@ class RetrievalAgent(BaseAgent):
         query: str = state.expanded_query or state.query
         query_type = state.query_type
 
+        # 🎯 NEW: PRIORITY 1 - Hexagram từ casting result
+        if state.hexagram_info and state.hexagram_info.get("name"):
+            cast_hexagram_name = state.hexagram_info.get("name")
+            
+            # Map hexagram name to code
+            hexagram_code = self._map_hexagram_name_to_code(cast_hexagram_name)
+            if hexagram_code:
+                docs = await self._hexagram_docs(hexagram_code)
+                if docs:
+                    state.retrieved_docs = docs
+                    state.reasoning_chain.append(f"PRIORITY: Cast hexagram {cast_hexagram_name} → {hexagram_code}")
+                    return state
+
         # 1️⃣ concept (fuzzy+exact) --------------------------------------
         code = self._detect_hexagram_by_concept(query)
         if code:
@@ -484,6 +497,32 @@ class RetrievalAgent(BaseAgent):
         state.retrieved_docs = []
         state.reasoning_chain.append("no result")
         return state
+    
+    def _map_hexagram_name_to_code(self, hexagram_name: str) -> Optional[str]:
+        """Map hexagram name to database code"""
+        
+        # Direct mapping cho 64 quẻ
+        name_to_code_mapping = {
+            "Kiền": "QUE_KIEN", "Khôn": "QUE_KHON", "Truân": "QUE_TRUAN", "Mông": "QUE_MONG",
+            "Nhu": "QUE_NHU", "Tụng": "QUE_TUNG", "Sư": "QUE_SU", "Tỷ": "QUE_TY",
+            "Tiểu Súc": "QUE_TIEU_SUC", "Lý": "QUE_LY", "Thái": "QUE_THAI", "Phế Hạp": "QUE_PHE_HAP",
+            "Đồng Nhân": "QUE_DONG_NHAN", "Đại Hữu": "QUE_DAI_HUU", "Khiêm": "QUE_KHIEM", "Dự": "QUE_DU",
+            "Tùy": "QUE_TUY", "Cổ": "QUE_CO", "Lâm": "QUE_LAM", "Quán": "QUE_QUAN",
+            "Thích Hạc": "QUE_PHE_HAP", "Bí": "QUE_BI_2", "Bác": "QUE_BAC", "Phục": "QUE_PHUC",
+            "Vô Vọng": "QUE_VO_VONG", "Đại Súc": "QUE_DAI_SUC", "Di": "QUE_DI", "Đại Quá": "QUE_DAI_QUA",
+            "Khảm": "QUE_TAP_KHAM", "Ly": "QUE_LY_2", "Hàm": "QUE_HAM", "Hằng": "QUE_HANG",
+            "Độn": "QUE_DON", "Đại Tráng": "QUE_DAI_TRANG", "Tấn": "QUE_TAN", "Minh Di": "QUE_MINH_DI",
+            "Gia Nhân": "QUE_GIA_NHAN", "Khuê": "QUE_KHUE", "Giản": "QUE_GIAN", "Giải": "QUE_GIAI",
+            "Tổn": "QUE_TON", "Ích": "QUE_ICH", "Quái": "QUE_QUAI", "Cấu": "QUE_CAU",
+            "Tụy": "QUE_TUY", "Thăng": "QUE_THANG", "Khốn": "QUE_KHON", "Tỉnh": "QUE_TINH",
+            "Cách": "QUE_CACH", "Đỉnh": "QUE_DINH", "Chấn": "QUE_CHAN", "Cấn": "QUE_CAN",
+            "Tiệm": "QUE_TIEM", "Quy Muội": "QUE_QUI_MUOI", "Phong": "QUE_PHONG", "Lữ": "QUE_LU",
+            "Tốn": "QUE_TON_2", "Đoài": "QUE_DOAI", "Hoán": "QUE_HOAN", "Tiết": "QUE_TIET",
+            "Trung Phu": "QUE_TRUNG_PHU", "Tiểu Quá": "QUE_TIEU_QUA", "Ký Tế": "QUE_KY_TE",
+            "Vị Tế": "QUE_VI_TE"  # KEY: Quẻ có vấn đề
+        }
+        
+        return name_to_code_mapping.get(hexagram_name)
 
     # ------------------------------------------------------------------
     # Concept matching --------------------------------------------------

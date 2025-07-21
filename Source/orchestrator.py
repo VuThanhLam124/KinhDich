@@ -1,8 +1,7 @@
-# orchestrator.py - Điều phối tất cả agents
 import asyncio
 import time
 import logging
-from typing import Dict, Any, List
+from typing import Dict, Any, List, Optional
 from tqdm.asyncio import tqdm
 
 from base_agent import ProcessingState
@@ -33,11 +32,11 @@ class MultiAgentOrchestrator:
             "reasoning"
         ]
     
-    async def process_query(self, query: str, user_name: str = None) -> Dict[str, Any]:
+    async def process_query(self, query: str, user_name: str = None, hexagram_info: Optional[Dict] = None) -> Dict[str, Any]:
         """Process query through multi-agent pipeline"""
         
         # Initialize state
-        state = ProcessingState(query=query)
+        state = ProcessingState(query=query, hexagram_info=hexagram_info or {})
         start_time = time.time()
         
         # Execute workflow với progress tracking
@@ -124,7 +123,7 @@ class MultiAgentOrchestrator:
         }
 
 # Compatibility function
-async def answer_with_agents(query: str, user_name: str = None) -> Dict[str, Any]:
+async def answer_with_agents(query: str, user_name: str = None, hexagram_info: Optional[Dict] = None) -> Dict[str, Any]:
     """Main interface cho multi-agent system"""
     orchestrator = MultiAgentOrchestrator()
-    return await orchestrator.process_query(query, user_name)
+    return await orchestrator.process_query(query, user_name, hexagram_info)

@@ -1,4 +1,3 @@
-# reasoning_agent.py - Tích hợp Reranking + Response Generation
 import re
 import logging
 from typing import List, Dict, Any
@@ -121,9 +120,9 @@ class ReasoningAgent(BaseAgent):
             }
     
     def _build_enhanced_prompt(self, state: ProcessingState) -> str:
-        """Build prompt với context từ reranked documents"""
+        """Build prompt với hexagram context + specialized templates"""
         
-        # Build context từ documents
+        # Build context từ documents (giữ từ phiên bản mới)
         context_parts = []
         for i, doc in enumerate(state.reranked_docs[:8], 1):
             text = doc.get("text", "")
@@ -144,56 +143,80 @@ class ReasoningAgent(BaseAgent):
         
         context = "\n\n".join(context_parts)
         
-        # Build prompt based on query type
-        if state.query_type == "divination":
-            prompt_template = """Bạn là chuyên gia Kinh Dịch có kinh nghiệm sâu rộng.
+        # Build hexagram context (giữ từ phiên bản mới)
+        hexagram_context = ""
+        if state.hexagram_info and state.hexagram_info.get("name"):
+            info = state.hexagram_info
+            hexagram_context = f"""THÔNG TIN QUẺ ĐÃ GIEO:
+- Tên quẻ: {info.get('name', 'N/A')}
+- Ý nghĩa chung: {info.get('general_meaning', 'N/A')}
+- Hào động (nếu có): {info.get('changing_lines', 'Không có')}
+"""
+
+        # HYBRID: Specialized templates theo query type (từ phiên bản cũ) + hexagram context (từ phiên bản mới)
+        return self._get_specialized_prompt(state.query_type, hexagram_context, state.query, context)
+    
+    def _get_specialized_prompt(self, query_type: str, hexagram_context: str, query: str, context: str) -> str:
+        """Get specialized prompt template based on query type"""
+        
+        if query_type == "divination":
+            return f"""Bạn là chuyên gia Kinh Dịch có kinh nghiệm sâu rộng, chuyên về giải quẻ và tư vấn định hướng.
+
+{hexagram_context}
+
+⚠️  QUAN TRỌNG: Bạn PHẢI phân tích quẻ đã gieo ở trên, KHÔNG được nhầm lẫn với các quẻ khác trong tài liệu tham khảo.
 
 CÂU HỎI GIEO QUẺ: "{query}"
 
-TÀI LIỆU THAM KHẢO:
+TÀI LIỆU THAM KHẢO (chỉ để hỗ trợ):
 {context}
 
-YÊU CẦU:
-- Phân tích quẻ và tình huống cụ thể
-- Đưa ra lời khuyên thực tế và khả thi
-- Trích dẫn nguồn bằng [số]
-- Giải thích ý nghĩa sâu sắc
+YÊU CẦU NGHIÊM NGẶT:
+1. **FOCUS CHÍNH vào quẻ đã gieo**: Phân tích chính xác quẻ đã được gieo (xem phần "THÔNG TIN QUẺ ĐÃ GIEO")
+2. **KHÔNG nhầm lẫn quẻ**: Nếu tài liệu tham khảo đề cập đến quẻ khác, chỉ dùng để hỗ trợ thông tin, KHÔNG phân tích thay thế
+3. **Phân tích quẻ và tình huống**: Kết hợp ý nghĩa quẻ đã gieo với bối cảnh câu hỏi cụ thể
+4. **Lời khuyên thực tế**: Đưa ra định hướng rõ ràng, hành động cụ thể dựa trên quẻ đã gieo
+5. **Giải thích ý nghĩa sâu sắc**: Phân tích tầng lớp ẩn ý của quẻ đã gieo
+6. **Trích dẫn nguồn**: Sử dụng [số] để tham chiếu tài liệu (nếu phù hợp)
+7. **Giọng văn**: Trang trọng, thấu hiểu và đồng cảm
+
+🎯 LƯU Ý: Nếu tài liệu tham khảo nói về quẻ khác, hãy nói rõ "Tài liệu đề cập đến quẻ [tên], nhưng quẻ bạn đã gieo là [tên quẻ đã gieo]"
 
 TRẢ LỜI:"""
         
-        elif state.query_type == "philosophy":
-            prompt_template = """Bạn là học giả Kinh Dịch uyên thâm.
+        elif query_type == "philosophy":
+            context_section = f"\n\nTÀI LIỆU THAM KHẢO:\n{context}" if context.strip() else ""
+            hexagram_section = f"\n{hexagram_context}" if hexagram_context.strip() else ""
+            
+            return f"""Bạn là học giả Kinh Dịch uyên thâm, am hiểu sâu sắc về triết lý Đông phương.{hexagram_section}
 
-CÂU HỎI TRIẾT HỌC: "{query}"
-
-TÀI LIỆU THAM KHẢO:
-{context}
+CÂU HỎI TRIẾT HỌC: "{query}"{context_section}
 
 YÊU CẦU:
-- Giải thích triết lý một cách sâu sắc
-- Kết nối với tư tưởng Đông phương
-- Trích dẫn nguồn bằng [số]
-- Đưa ra ví dụ minh họa
+1. **Giải thích triết lý sâu sắc**: Phân tích bản chất và nguồn gốc tư tưởng
+2. **Kết nối tư tưởng Đông phương**: Liên hệ với các trường phái khác
+3. **Ví dụ minh họa**: Đưa ra các ví dụ cụ thể, dễ hiểu
+4. **Trích dẫn nguồn**: Sử dụng [số] để tham chiếu tài liệu
+5. **Giọng văn**: Học thuật, khách quan và sâu sắc
 
 TRẢ LỜI:"""
         
         else:  # General or hexagram-specific
-            prompt_template = """Bạn là chuyên gia Kinh Dịch.
+            context_section = f"\n\nTÀI LIỆU THAM KHẢO:\n{context}" if context.strip() else ""
+            hexagram_section = f"\n{hexagram_context}" if hexagram_context.strip() else ""
+            
+            return f"""Bạn là chuyên gia Kinh Dịch với kiến thức toàn diện về hệ thống 64 quẻ.{hexagram_section}
 
-CÂU HỎI: "{query}"
-
-TÀI LIỆU THAM KHẢO:
-{context}
+CÂU HỎI: "{query}"{context_section}
 
 YÊU CẦU:
-- Trả lời chính xác dựa trên tài liệu
-- Giải thích rõ ràng và dễ hiểu
-- Trích dẫn nguồn bằng [số]
-- Cung cấp thông tin hữu ích
+1. **Trả lời chính xác**: Dựa trên tài liệu và kiến thức Kinh Dịch
+2. **Giải thích rõ ràng**: Dễ hiểu, có cấu trúc logic
+3. **Thông tin hữu ích**: Cung cấp insight có giá trị thực tế
+4. **Trích dẫn nguồn**: Sử dụng [số] để tham chiếu tài liệu
+5. **Giọng văn**: Thân thiện, chuyên nghiệp và dễ tiếp cận
 
 TRẢ LỜI:"""
-        
-        return prompt_template.format(query=state.query, context=context)
     
     def _process_citations(self, answer: str, docs: List[Dict]) -> str:
         """Process citations - thay thế [n] bằng nội dung notes"""

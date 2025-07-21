@@ -1,4 +1,3 @@
-# base_agent.py - Base architecture cho multi-agent system
 import asyncio
 import logging
 import time
@@ -20,6 +19,7 @@ class AgentType(Enum):
 class ProcessingState:
     """Shared state giữa các agents"""
     query: str
+    hexagram_info: Optional[Dict] = field(default_factory=dict) # THÊM DÒNG NÀY
     query_type: str = ""
     entities: Dict[str, List[str]] = field(default_factory=dict)
     expanded_query: str = ""
