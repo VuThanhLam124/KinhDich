@@ -372,6 +372,6 @@ Dự án này được phân phối dưới **MIT License**. Xem file `LICENSE` 
 
 ### ⭐ Nếu dự án hữu ích, hãy star repository này!
 
-**Được phát triển với ❤️ by Vietnam AI Community**
+**Được phát triển với ❤️ by NHỮNG NGƯỜI AE THIỆN LÀNH**
 
 </div>
