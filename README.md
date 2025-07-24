@@ -28,7 +28,7 @@ Hệ thống AI chatbot thông minh để tra cứu, tư vấn và gieo quẻ Ki
 - **Agent Monitoring**: Giám sát hiệu suất từng agent
 
 ### ⚡ **Công Nghệ Tiên Tiến**
-- **Vector Search**: FAISS + Sentence Transformers
+- **Vector Search**: Mongo Atlas Search
 - **Hexagram Casting**: 4 phương thức gieo quẻ khác nhau
 - **Context-Aware**: Kết hợp quẻ và tình huống cá nhân
 - **Docker Ready**: Triển khai dễ dàng với Docker
@@ -127,13 +127,12 @@ KinhDich/
 │   ├── base_agent.py             # 🤖 Base Agent Class
 │   └── config.py                 # ⚙️ Configuration
 ├── 📚 Kinh_Dich_Data/            # Dữ liệu Kinh Dịch
-│   ├── CHU_DICH_HA_KINH/         # 64 quẻ Hạ Kinh
-│   ├── CHU_DICH_THUONG_KINH/     # 64 quẻ Thượng Kinh  
+│   ├── CHU_DICH_HA_KINH/         # quẻ Hạ Kinh
+│   ├── CHU_DICH_THUONG_KINH/     # quẻ Thượng Kinh  
 │   ├── DICH_THUYET_CUONG_LINH/   # Dịch Thuyết Cương Lĩnh
 │   ├── DO_THUYET_CUA_CHU_HY/     # Đồ Thuyết của Chu Hy
 │   ├── NHUNG_DIEU_NEN_BIET/      # Những Điều Nên Biết
 │   └── TUA_CUA_TRINH_DI/         # Tựa của Trình Dĩ
-├── 🗂️ faiss_index/               # FAISS Vector Database
 ├── 🔧 require_json/              # JSON Configuration Files
 ├── 🐳 docker-compose.yml         # Docker Configuration
 └── 📋 requirements.txt           # Python Dependencies
@@ -167,10 +166,9 @@ graph LR
 
 #### 📊 Vector Search Engine
 ```python
-# FAISS + Sentence Transformers
-- Model: all-MiniLM-L6-v2
-- Dimensions: 384
-- Search: Semantic similarity
+- Model:
+- Dimensions: 768
+- Search: Similarity
 - Reranking: Context-aware
 ```
 
