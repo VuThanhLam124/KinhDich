@@ -178,10 +178,10 @@ graph LR
 
 ### 🌐 Environment Variables
 ```bash
+Ở đây các bạn có thể tự config, sử dụng API và các model của các bạn.
 # Source/config.py
 GEMINI_API_KEY="your_gemini_api_key"
 VECTOR_MODEL="sentence-transformers/all-MiniLM-L6-v2"
-FAISS_INDEX_PATH="faiss_index/"
 MAX_RETRIEVAL_DOCS=10
 CONFIDENCE_THRESHOLD=0.7
 ```
