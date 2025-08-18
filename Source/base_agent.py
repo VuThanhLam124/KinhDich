@@ -52,7 +52,7 @@ class BaseAgent(ABC):
         start_time = time.time()
         
         try:
-            logger.info(f"🤖 {self.name} processing...")
+            logger.info(f"{self.name} processing...")
             result = await self.process(state)
             
             # Update performance stats
@@ -60,13 +60,13 @@ class BaseAgent(ABC):
             state.processing_time[self.name] = processing_time
             self._update_performance_stats(processing_time, True)
             
-            logger.info(f"✅ {self.name} completed in {processing_time:.3f}s")
+            logger.info(f"{self.name} completed in {processing_time:.3f}s")
             return result
             
         except Exception as e:
             processing_time = time.time() - start_time
             self._update_performance_stats(processing_time, False)
-            logger.error(f"❌ {self.name} failed: {e}")
+            logger.error(f"{self.name} failed: {e}")
             raise
     
     def _update_performance_stats(self, processing_time: float, success: bool):

@@ -28,7 +28,6 @@ EMBED_MODEL = "keepitreal/vietnamese-sbert"  # Better for Vietnamese retrieval
 CE_MODEL = "intfloat/multilingual-e5-base"   # Cross-encoder for reranking
 GEMINI_API_KEY = "AIzaSyAHYqXx9o3dk6oswVKhISFIOija6Be91Uc"
 GEMINI_MODEL = "gemini-2.0-flash-exp"
-# GEMINI_MODEL = "gemini-2.5-flash"
 
 # ═══════════════════════════════════════════════════════════════
 # CACHE & PERFORMANCE OPTIMIZATION
