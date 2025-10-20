@@ -2,26 +2,53 @@
 """
 Script kiểm tra và thiết lập môi trường cho Chatbot Kinh Dịch
 """
-import os
-import sys
 from pathlib import Path
 
 def check_config():
     """Kiểm tra file config"""
     try:
-        from config import MONGO_URI, DB_NAME, EMBED_MODEL, GEMINI_API_KEY
+        from config import (
+            DB_NAME,
+            EMBED_MODEL,
+            LLM_PROVIDER,
+            GEMINI_API_KEY,
+            GEMINI_MODEL,
+            OPENAI_API_KEY,
+            OPENAI_MODEL,
+            LOCAL_MODEL_PATH,
+        )
         print("Config file loaded successfully")
         
-        # Kiểm tra API key
-        if not GEMINI_API_KEY or GEMINI_API_KEY == "your_api_key_here":
-            print("GEMINI_API_KEY chưa được cấu hình")
-            return False
-            
-        print("="*40)    
+        print("="*40)
         print(f"Database: {DB_NAME}")
         print(f"Model: {EMBED_MODEL}")
+        print(f"LLM Provider: {LLM_PROVIDER}")
+
+        provider_ok = True
+        if LLM_PROVIDER == "gemini":
+            if not GEMINI_API_KEY:
+                print("GEMINI_API_KEY chưa được cấu hình")
+                provider_ok = False
+            else:
+                print(f"Gemini model: {GEMINI_MODEL}")
+        elif LLM_PROVIDER == "openai":
+            if not OPENAI_API_KEY:
+                print("OPENAI_API_KEY chưa được cấu hình")
+                provider_ok = False
+            else:
+                print(f"OpenAI model: {OPENAI_MODEL}")
+        elif LLM_PROVIDER == "local":
+            if not LOCAL_MODEL_PATH:
+                print("LOCAL_MODEL_PATH chưa được cấu hình")
+                provider_ok = False
+            else:
+                print(f"Local model path: {LOCAL_MODEL_PATH}")
+        else:
+            print(f"Provider '{LLM_PROVIDER}' không được hỗ trợ")
+            provider_ok = False
+
         print("="*40)
-        return True
+        return provider_ok
         
     except ImportError as e:
         print(f"Config import failed: {e}")

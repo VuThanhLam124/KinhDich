@@ -6,6 +6,7 @@ import json
 import logging
 from typing import Dict, List, Optional
 from base_agent import BaseAgent, AgentType, ProcessingState
+from config import LLM_PROVIDER, GEMINI_API_KEY, GEMINI_MODEL
 
 try:
     import google.generativeai as genai
@@ -18,6 +19,8 @@ class LinguisticsAgent(BaseAgent):
     def __init__(self, config_path: str = "config.json"):
         super().__init__("LinguisticsAgent", AgentType.LINGUISTICS)
         
+        self.provider = LLM_PROVIDER
+
         # FIXED: Better config loading
         self.config = self._load_config_robust(config_path)
         self._initialize_gemini_client_robust()
@@ -71,17 +74,23 @@ class LinguisticsAgent(BaseAgent):
         if not config.get("GEMINI_API_KEY"):
             config["GEMINI_API_KEY"] = os.getenv("GEMINI_API_KEY", "")
         if not config.get("GEMINI_MODEL"):
-            config["GEMINI_MODEL"] = os.getenv("GEMINI_MODEL", "gemini-2.0-flash-exp")
+            config["GEMINI_MODEL"] = os.getenv("GEMINI_MODEL", "")
         
-        # Try 3: Hardcoded fallback (for testing)
-        if not config.get("GEMINI_API_KEY"):
-            config["GEMINI_API_KEY"] = "AIzaSyAHYqXx9o3dk6oswVKhISFIOija6Be91Uc"  # From memory
+        # Try 3: Global config fallback
+        if not config.get("GEMINI_API_KEY") and GEMINI_API_KEY:
+            config["GEMINI_API_KEY"] = GEMINI_API_KEY
+        if not config.get("GEMINI_MODEL") and GEMINI_MODEL:
+            config["GEMINI_MODEL"] = GEMINI_MODEL
         
         return config
 
     def _initialize_gemini_client_robust(self):
         """FIXED: Robust Gemini initialization"""
         self.gemini_client = None
+
+        if self.provider != "gemini":
+            logging.info("LLM_PROVIDER=%s, bỏ qua cấu hình Gemini cho LinguisticsAgent.", self.provider)
+            return
         
         if not GEMINI_AVAILABLE:
             logging.warning("Gemini library not available")
@@ -115,10 +124,16 @@ class LinguisticsAgent(BaseAgent):
         expanded_query = await self._complete_expansion(query, hexagrams, wsd_results)
         
         # Update state
+        if self.provider == "gemini":
+            provider_status = "configured" if self.gemini_client else "not_configured"
+        else:
+            provider_status = "not_applicable"
+
         state.entities = {
             "hexagrams": hexagrams,
             "wsd_results": wsd_results,
-            "gemini_status": "configured" if self.gemini_client else "not_configured"
+            "llm_provider": self.provider,
+            "gemini_status": provider_status
         }
         state.expanded_query = expanded_query
         state.reasoning_chain.append(
@@ -337,13 +352,15 @@ Trả lời JSON:
 
     def get_comprehensive_status(self) -> Dict:
         """Enhanced status reporting"""
+        gemini_configured = self.provider == "gemini" and self.gemini_client is not None
         return {
             "total_hexagrams": len(self.hexagrams_exact),
             "hexagram_coverage": "complete_64_hexagrams_exact",
-            "gemini_available": GEMINI_AVAILABLE,
-            "gemini_configured": self.gemini_client is not None,
-            "api_key_status": "present" if self.config.get("GEMINI_API_KEY") else "missing",
-            "model": self.config.get("GEMINI_MODEL", "none"),
+            "llm_provider": self.provider,
+            "gemini_available": GEMINI_AVAILABLE if self.provider == "gemini" else False,
+            "gemini_configured": gemini_configured,
+            "api_key_status": "present" if gemini_configured or (self.provider == "gemini" and self.config.get("GEMINI_API_KEY")) else "not_used",
+            "model": self.config.get("GEMINI_MODEL", "none") if self.provider == "gemini" else "N/A",
             "enhanced_features": ["precise_ner", "context_validation", "comprehensive_wsd", "complete_expansion"],
             "concept_mappings": len(self.complete_concept_map)
         }

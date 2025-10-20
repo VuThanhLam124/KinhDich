@@ -21,13 +21,42 @@ CHUNKS_DATA_DIR = os.getenv(
 BATCH_SIZE = int(os.getenv("BATCH_SIZE", "100"))
 
 # ═══════════════════════════════════════════════════════════════
-# MODEL CONFIGURATION - Optimized for Vietnamese
+# EMBEDDING / RERANK MODELS
 # ═══════════════════════════════════════════════════════════════
 
-EMBED_MODEL = "keepitreal/vietnamese-sbert"  # Better for Vietnamese retrieval
-CE_MODEL = "intfloat/multilingual-e5-base"   # Cross-encoder for reranking
-GEMINI_API_KEY = "AIzaSyAHYqXx9o3dk6oswVKhISFIOija6Be91Uc"
-GEMINI_MODEL = "gemini-2.0-flash-exp"
+EMBED_MODEL = os.getenv("EMBED_MODEL", "keepitreal/vietnamese-sbert")
+CE_MODEL = os.getenv("CE_MODEL", "intfloat/multilingual-e5-base")
+
+# ═══════════════════════════════════════════════════════════════
+# LLM PROVIDER CONFIGURATION
+# ═══════════════════════════════════════════════════════════════
+
+SUPPORTED_LLM_PROVIDERS = {"gemini", "openai", "local"}
+LLM_PROVIDER = os.getenv("LLM_PROVIDER", "gemini").strip().lower()
+if LLM_PROVIDER not in SUPPORTED_LLM_PROVIDERS:
+    LLM_PROVIDER = "gemini"
+
+# Shared generation defaults
+LLM_TEMPERATURE = float(os.getenv("LLM_TEMPERATURE", "0.7"))
+LLM_TOP_P = float(os.getenv("LLM_TOP_P", "0.8"))
+LLM_TOP_K = int(os.getenv("LLM_TOP_K", "40"))
+LLM_MAX_OUTPUT_TOKENS = int(os.getenv("LLM_MAX_OUTPUT_TOKENS", "1000"))
+
+# Gemini configuration
+_DEFAULT_GEMINI_KEY = "AIzaSyAHYqXx9o3dk6oswVKhISFIOija6Be91Uc"
+GEMINI_API_KEY = os.getenv("GEMINI_API_KEY", _DEFAULT_GEMINI_KEY)
+GEMINI_MODEL = os.getenv("GEMINI_MODEL", "gemini-2.0-flash-exp")
+
+# OpenAI configuration
+OPENAI_API_KEY = os.getenv("OPENAI_API_KEY", "")
+OPENAI_MODEL = os.getenv("OPENAI_MODEL", "gpt-4o-mini")
+OPENAI_API_BASE = os.getenv("OPENAI_API_BASE", "")
+
+# Local model configuration
+LOCAL_MODEL_PATH = os.getenv("LOCAL_MODEL_PATH", "")
+LOCAL_MODEL_TYPE = os.getenv("LOCAL_MODEL_TYPE", "auto")
+LOCAL_DEVICE = os.getenv("LOCAL_DEVICE", "auto")
+LOCAL_MAX_NEW_TOKENS = int(os.getenv("LOCAL_MAX_NEW_TOKENS", "512"))
 
 # ═══════════════════════════════════════════════════════════════
 # CACHE & PERFORMANCE OPTIMIZATION
