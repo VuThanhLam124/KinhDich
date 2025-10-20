@@ -9,8 +9,8 @@ import os
 MONGO_URI = (
     "mongodb+srv://thanhlamdev:Vuthanhlam124@cluster0.s9cdtme.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0"
 )
-DB_NAME = "kinhdich_db"
-COLLECTION = "chunks"
+DB_NAME = "kinhdich_enhanced_db"
+COLLECTION = "enhanced_chunks"
 
 CHUNKS_DATA_DIR = os.getenv(
     "CHUNKS_DATA_DIR",
